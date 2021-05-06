@@ -4,14 +4,16 @@
 
 Igra uloga Dungeons & Dragons govori o pripovedanju u svetovima mačeva i čaranja. Deli elemente sa igrama izmišljanja iz detinjstva. Kao i te igre, D&D pokreće mašta. Radi se o opisivanju visokog zamka ispod olujnog noćnog neba i zamišljanju kako fantazijski avanturista može reagovati na izazove koje scena predstavlja.
 
+```
 **Gospodar Tamnice (DM**): Nakon prolaska kroz krševite vrhove, put naglo skreće na istok i kule zamka Ravenloft ispred vas. Urušene kamene kule nečujno paze na prilaz. Izgledaju kao napuštene stražarnice. Iza njih zjapi široka ponor koji nestaje u dubokoj magli ispod. Spušteni pokretni most obuhvacta ponor, vodeći do zasvođenog ulaza u dvorište zamka. Lanci pokretnog mosta škripe na vetru, njihovo rđavo gvožđe napreže se pod težinom. S vrha visokih čvrstih zidova kamene gargule bulje u vas iz šupljih ležišta i grozno se cerekaju. U ulaznom tunelu visi truli drveni rešetka, zelena od rastinija. Iza toga, glavna vrata zamka Ravenloft stoje otvorena, bogata topla svetlost prosipala se u dvorište.
 
 **Phillip (glumi Garetha)**: Želim da pogledam gargojle. Imam osećaj da to nisu samo statue.
 
 **Ami (glumi Rivu)**: Pokretni most izgleda nesigurno? Želim da vidim koliko je čvrst. Da li mislim da ga možemo preći ili će se srušiti pod našom težinom?
-
+```
 Za razliku od igre izmišljanja, D&D daje strukturu pričama, način utvrđivanja posledica akcije avanturista. Igrači bacaju kockice da bi rešili da li njihovi napadi pogađaju ili promašuju ili mogu li njihovi avanturisti popeti se na liticu, odkotrljati se od udara magične munje ili izvesti neki drugi opasan zadatak. Sve je moguće, ali kockice čine neke ishode verovatnijim od drugih.
 
+```
 **Majstor tamnice (DM)**: U redu, jedan po jedan. Phillip, gledaš li gargojle?
 
 **Phillip**: Da. Postoji li nagoveštaj da bi to mogla biti bića, a ne ukrasi?
@@ -25,6 +27,7 @@ Za razliku od igre izmišljanja, D&D daje strukturu pričama, način utvrđivanj
 **Phillip (kotrlja d20)**: Uf. Sedam.
 
 **DM**: Izgledaju ti kao ukrasi. A Ami, Riva proverava pokretni most?
+```
 
 U igri Dungeons & Dragons, svaki igrač stvara avanturistu (koji se naziva i lik) i udružuje se sa drugim avanturistima (koje igraju prijatelji). Radeći zajedno, grupa bi mogla istražiti mračnu tamnicu, porušeni grad, uklet zamak, izgubljeni hram duboko u džungli ili pećinu ispunjenu lavom ispod misteriozne planine. Avanturisti mogu da rešavaju zagonetke, razgovaraju sa drugim likovima, bore se sa fantastičnim čudovištima i otkrivaju čudesne magične predmete i drugo blago.
 
