@@ -459,8 +459,7 @@ Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator st
    </td>
   </tr>
   <tr>
-   <td><em>Planinski patuljak (+2)</em>
-<em>Ljudi (+1)</em>
+   <td><em>Planinski patuljak (+2)</em><em>Ljudi (+1)</em>
    </td>
   </tr>
 </table>
@@ -485,9 +484,7 @@ Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator st
    </td>
   </tr>
   <tr>
-   <td><em>Vilenjak (+2)</em>
-<p>
-<em>Polutan(+2)</em>
+   <td><em>Vilenjak (+2)</em><em>Polutan(+2)</em>
    </td>
    <td><em>Ljudi (+1)</em>
    </td>
@@ -514,9 +511,7 @@ Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator st
    </td>
   </tr>
   <tr>
-   <td><em>Patuljak (+2)</em>
-<p>
-<em>Stasiti polutani (+1)</em>
+   <td><em>Patuljak (+2)</em><em>Stasiti polutani (+1)</em>
    </td>
    <td><em>Ljudi (+1)</em>
    </td>
@@ -543,9 +538,7 @@ Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator st
    </td>
   </tr>
   <tr>
-   <td><em>Visoki vilenjak (+1)</em>
-<p>
-<em>Ljudi (+1)</em>
+   <td><em>Visoki vilenjak (+1)</em><em>Ljudi (+1)</em>
    </td>
   </tr>
 </table>
@@ -570,9 +563,7 @@ Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator st
    </td>
   </tr>
   <tr>
-   <td><em>Brdski patuljak (+1)</em>
-<p>
-<em>Drveni vilenjak (+1)</em>
+   <td><em>Brdski patuljak (+1)</em><em>Drveni vilenjak (+1)</em>
    </td>
    <td><em>Ljudski (+1)</em>
    </td>
@@ -599,9 +590,7 @@ Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator st
    </td>
   </tr>
   <tr>
-   <td><em>Polutan laganih nogu (+1) </em>
-<p>
-<em>Ljudi (+1)</em>
+   <td><em>Polutan laganih nogu (+1) </em><em>Ljudi (+1)</em>
    </td>
   </tr>
 </table>
