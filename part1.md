@@ -3418,18 +3418,18 @@ Kada napravite svoj lik, možete se jednom zakotrljati po stolu sa nakitom da bi
 
 ## Poglavlje 6: Opcije prilagođavanja
 
-Kombinacija rezultata sposobnosti, rase, klase i pozadina definiše mogućnosti vašeg lika u igri, a lični detalji koje kreirate postavili su vaš karakter u odnosu na svakog drugog lika. Čak i unutar vašeg klase i rase, imate mogućnosti da fino podesite ono što vaše lik može. Ali nekoliko igrača - uz dozvolu DM-a - želi da odete korak dalje.
+Kombinacija rezultata sposobnosti, rase, klase i pozadina definiše mogućnosti vašeg lika u igri, a lični detalji koje kreirate postavili su vaš karakter u odnosu na svakog drugog lika. Čak i unutar vaše klase i rase, imate mogućnosti da fino podesite ono što vaše lik može. Ali nekoliko igrača - uz dozvolu DM-a - želi da odete korak dalje.
 
-Poglavlje 6 Priručnika za igrača definiše dva opcionalni skupa pravila za prilagođavanje vašeg karaktera: višeklasiranje i podvizi. Više klasifikacija vam omogućava da kombinujete klase zajedno, a podvizi su posebne opcije koje možete odaberite umesto da povećate ocene svojih ocjena sposobnosti dobijanjem nivoa. Vaš DM odlučuje da li su ove opcije dostupne u kampanji.
+Poglavlje 6 Priručnika za igrača definiše dva opcionalni skupa pravila za prilagođavanje vašeg karaktera: višeklasiranje i podvizi. Višeklasiranje vam omogućava da kombinujete klase zajedno, a podvizi su posebne opcije koje možete odaberite umesto da povećate vrijednosti svojih ocjena sposobnosti dobijanjem nivoa. Vaš DM odlučuje da li su ove opcije dostupne u kampanji.
 
 
-### Multiclassing
+### Višeklasiranje
 
 Višeklasiranje vam omogućava da dobijete višestruke nivoe klase. To vam omogućava da pomešate njihove sposobnosti klase da bi se realizovao koncept lika koji možda i ne ogleda u jednoj od standardnih opcija klase.
 
-Ovim pravilom imate mogućnost postizanja nivoa u novoj kjlasi kad god napredujete dostizanjem nivoa u vašoj trenutnoj klasi. Svi vaši nivoi vaših klasa se sabiraju da bi se utvrdio vaš nivo karaktera. Na primer, ako imate tri nivoa čarobnjaka i dva u borcu, vi ste lik 5. nivoa.
+Ovim pravilom imate mogućnost postizanja nivoa u novoj kjlasi kad god napredujete dostizanjem nivoa u vašoj trenutnoj klasi. Svi vaši nivoi vaših klasa se sabiraju da bi se utvrdio vaš nivo karaktera. Na primer, ako imate tri nivoa čarobnjaka i dva kao borac, vi ste lik 5. nivoa.
 
-Kako napredujete u nivoima, možda ćete prvenstveno ostati član originalne klase sa samo nekoliko nivoa u drugoj klasi, ili biste mogli potpuno promeniti kurs, nikada osvrćući se na klasu koju ste ostavili za sobom. Možda čak i započnite napredovanje u trećoj ili četvrtoj klasi. U poređenju sa jednoklasni lik istog nivoa, žrtvovaćete fokusiranje u zamenu za svestranost.
+Kako napredujete u nivoima, možda ćete prvenstveno ostati član originalne klase sa samo nekoliko nivoa u drugoj klasi, ili biste mogli potpuno promeniti kurs, ne osvrćući se na klasu koju ste ostavili za sobom. Možda čak i započnite napredovanje u trećoj ili četvrtoj klasi. U poređenju sa jednoklasnim likom istog nivoa, žrtvovaćete fokusiranje u zamenu za svestranost.
 
 
 #### Preduslovi
@@ -3448,26 +3448,26 @@ Dobijate bodove iz nove klase kako je opisano za nivoe posle 1.. Osvajate poene 
 
 Vi sabirate kocke pogodka koju su odobrili svi vaši klase da biste formirali svoj bazen Hit Dice-a. Ako su Hit Dice istog kalupa, možete ih jednostavno objediniti.
 
-Ako vam časovi daju Hit Dice različitih vrsta, zadržite pratiti ih odvojeno.
+Ako vam klase daju Hit Dice različitih vrsta, pratiti ih odvojeno.
 
 
 #### Bonus za stručnost
 
-Vaš bonus za stručnost se uvek zasniva na vašem ukupnom iznosu nivo karaktera, kao što je prikazano u Poboljšanju karaktera tabela, a ne vaš nivo u određenoj klasi.
+Vaš bonus za stručnost se uvek zasniva na vašem ukupnom nivou karaktera, kao što je prikazano u tebeli Poboljšanja karaktera, a ne vaš nivo u određenoj klasi.
 
 
 #### Stručnost
 
-Kada steknete nivo u razredu koji nije vaš prvi, vi steknite samo neka početna znanja te klase. Vidite poglavlje 6 Priručnika za igrača za više informacija.
+Kada steknete nivo u klasi koji nije vaša po;etna, vi steknite samo neka početna znanja te klase. Vidite poglavlje 6 Priručnika za igrača za više informacija.
 
 
 #### Karakteristike klase
 
-Kada steknete novi nivo u klasi, dobijate njegove karakteristike za taj nivo. Nekoliko karakteristika, međutim, ima dodatne pravila kada koristite više klasa. Pogledajte poglavlje 6 Plaier's Handbook za više informacija.
+Kada steknete novi nivo u klasi, dobijate njegove karakteristike za taj nivo. Nekoliko karakteristika, međutim, ima dodatne pravila kada koristite više klasa. Pogledajte poglavlje 6 Priručnika za igrača za više informacija.
 
 
 #### Podvizi
 
-Podvig predstavlja talenat ili oblast stručnosti koja daje karakter posebne sposobnosti. Oličenje treninga, iskustva, i sposobnosti iznad onoga što klasa pruža. Vidite poglavlje 6 Priručnika za igrača za više informacija.
+Podvig predstavlja talenat ili oblast stručnosti koja daje karakteru posebne sposobnosti. Oličenje treninga, iskustva, i sposobnosti iznad onoga što klasa pruža. Vidite poglavlje 6 Priručnika za igrača za više informacija.
 
-Na određenim nivoima, vaša klasa vam daje ocenu sposobnosti Karakteristika poboljšanja. Koristeći opcionalno pravilo podviga, vi možete se odreći uzimanja te funkcije da biste preduzeli podvig po vašem izboru umesto toga. Svaki podvig možete preduzeti samo jednom, osim ako opis podviga govori drugačije. Morate ispuniti sve preduslove navedene u podvigu za uzmi taj podvig. Ako ikada izgubite preduslov za podvig, vi ne može da koristi taj podvig dok ne steknete preduslov.
+Na određenim nivoima, vaša klasa vam daje opciju poboljšanja bodova sposobnosti. Koristeći opcionalno pravilo podviga, možete se odreći uzimanja te funkcije da biste preduzeli podvig po vašem izboru umesto toga. Svaki podvig možete preduzeti samo jednom, osim ako opis podviga govori drugačije. Morate ispuniti sve preduslove navedene u podvigu za dobijanje tog podviga. Ako ikada izgubite preduslov za podvig, ne može da koristite taj podvig dok ponovo ne steknete preduslov.
