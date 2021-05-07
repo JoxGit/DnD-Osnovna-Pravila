@@ -1,1 +1,1 @@
-# Test conveting to MD
+# Pokusaj prevoda osnovnih pravila
