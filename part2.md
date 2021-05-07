@@ -783,9 +783,7 @@ Distanca pređena za...
    </td>
    <td>30 milja
    </td>
-   <td>−5 kazna za 
-<p>
-pasivne mudrosti (percepcije)
+   <td>−5 kazna za pasivne mudrosti (percepcije)
    </td>
   </tr>
   <tr>
