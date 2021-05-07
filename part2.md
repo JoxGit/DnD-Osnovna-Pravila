@@ -491,20 +491,6 @@ DM može takođe zatražiti proveru spretnosti (akrobacije) da biste videli da l
 
 **Spretnost ruku** . Kad god pokušate čin leger-demaina ili ručno podmetanje, kao što je podmetanje nečega drugom ili skrivanje predmeta na vašoj osobi, izvršite proveru spretnosti. DM bi takođe mogao da zatraži proveru spretnosti (lakomislenosti) kako bi utvrdio da li možete podići novčanik sa druge osobe ili izvući nešto iz druge džep osobe.
 
-**Sakrivanje**
-
-DM odlučuje kada su okolnosti pogodne za skrivanje. Kada pokušate da se sakrijete, izvršite proveru spretnosti (nevidljivosti). Dok vas ne otkriju ili ne prestanete da se krijete, ukupan iznos ove provere osporava se proverom mudrosti (percepcije) bilo kog stvorenja koje aktivno traži znakove vašeg prisustva.
-
-Ne možete se sakriti od bića koje vas jasno vidi, a svoj položaj odajete ako pravite buku, poput uzvika upozorenja ili obaranja vaze. Nevidljivo stvorenje se ne može videti, pa uvek može pokušati da se sakrije. Znakovi njegovog prolaska ipak bi se mogli primetiti, i dalje mora ostati tiho.
-
-U borbi, većina stvorenja pazi na znakove opasnosti svuda oko sebe, pa ako izađete iz skrivanja i priđete stvorenje, obično te vidi. Međutim, pod određenim okolnostima, Gospodar tamnice vam može dozvoliti da ostanete skriveni dok se približavate stvorenju koje je ometeno, što vam omogućava da steknete prednost u napadu pre viđeni ste.
-
-Pasivna percepcija. Kada se sakrijete, postoji šansa da vas neko primeti čak i ako ne pretražuje. Da bi utvrdio da li vas takvo stvorenje primećuje, DM upoređuje vašu spretnost (Stealth) proveru sa pasivnom ocenom mudrosti (percepcije) tog stvorenja, koja je jednaka 10 + modifikatoru mudrosti bića, kao i bilo kojim drugim bonusima ili kaznama. Ako stvorenje ima prednost, dodajte 5. Za nedostatak oduzmite 5.
-
-Na primer, ako lik prvog nivoa (sa bonusom za sposobnost +2) ima Mudrost 15 (modifikator +2) i znanje Percepcije, on ili ona ima pasivnu Mudrost (Percepciju) 14.
-
-Šta možeš da vidiš? Jedan od glavnih faktora pri utvrđivanju da li možete pronaći skriveno biće ili predmet jeste koliko dobro vidite u području koje može biti lagano ili jako zaklonjeno, kao što je objašnjeno u poglavlju 8.
-
 **Skrivanje**. Napravite proveru spretnosti (potajnosti) kada pokušavate da se sakrijete od neprijatelja, provučete se pored stražara, izmaknete se neprimećenom ili se prikradete nekome a da vas niko ne vidi i ne čuje.
 
 Ostale provere spretnosti. DM može zatražiti proveru spretnosti kada pokušate da izvršite zadatke poput sledećih:
@@ -539,6 +525,20 @@ U zavisnosti od oklopa koji nosite, možete dodati neki ili sve svoje modifikato
 ##### Inicijativa
 
 Na početku svake borbe pokrećete inicijativu proverom spretnosti. Inicijativa određuje redosled okretanja stvorenja u borbi, kako je opisano u poglavlju 9.
+
+>**Sakrivanje**
+>
+>DM odlučuje kada su okolnosti pogodne za skrivanje. Kada pokušate da se sakrijete, izvršite proveru spretnosti (nevidljivosti). Dok vas ne otkriju ili ne prestanete da se krijete, ukupan iznos ove provere osporava se proverom mudrosti (percepcije) bilo kog stvorenja koje aktivno traži znakove vašeg prisustva.
+>
+>Ne možete se sakriti od bića koje vas jasno vidi, a svoj položaj odajete ako pravite buku, poput uzvika upozorenja ili obaranja vaze. Nevidljivo stvorenje se ne može videti, pa uvek može pokušati da se sakrije. Znakovi njegovog prolaska ipak bi se mogli primetiti, i dalje mora ostati tiho.
+>
+>U borbi, većina stvorenja pazi na znakove opasnosti svuda oko sebe, pa ako izađete iz skrivanja i priđete stvorenje, obično te vidi. Međutim, pod određenim okolnostima, Gospodar tamnice vam može dozvoliti da ostanete skriveni dok se približavate stvorenju koje je ometeno, što vam omogućava da steknete prednost u napadu pre viđeni ste.
+>
+>**Pasivna percepcija.** Kada se sakrijete, postoji šansa da vas neko primeti čak i ako ne pretražuje. Da bi utvrdio da li vas takvo stvorenje primećuje, DM upoređuje vašu spretnost >(Stealth) proveru sa pasivnom ocenom mudrosti (percepcije) tog stvorenja, koja je jednaka 10 + modifikatoru mudrosti bića, kao i bilo kojim drugim bonusima ili kaznama. Ako stvorenje ima prednost, dodajte 5. Za nedostatak oduzmite 5.
+>
+>Na primer, ako lik prvog nivoa (sa bonusom za sposobnost +2) ima Mudrost 15 (modifikator +2) i znanje Percepcije, on ili ona ima pasivnu Mudrost (Percepciju) 14.
+>
+>**Šta možeš da vidiš?** Jedan od glavnih faktora pri utvrđivanju da li možete pronaći skriveno biće ili predmet jeste koliko dobro vidite u području koje može biti lagano ili jako zaklonjeno, kao što je objašnjeno u poglavlju 8.
 
 
 #### Stav
