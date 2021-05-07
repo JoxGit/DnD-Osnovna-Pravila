@@ -193,9 +193,9 @@ Jednom kada imate na umu lik, sledite ove korake redom donoseći odluke koje od
 Kroz ovo poglavlje, termin **list karaktera** označava sve ono što koristite za praćenje svog lika, bilo da se radi o formalnom listu karaktera (poput onog na kraju ovih pravila), nekom obliku digitalnog zapisa ili komadu papira u svesci. Zvanični D&D opis karaktera je dobro mesto za početak dok ne saznate koje su vam informacije potrebne i kako ih koristite tokom igre.
 
 
-##### Građenje Bruenor-a
-
-Svaki korak stvaranja likova uključuje primer tog koraka, sa igračem po imenu Bob koji gradi svoj patuljasti lik, Bruenor.
+>##### Građenje Bruenor-a
+>
+>Svaki korak stvaranja likova uključuje primer tog koraka, sa igračem po imenu Bob koji gradi svoj patuljasti lik, Bruenor.
 
 
 #### 1. Izaberite rasu
@@ -209,9 +209,9 @@ Vaša rasa takođe povećava jednu ili više ocena vaših sposobnosti, koje odr
 Zabeležite osobine koje vam dodeljuje vaša rasa na listu sa likovima. Obavezno zabilježite svoj početni jezik i osnovnu brzinu.
 
 
-##### Građenje Bruenora, 1. korak
-
-Bob sjeda da stvori svoj lik. Odlučuje da grubi planinski patuljak odgovara liku kojeg želi da glumi. Na svom listu s likovima beleži sve rasne osobine patuljaka, uključujući brzinu od 25 stopa i jezike koje poznaje: zajednički i patuljasti.
+>##### Građenje Bruenora, 1. korak
+>
+>Bob sjeda da stvori svoj lik. Odlučuje da grubi planinski patuljak odgovara liku kojeg želi da glumi. Na svom listu s likovima beleži sve rasne osobine patuljaka, uključujući brzinu od 25 stopa i jezike koje poznaje: zajednički i patuljasti.
 
 
 #### 2. Izaberite klasu 
@@ -231,6 +231,9 @@ Početak od 1. nivoa označava ulazak vašeg lika u avanturističkom život. Ako
 
 Zapišitte svoj nivo na listu kataktera. Ako započinjete sa višim nivoom, zabeležite dodatne elemente koje vam daje vaša klasa za nivoe koji prelaze 1. nivo. Takođe zapišite svoja iskustva. Lik 1. nivoa ima 0 XP. Lik višeg nivoa obično započinje sa minimalnom količinom XP potrebnom za dostizanje tog nivoa (pogledajte „Iznad prvog nivoa“ kasnije u ovom poglavlju).
 
+>**Brzo Pravljenje**
+>
+>Svaki opis kalse u poglavlju 3 sadrži odeljak koji nudi predloge za brzo stvaranje lika te klase, uključujući kako dodeliti najviše  ocene sposobnosti, pozadinu koja odgovara klasi i početne čarolije.
 
 ##### Poeni za pogodak ii kockice pogodka
 
@@ -242,7 +245,6 @@ Upišite poene za pogodak svog lika na listu sa likovima. Takođe zabeležite vr
 ##### Bonus za stručnost
 
 Tabela koja se pojavljuje u opisu vaše klase prikazuje vaš bonus za stručnost, koji je +2 za lik prvog nivoa. Vaš bonus za stručnost odnosi se na mnoge brojeve koje ćete zabeležiti na listu sa likovima:
-
 
 
 *   Bacanja za napad sa oružijem sa kojim ste stručni
@@ -257,15 +259,11 @@ Vaša klasa određuje vašu stručnost sa oružjem, vaša bacanja spasa i neke v
 Vaš bonus za stručnost se ne može dodati jednoj kocki ili drugim brojevima više puta. Povremeno se vaš bonus za stručnost može izmeniti (na primer, udvostručiti ili prepoloviti) pre nego što ga primenite. Ako okolnost sugeriše da se vaš bonus za stručnost primenjuje više puta na istu rolu ili da ga treba umnožiti više puta, ipak ga dodate samo jednom, pomnožite samo jednom i prepolovite samo jednom.
 
 
-##### Građenje Bruenora, 2. korak
-
-Bob zamišlja Bruenor-a kako u borbu kreće sekirom, s jednim odbijenim rogom na kacigi. Od Bruenora pravi borca i beleži njegovo znanje i karakteristike klase 1. nivoa na njegovom listu s likovima.
-
-Kao borac prvog nivoa, Bruenor ima 1 kocku za pogodak - d10 - i započinje sa pogođenim bodovima jednakim 10 + njegovom modifikatoru Stava. Bob to beleži i zabeležiće konačni broj nakon što odredi ocenu Bruenorovog stava (vidi korak 3). Bob takođe bilježi i bonus za stručnost za lik prvog nivoa, koji je +2.
-
-**Brzo Pravljenje**
-
-Svaki opis kalse u poglavlju 3 sadrži odeljak koji nudi predloge za brzo stvaranje lika te klase, uključujući kako dodeliti najviše  ocene sposobnosti, pozadinu koja odgovara klasi i početne čarolije.
+>##### Građenje Bruenora, 2. korak
+>
+>Bob zamišlja Bruenor-a kako u borbu kreće sekirom, s jednim odbijenim rogom na kacigi. Od Bruenora pravi borca i beleži njegovo znanje i karakteristike klase 1. nivoa na njegovom listu s likovima.
+>
+>Kao borac prvog nivoa, Bruenor ima 1 kocku za pogodak - d10 - i započinje sa pogođenim bodovima jednakim 10 + njegovom modifikatoru Stava. Bob to beleži i zabeležiće konačni broj nakon što odredi ocenu Bruenorovog stava (vidi korak 3). Bob takođe bilježi i bonus za stručnost za lik prvog nivoa, koji je +2.
 
 
 #### 3. Određivanje ocena sposobnosti
@@ -281,11 +279,12 @@ Sada uzmite svojih šest brojeva i napišite svaki broj pored jedne od šest spo
 Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i koristeći tabelu Ocene sposobnosti i Modifikatori. Da biste odredili modifikator sposobnosti bez konsultovanja sa tabelom, od ocene sposobnosti oduzmite 10, a zatim podelite rezultat sa 2 (zaokružite nadole). Napišite modifikator pored svake vaše ocene.
 
 
-##### Izgradnja Bruenora, 3. korak
+>##### Izgradnja Bruenora, 3. korak
+>
+>Bob odlučuje da koristi standardni skup ocena (15, 14, 13, 12, 10, 8) za Bruenorove sposobnosti. Budući da je borac, svoj najviši rezultat, 15, dodjeljuje Snazi. Njegov sledeći najviši, 14, ide u Stav. Bruenor je možda drski borac, ali Bob odlučuje da želi da patuljak bude stariji, mudriji i dobar vođa, pa postavlja pristojne rezultate u Mudrosti i Karizmi. Nakon primene njegovih rasnih koristi (povećanje Bruenorovog stava za 2 i njegove Snage za 2), ocene i modifikatori Bruenorove sposobnosti izgledaju ovako: Snaga 17 (+3), Spretnost 10 (+0), Stav 16 (+3), Inteligencija 8 (–1), Mudrost 13 (+1), Karizma 12 (+1).
+>
+>Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator stava od +3, za ukupno 13 poena za pogodak.
 
-Bob odlučuje da koristi standardni skup ocena (15, 14, 13, 12, 10, 8) za Bruenorove sposobnosti. Budući da je borac, svoj najviši rezultat, 15, dodjeljuje Snazi. Njegov sledeći najviši, 14, ide u Stav. Bruenor je možda drski borac, ali Bob odlučuje da želi da patuljak bude stariji, mudriji i dobar vođa, pa postavlja pristojne rezultate u Mudrosti i Karizmi. Nakon primene njegovih rasnih koristi (povećanje Bruenorovog stava za 2 i njegove Snage za 2), ocene i modifikatori Bruenorove sposobnosti izgledaju ovako: Snaga 17 (+3), Spretnost 10 (+0), Stav 16 (+3), Inteligencija 8 (–1), Mudrost 13 (+1), Karizma 12 (+1).
-
-Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator stava od +3, za ukupno 13 poena za pogodak.
 
 **Ocene sposobnosti i modifikatori**
 
@@ -459,7 +458,7 @@ Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator st
    </td>
   </tr>
   <tr>
-   <td><em>Planinski patuljak (+2)</em><em>Ljudi (+1)</em>
+   <td><em>Planinski patuljak (+2)</em> <em>Ljudi (+1)</em>
    </td>
   </tr>
 </table>
@@ -484,9 +483,7 @@ Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator st
    </td>
   </tr>
   <tr>
-   <td><em>Vilenjak (+2)</em><em>Polutan(+2)</em>
-   </td>
-   <td><em>Ljudi (+1)</em>
+   <td><em>Vilenjak (+2)</em> <em>Polutan(+2)</em> <em>Ljudi (+1)</em>
    </td>
   </tr>
 </table>
@@ -511,9 +508,7 @@ Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator st
    </td>
   </tr>
   <tr>
-   <td><em>Patuljak (+2)</em><em>Stasiti polutani (+1)</em>
-   </td>
-   <td><em>Ljudi (+1)</em>
+   <td><em>Patuljak (+2)</em> <em>Stasiti polutani (+1)</em> <em>Ljudi (+1)</em>
    </td>
   </tr>
 </table>
@@ -538,7 +533,7 @@ Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator st
    </td>
   </tr>
   <tr>
-   <td><em>Visoki vilenjak (+1)</em><em>Ljudi (+1)</em>
+   <td><em>Visoki vilenjak (+1)</em> <em>Ljudi (+1)</em>
    </td>
   </tr>
 </table>
@@ -563,9 +558,7 @@ Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator st
    </td>
   </tr>
   <tr>
-   <td><em>Brdski patuljak (+1)</em><em>Drveni vilenjak (+1)</em>
-   </td>
-   <td><em>Ljudski (+1)</em>
+   <td><em>Brdski patuljak (+1)</em><em>Drveni vilenjak (+1)</em> <em>Ljudski (+1)</em>
    </td>
   </tr>
 </table>
@@ -590,7 +583,7 @@ Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator st
    </td>
   </tr>
   <tr>
-   <td><em>Polutan laganih nogu (+1) </em><em>Ljudi (+1)</em>
+   <td><em>Polutan laganih nogu (+1)</em> <em>Ljudi (+1)</em>
    </td>
   </tr>
 </table>
@@ -695,15 +688,15 @@ Lik sa niskom mudrošću može biti odsutan, lud ili zaboravan.
 Lik sa visokom harizmom odiše samopouzdanjem, koje se obično meša sa gracioznim ili zastrašujućim prisustvom. Lik s niskom karizmom može se naići na abrazivnog, neartikulisanog ili plašljivog.
 
 
-##### Izgradnja Bruenora, 4. korak
-
-Bob ispunjava neke Bruenorove osnovne detalje: njegovo ime, pol (muški), visinu i težinu i poravnanje (zakonski dobro). Njegova visoka snaga i stav sugerišu zdravo, atletsko telo, a niska inteligencija ukazuje na stepen zaborava.
-
-Bob odlučuje da Bruenor dolazi iz plemenite loze, ali je njegov klan proteran iz domovine kada je Bruenor bio vrlo mlad. Odrastao je radeći kao kovač u udaljenim selima Icevind Dale-a. Ali Bruenor ima herojsku sudbinu - da povrati svoju otadžbinu - pa Bob bira pozadinu narodnog heroja za svog patuljka. Primećuje profitabilnosti i posebnosti koje mu ova pozadina daje.
-
-Bob ima na umu prilično jasnu sliku Bruenorove ličnosti, pa preskače osobine ličnosti predložene u pozadini narodnog heroja, napominjući umesto toga da je Bruenor brižni, osetljivi patuljak koji iskreno voli svoje prijatelje i saveznike, ali skriva ovo meko srce iza grubg, režeće ponašanja. Ideal pravičnosti bira sa spiska u svojoj pozadini, napominjući da Bruenor veruje da niko nije iznad zakona.
-
-S obzirom na njegovu istoriju, Bruenorova veza je očigledna: on teži da jednog dana povrati Mitral Hol, svoju domovinu, od zmaja iz senke koji je proterao patuljke. Njegova mana vezana je za njegovu brižnu, osetljivu prirodu - ima meku tačku za siročad i svojevoljne duše, što ga navodi na pokazivanje milosti čak i kad to možda nije opravdano.
+>##### Izgradnja Bruenora, 4. korak
+>
+>Bob ispunjava neke Bruenorove osnovne detalje: njegovo ime, pol (muški), visinu i težinu i poravnanje (zakonski dobro). Njegova visoka snaga i stav sugerišu zdravo, atletsko telo, a niska inteligencija ukazuje na stepen zaborava.
+>
+>Bob odlučuje da Bruenor dolazi iz plemenite loze, ali je njegov klan proteran iz domovine kada je Bruenor bio vrlo mlad. Odrastao je radeći kao kovač u udaljenim selima Icevind Dale-a. Ali Bruenor ima herojsku sudbinu - da povrati svoju otadžbinu - pa Bob bira pozadinu narodnog heroja za svog patuljka. Primećuje profitabilnosti i posebnosti koje mu ova pozadina daje.
+>
+>Bob ima na umu prilično jasnu sliku Bruenorove ličnosti, pa preskače osobine ličnosti predložene u pozadini narodnog heroja, napominjući umesto toga da je Bruenor brižni, osetljivi patuljak koji iskreno voli svoje prijatelje i saveznike, ali skriva ovo meko srce iza grubg, režeće ponašanja. Ideal pravičnosti bira sa spiska u svojoj pozadini, napominjući da Bruenor veruje da niko nije iznad zakona.
+>
+>S obzirom na njegovu istoriju, Bruenorova veza je očigledna: on teži da jednog dana povrati Mitral Hol, svoju domovinu, od zmaja iz senke koji je proterao patuljke. Njegova mana vezana je za njegovu brižnu, osetljivu prirodu - ima meku tačku za siročad i svojevoljne duše, što ga navodi na pokazivanje milosti čak i kad to možda nije opravdano.
 
 
 #### 5. Izaberite Opremu
@@ -742,11 +735,11 @@ Kada izvršite napad oružjem, bacate d20 i dodate svoj bonus za sposobnost (ali
 *   Za napade **oružjem na daljinu** koristite modifikator spretnosti za bacanja za napad i oštećenje. Ručno oružje koje ima svojstvo bacanja, poput ručna sjekira, umesto toga može da koristi vaš modifikator snage.
 
 
-##### Izgradnja Bruenora, 5. korak
-
-Bob zapisuje početnu opremu iz klase boraca i pozadinu narodnog heroja. Njegova početna oprema uključuje lančani oklop i štit, koji zajedno daju Bruenoru klasu oklopa od 18.
-
-Za Bruenorovo oružje, Bob bira bojnu sekiru i dvije ručne sjekire. Njegova bojna sekira je oružje za blisku borbu, pa Bruenor koristi svoj modifikator snage za svoje napade i štetu. Njegov bonus za napad je njegov modifikator snage (+3) plus njegov bonus za stručnost (+2), ukupno +5. Batleak nanosi 1d8 reznu štetu, a bojna sjekira dodaje svoj modifikator snage u štetu kada pogodi, što ukupno iznosi 1d8 + 3 štetu sječenja. Kada baca ručnu sjekiru, Bruenor ima isti bonus za napad (ručne sjekire, kao i bačeno oružje, koriste snagu za napade i štetu), a oružje nanosi 1d6 + 3 štetu sječenja kad pogodi.
+>##### Izgradnja Bruenora, 5. korak
+>
+>Bob zapisuje početnu opremu iz klase boraca i pozadinu narodnog heroja. Njegova početna oprema uključuje lančani oklop i štit, koji zajedno daju Bruenoru klasu oklopa od 18.
+>
+>Za Bruenorovo oružje, Bob bira bojnu sekiru i dvije ručne sjekire. Njegova bojna sekira je oružje za blisku borbu, pa Bruenor koristi svoj modifikator snage za svoje napade i štetu. Njegov bonus za napad je njegov modifikator snage (+3) plus njegov bonus za stručnost (+2), ukupno +5. Batleak nanosi 1d8 reznu štetu, a bojna sjekira dodaje svoj modifikator snage u štetu kada pogodi, što ukupno iznosi 1d8 + 3 štetu sječenja. Kada baca ručnu sjekiru, Bruenor ima isti bonus za napad (ručne sjekire, kao i bačeno oružje, koriste snagu za napade i štetu), a oružje nanosi 1d6 + 3 štetu sječenja kad pogodi.
 
 
 #### 6. Dođite zajedno
@@ -1140,6 +1133,19 @@ Likove definiše mnogo više od njihove rase i klase. Oni su pojedinci sa sopstv
 Ime i fizički opis vašeg lika mogu biti prve stvari koje drugi igrači za stolom saznaju o vama. Vredi razmisliti o tome kako ove karakteristike odražavaju lik koji imate na umu.
 
 
+>**Tika i Artemida: Kontrastni likovi**
+>
+>Detalji u ovom poglavlju čine veliku razliku u izdvajanju vašeg lika od svakog drugog lika. Razmotrite sledeća dva ljudska borca.
+>
+>Dolazeći iz postavke Dragonlance, Tika Vailan je bila drska tinejdžerka koja je imala teško detinjstvo. Kćer lopova, pobegla je od kuće i bavila se očevim zanatom na ulicama Solace. Kada je pokušala da opljačka vlasnika svratišta Poslednjeg doma, uhvatio ju je i uzeo pod svoje, dajući joj posao konobarice. Ali kada su zmajeve vojske opustošile grad Solace i uništile gostionicu, Tiku je nužda naterala na avanturu zajedno sa prijateljima koje je poznavala iz detinjstva. Njena veština borca (tiganj je i dalje jedno od njenih omiljenih oružja) u kombinaciji sa istorijom na ulici dala joj je neprocenjive veštine u pustolovnoj karijeri.
+>
+>Artemis Entreri je odrastao na ulicama Calimporta u zaboravljenim carstvima. Koristio je svoju pamet, snagu i okretnost da ureže svoju teritoriju u jednom od stotina siromašnih gradskih naselja. Posle nekoliko godina privukao je pažnju jednog od najmoćnijih udruženja lopova u gradu i brzo se popeo u redove udruženja uprkos mladosti. Artemis je postao omiljeni atentator jednog od gradskih paša, koji ga je poslalao u daleki Icevind Dale da povrati neke ukradene dragulje. On je profesionalni ubica, neprestano izazivajući sebe da poboljša svoje veštine.
+>
+>Tika i Artemis su oboje ljudi i borci (s određenim iskustvom prevaranta), koji imaju slično visoke rezultate snage i spretnosti, ali tu je sličnosti kraj.
+>
+>Ne treba biti ograničen na binarne pojmove pola i roda. Na primer, bog vilenjaka Corellon Larethian često se doživljava kao androgini, a neki vilenjaci u multiverzumu napravljeni su po Corellonovoj slici. Možete da igrate i ženskog lika koji se predstavlja kao muškarac, muškarca koji se oseća zarobljenim u ženskom telu ili bradatog ženskog patuljka koji mrzi da ga zamenjuju sa muškarcem. Isto tako, o vama odlučuje seksualna orijentacija vašeg lika.
+
+
 #### Ime
 
 Opis rase vašeg lika uključuje uzorke imena članova te rase. Unesite malo misli u svoje ime čak i ako samo birate jednu sa liste.
@@ -1150,18 +1156,6 @@ Opis rase vašeg lika uključuje uzorke imena članova te rase. Unesite malo mis
 Možete igrati muškog ili ženskog lika bez ostvarivanja bilo kakvih posebnih prednosti ili smetnji. Razmislite o tome kako se vaš lik uklapa ili ne uklapa u očekivanja šire kulture o seksu, polu i seksualnom ponašanju.
 
 Na primer, muški duhovnik prkosi tradicionalnim rodnim podelama drumskog društva, što bi moglo biti reakcija da tvoj lik napusti to društvo i izađe na površinu.
-
-**Tika i Artemida: Kontrastni likovi**
-
-Detalji u ovom poglavlju čine veliku razliku u izdvajanju vašeg lika od svakog drugog lika. Razmotrite sledeća dva ljudska borca.
-
-Dolazeći iz postavke Dragonlance, Tika Vailan je bila drska tinejdžerka koja je imala teško detinjstvo. Kćer lopova, pobegla je od kuće i bavila se očevim zanatom na ulicama Solace. Kada je pokušala da opljačka vlasnika svratišta Poslednjeg doma, uhvatio ju je i uzeo pod svoje, dajući joj posao konobarice. Ali kada su zmajeve vojske opustošile grad Solace i uništile gostionicu, Tiku je nužda naterala na avanturu zajedno sa prijateljima koje je poznavala iz detinjstva. Njena veština borca (tiganj je i dalje jedno od njenih omiljenih oružja) u kombinaciji sa istorijom na ulici dala joj je neprocenjive veštine u pustolovnoj karijeri.
-
-Artemis Entreri je odrastao na ulicama Calimporta u zaboravljenim carstvima. Koristio je svoju pamet, snagu i okretnost da ureže svoju teritoriju u jednom od stotina siromašnih gradskih naselja. Posle nekoliko godina privukao je pažnju jednog od najmoćnijih udruženja lopova u gradu i brzo se popeo u redove udruženja uprkos mladosti. Artemis je postao omiljeni atentator jednog od gradskih paša, koji ga je poslalao u daleki Icevind Dale da povrati neke ukradene dragulje. On je profesionalni ubica, neprestano izazivajući sebe da poboljša svoje veštine.
-
-Tika i Artemis su oboje ljudi i borci (s određenim iskustvom prevaranta), koji imaju slično visoke rezultate snage i spretnosti, ali tu je sličnosti kraj.
-
-Ne treba biti ograničen na binarne pojmove pola i roda. Na primer, bog vilenjaka Corellon Larethian često se doživljava kao androgini, a neki vilenjaci u multiverzumu napravljeni su po Corellonovoj slici. Možete da igrate i ženskog lika koji se predstavlja kao muškarac, muškarca koji se oseća zarobljenim u ženskom telu ili bradatog ženskog patuljka koji mrzi da ga zamenjuju sa muškarcem. Isto tako, o vama odlučuje seksualna orijentacija vašeg lika.
 
 
 #### Visina i težina
@@ -1303,6 +1297,12 @@ Na primer, kao čovek, Tika ima visinu od 4 stope 8 inča plus 2d10 inča. Njen 
 
 Vi birate starost svog lika i boju njegove kose, očiju i kože. Da biste dodali dodir prepoznatljivosti, možda ćete želeti da svom liku date neobičnu ili nezaboravnu fizičku karakteristiku, poput ožiljka, mlitavosti ili tetovaže.
 
+>**Tika i Artemida: Detalji o liku**
+>
+>Razmotrite kako imena Tika Vailan i Artemis Entreri izdvajaju ove likove jedan od drugog i odražavaju njihove ličnosti. Tika je mlada žena odlučna da dokaže da više nije samo dete, a njeno ime zvuči mlado i obično. Artemis Entreri dolazi iz egzotične zemlje i nosi misterioznije ime.
+>
+>Tika ima devetnaest godina na početku svoje avanturističke karijere, ima kestenjastu kosu, zelene oči, svetlu kožu sa pegama i madež na desnom kuku. Artemis je mali čovek, kompaktan i sav žilav i mišićav. Ima uglate crte lica i visoke jagodične kosti, a čini se da mu je uvek potrebno brijanje. Njegova gavrano-crna kosa je gusta i puna, ali oči su sive i beživotne - odajući prazninu njegove život i dušu.
+
 
 #### Poravnanje
 
@@ -1343,11 +1343,11 @@ Poravnanje je suštinski deo prirode božanstva i vragova. Đavo ne bira da bude
 
 Većina stvorenja koja nemaju sposobnost racionalne misli nemaju poravnanja - oni su **nesvrstani**. Takvo stvorenje nije sposobno da donese moralni ili etički izbor i ponaša se u skladu sa svojom bestijalnom prirodom. Ajkule su na primer divlji predatori, ali nisu zli; nemaju poravnanje.
 
-**Tika i Artemida: Poravnanje**
-
-Tika Vailan je neutralno dobra, u osnovi dobrog srca i trudi se da pomogne drugima tamo gde može. Artemida je zakonito zlo, nije zabrinut za vrednost osjećajnog života, ali barem profesionalan u svom pristupu ubistvu.
-
-Kao zli lik, Artemis nije idealan avanturista. Karijeru je započeo kao negativac, a sa herojima sarađuje samo kada to mora - i kada je to u njegovom najboljem interesu. U većini igara zli avanturisti prave probleme u grupama zajedno sa drugima koji ne dele njihova interesovanja i ciljeve. Generalno, zla poravnanja su za negativce i čudovišta.
+>**Tika i Artemida: Poravnanje**
+>
+>Tika Vailan je neutralno dobra, u osnovi dobrog srca i trudi se da pomogne drugima tamo gde može. Artemida je zakonito zlo, nije zabrinut za vrednost osjećajnog života, ali barem profesionalan u svom pristupu ubistvu.
+>
+>Kao zli lik, Artemis nije idealan avanturista. Karijeru je započeo kao negativac, a sa herojima sarađuje samo kada to mora - i kada je to u njegovom najboljem interesu. U većini igara zli avanturisti prave probleme u grupama zajedno sa drugima koji ne dele njihova interesovanja i ciljeve. Generalno, zla poravnanja su za negativce i čudovišta.
 
 
 #### Jezici
@@ -1598,25 +1598,20 @@ Ili imate inspiraciju ili je nemate - ne možete da napravite zalihe višestruki
 
 Ako imate inspiraciju, možete je potrošiti kada napravite napad, spasilačko bacanje ili proveru sposobnosti. Trošenje inspiracije daje vam prednost na tom bacanju.
 
-**Tika i Artemida: Detalji o liku**
 
-Razmotrite kako imena Tika Vailan i Artemis Entreri izdvajaju ove likove jedan od drugog i odražavaju njihove ličnosti. Tika je mlada žena odlučna da dokaže da više nije samo dete, a njeno ime zvuči mlado i obično. Artemis Entreri dolazi iz egzotične zemlje i nosi misterioznije ime.
-
-Tika ima devetnaest godina na početku svoje avanturističke karijere, ima kestenjastu kosu, zelene oči, svetlu kožu sa pegama i madež na desnom kuku. Artemis je mali čovek, kompaktan i sav žilav i mišićav. Ima uglate crte lica i visoke jagodične kosti, a čini se da mu je uvek potrebno brijanje. Njegova gavrano-crna kosa je gusta i puna, ali oči su sive i beživotne - odajući prazninu njegove život i dušu.
-
-**Tika i Artemida: Lične karakteristike**
-
-Tika i Artemida imaju različite osobine ličnosti. Tika Vailan ne voli hvalisanje i plaši se visine koja je rezultat lošeg pada tokom njene lopovske karijere. Artemis Entreri je uvek spreman za najgore i kreće se sa brzim, preciznim samopouzdanjem.
-
-Uzmite u obzir njihove ideale. Tika Vailan je nevina, gotovo detinjasta, veruje u vrednost života i važnost uvažavanja svih. Neutralno dobra u poravnanju, ona se drži ideala života i poštovanja. Artemis Entreri nikada ne dozvoljava da ga vladaju njegove emocije, i neprestano se izaziva da poboljša svoje veštine. Njegovo zakonito zlo poravnanje daje mu ideale nepristrasnosti i žudnju za moći.
-
-Veza Tike Vailan je sa gostionicom u Poslednjem Domu. Vlasnik gostionice pružio joj je novu životnu šansu, a prijateljstvo sa saputnicima u avanturi steklo je tokom njenog rada u njoj. Njeno uništavanje pljačkaške zmaj-armije daje Tiki vrlo lični razlog da ih mrzi vatrenom strašću. Njena veza mogla bi se izraziti kao „Učiniću sve što je potrebno kazni Zamj-armije zbog uništenja konaka Poslednjeg Doma “.
-
-Veza Artemisa Entrerija je čudna, gotovo paradoksalna veza sa Drizztom Do’Urdenom, ravan mu je u maču i mračnoj odlučnosti. U svojoj prvoj bici sa Drizztom, Artemis je prepoznao nešto od sebe kod svog protivnika, što je pokazatelj da bi, da je njegov život tekao drugačije, možda vodio život sličniji herojskom drovu. Od tog trenutka, Artemis je više od kriminalnog ubice - on je antiheroj, vođen njegovim rivalstvom sa Drizztom. Njegova veza bi se mogla izraziti kao „Neću mirovati dok se ne pokažem boljom od Drizzta Do’Urdena“.
-
-Svaki od ovih likova takođe ima važnu manu. Tika Vailan je naivna i emocionalno ranjiva, mlađa od svojih saputnika i iznervirana što još uvek misle o njoj kao detetu koje su poznavali pre mnogo godina. Mogla bi čak doći u iskušenje da deluje protiv svojih principa ako je uverena da će određeno dostignuće pokazati njenu zrelost. Artemis Entreri je potpuno zazidan od bilo kakvih ličnih odnosa i samo želi da ostane sam.
-
-Pored toga, ako imate inspiraciju, možete nagraditi drugog igrača za dobro igranje uloga, pametno razmišljanje ili jednostavno bavljenje nečim uzbudljivim u igri. Kada drugi lik igrača učini nešto što zaista doprinosi priči na zabavan i zanimljiv način, možete se odreći svoje inspiracije da biste tom liku dali inspiraciju.
+>**Tika i Artemida: Lične karakteristike**
+>
+>Tika i Artemida imaju različite osobine ličnosti. Tika Vailan ne voli hvalisanje i plaši se visine koja je rezultat lošeg pada tokom njene lopovske karijere. Artemis Entreri je uvek spreman za najgore i kreće se sa brzim, preciznim samopouzdanjem.
+>
+>Uzmite u obzir njihove ideale. Tika Vailan je nevina, gotovo detinjasta, veruje u vrednost života i važnost uvažavanja svih. Neutralno dobra u poravnanju, ona se drži ideala života i poštovanja. Artemis Entreri nikada ne dozvoljava da ga vladaju njegove emocije, i neprestano se izaziva da poboljša svoje veštine. Njegovo zakonito zlo poravnanje daje mu ideale nepristrasnosti i žudnju za moći.
+>
+>Veza Tike Vailan je sa gostionicom u Poslednjem Domu. Vlasnik gostionice pružio joj je novu životnu šansu, a prijateljstvo sa saputnicima u avanturi steklo je tokom njenog rada u njoj. Njeno uništavanje pljačkaške zmaj-armije daje Tiki vrlo lični razlog da ih mrzi vatrenom strašću. Njena veza mogla bi se izraziti kao „Učiniću sve što je potrebno kazni Zamj-armije zbog uništenja konaka Poslednjeg Doma “.
+>
+>Veza Artemisa Entrerija je čudna, gotovo paradoksalna veza sa Drizztom Do’Urdenom, ravan mu je u maču i mračnoj odlučnosti. U svojoj prvoj bici sa Drizztom, Artemis je prepoznao nešto od sebe kod svog protivnika, što je pokazatelj da bi, da je njegov život tekao drugačije, možda vodio život sličniji herojskom drovu. Od tog trenutka, Artemis je više od kriminalnog ubice - on je antiheroj, vođen njegovim rivalstvom sa Drizztom. Njegova veza bi se mogla izraziti kao „Neću mirovati dok se ne pokažem boljom od Drizzta Do’Urdena“.
+>
+>Svaki od ovih likova takođe ima važnu manu. Tika Vailan je naivna i emocionalno ranjiva, mlađa od svojih saputnika i iznervirana što još uvek misle o njoj kao detetu koje su poznavali pre mnogo godina. Mogla bi čak doći u iskušenje da deluje protiv svojih principa ako je uverena da će određeno dostignuće pokazati njenu zrelost. Artemis Entreri je potpuno zazidan od bilo kakvih ličnih odnosa i samo želi da ostane sam.
+>
+>Pored toga, ako imate inspiraciju, možete nagraditi drugog igrača za dobro igranje uloga, pametno razmišljanje ili jednostavno bavljenje nečim uzbudljivim u igri. Kada drugi lik igrača učini nešto što zaista doprinosi priči na zabavan i zanimljiv način, možete se odreći svoje inspiracije da biste tom liku dali inspiraciju.
 
 
 ### Pozadine
@@ -1656,9 +1651,9 @@ Pozadina sadrži predložene lične karakteristike na osnovu vašeg porekla. Mo�
 
 Možda ćete želeti da podesite neke funkcije pozadine, tako da bolje odgovaraju vašem karakteru ili postavci kampanje. Da biste prilagodili pozadinu, možete zameniti jednu osobinu bilo kojom drugom, odabrati bilo koje dve veštine i odabrati ukupno dve veštine alata ili jezika iz primera pozadine. Možete koristiti paket opreme iz vaše pozadine ili potrošiti novac na opreui kao što je opisano u poglavlju 5. (Ako trošite novac, ne možete uzeti i paket opreme koji je predložen za vašu klasu.) Na kraju, odaberite dve osobine ličnosti, jedan ideal, jednu vezu i jednu manu. Ako ne možete da pronađete funkciju koja odgovara željenoj pozadini, sarađujte sa DM-om da biste je stvorili.
 
-**Tika i Artemida: Pozadine**
-
-Tika Vailan i Artemis Entreri su svoje prve godine živeli kao ulični siročići. Kasnija Tikina karijera konobarice nije je zaista promenila, pa bi možda mogla da izabere pozadinu siročeta, steknuvši znanje veštine veštih ruku i nečujnosti i naučeći alate lopovske provesije. Artemidu više definiše njegovo kriminalno poreklo, dajući mu veštine u obmanjivanju i skrivanju, kao i znanje oruđa za lopovluk i otrov.
+>**Tika i Artemida: Pozadine**
+>
+>Tika Vailan i Artemis Entreri su svoje prve godine živeli kao ulični siročići. Kasnija Tikina karijera konobarice nije je zaista promenila, pa bi možda mogla da izabere pozadinu siročeta, steknuvši znanje veštine veštih ruku i nečujnosti i naučeći alate lopovske provesije. Artemidu više definiše njegovo kriminalno poreklo, dajući mu veštine u obmanjivanju i skrivanju, kao i znanje oruđa za lopovluk i otrov.
 
 
 
@@ -2795,11 +2790,11 @@ Angažovanje nekoga da baci relativno uobičajenu čaroliju 1. ili 2. niva, popu
 
 Pronaći nekoga ko je sposoban i voljan da bacačarolije višeg nivoa može uključivati putovanje u veliki grad, možda onaj sa univerzitetom ili istaknutim hramom. Jednom pronađeno, bacač čarolije može tražiti uslugu umesto plaćanja - vrsta usluge koju samo avanturisti mogu obezbedite, kao što je preuzimanje retkog predmeta iz opasnog lokaliteta ili prelazak divljinom zaraženom čudovištima da bi se isporučio nešto važno za udaljeno naselje.
 
-**Samodovoljnost**
-
-Troškovi i životni stilovi opisani u ovom poglavlju pretpostavljau da vreme provodite između avanture u gradu, koristeći sve usluge koje možete sebi priuštiti - plaćate hranu i smeštaj, plaćate varošane da vam izoštre mač i poprave oklop, i tako dalje. Neki likovi, ipak, možda više vole da troše svoje vreme daleko od civilizacije, održavajući se u divljini lovom, traganjem za hranom i popravljanjem sopstvene opreme.
-
-Održavanje ovakvog načina života ne zahteva od vas potrošite bilo koji novčić, ali je to dugotrajno. Ako trošite vaše vreme između avantura bavljenja nekom profesijom, kaošto je  opisano u poglavlju 8, možete izvući ekvivalent lošeg načina života. Poznavanje veštine preživljavanja omogućava vam da živite ekvivalent ugodnom načinu života.
+>**Samodovoljnost**
+>
+>Troškovi i životni stilovi opisani u ovom poglavlju pretpostavljau da vreme provodite između avanture u gradu, koristeći sve usluge koje možete sebi priuštiti - plaćate hranu i smeštaj, plaćate varošane da vam izoštre mač i poprave oklop, i tako dalje. Neki likovi, ipak, možda više vole da troše svoje vreme daleko od civilizacije, održavajući se u divljini lovom, traganjem za hranom i popravljanjem sopstvene opreme.
+>
+>Održavanje ovakvog načina života ne zahteva od vas potrošite bilo koji novčić, ali je to dugotrajno. Ako trošite vaše vreme između avantura bavljenja nekom profesijom, kaošto je  opisano u poglavlju 8, možete izvući ekvivalent lošeg načina života. Poznavanje veštine preživljavanja omogućava vam da živite ekvivalent ugodnom načinu života.
 
 
 ### Drangulije
