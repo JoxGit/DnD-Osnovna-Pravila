@@ -1478,10 +1478,7 @@ Neki od ovih jezika su zapravo porodice jezika sa mnogim dijalektima. Na primer,
     Deep Speech
    </td>
    <td>
-    Mind flayers,
-<p>
-
-    beholders
+    Mind flayers, beholders
    </td>
    <td>
     —
@@ -1492,10 +1489,7 @@ Neki od ovih jezika su zapravo porodice jezika sa mnogim dijalektima. Na primer,
     Draconic
    </td>
    <td>
-    Dragons,
-<p>
-
-    dragonborn
+    Dragons,dragonborn
    </td>
    <td>
     Draconic
