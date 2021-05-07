@@ -1,1 +1,1 @@
-# Pokusaj prevoda osnovnih pravila
+# Pokusaj prevoda osnovnih pravila.
