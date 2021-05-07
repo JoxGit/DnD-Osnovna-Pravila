@@ -4,7 +4,7 @@
 
 Igra uloga Dungeons & Dragons govori o pripovedanju u svetovima mačeva i čaranja. Deli elemente sa igrama izmišljanja iz detinjstva. Kao i te igre, D&D pokreće mašta. Radi se o opisivanju visokog zamka ispod olujnog noćnog neba i zamišljanju kako fantazijski avanturista može reagovati na izazove koje scena predstavlja.
 
-**Gospodar Tamnice (DM**): Nakon prolaska kroz krševite vrhove, put naglo skreće na istok i kule zamka Ravenloft ispred vas. Urušene kamene kule nečujno paze na prilaz. Izgledaju kao napuštene stražarnice. Iza njih zjapi široka ponor koji nestaje u dubokoj magli ispod. Spušteni pokretni most obuhvacta ponor, vodeći do zasvođenog ulaza u dvorište zamka. Lanci pokretnog mosta škripe na vetru, njihovo rđavo gvožđe napreže se pod težinom. S vrha visokih čvrstih zidova kamene gargule bulje u vas iz šupljih ležišta i grozno se cerekaju. U ulaznom tunelu visi truli drveni rešetka, zelena od rastinija. Iza toga, glavna vrata zamka Ravenloft stoje otvorena, bogata topla svetlost prosipala se u dvorište.
+**Gospodar Tamnice (DM)**: Nakon prolaska kroz krševite vrhove, put naglo skreće na istok i kule zamka Ravenloft ispred vas. Urušene kamene kule nečujno paze na prilaz. Izgledaju kao napuštene stražarnice. Iza njih zjapi široka ponor koji nestaje u dubokoj magli ispod. Spušteni pokretni most obuhvacta ponor, vodeći do zasvođenog ulaza u dvorište zamka. Lanci pokretnog mosta škripe na vetru, njihovo rđavo gvožđe napreže se pod težinom. S vrha visokih čvrstih zidova kamene gargule bulje u vas iz šupljih ležišta i grozno se cerekaju. U ulaznom tunelu visi truli drveni rešetka, zelena od rastinija. Iza toga, glavna vrata zamka Ravenloft stoje otvorena, bogata topla svetlost prosipala se u dvorište.
 
 **Phillip (glumi Garetha)**: Želim da pogledam gargojle. Imam osećaj da to nisu samo statue.
 
@@ -152,7 +152,7 @@ Ali to nije kraj priče. O avanturi možete razmišljati kao o jednoj epizodi TV
 
 Avanturisti mogu pokušati učiniti sve što njihovi igrači zamisle, ali može biti korisno razgovarati o nihovim aktivnostima u tri široke kategorije: istraživanje, socijalna interakcija i borba.
 
-**Istraživanje **uključuje i kretanje avanturista kroz svet i njihovu interakciju sa objektima i situacijama koje zahtevaju njihovu pažnju. Istraživanje je davanje i uzimanje igrača koji opisuju šta žele da njihovi likovi rade, a Dungeon Master govori igračima šta se dešava kao rezultat. U velikom obimu, to bi moglo uključivati likove koji dan provode prelazeći ravnicu ili sat vremena prolazeći kroz pećine pod zemljom. Na najmanjoj skali, to bi moglo značiti da jedan lik povuče polugu u tamnici da vidi šta se dešava.
+**Istraživanje** uključuje i kretanje avanturista kroz svet i njihovu interakciju sa objektima i situacijama koje zahtevaju njihovu pažnju. Istraživanje je davanje i uzimanje igrača koji opisuju šta žele da njihovi likovi rade, a Dungeon Master govori igračima šta se dešava kao rezultat. U velikom obimu, to bi moglo uključivati likove koji dan provode prelazeći ravnicu ili sat vremena prolazeći kroz pećine pod zemljom. Na najmanjoj skali, to bi moglo značiti da jedan lik povuče polugu u tamnici da vidi šta se dešava.
 
 **Društvena interakcija** karakteriše avanturiste koji razgovaraju sa nekim (ili nečim drugim). To bi moglo značiti zahtevanje da zarobljeni izviđač otkrije tajni ulaz u jazbinu goblina, dobijanje informacija od spašenog zatvorenika, molba za milost od poglavice orka ili nagovaranje pričljivog magičnog ogledala da avanturistima pokaže udaljenu lokaciju.
 
@@ -190,7 +190,7 @@ Pre nego što zaronite u 1. korak dole, razmislite o tome kakvog avanturistu že
 
 Jednom kada imate na umu lik, sledite ove korake redom donoseći odluke koje odražavaju lik koji želite. Vaša koncepcija vašeg lika može se razvijati sa svakim vašim odabirom. Ono što je važno je da za sto dođete sa likom kojeg ćete sa uzbuđenjem igrati.
 
-Kroz ovo poglavlje, termin **list karaktera **označava sve ono što koristite za praćenje svog lika, bilo da se radi o formalnom listu karaktera (poput onog na kraju ovih pravila), nekom obliku digitalnog zapisa ili komadu papira u svesci. Zvanični D&D opis karaktera je dobro mesto za početak dok ne saznate koje su vam informacije potrebne i kako ih koristite tokom igre.
+Kroz ovo poglavlje, termin **list karaktera** označava sve ono što koristite za praćenje svog lika, bilo da se radi o formalnom listu karaktera (poput onog na kraju ovih pravila), nekom obliku digitalnog zapisa ili komadu papira u svesci. Zvanični D&D opis karaktera je dobro mesto za početak dok ne saznate koje su vam informacije potrebne i kako ih koristite tokom igre.
 
 
 ##### Građenje Bruenor-a
@@ -278,7 +278,7 @@ Slučajno generišete šest ocena sposobnosti vašeg lika. Bacite četiri šesto
 
 Sada uzmite svojih šest brojeva i napišite svaki broj pored jedne od šest sposobnosti vašeg lika da dodelite ocene Snazi, Spretnosti, Stavu,, Inteligenciji, Mudrosti i Karizmi. Posle toga, napravite bilo kakve promene u rezultatima vaših sposobnosti kao rezultat vašeg odabira rase.
 
-Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost**i koristeći tabelu Ocene sposobnosti i Modifikatori. Da biste odredili modifikator sposobnosti bez konsultovanja sa tabelom, od ocene sposobnosti oduzmite 10, a zatim podelite rezultat sa 2 (zaokružite nadole). Napišite modifikator pored svake vaše ocene.
+Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i koristeći tabelu Ocene sposobnosti i Modifikatori. Da biste odredili modifikator sposobnosti bez konsultovanja sa tabelom, od ocene sposobnosti oduzmite 10, a zatim podelite rezultat sa 2 (zaokružite nadole). Napišite modifikator pored svake vaše ocene.
 
 
 ##### Izgradnja Bruenora, 3. korak
@@ -681,7 +681,7 @@ Ovaj metod određivanja ocena sposobnosti omogućava vam da kreirate skup od tr
 
 Jednom kada znate osnovne aspekte svog lika u igri, vreme je da ga izobličite kao čoveka. Vašem liku je potrebno ime. Provedite nekoliko minuta razmišljajući o tome kako on ili ona izgleda i kako se ponaša opšte.
 
-Koristeći informacije u poglavlju 4, možete da utvrdite fizički izgled i osobine svog lika. Izaberite **poravnanje **svog lika (moralni kompas koji vodi njegove ili njene odluke) i **ideale**. Poglavlje 4 vam takođe pomaže da identifikujete stvari koje su vam najdraže, nazvane **veze**, i **mane **koje bi ga jednog dana mogle potkopati.
+Koristeći informacije u poglavlju 4, možete da utvrdite fizički izgled i osobine svog lika. Izaberite **poravnanje** svog lika (moralni kompas koji vodi njegove ili njene odluke) i **ideale**. Poglavlje 4 vam takođe pomaže da identifikujete stvari koje su vam najdraže, nazvane **veze**, i **mane** koje bi ga jednog dana mogle potkopati.
 
 Pozadina vašeg lika opisuje odakle potiče, njegovo prvobitno zanimanje i mesto lika u D&D svetu. Vaš DM može ponuditi dodatne pozadine izvan onih obuhvaćenih poglavljem 4 i možda će biti voljan da sarađuje sa vama na stvaranju pozadine koja preciznije odgovara vašem konceptu karaktera.
 
@@ -722,7 +722,7 @@ S obzirom na njegovu istoriju, Bruenorova veza je očigledna: on teži da jednog
 
 Vaša klasa i pozadina određuju **početnu opremu** vašeg lika, uključujući oružje, oklop i drugu avanturističku opremu. zapišite ovu opremu na listu karaktera. Sve takve stavke su detaljno opisane u poglavlju 5, „Oprema“.
 
-Umesto da uzmete opremu koju su vam dali klasa i poreklo, možete da kupite početnu opremu. Imate nekoliko **zlatnika **(gp) koje možete potrošiti na osnovu svoje klase, kao što je prikazano u poglavlju 5. Opsežne liste opreme, sa cenama, takođe se pojavljuju u tom poglavlju. Ako želite, takođe možete dobiti jednu dranguliju bez ikakvih troškova (pogledajte tabelu sa nakitom na kraju poglavlja 5).
+Umesto da uzmete opremu koju su vam dali klasa i poreklo, možete da kupite početnu opremu. Imate nekoliko **zlatnika** (gp) koje možete potrošiti na osnovu svoje klase, kao što je prikazano u poglavlju 5. Opsežne liste opreme, sa cenama, takođe se pojavljuju u tom poglavlju. Ako želite, takođe možete dobiti jednu dranguliju bez ikakvih troškova (pogledajte tabelu sa nakitom na kraju poglavlja 5).
 
 Vaša ocena snage ograničava količinu opreme koju možete nositi. Pokušajte da ne kupujete opremu čija ukupna težina (u kilogramima) prelazi vašu ocenu snage u odnosu na 15.
 
@@ -1163,7 +1163,7 @@ Možete igrati muškog ili ženskog lika bez ostvarivanja bilo kakvih posebnih p
 
 Na primer, muški duhovnik prkosi tradicionalnim rodnim podelama drumskog društva, što bi moglo biti reakcija da tvoj lik napusti to društvo i izađe na površinu.
 
-**Tika i Artemida: Kontrastni likovi **
+**Tika i Artemida: Kontrastni likovi**
 
 Detalji u ovom poglavlju čine veliku razliku u izdvajanju vašeg lika od svakog drugog lika. Razmotrite sledeća dva ljudska borca.
 
@@ -1332,7 +1332,7 @@ Pojedinci se mogu značajno razlikovati od tog tipičnog ponašanja, a malo ljud
 
 **Zakoniti neutralni** (LN) pojedinci deluju u skladu sa zakonom, tradicijom ili ličnim kodeksima. Mnogi monasi i neki čarobnjaci su zakonito neutralni.
 
-**Neutralno **(N) je poravnanje onih koji više vole da se drže podalje od moralnih pitanja i ne zauzimaju stranu, radeći ono što se u to vreme čini najboljim. Gušteri, većina druida i mnogi ljudi su neutralni.
+**Neutralno** (N) je poravnanje onih koji više vole da se drže podalje od moralnih pitanja i ne zauzimaju stranu, radeći ono što se u to vreme čini najboljim. Gušteri, većina druida i mnogi ljudi su neutralni.
 
 **Haotična neutralna** (CN) stvorenja slede svoje hirove držeći svoju ličnu slobodu iznad svega. Mnogi varvari i prevaranti, a neki i bardovi, haotično su neutralni.
 
@@ -1990,7 +1990,7 @@ Napravljen od gipkih i tankih materijala, lagani oklop pogoduje okretnim avantur
 
 Srednji oklop nudi veću zaštitu od lakog oklopa, ali takođe otežava kretanje. Ako nosite srednji oklop, dodajte svoj modifikator spretnosti, na maksimalno +2, osnovnom broju vašeg tipa oklopa da biste odredili svoju klasu oklopa.
 
-**Krzneni **. Ovaj sirovi oklop sastoji se od gustih krzna i kožica. Obično ga nose varvarska plemena, zli humanoidi i drugi ljudi kojima nedostaje pristup alatima i materijalima potrebnim za stvaranje boljeg oklopa.
+**Krzneni**. Ovaj sirovi oklop sastoji se od gustih krzna i kožica. Obično ga nose varvarska plemena, zli humanoidi i drugi ljudi kojima nedostaje pristup alatima i materijalima potrebnim za stvaranje boljeg oklopa.
 
 **Lančana košulja**. Izrađena od međusobno povezanih metalnih prstenova, lančana košulja nosi se između slojeva odeće ili kože. Ovaj oklop nudi umerenu zaštitu gornjeg dela tela korisnika i omogućava da spoljni slojevi priguše zvuk prstenova koji se trljaju jedan o drugi.
 
@@ -2091,14 +2091,14 @@ Doff. Ovo je vreme potrebno za skidanje predmeta. Ako vam je potrebna pomoć u 
 
 Vaša klasa daje znanje određenog oružja, što odražava i fokus klase i alate koje ćete najverovatnije koristiti. Bez obzira na to da li favorizujete dugi mač ili dugački luk, vaše oružje i sposobnost da njime efikasno upravljate mogu značiti razliku između života i smrti tokom avanture.
 
-Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a, njegovu cenu i težinu, štetu koju nanesu prilikom udara i sva posebna svojstva koja poseduju. Svako oružje je klasifikovano ili kao blisko ili kao oružije na daljinu. **Blisko oružje** koristi se za napad na metu na udaljenosti od 5 stopa od vas, dok se **oružje za napad na daljinu **koristi za ciljanje na daljinu.
+Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a, njegovu cenu i težinu, štetu koju nanesu prilikom udara i sva posebna svojstva koja poseduju. Svako oružje je klasifikovano ili kao blisko ili kao oružije na daljinu. **Blisko oružje** koristi se za napad na metu na udaljenosti od 5 stopa od vas, dok se **oružje za napad na daljinu** koristi za ciljanje na daljinu.
 
 POGLEDAJ TABELU ORUŽIJA
 
 
 #### Poznavanje oružja
 
-Vaša rasa, klasa i podvizi mogu vam pružiti znanje sa određenim oružjem ili kategorijama oružja. Dve kategorije su **jednostavne **i **borilačke**. Većina ljudi može koristiti jednostavno oružje sa veštinom. Ovo oružje uključuje palice, buzdovane i drugo oružje koje se često nalazi u rukama običnog stanovništva. Za efikasnu upotrebu borilačkog oružja, uključujući mačeve, sekire i koplja, potrebna je specijalizovanija obuka. Većina ratnika koristi borilačko oružje jer to oružje najbolje koristi njihov stil borbe i obuku.
+Vaša rasa, klasa i podvizi mogu vam pružiti znanje sa određenim oružjem ili kategorijama oružja. Dve kategorije su **jednostavne** i **borilačke**. Većina ljudi može koristiti jednostavno oružje sa veštinom. Ovo oružje uključuje palice, buzdovane i drugo oružje koje se često nalazi u rukama običnog stanovništva. Za efikasnu upotrebu borilačkog oružja, uključujući mačeve, sekire i koplja, potrebna je specijalizovanija obuka. Većina ratnika koristi borilačko oružje jer to oružje najbolje koristi njihov stil borbe i obuku.
 
 Stručnost sa oružjem vam omogućava da dodate svoj bonus za profesionalnost bacanju za napad za svaki napad koji izvršite tim oružjem. Ako napravite bacanje za napad oružjem sa kojim vam nedostaje znanje, ne dodajete svoj bonus za vještinu tom bacanju za napad.
 
@@ -2183,7 +2183,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
 
 **Futrola, samostrel**. Ovaj drveni kofer može da primi do dvadeset strela za samostrela.
 
-**Kutija, karta ili svitak **. Ova cilindrična kožna futrola može da primi do deset smotanih listova papira ili pet smotanih listova pergamenta.
+**Kutija, karta ili svitak**. Ova cilindrična kožna futrola može da primi do deset smotanih listova papira ili pet smotanih listova pergamenta.
 
 **Lanac**. Lanac ima 10 životnih poena. Može se puknuti uspešnom proverom čvrstoće DC 20.
 
@@ -2486,7 +2486,7 @@ Vaš izbor načina života može imati posledice. Održavanje bogatog načina ž
 
 **Bijedno**. Živite u propusnoj štali, kolibi pod blatom odmah izvan grada ili pansionu zaraženom gamadima u najgorem delu grada. Imate sklonište od elemenata, ali živite u očajnom i često nasilnom okruženju, na mestima prepunim bolesti, gladi i nesreće. Vi ste ispod opažanja većine ljudi i imate malo zakonske zaštite. Većina ljudi na ovom nivou životnog stila pretrpela je užasne poteškoće. Mogu biti uznemireni, označeni kao prognanici ili boluju od bolesti.
 
-**Siromašno **. Loš način života znači ići bez komfora dostupnih u stabilnoj zajednici. Jednostavna hrana i konaci, odeća bez konca i nepredvidivi uslovi rezultiraju dovoljnim, mada verovatno neprijatnim iskustvom. Vaš smeštaj može biti soba u stambenoj kući ili u zajedničkoj sobi iznad kafane. Koristite neke pravne zaštite, ali i dalje morate da se borite sa nasiljem, kriminalom i bolestima. Ljudi na ovom nivou životnog stila imaju tendenciju da budu nekvalifikovani radnici, trgovci, trgovci krađom, lopovi, plaćenici i drugi loši tipovi.
+**Siromašno**. Loš način života znači ići bez komfora dostupnih u stabilnoj zajednici. Jednostavna hrana i konaci, odeća bez konca i nepredvidivi uslovi rezultiraju dovoljnim, mada verovatno neprijatnim iskustvom. Vaš smeštaj može biti soba u stambenoj kući ili u zajedničkoj sobi iznad kafane. Koristite neke pravne zaštite, ali i dalje morate da se borite sa nasiljem, kriminalom i bolestima. Ljudi na ovom nivou životnog stila imaju tendenciju da budu nekvalifikovani radnici, trgovci, trgovci krađom, lopovi, plaćenici i drugi loši tipovi.
 
 **Skroman**. Skroman način života drži vas van sirotinjskih četvrti i osigurava vam da možete održavati svoju opremu. Živite u starijem delu grada, iznajmljujete sobu u pansionu, svratištu ili hramu. Ne ostajete gladni ili žedni, a vaši životni uslovi su čisti, i ako su jednostavni. Uobičajeni ljudi koji vode skroman način života uključuju vojnike sa porodicama, radnike, studente, sveštenike, ograđene čarobnjake i slično.
 

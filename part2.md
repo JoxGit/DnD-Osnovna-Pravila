@@ -469,7 +469,7 @@ Ocena snage određuje količinu težine koju možete podneti. Sledeći izrazi d
 
 Pravila za dizanje i nošenje su namerno jednostavna. Evo varijante ako tražite detaljnija pravila za određivanje načina na koji lik ometa težina opreme. Kada koristite ovu varijantu, zanemarite stupac Snaga tabele Armor u poglavlju 5.
 
-Ako nosite težinu veću od 5 puta vaše ocene snage, **opterećeni **ste, što znači da vam brzina pada za 10 stopa.
+Ako nosite težinu veću od 5 puta vaše ocene snage, **opterećeni** ste, što znači da vam brzina pada za 10 stopa.
 
 Ako nosite težinu veću od 10 puta vaše ocene snage, do vaše maksimalne nosivosti, umesto toga ste **opterećeni**, što znači da vaša brzina pada za 20 stopa i imate nedostatak u proveri sposobnosti, napadačkim rolama i spasilačkim bacanjima koja koriste Snaga, spretnost ili ustava.
 
@@ -487,7 +487,7 @@ Provera spretnosti može da modelira svaki pokušaj kretanja okretno, brzo ili t
 
 DM može takođe zatražiti proveru spretnosti (akrobacije) da biste videli da li možete da izvodite akrobatske vratolomije, uključujući ronjenje, rolne, salta i okretanje.
 
-**Spretnost ruku **. Kad god pokušate čin leger-demaina ili ručno podmetanje, kao što je podmetanje nečega drugom ili skrivanje predmeta na vašoj osobi, izvršite proveru spretnosti. DM bi takođe mogao da zatraži proveru spretnosti (lakomislenosti) kako bi utvrdio da li možete podići novčanik sa druge osobe ili izvući nešto iz druge džep osobe.
+**Spretnost ruku** . Kad god pokušate čin leger-demaina ili ručno podmetanje, kao što je podmetanje nečega drugom ili skrivanje predmeta na vašoj osobi, izvršite proveru spretnosti. DM bi takođe mogao da zatraži proveru spretnosti (lakomislenosti) kako bi utvrdio da li možete podići novčanik sa druge osobe ili izvući nešto iz druge džep osobe.
 
 **Sakrivanje**
 
@@ -719,7 +719,7 @@ U situacijama kada je praćenje protoka vremena važno, DM određuje vreme koje
 
 U gradu ili divljini često je primerenija skala **sati**. Avanturisti željni da dođu do usamljenog tornja u srcu šume žure preko tih petnaest milja za nešto manje od četiri sata.
 
-Za duga putovanja, skala **dana **najbolje funkcioniše. Prateći put od Baldurovih kapija do Vaterdeep-a, avanturisti provode četiri neprekidna dana pre nego što im zaseda goblina prekine put.
+Za duga putovanja, skala **dana** najbolje funkcioniše. Prateći put od Baldurovih kapija do Vaterdeep-a, avanturisti provode četiri neprekidna dana pre nego što im zaseda goblina prekine put.
 
 U borbenim i drugim ubrzanim situacijama, igra se oslanja na runde, raspon od 6 sekundi opisan u poglavlju 9.
 
@@ -919,7 +919,7 @@ Prisustvo ili odsustvo svetlosti u okruženju stvara tri kategorije osvetljenost
 
 **Prigušena svetlost**, koja se naziva i senkom, stvara slabo zaklonjeno područje. Oblast prigušenog svetla obično je granica između izvora jake svetlosti, poput baklje, i okoline tame. Meko svetlo sumraka i zore takođe se računa kao prigušeno svetlo. Naročito sjajan pun mesec mogao bi zemlju okupati pri slabom svetlu.
 
-**Tama **stvara jako zatamnjeno područje. Likovi se noću suočavaju s mrakom na otvorenom (čak i sa većinom mesečevih noći), u granicama neosvetljene tamnice ili podzemnog svoda, ili u području magične tame.
+**Tama** stvara jako zatamnjeno područje. Likovi se noću suočavaju s mrakom na otvorenom (čak i sa većinom mesečevih noći), u granicama neosvetljene tamnice ili podzemnog svoda, ili u području magične tame.
 
 
 ##### Slijepilo 
@@ -1645,11 +1645,11 @@ da štete. Cilj može imati koristi od pokrivača samo kada napad ili drugi efek
 
 Postoje tri stepena pokrića. Ako se meta nalazi iza više izvora pokrića, primenjuje se samo onaj najočitiji stepen pokrića; stepeni se ne sabiraju. Na primer, ako je meta iza bića koje pokriva pola i stablo drveta koje pokriva tri četvrtine, meta ima pokriće od tri četvrtine.
 
-Cilj sa **pola zaklona **ima +2 bonusa za spasilačka bacanja AC i spretnosti. Cilj ima polovinu pokrivača ako prepreka blokira najmanje polovinu njenog tela. Prepreka može biti nizak zid, veliki komad nameštaja, usko stablo drveta ili stvorenje, bilo da je to stvorenje neprijatelj ili prijatelj.
+Cilj sa **pola zaklona** ima +2 bonusa za spasilačka bacanja AC i spretnosti. Cilj ima polovinu pokrivača ako prepreka blokira najmanje polovinu njenog tela. Prepreka može biti nizak zid, veliki komad nameštaja, usko stablo drveta ili stvorenje, bilo da je to stvorenje neprijatelj ili prijatelj.
 
 Cilj sa pokrivanjem od **tri četvrtine** ima +5 bonusa za spasilačka bacanja za AC i spretnost. Cilj ima tri četvrtine pokrivača ako je oko tri četvrtine pokrivena preprekom. Prepreka može biti lukavica, prorez strele ili debelo stablo drveta.
 
-Cilj sa **potpunim zaklonom **ne može se direktno ciljati napadom ili čarolijom, iako neke čarolije mogu dostići takvu metu uključivanjem u područje efekta. Cilj ima potpuno pokriće ako je prepreka u potpunosti sakrila.
+Cilj sa **potpunim zaklonom** ne može se direktno ciljati napadom ili čarolijom, iako neke čarolije mogu dostići takvu metu uključivanjem u područje efekta. Cilj ima potpuno pokriće ako je prepreka u potpunosti sakrila.
 
 **Takmičenja u borbi**
 
@@ -1727,7 +1727,7 @@ Dungeon Masters opisuju gubitak pogodaka na različite načine. Kada je vaš tre
 
 Neka bića i predmete je izuzetno teško ili je neobično lako povrediti određenim vrstama oštećenja.
 
-Ako stvorenje ili predmet ima **otpor **prema vrsti oštećenja, šteta te vrste se prepolovljuje na njemu. Ako je neka tvar ili predmet **ranjiv **na vrstu oštećenja, šteta tog tipa se udvostručuje.
+Ako stvorenje ili predmet ima **otpor** prema vrsti oštećenja, šteta te vrste se prepolovljuje na njemu. Ako je neka tvar ili predmet **ranjiv** na vrstu oštećenja, šteta tog tipa se udvostručuje.
 
 Otpor, a zatim ranjivost se primenjuju nakon oštećenja svih ostalih modifikatora. Na primer, stvorenje ima otpor oštećenju udaranjem i pogođen je napadom koji nanosi 25 oštećenja udaranjem. Stvorenje se takođe nalazi u magičnoj auri koja smanjuje svu štetu za 5. 25 šteta se prvo smanji za 5, a zatim prepolovi, pa stvorenje uzima 10 štete.
 
@@ -1770,7 +1770,7 @@ Kotrljajte d20. Ako je rola 10 ili veća, uspećete. U suprotnom ne uspete. Us
 
 **Kotrljanje 1 ili 20**. Kada izvršite spasilačko bacanje i bacite 1 na d20, to se računa kao dva neuspeha. Ako bacite 20 na d20, vraćate 1 pogodak.
 
-**Šteta na 0 poena udaraca **. Ako napravite bilo kakvu štetu dok imate 0 pogodaka, pretrpećete neuspeh u bacanju smrti. Ako je šteta od kritičnog udarca, pretrpećete dva neuspeha. Ako je šteta jednaka ili premašuje vaš maksimum, pogodićete trenutnu smrt.
+**Šteta na 0 poena udaraca** . Ako napravite bilo kakvu štetu dok imate 0 pogodaka, pretrpećete neuspeh u bacanju smrti. Ako je šteta od kritičnog udarca, pretrpećete dva neuspeha. Ako je šteta jednaka ili premašuje vaš maksimum, pogodićete trenutnu smrt.
 
 
 ##### Stabilizacija stvorenja
@@ -1779,7 +1779,7 @@ Najbolji način da spasite stvorenje sa 0 pogođenih poena je da ga izlečite. A
 
 Možete da upotrebite svoju akciju za pružanje prve pomoći nesvesnom stvorenju i pokušavate da je stabilizujete, što zahteva uspešnu proveru mudrosti (medicine) DC 10.
 
-**Stabilno **stvorenje ne baca spasilačka bacanja, iako ima 0 pogodaka, ali ostaje nesvesno. Stvorenje prestaje da bude stabilno i mora ponovo započeti sa izbacivanjem smrti, ako nanese bilo kakvu štetu. Vraća se stabilno stvorenje koje nije izlečeno
+**Stabilno** stvorenje ne baca spasilačka bacanja, iako ima 0 pogodaka, ali ostaje nesvesno. Stvorenje prestaje da bude stabilno i mora ponovo započeti sa izbacivanjem smrti, ako nanese bilo kakvu štetu. Vraća se stabilno stvorenje koje nije izlečeno
 
 1 pogodak nakon 1d4 sata.
 

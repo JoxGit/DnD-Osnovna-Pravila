@@ -202,7 +202,7 @@ Magijske škole pomažu u opisivanju uroka; nemaju svoja pravila, iako se neka p
 
 **Čarolije za gatanje** otkrivaju informacije, bilo u obliku tajni koje su davno zaboravljene, tragove budućnosti, lokacije skrivenih stvari, istinu iza iluzije ili vizije udaljenih ljudi ili mesta.
 
-**Čarolije očaravanja **koriste na um drugih, utičući ili kontrolišući njihovo ponašanje. Takve čarolije mogu učiniti da neprijatelji vide bacača čarolije kao prijatelje, primoraju stvorenja da krenu u akciju ili čak kontrolišu neko drugo stvorenje poput lutke.
+**Čarolije očaravanja** koriste na um drugih, utičući ili kontrolišući njihovo ponašanje. Takve čarolije mogu učiniti da neprijatelji vide bacača čarolije kao prijatelje, primoraju stvorenja da krenu u akciju ili čak kontrolišu neko drugo stvorenje poput lutke.
 
 **Čarolije evokacije** manipulišu magičnom energijom da bi proizvele željeni efekat. Neki pozivaju eksplozije vatre ili groma. Drugi kanališu pozitivnu energiju za zarastanje rana.
 
