@@ -460,7 +460,6 @@ Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator st
   </tr>
   <tr>
    <td><em>Planinski patuljak (+2)</em>
-<p>
 <em>Ljudi (+1)</em>
    </td>
   </tr>
