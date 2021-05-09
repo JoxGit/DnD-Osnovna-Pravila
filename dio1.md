@@ -939,7 +939,7 @@ Avanturisti ponekad napreduju u više klasa. Lupež bi mogao promeniti pravac u 
 
 Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&D svetu i definišu većinu tipičnih avanturista. Pogledajte priručnik za igrače za više informacija.
 
-####Pregled klasa
+#### Pregled klasa
 
 <table>
   <tr>
@@ -1127,27 +1127,53 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
 </table>
 
 
-
-### Cleric
-
-Pogledaj knjigu za detalje
+### Varvar
+[Barbarian](https://www.dndbeyond.com/sources/basic-rules/classes#Barbarian)
 
 
-### Fighter
-
-Pogledaj knjigu za detalje
-
-
-### Rogue
-
-Pogledaj knjigu za detalje
+### Bard
+[Bard](https://www.dndbeyond.com/sources/basic-rules/classes#Bard)
 
 
-### Wizard
+### Sveštenik
+[Cleric](https://www.dndbeyond.com/sources/basic-rules/classes#Cleric)
 
-Pogledaj knjigu za detalje
 
-Napomena: Postoje i druge klase koje se mogu pronaći u knjigama
+### Druid
+[Druid](https://www.dndbeyond.com/sources/basic-rules/classes#Druid)
+
+
+### Borac
+[Fighter](https://www.dndbeyond.com/sources/basic-rules/classes#Fighter)
+
+
+### Monah
+[Monk](https://www.dndbeyond.com/sources/basic-rules/classes#Monk)
+
+
+### Paladin
+[Paladin](https://www.dndbeyond.com/sources/basic-rules/classes#Paladin)
+
+
+### Rendžer
+[Ranger](https://www.dndbeyond.com/sources/basic-rules/classes#Ranger)
+
+
+### Bitanga
+[Rogue](https://www.dndbeyond.com/sources/basic-rules/classes#Rogue)
+
+
+### Vrač
+[Sorcerer](https://www.dndbeyond.com/sources/basic-rules/classes#Sorcerer)
+
+
+### Veštac
+[Warlock](https://www.dndbeyond.com/sources/basic-rules/classes#Warlock)
+
+
+### Čarobnjak
+[Wizard](https://www.dndbeyond.com/sources/basic-rules/classes#Wizard)
+
 
 
 ## Poglavlje 4: Ličnost i pozadina
