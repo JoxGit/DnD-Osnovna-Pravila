@@ -1,4 +1,4 @@
-
+<div style="text-align: justify">
 
 ## UVOD
 
@@ -3466,3 +3466,6 @@ Kada steknete novi nivo u klasi, dobijate njegove karakteristike za taj nivo. Ne
 Podvig predstavlja talenat ili oblast stručnosti koja daje karakteru posebne sposobnosti. Oličenje treninga, iskustva, i sposobnosti iznad onoga što klasa pruža. Vidite poglavlje 6 Priručnika za igrača za više informacija.
 
 Na određenim nivoima, vaša klasa vam daje opciju poboljšanja bodova sposobnosti. Koristeći opcionalno pravilo podviga, možete se odreći uzimanja te funkcije da biste preduzeli podvig po vašem izboru umesto toga. Svaki podvig možete preduzeti samo jednom, osim ako opis podviga govori drugačije. Morate ispuniti sve preduslove navedene u podvigu za dobijanje tog podviga. Ako ikada izgubite preduslov za podvig, ne može da koristite taj podvig dok ponovo ne steknete preduslov.
+
+
+</div>
