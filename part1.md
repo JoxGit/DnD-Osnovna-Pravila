@@ -1,4 +1,4 @@
-<div style="text-align: justify">
+
 
 ## UVOD
 
@@ -3467,5 +3467,3 @@ Podvig predstavlja talenat ili oblast stručnosti koja daje karakteru posebne sp
 
 Na određenim nivoima, vaša klasa vam daje opciju poboljšanja bodova sposobnosti. Koristeći opcionalno pravilo podviga, možete se odreći uzimanja te funkcije da biste preduzeli podvig po vašem izboru umesto toga. Svaki podvig možete preduzeti samo jednom, osim ako opis podviga govori drugačije. Morate ispuniti sve preduslove navedene u podvigu za dobijanje tog podviga. Ako ikada izgubite preduslov za podvig, ne može da koristite taj podvig dok ponovo ne steknete preduslov.
 
-
-</div>
