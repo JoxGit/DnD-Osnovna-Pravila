@@ -2,11 +2,11 @@
 # **DIO 1**
 # **KREIRANJE LIKA**
 
+![Chapter 1](https://media-waterdeep.cursecdn.com/attachments/4/972/101.png)
+
 
 ## Poglavlje 1: Likovi korak po korak
 [D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters)
-
-![Chapter 1](https://media-waterdeep.cursecdn.com/attachments/4/972/101.png)
 
 Vaš prvi korak u igranju avanturista u igri Dungeons & Dragons je zamišljanje i stvaranje sopstvenog lika. Vaš lik je kombinacija statistike igre, igranje uloga i vaše mašte. Vi birate rasu (kao što je čovek ili polutan) i klasu (poput borca ili čarobnjaka). Takođe ste izmislili ličnost, izgled i prošlost vašeg karaktera. Jednom dovršen, vaš lik služi kao vaš predstavnik u igri, vaš avatar u svetu Dungeons & Dragons.
 
@@ -482,7 +482,7 @@ Korišćenjem ove metode, 15 je najviša ocjena sposobnosti sa kojim možete za
 Ovaj metod određivanja ocena sposobnosti omogućava vam da kreirate skup od tri velika broja i tri niska (15, 15, 15, 8, 8, 8), skup brojeva koji su iznad proseka i gotovo jednake (13, 13, 13, 12, 12, 12), ili bilo koji skup brojeva između tih krajnosti.
 
 
-#### 4. Opišite svoj karakter
+#### 4. Opišite svog lika
 
 Jednom kada znate osnovne aspekte svog lika u igri, vreme je da ga izobličite kao čoveka. Vašem liku je potrebno ime. Provedite nekoliko minuta razmišljajući o tome kako on ili ona izgleda i kako se ponaša opšte.
 
@@ -889,26 +889,41 @@ Neke rase imaju podrase. Članovi podrase imaju osobine roditeljske rase pored o
 
 
 
-### Patuljci
-
-Pogledaj knjigu za detalje
-
-
-### Vilenjaci
-
-Pogledaj knjigu za detalje
+### Patuljak
+[Dwarf](https://www.dndbeyond.com/sources/basic-rules/races#Dwarf)
 
 
-### Polutani
+### Vilenjak
+[Elf](https://www.dndbeyond.com/sources/basic-rules/races#Elf)
 
-Pogledaj knjigu za detalje
+
+### Polutan
+[Halfling](https://www.dndbeyond.com/sources/basic-rules/races#Halfling)
 
 
-### Ljudi
+### Čovjek
+[Human](https://www.dndbeyond.com/sources/basic-rules/races#Human)
 
-Pogledaj knjigu za detalje
 
-Napomena: Postoje i druge rase koje se mogu pronaći u knjigama
+### Dragonborn
+[Dragonborn](https://www.dndbeyond.com/sources/basic-rules/races#Dragonborn)
+
+
+### Gnom
+[Gnome](https://www.dndbeyond.com/sources/basic-rules/races#Gnome)
+
+
+### Polu Vilenjak
+[Half-Elf](https://www.dndbeyond.com/sources/basic-rules/races#Half-Elf)
+
+
+### Polu Ork
+[Half-Orc](https://www.dndbeyond.com/sources/basic-rules/races#Half-Orc)
+
+
+### Tifling
+[Tiefling](https://www.dndbeyond.com/sources/basic-rules/races#Tiefling)
+
 
 
 ## Poglavlje 3: Klase
@@ -922,8 +937,198 @@ Vaša klasa vam daje razne posebne karakteristike, poput majstorstva borca za or
 
 Avanturisti ponekad napreduju u više klasa. Lupež bi mogao promeniti pravac u životu i vladati u klasi sveštenika, dok bi nastavlja da napreduje kao lupež. Poznato je da vilenjaci kombinuju borilačko majstorstvo sa magičnim treningom i istovremeno napreduju kao borci i čarobnjaci. Neobavezna pravila za kombinovanje klasa na ovaj način, koja se nazivaju višeklasno, mogu se naći u Priručniku za igrače.
 
-Četiri osnovne klase - navedene u tabeli Klase - nalaze se u gotovo svakom D&D svetu i definišu većinu tipičnih avanturista. Pogledajte priručnik za igrače za više informacija.
+Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&D svetu i definišu većinu tipičnih avanturista. Pogledajte priručnik za igrače za više informacija.
 
+####Pregled klasa
+
+<table>
+  <tr>
+   <td><strong>Class</strong>
+   </td>
+   <td><strong>Description</strong>
+   </td>
+   <td><strong>Hit Die</strong>
+   </td>
+   <td><strong>Primary Ability</strong>
+   </td>
+   <td><strong>Saving Throw</strong>
+<p>
+<strong>Proficiencies</strong>
+   </td>
+   <td><strong>Armor and Weapon</strong>
+<p>
+<strong>Proficiencies</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Barbarian">Barbarian</a></strong>
+   </td>
+   <td>A fierce warrior of primitive background who can enter a battle rage
+   </td>
+   <td>d12
+   </td>
+   <td>Strength
+   </td>
+   <td>Strength & Constitution
+   </td>
+   <td>Light and medium armor, shields, simple and martial weapons
+   </td>
+  </tr>
+  <tr>
+   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Bard">Bard</a></strong>
+   </td>
+   <td>An inspiring magician whose power echoes the music of creation
+   </td>
+   <td>d8
+   </td>
+   <td>Charisma
+   </td>
+   <td>Dexterity & Charisma
+   </td>
+   <td>Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords
+   </td>
+  </tr>
+  <tr>
+   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Cleric">Cleric</a></strong>
+   </td>
+   <td>A priestly champion who wields divine magic in service of a higher power
+   </td>
+   <td>d8
+   </td>
+   <td>Wisdom
+   </td>
+   <td>Wisdom & Charisma
+   </td>
+   <td>Light and medium armor, shields, simple weapons
+   </td>
+  </tr>
+  <tr>
+   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Druid">Druid</a></strong>
+   </td>
+   <td>A priest of the Old Faith, wielding the powers of nature — moonlight and plant growth, fire and lightning — and adopting animal forms
+   </td>
+   <td>d8
+   </td>
+   <td>Wisdom
+   </td>
+   <td>Intelligence & Wisdom
+   </td>
+   <td>Light and medium armor (nonmetal), shields (nonmetal), clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
+   </td>
+  </tr>
+  <tr>
+   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Fighter">Fighter</a></strong>
+   </td>
+   <td>A master of martial combat, skilled with a variety of weapons and armor
+   </td>
+   <td>d10
+   </td>
+   <td>Strength or Dexterity
+   </td>
+   <td>Strength & Constitution
+   </td>
+   <td>All armor, shields, simple and martial weapons
+   </td>
+  </tr>
+  <tr>
+   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Monk">Monk</a></strong>
+   </td>
+   <td>A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection
+   </td>
+   <td>d8
+   </td>
+   <td>Dexterity & Wisdom
+   </td>
+   <td>Strength & Dexterity
+   </td>
+   <td>Simple weapons, shortswords
+   </td>
+  </tr>
+  <tr>
+   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Paladin">Paladin</a></strong>
+   </td>
+   <td>A holy warrior bound to a sacred oath
+   </td>
+   <td>d10
+   </td>
+   <td>Strength & Charisma
+   </td>
+   <td>Wisdom & Charisma
+   </td>
+   <td>All armor, shields, simple and martial weapons
+   </td>
+  </tr>
+  <tr>
+   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Ranger">Ranger</a></strong>
+   </td>
+   <td>A warrior who uses martial prowess and nature magic to combat threats on the edges of civilization
+   </td>
+   <td>d10
+   </td>
+   <td>Dexterity & Wisdom
+   </td>
+   <td>Strength & Dexterity
+   </td>
+   <td>Light and medium armor, shields, simple and martial weapons
+   </td>
+  </tr>
+  <tr>
+   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Rogue">Rogue</a></strong>
+   </td>
+   <td>A scoundrel who uses stealth and trickery to overcome obstacles and enemies
+   </td>
+   <td>d8
+   </td>
+   <td>Dexterity
+   </td>
+   <td>Dexterity & Intelligence
+   </td>
+   <td>Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords
+   </td>
+  </tr>
+  <tr>
+   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Sorcerer">Sorcerer</a></strong>
+   </td>
+   <td>A spellcaster who draws on inherent magic from a gift or bloodline
+   </td>
+   <td>d6
+   </td>
+   <td>Charisma
+   </td>
+   <td>Constitution & Charisma
+   </td>
+   <td>Daggers, darts, slings, quarterstaffs, light crossbows
+   </td>
+  </tr>
+  <tr>
+   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Warlock">Warlock</a></strong>
+   </td>
+   <td>A wielder of magic that is derived from a bargain with an extraplanar entity
+   </td>
+   <td>d8
+   </td>
+   <td>Charisma
+   </td>
+   <td>Wisdom & Charisma
+   </td>
+   <td>Light armor, simple weapons
+   </td>
+  </tr>
+  <tr>
+   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Wizard">Wizard</a></strong>
+   </td>
+   <td>A scholarly magic-user capable of manipulating the structures of reality
+   </td>
+   <td>d6
+   </td>
+   <td>Intelligence
+   </td>
+   <td>Intelligence & Wisdom
+   </td>
+   <td>Daggers, darts, slings, quarterstaffs, light crossbows
+   </td>
+  </tr>
+</table>
 
 
 
@@ -942,7 +1147,7 @@ Pogledaj knjigu za detalje
 Pogledaj knjigu za detalje
 
 
-### WIzard
+### Wizard
 
 Pogledaj knjigu za detalje
 
