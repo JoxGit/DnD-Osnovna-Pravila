@@ -3,7 +3,8 @@
 # **PRAVILO MAGIJE**
 
 
-## Poglavlje 10: Čaranje [DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/spellcasting)
+## Poglavlje 10: Čaranje
+[DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/spellcasting)
 
 Magija prožima svetove D&D i najčešće se pojavljuje u obliku čarolije.
 
@@ -274,7 +275,8 @@ Sva magija zavisi od Veave-a, mada mu različite vrste magije pristupaju na razn
 Kad god se stvori magični efekat, niti Veave-a se prepliću, uvijaju i presavijaju kako bi efekat bio moguć. Kada likovi koriste gatačke čarolije poput otkrivanja magije ili se identifikuju, oni naziru Tkanje. Čarolija kao što je magija raspršivanja zaglađuje Tkanje. Čarolije poput antimagičnog polja preuređuju Tkanje tako da magija teče okolo, a ne kroz područje pogođeno čarolijom. A na mestima gde je Tkanje oštećeno ili pocepano, magija deluje na nepredvidive načine - ili nikako.
 
 
-## Poglavlje 11: Čarolije [DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/spells)
+## Poglavlje 11: Čarolije
+[DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/spells)
 
 Ovo poglavlje opisuje najčešće čarolije u svetu Dungeons & Dragons. Poglavlje započinje spiskovima odabranih čarolija za najčešće klasične klase magičara. Podsjetnik sadrži opis čarolije, predstavljeni po abecednom redu po nazivu čarolije.
 
