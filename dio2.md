@@ -4,7 +4,7 @@
 
 
 ## Poglavlje 7: Korišćenje bodova sposobnost
-[DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores)
+[D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores)
 
 Šest sposobnosti pruža brz opis fizičkih i mentalnih karakteristika svakog stvorenja: **Snaga**, merenje fizičke snage **Spretnost**, merenje okretnosti **Stav**, merenje izdržljivosti **Inteligencija**, merenje rasuđivanja i pamćenja **Mudrost**, merenje percepcije i uvida **Karizma**, merenje snage ličnosti.
 
@@ -695,7 +695,7 @@ Rezultat uspešnog ili neuspešnog bacanja je takođe detaljno opisan u efektu k
 
 
 ## Poglavlje 8: Avantura
-[DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/adventuring)
+[D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/adventuring)
 
 Udubljujući se u drevnu Grobnicu užasa, provlačeći se kroz uličice Vaterdeep-a, probijajući svež put kroz guste džungle na ostrvu Dread - od ovih stvari su napravljene avanture Dungeons & Dragons. Vaš lik u igri mogao bi istražiti zaboravljene ruševine i neistražene zemlje, otkriti tamne tajne i zlokobne zavere i ubiti gnusna čudovišta. A ako sve ide u redu, vaš lik će preživeti i zahtevati bogate nagrade pre nego što  krene u novu avanturu.
 
@@ -1130,7 +1130,7 @@ Obuka traje 250 dana i košta 1 gp dnevno. Nakon što potrošite potrebnu količ
 
 
 ## Poglavlje 9: Borba
-[DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/combat)
+[D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/combat)
 
 Zveket mača koji udara o štit. Užasan zvuk pucanja dok se monstruozne kandže prodiru kroz oklop. Sjajni bljesak svetlosti dok plamena kugla cveta iz čarobnjakove čarolije. Oštar trzaj krvi u vazduhu, presecajući smrad gnusnih čudovišta.
 

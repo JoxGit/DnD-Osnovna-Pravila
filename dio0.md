@@ -1,6 +1,6 @@
 
 # UVOD
-[DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/introduction)
+[D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/introduction)
 
 Igra uloga Dungeons & Dragons govori o pripovedanju u svetovima mačeva i čaranja. Deli elemente sa igrama izmišljanja iz detinjstva. Kao i te igre, D&D pokreće mašta. Radi se o opisivanju visokog zamka ispod olujnog noćnog neba i zamišljanju kako fantazijski avanturista može reagovati na izazove koje scena predstavlja.
 
@@ -75,7 +75,7 @@ Igra Dungeons & Dragons odvija se prema ovom osnovnom obrascu.
 
 2. **Igrači opisuju šta žele da rade**. Ponekad jedan igrač govori u ime cele ekipe, govoreći: „Idemo na istočna vrata“, na primer. Drugi put različiti avanturisti rade različite stvari: jedan avanturista može pretraživati škrinju s blagom, dok drugi ispituje ezoterični simbol ugraviran na zidu, a treći čuva čudovišta. Igrači ne treba da se smenjuju, ali DM sluša svakog igrača i odlučuje kako da reši te radnje.
 
-Rešavanje zadatka je ponekad lako. Ako avanturista želi da pređe sobu i otvori vrata, DM može samo reći da se vrata otvore i opisati ono što leži dalje. Ali vrata su možda zaključana, pod može kriti smrtonosnu zamku ili neke druge okolnosti koje avanturistima čine izazovnim da izvrše zadatak. U tim slučajevima DM odlučuje šta će se desiti, često se oslanjajući na bacanje kocke  za određivanje rezultat akcija.
+    Rešavanje zadatka je ponekad lako. Ako avanturista želi da pređe sobu i otvori vrata, DM može samo reći da se vrata otvore i opisati ono što leži dalje. Ali vrata su možda zaključana, pod može kriti smrtonosnu zamku ili neke druge okolnosti koje avanturistima čine izazovnim da izvrše zadatak. U tim slučajevima DM odlučuje šta će se desiti, često se oslanjajući na bacanje kocke  za određivanje rezultat akcija.
 
 3. **DM pripoveda o rezultatima akcija avanturista**. Opisivanje rezultata često dovodi do druge tačke odluke, koja vraća tok igre nazad u korak 1.
 

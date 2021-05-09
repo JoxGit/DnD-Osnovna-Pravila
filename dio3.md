@@ -4,7 +4,7 @@
 
 
 ## Poglavlje 10: Čaranje
-[DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/spellcasting)
+[D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/spellcasting)
 
 Magija prožima svetove D&D i najčešće se pojavljuje u obliku čarolije.
 
@@ -276,7 +276,7 @@ Kad god se stvori magični efekat, niti Veave-a se prepliću, uvijaju i presavi
 
 
 ## Poglavlje 11: Čarolije
-[DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/spells)
+[D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/spells)
 
 Ovo poglavlje opisuje najčešće čarolije u svetu Dungeons & Dragons. Poglavlje započinje spiskovima odabranih čarolija za najčešće klasične klase magičara. Podsjetnik sadrži opis čarolije, predstavljeni po abecednom redu po nazivu čarolije.
 
