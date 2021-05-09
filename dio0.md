@@ -1,5 +1,5 @@
 
-# UVOD
+# UVOD [DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/introduction)
 
 Igra uloga Dungeons & Dragons govori o pripovedanju u svetovima mačeva i čaranja. Deli elemente sa igrama izmišljanja iz detinjstva. Kao i te igre, D&D pokreće mašta. Radi se o opisivanju visokog zamka ispod olujnog noćnog neba i zamišljanju kako fantazijski avanturista može reagovati na izazove koje scena predstavlja.
 

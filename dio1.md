@@ -3,7 +3,7 @@
 # **KREIRANJE LIKA**
 
 
-## Poglavlje 1: Likovi korak po korak
+## Poglavlje 1: Likovi korak po korak [DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters)
 
 Vaš prvi korak u igranju avanturista u igri Dungeons & Dragons je zamišljanje i stvaranje sopstvenog lika. Vaš lik je kombinacija statistike igre, igranje uloga i vaše mašte. Vi birate rasu (kao što je čovek ili polutan) i klasu (poput borca ili čarobnjaka). Takođe ste izmislili ličnost, izgled i prošlost vašeg karaktera. Jednom dovršen, vaš lik služi kao vaš predstavnik u igri, vaš avatar u svetu Dungeons & Dragons.
 
@@ -823,7 +823,7 @@ Na četvrtom nivou (nivoi 17–20), likovi postižu vrhunac svojih klasnih karak
 
 
 
-## Poglavlje 2: Rasa
+## Poglavlje 2: Rase [DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/races)
 
 Poseta jednom od velikih gradova u svetu Dungeons & Dragonsa - Waterdeep-u, Slobodnom gradu Greihavka ili čak neobičnom Sigilu, Gradu Vrata - preplavljuje čula. Glasovi brbljaju na bezbroj različitih jezika. Mirisi kuvanja u desetinama različitih kuhinja mešaju se sa mirisima prepunih ulica i loših sanitarnih uslova. Zgrade u bezbroj arhitektonskih stilova pokazuju raznoliko poreklo svojih stanovnika.
 
@@ -907,7 +907,7 @@ Pogledaj knjigu za detalje
 Napomena: Postoje i druge rase koje se mogu pronaći u knjigama
 
 
-## Poglavlje 3: Klasa
+## Poglavlje 3: Klase [DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/classes)
 
 Avanturisti su izvanredni ljudi, vođeni žeđu za uzbuđenjem u životu kakavom se drugi nikada ne bi usudili. Oni su heroji, primorani da istražuju mračna mesta sveta i preuzmu izazove sa kojima manje žene i muškarci ne mogu da se suprotstave.
 
@@ -944,7 +944,7 @@ Pogledaj knjigu za detalje
 Napomena: Postoje i druge klase koje se mogu pronaći u knjigama
 
 
-## Poglavlje 4: Ličnost i pozadina
+## Poglavlje 4: Ličnost i pozadina [DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/personality-and-background)
 
 Likove definiše mnogo više od njihove rase i klase. Oni su pojedinci sa sopstvenim pričama, interesovanjima, vezama i mogućnostima mimo njih koju definišu klasa i rasa. Ovo poglavlje objašnjava detalje koji razlikuju likove jedni od drugih, uključujući osnove imena i fizičkog opisa, pravila porekla i jezika, te preciznije tačke ličnosti i poravnanja.
 
@@ -1501,7 +1501,7 @@ Spisak pozadnina - detalji se mogu pronaći u knjigama
 
 
 
-## Poglavlje 5: Oprema
+## Poglavlje 5: Oprema [DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/equipment)
 
 Tržište velikog grada vrvi od kupaca i prodavaca raznih vrsta: patuljastih kovača i drvodjelja vilenjaka, farmera polutana i draguljara gnoma, a da ne pominjemo ljude svih oblika, veličina i boja iz različitih nacija i kultura. U najvećim gradovima nudi se na prodaju gotovo sve što se može zamisliti, od egzotičnih začina i luksuzne odeće do pletenih košara i praktičnih mačeva.
 
@@ -3232,7 +3232,7 @@ Kada napravite svoj lik, možete se jednom zakotrljati po stolu sa nakitom da bi
 
 
 
-## Poglavlje 6: Opcije prilagođavanja
+## Poglavlje 6: Opcije prilagođavanja [DnD Beyond link](https://www.dndbeyond.com/sources/basic-rules/customization-options)
 
 Kombinacija rezultata sposobnosti, rase, klase i pozadina definiše mogućnosti vašeg lika u igri, a lični detalji koje kreirate postavili su vaš karakter u odnosu na svakog drugog lika. Čak i unutar vaše klase i rase, imate mogućnosti da fino podesite ono što vaše lik može. Ali nekoliko igrača - uz dozvolu DM-a - želi da odete korak dalje.
 
