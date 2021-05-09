@@ -3240,6 +3240,8 @@ Kada napravite svoj lik, možete se jednom zakotrljati po stolu sa nakitom da bi
 ## Poglavlje 6: Opcije prilagođavanja
 [D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/customization-options)
 
+![Chapter 1](https://media-waterdeep.cursecdn.com/attachments/4/972/101.png)
+
 Kombinacija rezultata sposobnosti, rase, klase i pozadina definiše mogućnosti vašeg lika u igri, a lični detalji koje kreirate postavili su vaš karakter u odnosu na svakog drugog lika. Čak i unutar vaše klase i rase, imate mogućnosti da fino podesite ono što vaše lik može. Ali nekoliko igrača - uz dozvolu DM-a - želi da odete korak dalje.
 
 Poglavlje 6 Priručnika za igrača definiše dva opcionalni skupa pravila za prilagođavanje vašeg karaktera: višeklasiranje i podvizi. Višeklasiranje vam omogućava da kombinujete klase zajedno, a podvizi su posebne opcije koje možete odaberite umesto da povećate vrijednosti svojih ocjena sposobnosti dobijanjem nivoa. Vaš DM odlučuje da li su ove opcije dostupne u kampanji.
