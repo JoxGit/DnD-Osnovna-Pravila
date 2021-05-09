@@ -6,6 +6,8 @@
 ## Poglavlje 1: Likovi korak po korak
 [D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters)
 
+![Chapter 1](https://media-waterdeep.cursecdn.com/attachments/4/972/101.png)
+
 Vaš prvi korak u igranju avanturista u igri Dungeons & Dragons je zamišljanje i stvaranje sopstvenog lika. Vaš lik je kombinacija statistike igre, igranje uloga i vaše mašte. Vi birate rasu (kao što je čovek ili polutan) i klasu (poput borca ili čarobnjaka). Takođe ste izmislili ličnost, izgled i prošlost vašeg karaktera. Jednom dovršen, vaš lik služi kao vaš predstavnik u igri, vaš avatar u svetu Dungeons & Dragons.
 
 Pre nego što zaronite u 1. korak dole, razmislite o tome kakvog avanturistu želite da igrate. Možda ste hrabri borac, prikriveni lupež, strastveni sveštenik ili kičast čarobnjak. Ili bi vas možda više zanimao nekonvencionalan lik, poput snažnog lupeža koji voli borbu prsa u prsa ili vrsnog strelca koji izdaleka bira neprijatelje. Da li volite fantaziju sa patuljcima ili vilenjacima? Pokušajte da izgradite lik jedne od tih rasa. Da li želite da vaš lik bude najžilaviji avanturista za stolom? Razmislite o klasi borca. Ako ne znate odakle da započnete, pogledajte ilustracije da biste videli šta te najviše interesuje.
@@ -3239,8 +3241,6 @@ Kada napravite svoj lik, možete se jednom zakotrljati po stolu sa nakitom da bi
 
 ## Poglavlje 6: Opcije prilagođavanja
 [D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/customization-options)
-
-![Chapter 1](https://media-waterdeep.cursecdn.com/attachments/4/972/101.png)
 
 Kombinacija rezultata sposobnosti, rase, klase i pozadina definiše mogućnosti vašeg lika u igri, a lični detalji koje kreirate postavili su vaš karakter u odnosu na svakog drugog lika. Čak i unutar vaše klase i rase, imate mogućnosti da fino podesite ono što vaše lik može. Ali nekoliko igrača - uz dozvolu DM-a - želi da odete korak dalje.
 
