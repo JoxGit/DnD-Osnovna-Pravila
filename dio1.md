@@ -282,7 +282,7 @@ Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i kor
    </td>
   </tr>
   <tr>
-   <td><em>Planinski patuljak (+2)</em> <em>Ljudi (+1)</em>
+   <td><em>Planinski patuljak (+2)</em> <em>Čovjek (+1)</em>
    </td>
   </tr>
 </table>
@@ -307,7 +307,7 @@ Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i kor
    </td>
   </tr>
   <tr>
-   <td><em>Vilenjak (+2)</em> <em>Polutan(+2)</em> <em>Ljudi (+1)</em>
+   <td><em>Vilenjak (+2)</em> <em>Polutan (+2)</em> <em>Čovjek (+1)</em>
    </td>
   </tr>
 </table>
@@ -332,7 +332,7 @@ Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i kor
    </td>
   </tr>
   <tr>
-   <td><em>Patuljak (+2)</em> <em>Stasiti polutani (+1)</em> <em>Ljudi (+1)</em>
+   <td><em>Patuljak (+2)</em> <em>Stasiti polutan (+1)</em> <em>Čovjek (+1)</em>
    </td>
   </tr>
 </table>
@@ -357,7 +357,7 @@ Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i kor
    </td>
   </tr>
   <tr>
-   <td><em>Visoki vilenjak (+1)</em> <em>Ljudi (+1)</em>
+   <td><em>Visoki vilenjak (+1)</em> <em>Čovjek (+1)</em>
    </td>
   </tr>
 </table>
@@ -382,7 +382,7 @@ Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i kor
    </td>
   </tr>
   <tr>
-   <td><em>Brdski patuljak (+1)</em><em>Drveni vilenjak (+1)</em> <em>Ljudski (+1)</em>
+   <td><em>Brdski patuljak (+1)</em><em>Šumski vilenjak (+1)</em> <em>Čovjek (+1)</em>
    </td>
   </tr>
 </table>
@@ -407,7 +407,7 @@ Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i kor
    </td>
   </tr>
   <tr>
-   <td><em>Polutan laganih nogu (+1)</em> <em>Ljudi (+1)</em>
+   <td><em>Polutan laganih nogu (+1)</em> <em>Čovjek (+1)</em>
    </td>
   </tr>
 </table>
@@ -951,9 +951,9 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
    </td>
    <td><strong>Primary Ability</strong>
    </td>
-   <td><strong>Saving Throw</strong> <strong>Proficiencies</strong>
+   <td><strong>Saving Throw Proficiencies</strong>
    </td>
-   <td><strong>Armor and Weapon</strong><strong>Proficiencies</strong>
+   <td><strong>Armor and Weapon Proficiencies</strong>
    </td>
   </tr>
   <tr>
@@ -1636,6 +1636,21 @@ Vaše veze mogu biti vezane za vašu klasu, vaše poreklo, rasu ili neki drugi a
 Na kraju, odaberite manu za svoj karakter. Manjkavost vašeg lika predstavlja neki porok, prinudu, strah ili slabost - posebno sve što bi neko drugi mogao iskoristiti da vas dovede u propast ili da deluje protiv vašeg najboljeg interesa. Značajnija od negativnih osobina ličnosti, mana može odgovoriti na bilo koje od ovih pitanja: Šta vas razljuti? Koja je osoba, koncept ili događaj od koje se plašite? Koji su tvoji poroci 
 
 
+>**Tika i Artemida: Lične karakteristike**
+>
+>Tika i Artemida imaju različite osobine ličnosti. Tika Vailan ne voli hvalisanje i plaši se visine koja je rezultat lošeg pada tokom njene lopovske karijere. Artemis Entreri je uvek spreman za najgore i kreće se sa brzim, preciznim samopouzdanjem.
+>
+>Uzmite u obzir njihove ideale. Tika Vailan je nevina, gotovo detinjasta, veruje u vrednost života i važnost uvažavanja svih. Neutralno dobra u poravnanju, ona se drži ideala života i poštovanja. Artemis Entreri nikada ne dozvoljava da ga vladaju njegove emocije, i neprestano se izaziva da poboljša svoje veštine. Njegovo zakonito zlo poravnanje daje mu ideale nepristrasnosti i žudnju za moći.
+>
+>Veza Tike Vailan je sa gostionicom u Poslednjem Domu. Vlasnik gostionice pružio joj je novu životnu šansu, a prijateljstvo sa saputnicima u avanturi steklo je tokom njenog rada u njoj. Njeno uništavanje pljačkaške zmaj-armije daje Tiki vrlo lični razlog da ih mrzi vatrenom strašću. Njena veza mogla bi se izraziti kao „Učiniću sve što je potrebno kazni Zamj-armije zbog uništenja konaka Poslednjeg Doma “.
+>
+>Veza Artemisa Entrerija je čudna, gotovo paradoksalna veza sa Drizztom Do’Urdenom, ravan mu je u maču i mračnoj odlučnosti. U svojoj prvoj bici sa Drizztom, Artemis je prepoznao nešto od sebe kod svog protivnika, što je pokazatelj da bi, da je njegov život tekao drugačije, možda vodio život sličniji herojskom drovu. Od tog trenutka, Artemis je više od kriminalnog ubice - on je antiheroj, vođen njegovim rivalstvom sa Drizztom. Njegova veza bi se mogla izraziti kao „Neću mirovati dok se ne pokažem boljom od Drizzta Do’Urdena“.
+>
+>Svaki od ovih likova takođe ima važnu manu. Tika Vailan je naivna i emocionalno ranjiva, mlađa od svojih saputnika i iznervirana što još uvek misle o njoj kao detetu koje su poznavali pre mnogo godina. Mogla bi čak doći u iskušenje da deluje protiv svojih principa ako je uverena da će određeno dostignuće pokazati njenu zrelost. Artemis Entreri je potpuno zazidan od bilo kakvih ličnih odnosa i samo želi da ostane sam.
+>
+>Pored toga, ako imate inspiraciju, možete nagraditi drugog igrača za dobro igranje uloga, pametno razmišljanje ili jednostavno bavljenje nečim uzbudljivim u igri. Kada drugi lik igrača učini nešto što zaista doprinosi priči na zabavan i zanimljiv način, možete se odreći svoje inspiracije da biste tom liku dali inspiraciju.
+
+
 ### Inspiracija
 
 Inspiracija je pravilo koje Dungeon Master može iskoristiti da vas nagradi za igranje vašeg lika na način koji je veran njegovim ličnostima, idealu, vezi i nedostatku. Koristeći inspiraciju, možete se oslanjati na svoje osobine ličnosti saosećanja sa ugnjetenima da vam pruži prednost u pregovorima sa prosjačkim princom. Ili vam inspiracija može dozvoliti da pozovete svoju vezu za odbranu svog rodnog sela kako biste prevazišli efekat čarolije koja vam jebačena na vas.
@@ -1651,21 +1666,6 @@ Ili imate inspiraciju ili je nemate - ne možete da napravite zalihe višestruki
 #### Korišćenje inspiracije
 
 Ako imate inspiraciju, možete je potrošiti kada napravite napad, spasilačko bacanje ili proveru sposobnosti. Trošenje inspiracije daje vam prednost na tom bacanju.
-
-
->**Tika i Artemida: Lične karakteristike**
->
->Tika i Artemida imaju različite osobine ličnosti. Tika Vailan ne voli hvalisanje i plaši se visine koja je rezultat lošeg pada tokom njene lopovske karijere. Artemis Entreri je uvek spreman za najgore i kreće se sa brzim, preciznim samopouzdanjem.
->
->Uzmite u obzir njihove ideale. Tika Vailan je nevina, gotovo detinjasta, veruje u vrednost života i važnost uvažavanja svih. Neutralno dobra u poravnanju, ona se drži ideala života i poštovanja. Artemis Entreri nikada ne dozvoljava da ga vladaju njegove emocije, i neprestano se izaziva da poboljša svoje veštine. Njegovo zakonito zlo poravnanje daje mu ideale nepristrasnosti i žudnju za moći.
->
->Veza Tike Vailan je sa gostionicom u Poslednjem Domu. Vlasnik gostionice pružio joj je novu životnu šansu, a prijateljstvo sa saputnicima u avanturi steklo je tokom njenog rada u njoj. Njeno uništavanje pljačkaške zmaj-armije daje Tiki vrlo lični razlog da ih mrzi vatrenom strašću. Njena veza mogla bi se izraziti kao „Učiniću sve što je potrebno kazni Zamj-armije zbog uništenja konaka Poslednjeg Doma “.
->
->Veza Artemisa Entrerija je čudna, gotovo paradoksalna veza sa Drizztom Do’Urdenom, ravan mu je u maču i mračnoj odlučnosti. U svojoj prvoj bici sa Drizztom, Artemis je prepoznao nešto od sebe kod svog protivnika, što je pokazatelj da bi, da je njegov život tekao drugačije, možda vodio život sličniji herojskom drovu. Od tog trenutka, Artemis je više od kriminalnog ubice - on je antiheroj, vođen njegovim rivalstvom sa Drizztom. Njegova veza bi se mogla izraziti kao „Neću mirovati dok se ne pokažem boljom od Drizzta Do’Urdena“.
->
->Svaki od ovih likova takođe ima važnu manu. Tika Vailan je naivna i emocionalno ranjiva, mlađa od svojih saputnika i iznervirana što još uvek misle o njoj kao detetu koje su poznavali pre mnogo godina. Mogla bi čak doći u iskušenje da deluje protiv svojih principa ako je uverena da će određeno dostignuće pokazati njenu zrelost. Artemis Entreri je potpuno zazidan od bilo kakvih ličnih odnosa i samo želi da ostane sam.
->
->Pored toga, ako imate inspiraciju, možete nagraditi drugog igrača za dobro igranje uloga, pametno razmišljanje ili jednostavno bavljenje nečim uzbudljivim u igri. Kada drugi lik igrača učini nešto što zaista doprinosi priči na zabavan i zanimljiv način, možete se odreći svoje inspiracije da biste tom liku dali inspiraciju.
 
 
 ### Pozadine
@@ -1712,6 +1712,7 @@ Možda ćete želeti da podesite neke funkcije pozadine, tako da bolje odgovara
 
 
 Spisak pozadnina - detalji se mogu pronaći u knjigama
+[Backgrounds](https://www.dndbeyond.com/sources/basic-rules/personality-and-background#Backgrounds)
 
 
 ### Acolyte - Sledbenik 
@@ -1723,7 +1724,7 @@ Spisak pozadnina - detalji se mogu pronaći u knjigama
 ### Folk Hero - Narodni heroj
 
 
-### Noble - Noble
+### Noble - Plemenit
 
 
 ### Sage - Mudrac
