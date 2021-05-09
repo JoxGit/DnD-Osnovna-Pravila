@@ -1,4 +1,4 @@
-# Pokusaj prevoda osnovnih pravila.
+# D&D Osnovna pravila
 
 * [Uvod](https://joxgit.github.io/DnD-Osnovna-Pravila/dio0)
 * [Dio 1 - Kreiranje lika](https://joxgit.github.io/DnD-Osnovna-Pravila/dio1)
