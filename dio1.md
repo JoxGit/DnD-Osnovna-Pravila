@@ -1,11 +1,6 @@
 
-
-### **DIO 1**
-
-
-### **KREIRANJE LIKA**
-
-
+# **DIO 1**
+# **KREIRANJE LIKA**
 
 
 ## Poglavlje 1: Likovi korak po korak

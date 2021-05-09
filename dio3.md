@@ -1,11 +1,6 @@
 
-
-### **DIO 3**
-
-
-### **PRAVILO MAGIJE**
-
-
+# **DIO 3**
+# **PRAVILO MAGIJE**
 
 
 ## Poglavlje 10: Čaranje

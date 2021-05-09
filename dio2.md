@@ -1,11 +1,6 @@
 
-
-### **DIO 2**
-
-
-### **IGRANJE IGRE**
-
-
+# **DIO 2**
+# **IGRANJE IGRE**
 
 
 ## Poglavlje 7: Korišćenje rezultata za sposobnost
