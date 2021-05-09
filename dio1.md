@@ -951,13 +951,9 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
    </td>
    <td><strong>Primary Ability</strong>
    </td>
-   <td><strong>Saving Throw</strong>
-<p>
-<strong>Proficiencies</strong>
+   <td><strong>Saving Throw</strong> <strong>Proficiencies</strong>
    </td>
-   <td><strong>Armor and Weapon</strong>
-<p>
-<strong>Proficiencies</strong>
+   <td><strong>Armor and Weapon</strong><strong>Proficiencies</strong>
    </td>
   </tr>
   <tr>
