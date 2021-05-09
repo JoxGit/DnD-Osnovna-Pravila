@@ -907,7 +907,7 @@ Pogledaj knjigu za detalje
 Napomena: Postoje i druge rase koje se mogu pronaći u knjigama
 
 
-## Poglavlje 3: Klase
+## Poglavlje 3: Klasa
 
 Avanturisti su izvanredni ljudi, vođeni žeđu za uzbuđenjem u životu kakavom se drugi nikada ne bi usudili. Oni su heroji, primorani da istražuju mračna mesta sveta i preuzmu izazove sa kojima manje žene i muškarci ne mogu da se suprotstave.
 
