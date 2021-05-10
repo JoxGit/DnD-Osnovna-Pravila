@@ -2,8 +2,6 @@
 # **DIO 1**
 # **KREIRANJE LIKA**
 
-![Chapter 1](https://media-waterdeep.cursecdn.com/attachments/4/972/101.png)
-
 
 ## Poglavlje 1: Likovi korak po korak
 [D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters)
