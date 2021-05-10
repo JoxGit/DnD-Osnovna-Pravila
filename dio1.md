@@ -15,7 +15,7 @@ Jednom kada imate na umu lik, sledite ove korake redom donoseći odluke koje od
 Kroz ovo poglavlje, termin **list karaktera** označava sve ono što koristite za praćenje svog lika, bilo da se radi o formalnom listu karaktera (poput onog na kraju ovih pravila), nekom obliku digitalnog zapisa ili komadu papira u svesci. Zvanični D&D opis karaktera je dobro mesto za početak dok ne saznate koje su vam informacije potrebne i kako ih koristite tokom igre.
 
 
->#### Građenje Bruenor-a
+>### Građenje Bruenor-a
 >
 >Svaki korak stvaranja likova uključuje primer tog koraka, sa igračem po imenu Bob koji gradi svoj patuljasti lik, Bruenor.
 
@@ -31,7 +31,7 @@ Vaša rasa takođe povećava jednu ili više ocena vaših sposobnosti, koje odr
 Zabeležite osobine koje vam dodeljuje vaša rasa na listu sa likovima. Obavezno zabilježite svoj početni jezik i osnovnu brzinu.
 
 
->#### Građenje Bruenora, 1. korak
+>### Građenje Bruenora, 1. korak
 >
 >Bob sjeda da stvori svoj lik. Odlučuje da grubi planinski patuljak odgovara liku kojeg želi da glumi. Na svom listu s likovima beleži sve rasne osobine patuljaka, uključujući brzinu od 25 stopa i jezike koje poznaje: zajednički i patuljasti.
 
@@ -53,7 +53,7 @@ Početak od 1. nivoa označava ulazak vašeg lika u avanturističkom život. Ako
 
 Zapišitte svoj nivo na listu kataktera. Ako započinjete sa višim nivoom, zabeležite dodatne elemente koje vam daje vaša klasa za nivoe koji prelaze 1. nivo. Takođe zapišite svoja iskustva. Lik 1. nivoa ima 0 XP. Lik višeg nivoa obično započinje sa minimalnom količinom XP potrebnom za dostizanje tog nivoa (pogledajte „Iznad prvog nivoa“ kasnije u ovom poglavlju).
 
->**Brzo Pravljenje**
+>### Brzo Pravljenje
 >
 >Svaki opis kalse u poglavlju 3 sadrži odeljak koji nudi predloge za brzo stvaranje lika te klase, uključujući kako dodeliti najviše  ocene sposobnosti, pozadinu koja odgovara klasi i početne čarolije.
 
@@ -81,7 +81,7 @@ Vaša klasa određuje vašu stručnost sa oružjem, vaša bacanja spasa i neke v
 Vaš bonus za stručnost se ne može dodati jednoj kocki ili drugim brojevima više puta. Povremeno se vaš bonus za stručnost može izmeniti (na primer, udvostručiti ili prepoloviti) pre nego što ga primenite. Ako okolnost sugeriše da se vaš bonus za stručnost primenjuje više puta na istu rolu ili da ga treba umnožiti više puta, ipak ga dodate samo jednom, pomnožite samo jednom i prepolovite samo jednom.
 
 
->#### Građenje Bruenora, 2. korak
+>### Građenje Bruenora, 2. korak
 >
 >Bob zamišlja Bruenor-a kako u borbu kreće sekirom, s jednim odbijenim rogom na kacigi. Od Bruenora pravi borca i beleži njegovo znanje i karakteristike klase 1. nivoa na njegovom listu s likovima.
 >
@@ -101,7 +101,7 @@ Sada uzmite svojih šest brojeva i napišite svaki broj pored jedne od šest spo
 Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i koristeći tabelu Ocene sposobnosti i Modifikatori. Da biste odredili modifikator sposobnosti bez konsultovanja sa tabelom, od ocene sposobnosti oduzmite 10, a zatim podelite rezultat sa 2 (zaokružite nadole). Napišite modifikator pored svake vaše ocene.
 
 
->#### Izgradnja Bruenora, 3. korak
+>### Izgradnja Bruenora, 3. korak
 >
 >Bob odlučuje da koristi standardni skup ocena (15, 14, 13, 12, 10, 8) za Bruenorove sposobnosti. Budući da je borac, svoj najviši rezultat, 15, dodjeljuje Snazi. Njegov sledeći najviši, 14, ide u Stav. Bruenor je možda drski borac, ali Bob odlučuje da želi da patuljak bude stariji, mudriji i dobar vođa, pa postavlja pristojne rezultate u Mudrosti i Karizmi. Nakon primene njegovih rasnih koristi (povećanje Bruenorovog stava za 2 i njegove Snage za 2), ocene i modifikatori Bruenorove sposobnosti izgledaju ovako: Snaga 17 (+3), Spretnost 10 (+0), Stav 16 (+3), Inteligencija 8 (–1), Mudrost 13 (+1), Karizma 12 (+1).
 >
@@ -829,7 +829,7 @@ Avanturisti ponekad napreduju u više klasa. Lupež bi mogao promeniti pravac u 
 
 Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&D svetu i definišu većinu tipičnih avanturista. Pogledajte priručnik za igrače za više informacija.
 
-### Pregled klasa
+## Pregled klasa
 
 <table>
   <tr>
