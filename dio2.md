@@ -408,7 +408,7 @@ Da bi izvršili grupnu proveru sposobnosti, svi u grupi vrše proveru sposobnost
 Grupne provere se ne pojavljuju često, a najkorisnije su kada svi likovi uspeju ili ne uspeju kao grupa. Na primer, kada avanturisti plove močvarom, DM može zatražiti grupnu proveru mudrosti (preživljavanja) da li likovi mogu izbeći živi pesak, vrtače i druge prirodne opasnosti po životnu sredinu. Ako barem polovina grupe uspe, uspešni likovi mogu da izvedu svoje saputnike iz opasnosti. Inače, grupa naleti na jednu od ovih opasnosti.
 
 
-# TODO:
+# TODO: Sredi tekst nakon ovog dijela
 
 ### Korišćenje svake sposobnosti
 
