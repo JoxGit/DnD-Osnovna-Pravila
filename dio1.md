@@ -118,140 +118,39 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
 **Ocene sposobnosti i modifikatori**
 
 <table>
-   <tr>
-      <td>
-         <strong>Poeni</strong>
-      </td>
-      <td>
-         <strong>Modifikator</strong>
-      </td>
+   <tr><td><strong>Poeni</strong></td><td><strong>Modifikator</strong></td>
    </tr>
-   <tr>
-      <td>
-         1
-      </td>
-      <td>
-         −5
-      </td>
+   <tr><td>1</td><td>−5</td>
    </tr>
-   <tr>
-      <td>
-         2–3
-      </td>
-      <td>
-         −4
-      </td>
+   <tr><td>2–3</td><td>−4</td>
    </tr>
-   <tr>
-      <td>
-         4–5
-      </td>
-      <td>
-         −3
-      </td>
+   <tr><td>4–5</td><td>−3</td>
    </tr>
-   <tr>
-      <td>
-         6–7
-      </td>
-      <td>
-         −2
-      </td>
+   <tr><td>6–7</td><td>−2</td>
    </tr>
-   <tr>
-      <td>
-         8–9
-      </td>
-      <td>
-         −1
-      </td>
+   <tr><td>8–9</td><td>−1</td>
    </tr>
-   <tr>
-      <td>
-         10–11
-      </td>
-      <td>
-         +0
-      </td>
+   <tr><td>10–11</td><td>+0</td>
    </tr>
-   <tr>
-      <td>
-         12–13
-      </td>
-      <td>
-         +1
-      </td>
+   <tr><td>12–13</td><td>+1</td>
    </tr>
-   <tr>
-      <td>
-         14–15
-      </td>
-      <td>
-         +2
-      </td>
+   <tr><td>14–15</td><td>+2</td>
    </tr>
-   <tr>
-      <td>
-         16–17
-      </td>
-      <td>
-         +3
+   <tr><td>16–17</td><td>+3
    </tr>
-   <tr>
-      <td>
-         18–19
-      </td>
-      <td>
-         +4
-      </td>
+   <tr><td>18–19</td><td>+4</td>
    </tr>
-   <tr>
-      <td>
-         20–21
-      </td>
-      <td>
-         +5
-      </td>
+   <tr><td>20–21</td><td>+5</td>
    </tr>
-   <tr>
-      <td>
-         22–23
-      </td>
-      <td>
-         +6
-      </td>
+   <tr><td>22–23</td><td>+6</td>
    </tr>
-   <tr>
-      <td>
-         24–25
-      </td>
-      <td>
-         +7
-      </td>
+   <tr><td>24–25</td><td>+7</td>
    </tr>
-   <tr>
-      <td>
-         26–27
-      </td>
-      <td>
-         +8
-      </td>
+   <tr><td>26–27</td><td>+8</td>
    </tr>
-   <tr>
-      <td>
-         28–29
-      </td>
-      <td>
-         +9
-      </td>
+   <tr><td>28–29</td><td>+9</td>
    </tr>
-   <tr>
-      <td>
-         30
-      </td>
-      <td>
-         +10
-      </td>
+   <tr><td>30</td><td>+10</td>
    </tr>
 </table>
 
