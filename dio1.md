@@ -3408,7 +3408,7 @@ Kada steknete nivo u klasi koji nije vaša po;etna, vi steknite samo neka počet
 Kada steknete novi nivo u klasi, dobijate njegove karakteristike za taj nivo. Nekoliko karakteristika, međutim, ima dodatne pravila kada koristite više klasa. Pogledajte poglavlje 6 Priručnika za igrača za više informacija.
 
 
-### Podvizi
+## Podvizi
 
 Podvig predstavlja talenat ili oblast stručnosti koja daje karakteru posebne sposobnosti. Oličenje treninga, iskustva, i sposobnosti iznad onoga što klasa pruža. Vidite poglavlje 6 Priručnika za igrača za više informacija.
 
