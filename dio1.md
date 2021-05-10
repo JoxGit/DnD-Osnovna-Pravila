@@ -258,7 +258,6 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
 
 **Trošak poena ocjena sposobnosti**
 
-
 <table>
    <tr>
       <td>Poeni
@@ -319,153 +318,152 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
 
 **Rezime ocene sposobnosti**
 
-
 <table>
-  <tr>
-   <td><strong>Snaga</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Mere: Prirodna atletičnost, telesna snaga</em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Važno za: Fighter</em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Rasna povećanja:</em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Planinski patuljak (+2)</em> <em>Čovjek (+1)</em>
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Snaga</strong>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Mere: Prirodna atletičnost, telesna snaga</em>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Važno za: Fighter</em>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Rasna povećanja:</em>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Planinski patuljak (+2)</em> <em>Čovjek (+1)</em>
+      </td>
+   </tr>
 </table>
 
 
 
 <table>
-  <tr>
-   <td colspan="2" ><strong>Spretnost</strong>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><em>Mere: Fizička okretnost, refleksi, ravnoteža, staloženost</em>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><em>Važno za: Rogue</em>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><em>Rasna povećanja:</em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Vilenjak (+2)</em> <em>Polutan (+2)</em> <em>Čovjek (+1)</em>
-   </td>
-  </tr>
+   <tr>
+      <td colspan="2"><strong>Spretnost</strong>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2"><em>Mere: Fizička okretnost, refleksi, ravnoteža, staloženost</em>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2"><em>Važno za: Rogue</em>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2"><em>Rasna povećanja:</em>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Vilenjak (+2)</em> <em>Polutan (+2)</em> <em>Čovjek (+1)</em>
+      </td>
+   </tr>
 </table>
 
 
 
 <table>
-  <tr>
-   <td colspan="2" ><strong>Stav (konstitucija) </strong>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><em>Mere: Zdravlje, izdržljivost, vitalna sila</em>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><em>Važno za: Sve </em>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><em>Rasna povećanja:</em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Patuljak (+2)</em> <em>Stasiti polutan (+1)</em> <em>Čovjek (+1)</em>
-   </td>
-  </tr>
+   <tr>
+      <td colspan="2"><strong>Stav (konstitucija) </strong>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2"><em>Mere: Zdravlje, izdržljivost, vitalna sila</em>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2"><em>Važno za: Sve </em>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2"><em>Rasna povećanja:</em>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Patuljak (+2)</em> <em>Stasiti polutan (+1)</em> <em>Čovjek (+1)</em>
+      </td>
+   </tr>
 </table>
 
 
 
 <table>
-  <tr>
-   <td><strong>Inteligencija</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Mere: Mentalna oštrina, opoziv informacija, analitička veština</em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Važno za: Wizard </em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Rasna povećanja:</em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Visoki vilenjak (+1)</em> <em>Čovjek (+1)</em>
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Inteligencija</strong>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Mere: Mentalna oštrina, opoziv informacija, analitička veština</em>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Važno za: Wizard </em>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Rasna povećanja:</em>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Visoki vilenjak (+1)</em> <em>Čovjek (+1)</em>
+      </td>
+   </tr>
 </table>
 
 
 
 <table>
-  <tr>
-   <td colspan="2" ><strong>Mudrost</strong>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><em>Mere: Svest, intuicija, uvid</em>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><em>Važno za: Cleric </em>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><em>Rasna povećanja:</em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Brdski patuljak (+1)</em><em>Šumski vilenjak (+1)</em> <em>Čovjek (+1)</em>
-   </td>
-  </tr>
+   <tr>
+      <td colspan="2"><strong>Mudrost</strong>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2"><em>Mere: Svest, intuicija, uvid</em>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2"><em>Važno za: Cleric </em>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2"><em>Rasna povećanja:</em>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Brdski patuljak (+1)</em> <em>Šumski vilenjak (+1)</em> <em>Čovjek (+1)</em>
+      </td>
+   </tr>
 </table>
 
 
 
 <table>
-  <tr>
-   <td><strong>Karizma</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Mere: Poverenje, elokvencija, vođstvo  </em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Važno za: Vođe i diplomatski likovi</em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Rasna povećanja:</em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Polutan laganih nogu (+1)</em> <em>Čovjek (+1)</em>
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Karizma</strong>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Mere: Poverenje, elokvencija, vođstvo </em>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Važno za: Vođe i diplomatski likovi</em>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Rasna povećanja:</em>
+      </td>
+   </tr>
+   <tr>
+      <td><em>Polutan laganih nogu (+1)</em> <em>Čovjek (+1)</em>
+      </td>
+   </tr>
 </table>
 
 
