@@ -20,7 +20,7 @@ Kroz ovo poglavlje, termin **list karaktera** označava sve ono što koristite z
 >Svaki korak stvaranja likova uključuje primer tog koraka, sa igračem po imenu Bob koji gradi svoj patuljasti lik, Bruenor.
 
 
-### 1. Izaberite rasu
+## 1. Izaberite rasu
 
 Svaki lik pripada rasi, jednoj od mnogih inteligentnih humanoidnih vrsta u svetu D&D. Najčešća karakterna rasa igrača su patuljci, vilenjaci, polutani i ljudi. Neke rase takođe imaju podrase, poput planinskog patuljka ili šumskog vilenjaka. Poglavlje 2 pruža više informacija o ovim rasama.
 
@@ -36,7 +36,7 @@ Zabeležite osobine koje vam dodeljuje vaša rasa na listu sa likovima. Obavezno
 >Bob sjeda da stvori svoj lik. Odlučuje da grubi planinski patuljak odgovara liku kojeg želi da glumi. Na svom listu s likovima beleži sve rasne osobine patuljaka, uključujući brzinu od 25 stopa i jezike koje poznaje: zajednički i patuljasti.
 
 
-### 2. Izaberite klasu 
+## 2. Izaberite klasu 
 
 Svaki avanturista je član klase. Klasu opširno opisuje poziv lika, koje posebne talente poseduje i taktike koje će najverovatnije primeniti prilikom istraživanja tamnice, borbe sa čudovištima ili napetog pregovaranja. Klase likova opisane su u poglavlju 3.
 
@@ -45,7 +45,7 @@ Vaš lik ostvaruje brojne pogodnosti odabirom klase. Mnoge od ovih prednosti su 
 Na listu karaktera zabeležite sve karakteristike koje vam klasa daje na 1. nivou.
 
 
-#### Nivo
+### Nivo
 
 Tipično, lik započinje na prvom nivou i napreduje u nivou pustolovinom i sticanjem **bodova iskustva** (XP). Lik 1. nivoa nije iskusan u svetu pustolovina, iako je možda ranije bio vojnik ili pirat i radio opasne stvari.
 
@@ -57,14 +57,14 @@ Zapišitte svoj nivo na listu kataktera. Ako započinjete sa višim nivoom, zabe
 >
 >Svaki opis kalse u poglavlju 3 sadrži odeljak koji nudi predloge za brzo stvaranje lika te klase, uključujući kako dodeliti najviše  ocene sposobnosti, pozadinu koja odgovara klasi i početne čarolije.
 
-#### Poeni za pogodak ii kockice pogodka
+### Poeni za pogodak ii kockice pogodka
 
 Poeni za pogodak vašeg lika definišu koliko je čvrst vaš lik u borbi i drugim opasnim situacijama. Poeni za pogodak određuju se vašim kockicama kockama pogodka. Na 1. nivou, vaš lik ima 1 kocku pogodka, a tiu kocku određuje vaša klasa. Počinjete sa poenima za pogodak jednakim najvišem bacanju te kockice, kako je naznačeno u opisu vaše klase. (Takođe dodajete svoj modifikator Stava, koji ćete odrediti u koraku 3.) Ovo je ujedno i **vaš maksimum poena za pogodak**.
 
 Upišite poene za pogodak svog lika na listu sa likovima. Takođe zabeležite vrstu kocke za pogodak koji vaš lik koristi i broj kocki za pogodak koji imate. Nakon što se odmorite, možete iskoristiti kocke za pogodke da biste povratili poene za pogodak (pogledajte „Odmaranje“ u poglavlju 8).
 
 
-#### Bonus za stručnost
+### Bonus za stručnost
 
 Tabela koja se pojavljuje u opisu vaše klase prikazuje vaš bonus za stručnost, koji je +2 za lik prvog nivoa. Vaš bonus za stručnost odnosi se na mnoge brojeve koje ćete zabeležiti na listu sa likovima:
 
@@ -88,7 +88,7 @@ Vaš bonus za stručnost se ne može dodati jednoj kocki ili drugim brojevima vi
 >Kao borac prvog nivoa, Bruenor ima 1 kocku za pogodak - d10 - i započinje sa pogođenim bodovima jednakim 10 + njegovom modifikatoru Stava. Bob to beleži i zabeležiće konačni broj nakon što odredi ocenu Bruenorovog stava (vidi korak 3). Bob takođe bilježi i bonus za stručnost za lik prvog nivoa, koji je +2.
 
 
-### 3. Određivanje ocena sposobnosti
+## 3. Određivanje ocena sposobnosti
 
 Mnogo onoga što vaš lik radi u igri zavisi od njegovih šest sposobnosti: **Snaga, Spretnost, Stav (konstitucija), Inteligencija, Mudrost i Karizma**. Svaka sposobnost ima rezultat, što je broj koji beležite na svom listu karaktera.
 
@@ -108,7 +108,7 @@ Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i kor
 >Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator stava od +3, za ukupno 13 poena za pogodak.
 
 
-#### Varijanta: Prilagođavanje ocjena sposobnosti
+### Varijanta: Prilagođavanje ocjena sposobnosti
 
 Prema opciji vašeg Dungeon Master-a, ovu varijantu možete koristiti za određivanje rezultata vaših sposobnosti. Ovde opisana metoda omogućava vam da izgradite lik sa nizom ocena sposobnosti koje odaberete pojedinačno.
 
@@ -372,7 +372,7 @@ Korišćenjem ove metode, 15 je najviša ocjena sposobnosti sa kojim možete za
 Ovaj metod određivanja ocena sposobnosti omogućava vam da kreirate skup od tri velika broja i tri niska (15, 15, 15, 8, 8, 8), skup brojeva koji su iznad proseka i gotovo jednake (13, 13, 13, 12, 12, 12), ili bilo koji skup brojeva između tih krajnosti.
 
 
-### 4. Opišite svog lika
+## 4. Opišite svog lika
 
 Jednom kada znate osnovne aspekte svog lika u igri, vreme je da ga izobličite kao čoveka. Vašem liku je potrebno ime. Provedite nekoliko minuta razmišljajući o tome kako on ili ona izgleda i kako se ponaša opšte.
 
@@ -383,7 +383,7 @@ Pozadina vašeg lika opisuje odakle potiče, njegovo prvobitno zanimanje i mesto
 Pozadina daje vašem karakteru karakteristiku pozadine (opšta korist) i znanje dve veštine, a može vam dati i dodatne jezike ili znanje određenih vrsta alata. Zabeležite ove podatke, zajedno sa podacima o ličnosti koje razvijete, na svoj list karaktera.
 
 
-#### Sposobnosti vašeg lika
+### Sposobnosti vašeg lika
 
 Uzmite u obzir ocene sposobnosti svog lika i rasu dok utvrđujete njegov izgled i ličnost. Veoma snašan lik sa niskom inteligencijom mogao bi da misli i ponaša se potpuno drugačije od vrlo pametnog lika niske snage.
 
@@ -402,7 +402,7 @@ Lik sa niskom mudrošću može biti odsutan, lud ili zaboravan.
 Lik sa visokom harizmom odiše samopouzdanjem, koje se obično meša sa gracioznim ili zastrašujućim prisustvom. Lik s niskom karizmom može se naići na abrazivnog, neartikulisanog ili plašljivog.
 
 
->#### Izgradnja Bruenora, 4. korak
+>### Izgradnja Bruenora, 4. korak
 >
 >Bob ispunjava neke Bruenorove osnovne detalje: njegovo ime, pol (muški), visinu i težinu i poravnanje (zakonski dobro). Njegova visoka snaga i stav sugerišu zdravo, atletsko telo, a niska inteligencija ukazuje na stepen zaborava.
 >
@@ -413,7 +413,7 @@ Lik sa visokom harizmom odiše samopouzdanjem, koje se obično meša sa graciozn
 >S obzirom na njegovu istoriju, Bruenorova veza je očigledna: on teži da jednog dana povrati Mitral Hol, svoju domovinu, od zmaja iz senke koji je proterao patuljke. Njegova mana vezana je za njegovu brižnu, osetljivu prirodu - ima meku tačku za siročad i svojevoljne duše, što ga navodi na pokazivanje milosti čak i kad to možda nije opravdano.
 
 
-### 5. Izaberite Opremu
+## 5. Izaberite Opremu
 
 Vaša klasa i pozadina određuju **početnu opremu** vašeg lika, uključujući oružje, oklop i drugu avanturističku opremu. zapišite ovu opremu na listu karaktera. Sve takve stavke su detaljno opisane u poglavlju 5, „Oprema“.
 
@@ -424,7 +424,7 @@ Vaša ocena snage ograničava količinu opreme koju možete nositi. Pokušajte d
 Poglavlje 7 sadrži više informacija o nosivosti.
 
 
-#### Klasa oklopa
+### Klasa oklopa
 
 Vaša **klasa oklopa** (AC) predstavlja koliko dobro vaš lik izbegava ranjavanje u borbi. Stvari koje doprinose vašem AC uključuju oklop koji nosite, štit koji nosite i vaš modifikator spretnosti. Međutim, svi likovi ne nose oklop ili štitove.
 
@@ -437,7 +437,7 @@ Postoje nedostaci nošenja oklopa ili nošenja štita ako nemate potrebnu vešti
 Neke čarolije i karakteristike klase daju vam drugačiji način za izračunavanje AC. Ako imate više funkcija koje vam pružaju različite načine za izračunavanje AC, sami birate koju ćete koristiti.
 
 
-#### Oružje
+### Oružje
 
 Za svako oružje kojim vaš lik poseduje izračunajte modifikator koji koristite kada napadate oružjem i štetu koju nanesete prilikom udara.
 
@@ -449,19 +449,19 @@ Kada izvršite napad oružjem, bacate d20 i dodate svoj bonus za sposobnost (ali
 *   Za napade **oružjem na daljinu** koristite modifikator spretnosti za bacanja za napad i oštećenje. Ručno oružje koje ima svojstvo bacanja, poput ručna sjekira, umesto toga može da koristi vaš modifikator snage.
 
 
->#### Izgradnja Bruenora, 5. korak
+>### Izgradnja Bruenora, 5. korak
 >
 >Bob zapisuje početnu opremu iz klase boraca i pozadinu narodnog heroja. Njegova početna oprema uključuje lančani oklop i štit, koji zajedno daju Bruenoru klasu oklopa od 18.
 >
 >Za Bruenorovo oružje, Bob bira bojnu sekiru i dvije ručne sjekire. Njegova bojna sekira je oružje za blisku borbu, pa Bruenor koristi svoj modifikator snage za svoje napade i štetu. Njegov bonus za napad je njegov modifikator snage (+3) plus njegov bonus za stručnost (+2), ukupno +5. Batleak nanosi 1d8 reznu štetu, a bojna sjekira dodaje svoj modifikator snage u štetu kada pogodi, što ukupno iznosi 1d8 + 3 štetu sječenja. Kada baca ručnu sjekiru, Bruenor ima isti bonus za napad (ručne sjekire, kao i bačeno oružje, koriste snagu za napade i štetu), a oružje nanosi 1d6 + 3 štetu sječenja kad pogodi.
 
 
-### 6. Dođite zajedno
+## 6. Dođite zajedno
 
 Većina D&D likova ne radi sama. Svaki lik igra ulogu u **skupini**, grupi avanturista koji rade zajedno u zajedničke svrhe. Timski rad i saradnja uveliko poboljšavaju šanse vaše skupne da preživi brojne strahote u svetovu Dungeons & Dragons. Razgovarajte sa kolegama igračima i vašim DM-om da biste odlučili da li se vaši likovi poznaju, kako su se upoznali i kakve zadatke bi grupa mogla preduzeti.
 
 
-## Nakon prvog nivoa
+# Nakon prvog nivoa
 
 Kako vaš lik odlazi u avanture i savladava izazove, on ili ona stiče iskustvo, predstavljeno bodovima iskustva (XP). Lik koji dostigne određenu tačku iskustva ukupno napreduje u sposobnostima. Ovaj napredak se naziva **postizanjem nivoa**.
 
@@ -474,7 +474,7 @@ Kada se vaš modifikator Stava poveća za 1, maksimum poena pogodaka povećava
 Tabela za unapređivanje karaktera rezimira XP koji vam je potreban za napredovanje u nivoima od nivoa 1 do nivoa 20 i bonus za stručnost za lik tog nivoa. Pogledajte informacije u opisu klase vašeg lika da biste videli koja još poboljšanja dobijate na svakom nivou.
 
 
-### Nivoi igre
+## Nivoi igre
 
 Sjenčanja u tabeli za unapređivanje karaktera prikazuje četiri nivoa igre. Nivoi nisu povezani sa nikakvim pravilima; oni su opšti opis kako se doživljaj igre menja kako likovi dobijaju nivoe.
 
