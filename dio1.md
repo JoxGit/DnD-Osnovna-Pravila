@@ -108,154 +108,212 @@ Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i kor
 >Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator stava od +3, za ukupno 13 poena za pogodak.
 
 
+##### Varijanta: Prilagođavanje ocjena sposobnosti
+
+Prema opciji vašeg Dungeon Master-a, ovu varijantu možete koristiti za određivanje rezultata vaših sposobnosti. Ovde opisana metoda omogućava vam da izgradite lik sa nizom ocena sposobnosti koje odaberete pojedinačno.
+
+Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake ocene prikazani su na tabeli Troškovi porna ocjena sposobnosti.  Na primer, ocjena 14 košta 7 poena.
+
+
 **Ocene sposobnosti i modifikatori**
+
+<table>
+   <tr>
+      <td>
+         <strong>Poeni</strong>
+      </td>
+      <td>
+         <strong>Modifikator</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         1
+      </td>
+      <td>
+         −5
+      </td>
+   </tr>
+   <tr>
+      <td>
+         2–3
+      </td>
+      <td>
+         −4
+      </td>
+   </tr>
+   <tr>
+      <td>
+         4–5
+      </td>
+      <td>
+         −3
+      </td>
+   </tr>
+   <tr>
+      <td>
+         6–7
+      </td>
+      <td>
+         −2
+      </td>
+   </tr>
+   <tr>
+      <td>
+         8–9
+      </td>
+      <td>
+         −1
+      </td>
+   </tr>
+   <tr>
+      <td>
+         10–11
+      </td>
+      <td>
+         +0
+      </td>
+   </tr>
+   <tr>
+      <td>
+         12–13
+      </td>
+      <td>
+         +1
+      </td>
+   </tr>
+   <tr>
+      <td>
+         14–15
+      </td>
+      <td>
+         +2
+      </td>
+   </tr>
+   <tr>
+      <td>
+         16–17
+      </td>
+      <td>
+         +3
+   </tr>
+   <tr>
+      <td>
+         18–19
+      </td>
+      <td>
+         +4
+      </td>
+   </tr>
+   <tr>
+      <td>
+         20–21
+      </td>
+      <td>
+         +5
+      </td>
+   </tr>
+   <tr>
+      <td>
+         22–23
+      </td>
+      <td>
+         +6
+      </td>
+   </tr>
+   <tr>
+      <td>
+         24–25
+      </td>
+      <td>
+         +7
+      </td>
+   </tr>
+   <tr>
+      <td>
+         26–27
+      </td>
+      <td>
+         +8
+      </td>
+   </tr>
+   <tr>
+      <td>
+         28–29
+      </td>
+      <td>
+         +9
+      </td>
+   </tr>
+   <tr>
+      <td>
+         30
+      </td>
+      <td>
+         +10
+      </td>
+   </tr>
+</table>
+
+
+**Trošak poena ocjena sposobnosti**
 
 
 <table>
-  <tr>
-   <td>
-    <strong>Poeni</strong>
-   </td>
-   <td>
-    <strong>Modifikator</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-    <strong>Poeni</strong>
-   </td>
-   <td>
-    <strong>Modifikator</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    1
-   </td>
-   <td>
-    −5
-   </td>
-   <td>
-   </td>
-   <td>
-    16–17
-   </td>
-   <td>
-    +3
-   </td>
-  </tr>
-  <tr>
-   <td>
-    2–3
-   </td>
-   <td>
-    −4
-   </td>
-   <td>
-   </td>
-   <td>
-    18–19
-   </td>
-   <td>
-    +4
-   </td>
-  </tr>
-  <tr>
-   <td>
-    4–5
-   </td>
-   <td>
-    −3
-   </td>
-   <td>
-   </td>
-   <td>
-    20–21
-   </td>
-   <td>
-    +5
-   </td>
-  </tr>
-  <tr>
-   <td>
-    6–7
-   </td>
-   <td>
-    −2
-   </td>
-   <td>
-   </td>
-   <td>
-    22–23
-   </td>
-   <td>
-    +6
-   </td>
-  </tr>
-  <tr>
-   <td>
-    8–9
-   </td>
-   <td>
-    −1
-   </td>
-   <td>
-   </td>
-   <td>
-    24–25
-   </td>
-   <td>
-    +7
-   </td>
-  </tr>
-  <tr>
-   <td>
-    10–11
-   </td>
-   <td>
-    +0
-   </td>
-   <td>
-   </td>
-   <td>
-    26–27
-   </td>
-   <td>
-    +8
-   </td>
-  </tr>
-  <tr>
-   <td>
-    12–13
-   </td>
-   <td>
-    +1
-   </td>
-   <td>
-   </td>
-   <td>
-    28–29
-   </td>
-   <td>
-    +9
-   </td>
-  </tr>
-  <tr>
-   <td>
-    14–15
-   </td>
-   <td>
-    +2
-   </td>
-   <td>
-   </td>
-   <td>
-    30
-   </td>
-   <td>
-    +10
-   </td>
-  </tr>
+   <tr>
+      <td>Poeni
+      </td>
+      <td>Trošak
+      </td>
+   </tr>
+   <tr>
+      <td>8
+      </td>
+      <td>0
+      </td>
+   </tr>
+   <tr>
+      <td>9
+      </td>
+      <td>1
+      </td>
+   </tr>
+   <tr>
+      <td>10
+      </td>
+      <td>2
+      </td>
+   </tr>
+   <tr>
+      <td>11
+      </td>
+      <td>3
+      </td>
+   </tr>
+   <tr>
+      <td>12
+      </td>
+      <td>4
+      </td>
+   </tr>
+   <tr>
+      <td>13
+      </td>
+      <td>5
+      </td>
+   </tr>
+   <tr>
+      <td>14
+      </td>
+      <td>7
+      </td>
+   </tr>
+   <tr>
+      <td>15
+      </td>
+      <td>9
+      </td>
+   </tr>
 </table>
 
 
@@ -410,69 +468,6 @@ Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i kor
   </tr>
 </table>
 
-
-
-##### Varijanta: Prilagođavanje ocjena sposobnosti
-
-Prema opciji vašeg Dungeon Master-a, ovu varijantu možete koristiti za određivanje rezultata vaših sposobnosti. Ovde opisana metoda omogućava vam da izgradite lik sa nizom ocena sposobnosti koje odaberete pojedinačno.
-
-Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake ocene prikazani su na tabeli Troškovi porna ocjena sposobnosti.  Na primer, ocjena 14 košta 7 poena.
-
-**Trošak poena ocjena sposobnosti**
-
-
-<table>
-  <tr>
-   <td>Poeni
-   </td>
-   <td>Trošak
-   </td>
-   <td>Poeni
-   </td>
-   <td>Trošak
-   </td>
-  </tr>
-  <tr>
-   <td>8
-   </td>
-   <td>0
-   </td>
-   <td>12
-   </td>
-   <td>4
-   </td>
-  </tr>
-  <tr>
-   <td>9
-   </td>
-   <td>1
-   </td>
-   <td>13
-   </td>
-   <td>5
-   </td>
-  </tr>
-  <tr>
-   <td>10
-   </td>
-   <td>2
-   </td>
-   <td>14
-   </td>
-   <td>7
-   </td>
-  </tr>
-  <tr>
-   <td>11
-   </td>
-   <td>3
-   </td>
-   <td>15
-   </td>
-   <td>9
-   </td>
-  </tr>
-</table>
 
 
 Korišćenjem ove metode, 15 je najviša ocjena sposobnosti sa kojim možete završiti, pre nego što primenite rasna povećanja. Ne možete da imate ocjenu nižu od 8.
