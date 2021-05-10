@@ -1883,22 +1883,71 @@ Vaša klasa vam daje vještine sa određenim vrstama oklopa. Ako nosite oklop sa
 
 **Teški oklop**. Teški oklop ometa sposobnost nosioca da se brzo, kradom i slobodno kreće. Ako tabela oklopa prikazuje „Str 13“ ili „Str 15“ u koloni Snaga za tip oklopa, oklop smanjuje brzinu kretanja nosioca za 10 stopa, osim ako nosilac ima ocenu Snaga jednaku ili veću od navedene ocene.
 
-**Varijanta: Veličine opreme**
-
-U većini kampanja možete koristiti ili nositi bilo koju opremu koju nađete u svojim avanturama, u granicama zdravog razuma. Na primer, krupan polu ork neće stati u kožni oklop polutana, a gnom bi bio progutan u elegantnom ogrtaču giganta oblaka.
-
-DM može nametnuti više realizma. Na primer, odelo od ploča napravljeno za jednog čoveka možda ne bi pristajalo drugom bez značajnih promena i uniforma stražara može biti vidno neprikladna kada avanturista pokuša da je nosi kao masku.
-
-Koristeći ovu varijantu, kada avanturisti pronađu oklop, odeću i slične predmete koji su namenjeni za nošenje, možda će trebati da posete oružnika, krojača, majstora kože ili sličnog stručnjaka kako bi predmet učinili nosivim. Troškovi takvog rada variraju od 10 do 40 procenata tržišne cene predmeta. DM može ili kotrljati 1d4 × 10 ili odrediti povećanje troškova na osnovu obima potrebnih promena.
-
 **Potajno**. Ako tabela oklopa prikazuje „Nedostatak“ u koloni Stealth, nosilac ima nedostatak u proverama spretnosti (Stealth).
 
 **Štitovi**. Štit je napravljen od drveta ili metala i nosi se u jednoj ruci. Ovladavanje štitom povećava vašu klasu oklopa za 2. Možete imati koristi od samo jednog štita odjednom.
 
-POGLEDAJ TABELI OKLOPA
-
 
 ### Laki oklop
+<table>
+   <tr>
+      <td><strong>Armor Name</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Armor Class (AC)</strong>
+      </td>
+      <td><strong>Strength</strong>
+      </td>
+      <td><strong>Stealth</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Padded
+      </td>
+      <td>5 gp
+      </td>
+      <td>11 + Dex modifier
+      </td>
+      <td>-
+      </td>
+      <td>Disadvantage
+      </td>
+      <td>8 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Leather
+      </td>
+      <td>10 gp
+      </td>
+      <td>11 + Dex modifier
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>10 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Studded leather
+      </td>
+      <td>45 gp
+      </td>
+      <td>12 + Dex modifier
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>13 lb.
+      </td>
+   </tr>
+</table>
+
 
 Napravljen od gipkih i tankih materijala, lagani oklop pogoduje okretnim avanturistima, jer nudi određenu zaštitu bez žrtvovanja pokretljivosti. Ako nosite laki oklop, dodajte svoj modifikator spretnosti osnovnom broju iz vašeg tipa oklopa da biste odredili klasu oklopa.
 
@@ -1910,6 +1959,93 @@ Napravljen od gipkih i tankih materijala, lagani oklop pogoduje okretnim avantur
 
 
 ### Sednji oklop
+
+<table>
+   <tr>
+      <td><strong>Armor Name</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Armor Class (AC)</strong>
+      </td>
+      <td><strong>Strength</strong>
+      </td>
+      <td><strong>Stealth</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Hide
+      </td>
+      <td>10 gp
+      </td>
+      <td>12 + Dex modifier (max 2)
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>12 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Chain shirt
+      </td>
+      <td>50 gp
+      </td>
+      <td>13 + Dex modifier (max 2)
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>20 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Scale mail
+      </td>
+      <td>50 gp
+      </td>
+      <td>14 + Dex modifier (max 2)
+      </td>
+      <td>-
+      </td>
+      <td>Disadvantage
+      </td>
+      <td>45 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Breastplate
+      </td>
+      <td>400 gp
+      </td>
+      <td>14 + Dex modifier (max 2)
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>20 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Half plate
+      </td>
+      <td>750 gp
+      </td>
+      <td>15 + Dex modifier (max 2)
+      </td>
+      <td>-
+      </td>
+      <td>Disadvantage
+      </td>
+      <td>40 lb.
+      </td>
+   </tr>
+</table>
 
 Srednji oklop nudi veću zaštitu od lakog oklopa, ali takođe otežava kretanje. Ako nosite srednji oklop, dodajte svoj modifikator spretnosti, na maksimalno +2, osnovnom broju vašeg tipa oklopa da biste odredili svoju klasu oklopa.
 
@@ -1926,6 +2062,81 @@ Srednji oklop nudi veću zaštitu od lakog oklopa, ali takođe otežava kretanj
 
 ### Teški oklop
 
+
+<table>
+    <tr>
+        <td><strong>Armor Name</strong>
+        </td>
+        <td><strong>Cost</strong>
+        </td>
+        <td><strong>Armor Class (AC)</strong>
+        </td>
+        <td><strong>Strength</strong>
+        </td>
+        <td><strong>Stealth</strong>
+        </td>
+        <td><strong>Weight</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>Ring mail
+        </td>
+        <td>30 gp
+        </td>
+        <td>14
+        </td>
+        <td>-
+        </td>
+        <td>Disadvantage
+        </td>
+        <td>40 lb.
+        </td>
+    </tr>
+    <tr>
+        <td>Chain mail
+        </td>
+        <td>75 gp
+        </td>
+        <td>16
+        </td>
+        <td>Str 13
+        </td>
+        <td>Disadvantage
+        </td>
+        <td>55 lb.
+        </td>
+    </tr>
+    <tr>
+        <td>Splint
+        </td>
+        <td>200 gp
+        </td>
+        <td>17
+        </td>
+        <td>Str 15
+        </td>
+        <td>Disadvantage
+        </td>
+        <td>60 lb.
+        </td>
+    </tr>
+    <tr>
+        <td>Plate
+        </td>
+        <td>1,500 gp
+        </td>
+        <td>18
+        </td>
+        <td>Str 15
+        </td>
+        <td>Disadvantage
+        </td>
+        <td>65 lb.
+        </td>
+    </tr>
+</table>
+
+
 Od svih kategorija oklopa, teški oklop nudi najbolju zaštitu. Ova oklopna odela pokrivaju celo telo i stvorena su da zaustave širok spektar napada. Samo iskusni ratnici se mogu nositi sa njihovim težinom i masom.
 
 Teški oklop vam ne dozvoljava da dodate svoj modifikator spretnosti u svoju klasu oklopa, ali takođe vas ne kažnjava ako je vaš modifikator spretnosti negativan.
@@ -1937,6 +2148,7 @@ Teški oklop vam ne dozvoljava da dodate svoj modifikator spretnosti u svoju kla
 **Udlaga**. Ovaj oklop je napravljen od uskih vertikalnih metalnih traka zakovanih za podlogu od kože koja se nosi preko presvlake od tkanine. Fleksibilni lančani oklop štiti zglobove.
 
 **Ploča**. Ploča se sastoji od oblikovanih, međusobno povezanih metalnih ploča koje pokrivaju celo telo. Odelo od ploča uključuje rukavice, teške kožne čizme, visoki šlem i debele naslage ispod oklopa. Kopče i kaiševi raspoređuju težinu po telu.
+
 
 
 ### Ulazak i izlazak iz oklopa
@@ -2007,6 +2219,15 @@ Doff. Ovo je vreme potrebno za skidanje predmeta. Ako vam je potrebna pomoć u 
    </td>
   </tr>
 </table>
+
+
+>**Varijanta: Veličine opreme**
+>
+>U većini kampanja možete koristiti ili nositi bilo koju opremu koju nađete u svojim avanturama, u granicama zdravog razuma. Na primer, krupan polu ork neće stati u kožni oklop polutana, a gnom bi bio progutan u elegantnom ogrtaču giganta oblaka.
+>
+>DM može nametnuti više realizma. Na primer, odelo od ploča napravljeno za jednog čoveka možda ne bi pristajalo drugom bez značajnih promena i uniforma stražara može biti vidno neprikladna kada avanturista pokuša da je nosi kao masku.
+>
+>Koristeći ovu varijantu, kada avanturisti pronađu oklop, odeću i slične predmete koji su namenjeni za nošenje, možda će trebati da posete oružnika, krojača, majstora kože ili sličnog stručnjaka kako bi predmet učinili nosivim. Troškovi takvog rada variraju od 10 do 40 procenata tržišne cene predmeta. DM može ili kotrljati 1d4 × 10 ili odrediti povećanje troškova na osnovu obima potrebnih promena.
 
 
 
@@ -2172,7 +2393,7 @@ Sveštenik ili paladin može stvoriti svetu vodu izvođenjem posebnog rituala. I
 
 **Baklja**. Baklja gori 1 sat, pružajući jarko svetlo u radijusu od 20 stopa, a prigušeno svetlo za dodatnih 20 stopa. Ako izvršite napad iz blizine zapaljenom bakljom i pogodite, zadaće vam 1 štetu od požara.
 
-POGLEDAJ TABELUAVANTURISTUČKE OPREME ZA VIŠE DETALJA
+POGLEDAJ TABELUAV ANTURISTUČKE OPREME ZA VIŠE DETALJA
 
 **Paketi opreme**
 
@@ -2749,10 +2970,14 @@ Kada napravite svoj lik, možete se jednom zakotrljati po stolu sa nakitom da bi
 
 **Drangulije**
 
-**d100 Trinket**
-
 
 <table>
+<tr>
+   <td>d100
+   </td>
+   <td>Drangulija
+   </td>
+  </tr>
   <tr>
    <td>01
    </td>
