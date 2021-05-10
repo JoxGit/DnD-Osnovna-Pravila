@@ -39,7 +39,7 @@ Igra nema pravi kraj; kada se jedna priča ili potraga završi, druga može poč
 U igri Dungeons & Dragons nema pobede i poraza - barem ne na način na koji se ti uslovi obično razumeju. Zajedno, DM i igrači stvaraju uzbudljivu priču odvažnih avanturista koji se suočavaju sa smrtonosnom opasnošću. Ponekad avanturista može grozno završiti, rastrzan od divljih čudovišta ili dokusuren strane od podlog negativca. Uprkos tome, ostali avanturisti mogu tražiti moćnu magiju kako bi oživeli svog palog druga, ili bi igrač mogao izabrati da stvori novog lika koji će nastaviti. Grupa možda neće uspeti da avanturu uspešno završi, ali ako su se svi dobro zabavili i stvorili nezaboravnu priču, svi će pobediti.
 
 
-### Svetovi avanture
+## Svetovi avanture
 
 Mnogi svetovi igre Dungeons & Dragons mesta su magije i čudovišta, hrabrih ratnika i spektakularnih avantura. Oni počivaju na temeljima srednjovekovne fantazije, a zatim dodaju bića, mesta i magiju koja ove svetove čine jedinstvenim.
 
@@ -50,7 +50,7 @@ Svi ovi svetovi dele karakteristike, ali svaki svet odvajaju sopstvena istorija 
 Vaš DM može postaviti kampanju na jedan od ovih svetova ili na onaj koji je on ili ona stvorio. Budući da postoji toliko raznolikosti među svetovima D&D-a, trebalo bi da proverite kod svog DM-a o kućnim pravilima koji će uticati na vašu igru. Na kraju, Dungeon Master je autoritet kampanje i njenog postavljanja, čak i ako je postavka objavljeni svet.
 
 
-### Korišćenje ovih pravila
+## Korišćenje ovih pravila
 
 Dokument o osnovnim pravilima D&D ima četiri glavna dela.
 
@@ -67,7 +67,7 @@ Takođe pruža uzorak čarobnih predmeta koje likovi mogu zaraditi kao nagradu z
 Na kraju dokumenta nalazi se dodatni materijal. **Dodatak A** prikuplja sve definicije uslova koji mogu uticati na likove i čudovišta. **Dodatak B** je kratka rasprava o božanstvima u igri, posebno onima u postavci Zaboravljena carstva. **Dodatak C** opisuje pet frakcija u zaboravljenim carstvima sa kojima se likovi mogu povezati. Konačno, list sa tri stranice karaktera pruža standardizovan način za igrače da beleže i prate sposobnosti i posed svojih likova.
 
 
-### Kako igrati
+## Kako igrati
 
 Igra Dungeons & Dragons odvija se prema ovom osnovnom obrascu.
 
@@ -84,7 +84,7 @@ Ovaj obrazac važi bilo da avanturisti pažljivo istražuju ruševine, razgovara
 Radnja avanture često se odvija u mašti igrača i DM-a, oslanjajući se na verbalne opise DM-a za postavljanje scene. Neki DM vole da koriste muziku, umetnost ili snimljene zvučne efekte da bi pomogli u podešavanju raspoloženja, a mnogi igrači i DM koriste različite glasove za razne avanturiste, čudovišta i druge likove koje igraju u igri. Ponekad DM može da postavi mapu i koristi žetone ili minijaturne figure da predstavi svako stvorenje uključeno u scenu kako bi igračima pomoglo da prate gde su svi.
 
 
-#### Kocke za igru
+### Kocke za igru
 
 Igra koristi poliedarske kockice sa različitim brojem stranica. Ovakve kockice možete pronaći u prodavnicama igara i u mnogim knjižarama (možda je bolje reći internet...).
 
@@ -97,7 +97,7 @@ Kada trebate baciti kockice, pravila vam govore koliko kockica treba baciti odre
 Ista oznaka d pojavljuje se u izrazima „1d3“ i „1d2“. Da biste simulirali kotrljanje 1d3, bacate d6 i podelite valjani broj sa 2 (zaokružite). Da biste simulirali bacanje od 1d2, bacate bilo koju kockicu i dodelite bacanju 1 ili 2 u zavisnosti od toga da li je bio neparan ili paran. (Alternativno, ako je broj valjanih više od polovine broja stranica matrice, to je 2.)
 
 
-#### D20
+### D20
 
 Da li zamah avanturistinog mača povređuje zmaja ili se samo odbija od njegove tvrde gvozdene krljušti? Da li će čudovište verovati nečuvenom blefu? Može li lik preplivati nabujalu reku? Da li lik može da izbegne glavnu eksploziju vatrene kugle ili on ili ona dobije pun udar od plamena? U slučajevima kada je ishod neke akcije neizvestan, igra Dungeons & Dragons oslanja se na bacanja 20-strane kocke, d20, da bi se utvrdio uspeh ili neuspeh.
 
@@ -116,26 +116,26 @@ Ciljani broj za proveru sposobnosti ili spasilačko bacanje naziva se **klasa te
 Ovo jednostavno pravilo reguliše rešavanje većine zadataka u D&D igri. Poglavlje 7 pruža detaljnija pravila za upotrebu d20 u igri.
 
 
-#### Prednost i nedostatak
+### Prednost i nedostatak
 
 Ponekad se provera sposobnosti, bacanje napada ili spasilačko bacanje modifikuje u posebnim situacijama koje se nazivaju prednost i nedostatak. Prednost odražava pozitivne okolnosti oko bacanja d20, dok nedostatak odražava suprotno. Kada imate prednost ili nedostatak, bacate i drugi d20 prilikom bacanja. Koristite viši od dva rezultata ako imate prednost, a manji koristite ako imate nedostatak. Na primer, ako imate nedostatak i bacite 17 i 5, koristite 5. Ako umesto toga imate prednost i dobijete te brojeve, koristite 17.
 
 Detaljnija pravila za prednost i nedostatak predstavljena su u poglavlju 7.
 
 
-#### Specifično pobjeđuje Opšte
+### Specifično pobjeđuje Opšte
 
 Ova knjiga sadrži pravila, posebno u delovima 2 i 3, koja određuju kako se igra. Uprkos tome, mnoge rasne osobine, karakteristike klase, čarolije, magični predmeti, sposobnosti čudovišta i drugi elementi igre na neki način krše opšta pravila, stvarajući izuzetak od toga kako ostatak igre funkcioniše. Zapamtite ovo: Ako je određeno pravilo u suprotnosti sa opštim pravilom, određeno pravilo pobeđuje.
 
 Izuzeci od pravila su često manji. Na primer, mnogi avanturisti nemaju znanje dugačkih lukova, ali svaki šumski vilenjak to ima zbog rasne osobine. Ta osobina stvara manji izuzetak u igri. Ostali primjeri kršenja pravila su uočljiviji. Na primer, avanturista ne može normalno da prođe kroz zidove, ali neke čarolije to omogućavaju. Magija čini većinu glavnih izuzetaka od pravila.
 
 
-#### Zaokruživanje nadole
+### Zaokruživanje nadole
 
 Postoji još jedno opšte pravilo koje morate znati na samom početku. Kad god podelite broj u igri, zaokružite prema dole ako završite sa razlomkom, čak i ako je razlomak pola ili veći.
 
 
-### Avanture
+## Avanture
 
 Igra Dungeons & Dragons sastoji se od grupe likova koji se upuštaju u avanturu koju im Dungeon Master predstavlja. Svaki lik u avanturu donosi posebne sposobnosti u vidu rezultata sposobnosti i veština, karakteristika klase, rasnih osobina, opreme i magičnih predmeta. Svaki lik je različit, sa raznim snagama i slabostima, pa je najbolja stranka avanturista ona u kojoj se likovi dopunjuju i pokrivaju slabosti svojih saputnika. Avanturisti moraju da sarađuju kako bi avanturu uspešno završili.
 
@@ -148,7 +148,7 @@ Avanture se razlikuju po dužini i složenosti. Kratka avantura može predstavlj
 Ali to nije kraj priče. O avanturi možete razmišljati kao o jednoj epizodi TV serije, koju čini više uzbudljivih scena. Kampanja je cela serija - niz pustolovina udruženih, sa doslednom grupom avanturista koji prate naraciju od početka do kraja.
 
 
-#### Tri stuba avanture
+### Tri stuba avanture
 
 Avanturisti mogu pokušati učiniti sve što njihovi igrači zamisle, ali može biti korisno razgovarati o nihovim aktivnostima u tri široke kategorije: istraživanje, socijalna interakcija i borba.
 
@@ -161,7 +161,7 @@ Pravila u poglavljima 7 i 8 podržavaju istraživanje i socijalnu interakciju, k
 **Borba**, fokus poglavlja 9, uključuje likove i druga stvorenja koja zamahuju oružjem, bacaju čarolije, manevrišu za položaj i tako dalje - sve u naporu da pobede svoje protivnike, bilo da to znači ubijanje svakog neprijatelja, uzimanje zarobljenika ili prisiljavanje na pogubljenje. Borba je najstrukturiraniji element D&D sesije, a stvorenja se smenjuju kako bi bila sigurna da svi imaju priliku da glume. Čak i u kontekstu nesporne bitke, avanturisti još uvek imaju puno prilika da iskušavaju otkačene vratolomije poput surfovanja niz stepenice na štitu, da biste ispitali okolinu (možda povlačenjem misteriozne poluge) i da biste komunicirali sa drugim stvorenjima, uključujući saveznike, neprijatelje i neutralne stranke.
 
 
-#### Čudesa magije
+### Čudesa magije
 
 Malo se D&D avantura završi a da se ne dogodi nešto magično. Bilo da je korisna ili štetna, magija se često pojavljuje u životu avanturista, i ona je u fokusu poglavlja 10 i 11.
 
