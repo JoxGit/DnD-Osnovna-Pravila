@@ -136,7 +136,7 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
    </tr>
    <tr><td>14–15</td><td>+2</td>
    </tr>
-   <tr><td>16–17</td><td>+3
+   <tr><td>16–17</td><td>+3</td>
    </tr>
    <tr><td>18–19</td><td>+4</td>
    </tr>
