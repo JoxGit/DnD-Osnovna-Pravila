@@ -118,39 +118,73 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
 **Ocene sposobnosti i modifikatori**
 
 <table>
-   <tr><td><strong>Poeni</strong></td><td><strong>Modifikator</strong></td>
+   <tr>
+      <td><strong>Poeni</strong></td>
+      <td><strong>Modifikator</strong></td>
    </tr>
-   <tr><td>1</td><td>−5</td>
+   <tr>
+      <td>1</td>
+      <td>−5</td>
    </tr>
-   <tr><td>2–3</td><td>−4</td>
+   <tr>
+      <td>2–3</td>
+      <td>−4</td>
    </tr>
-   <tr><td>4–5</td><td>−3</td>
+   <tr>
+      <td>4–5</td>
+      <td>−3</td>
    </tr>
-   <tr><td>6–7</td><td>−2</td>
+   <tr>
+      <td>6–7</td>
+      <td>−2</td>
    </tr>
-   <tr><td>8–9</td><td>−1</td>
+   <tr>
+      <td>8–9</td>
+      <td>−1</td>
    </tr>
-   <tr><td>10–11</td><td>+0</td>
+   <tr>
+      <td>10–11</td>
+      <td>+0</td>
    </tr>
-   <tr><td>12–13</td><td>+1</td>
+   <tr>
+      <td>12–13</td>
+      <td>+1</td>
    </tr>
-   <tr><td>14–15</td><td>+2</td>
+   <tr>
+      <td>14–15</td>
+      <td>+2</td>
    </tr>
-   <tr><td>16–17</td><td>+3</td>
+   <tr>
+      <td>16–17</td>
+      <td>+3</td>
    </tr>
-   <tr><td>18–19</td><td>+4</td>
+   <tr>
+      <td>18–19</td>
+      <td>+4</td>
    </tr>
-   <tr><td>20–21</td><td>+5</td>
+   <tr>
+      <td>20–21</td>
+      <td>+5</td>
    </tr>
-   <tr><td>22–23</td><td>+6</td>
+   <tr>
+      <td>22–23</td>
+      <td>+6</td>
    </tr>
-   <tr><td>24–25</td><td>+7</td>
+   <tr>
+      <td>24–25</td>
+      <td>+7</td>
    </tr>
-   <tr><td>26–27</td><td>+8</td>
+   <tr>
+      <td>26–27</td>
+      <td>+8</td>
    </tr>
-   <tr><td>28–29</td><td>+9</td>
+   <tr>
+      <td>28–29</td>
+      <td>+9</td>
    </tr>
-   <tr><td>30</td><td>+10</td>
+   <tr>
+      <td>30</td>
+      <td>+10</td>
    </tr>
 </table>
 
@@ -488,230 +522,175 @@ Na četvrtom nivou (nivoi 17–20), likovi postižu vrhunac svojih klasnih karak
 
 **Napredovanja karaktera**
 
-
 <table>
-  <tr>
-   <td>
-    <strong>Poeni iskustva</strong>
-   </td>
-   <td>
-    <strong>Nivo</strong>
-   </td>
-   <td>
-    <strong>Bonus stručnosti</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    0
-   </td>
-   <td>1
-   </td>
-   <td>
-    +2
-   </td>
-  </tr>
-  <tr>
-   <td>
-    300
-   </td>
-   <td>2
-   </td>
-   <td>
-    +2
-   </td>
-  </tr>
-  <tr>
-   <td>
-    900
-   </td>
-   <td>3
-   </td>
-   <td>
-    +2
-   </td>
-  </tr>
-  <tr>
-   <td>
-    2,700
-   </td>
-   <td>4
-   </td>
-   <td>
-    +2
-   </td>
-  </tr>
-  <tr>
-   <td>
-    6,500
-   </td>
-   <td>5
-   </td>
-   <td>
-    +3
-   </td>
-  </tr>
-  <tr>
-   <td>
-    14,000
-   </td>
-   <td>6
-   </td>
-   <td>
-    +3
-   </td>
-  </tr>
-  <tr>
-   <td>
-    23,000
-   </td>
-   <td>7
-   </td>
-   <td>
-    +3
-   </td>
-  </tr>
-  <tr>
-   <td>
-    34,000
-   </td>
-   <td>8
-   </td>
-   <td>
-    +3
-   </td>
-  </tr>
-  <tr>
-   <td>
-    48,000
-   </td>
-   <td>9
-   </td>
-   <td>
-    +4
-   </td>
-  </tr>
-  <tr>
-   <td>
-    64,000
-   </td>
-   <td>
-    10
-   </td>
-   <td>
-    +4
-   </td>
-  </tr>
-  <tr>
-   <td>
-    85,000
-   </td>
-   <td>
-    11
-   </td>
-   <td>
-    +4
-   </td>
-  </tr>
-  <tr>
-   <td>
-    100,000
-   </td>
-   <td>
-    12
-   </td>
-   <td>
-    +4
-   </td>
-  </tr>
-  <tr>
-   <td>
-    120,000
-   </td>
-   <td>
-    13
-   </td>
-   <td>
-    +5
-   </td>
-  </tr>
-  <tr>
-   <td>
-    140,000
-   </td>
-   <td>
-    14
-   </td>
-   <td>
-    +5
-   </td>
-  </tr>
-  <tr>
-   <td>
-    165,000
-   </td>
-   <td>
-    15
-   </td>
-   <td>
-    +5
-   </td>
-  </tr>
-  <tr>
-   <td>
-    195,000
-   </td>
-   <td>
-    16
-   </td>
-   <td>
-    +5
-   </td>
-  </tr>
-  <tr>
-   <td>
-    225,000
-   </td>
-   <td>
-    17
-   </td>
-   <td>
-    +6
-   </td>
-  </tr>
-  <tr>
-   <td>
-    265,000
-   </td>
-   <td>
-    18
-   </td>
-   <td>
-    +6
-   </td>
-  </tr>
-  <tr>
-   <td>
-    305,000
-   </td>
-   <td>
-    19
-   </td>
-   <td>
-    +6
-   </td>
-  </tr>
-  <tr>
-   <td>
-    355,000
-   </td>
-   <td>
-    20
-   </td>
-   <td>
-    +6
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Poeni iskustva</strong>
+      </td>
+      <td><strong>Nivo</strong>
+      </td>
+      <td><strong>Bonus stručnosti</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>0
+      </td>
+      <td>1
+      </td>
+      <td>+2
+      </td>
+   </tr>
+   <tr>
+      <td>300
+      </td>
+      <td>2
+      </td>
+      <td>+2
+      </td>
+   </tr>
+   <tr>
+      <td>900
+      </td>
+      <td>3
+      </td>
+      <td>+2
+      </td>
+   </tr>
+   <tr>
+      <td>2,700
+      </td>
+      <td>4
+      </td>
+      <td>+2
+      </td>
+   </tr>
+   <tr>
+      <td>6,500
+      </td>
+      <td>5
+      </td>
+      <td>+3
+      </td>
+   </tr>
+   <tr>
+      <td>14,000
+      </td>
+      <td>6
+      </td>
+      <td>+3
+      </td>
+   </tr>
+   <tr>
+      <td>23,000
+      </td>
+      <td>7
+      </td>
+      <td>+3
+      </td>
+   </tr>
+   <tr>
+      <td>34,000
+      </td>
+      <td>8
+      </td>
+      <td>+3
+      </td>
+   </tr>
+   <tr>
+      <td>48,000
+      </td>
+      <td>9
+      </td>
+      <td>+4
+      </td>
+   </tr>
+   <tr>
+      <td>64,000
+      </td>
+      <td>10
+      </td>
+      <td>+4
+      </td>
+   </tr>
+   <tr>
+      <td>85,000
+      </td>
+      <td>11
+      </td>
+      <td>+4
+      </td>
+   </tr>
+   <tr>
+      <td>100,000
+      </td>
+      <td>12
+      </td>
+      <td>+4
+      </td>
+   </tr>
+   <tr>
+      <td>120,000
+      </td>
+      <td>13
+      </td>
+      <td>+5
+      </td>
+   </tr>
+   <tr>
+      <td>140,000
+      </td>
+      <td>14
+      </td>
+      <td>+5
+      </td>
+   </tr>
+   <tr>
+      <td>165,000
+      </td>
+      <td>15
+      </td>
+      <td>+5
+      </td>
+   </tr>
+   <tr>
+      <td>195,000
+      </td>
+      <td>16
+      </td>
+      <td>+5
+      </td>
+   </tr>
+   <tr>
+      <td>225,000
+      </td>
+      <td>17
+      </td>
+      <td>+6
+      </td>
+   </tr>
+   <tr>
+      <td>265,000
+      </td>
+      <td>18
+      </td>
+      <td>+6
+      </td>
+   </tr>
+   <tr>
+      <td>305,000
+      </td>
+      <td>19
+      </td>
+      <td>+6
+      </td>
+   </tr>
+   <tr>
+      <td>355,000
+      </td>
+      <td>20
+      </td>
+      <td>+6
+      </td>
+   </tr>
 </table>
 
 
@@ -832,188 +811,190 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
 ## Pregled klasa
 
 <table>
-  <tr>
-   <td><strong>Class</strong>
-   </td>
-   <td><strong>Description</strong>
-   </td>
-   <td><strong>Hit Die</strong>
-   </td>
-   <td><strong>Primary Ability</strong>
-   </td>
-   <td><strong>Saving Throw Proficiencies</strong>
-   </td>
-   <td><strong>Armor and Weapon Proficiencies</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Barbarian">Barbarian</a></strong>
-   </td>
-   <td>A fierce warrior of primitive background who can enter a battle rage
-   </td>
-   <td>d12
-   </td>
-   <td>Strength
-   </td>
-   <td>Strength & Constitution
-   </td>
-   <td>Light and medium armor, shields, simple and martial weapons
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Bard">Bard</a></strong>
-   </td>
-   <td>An inspiring magician whose power echoes the music of creation
-   </td>
-   <td>d8
-   </td>
-   <td>Charisma
-   </td>
-   <td>Dexterity & Charisma
-   </td>
-   <td>Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Cleric">Cleric</a></strong>
-   </td>
-   <td>A priestly champion who wields divine magic in service of a higher power
-   </td>
-   <td>d8
-   </td>
-   <td>Wisdom
-   </td>
-   <td>Wisdom & Charisma
-   </td>
-   <td>Light and medium armor, shields, simple weapons
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Druid">Druid</a></strong>
-   </td>
-   <td>A priest of the Old Faith, wielding the powers of nature — moonlight and plant growth, fire and lightning — and adopting animal forms
-   </td>
-   <td>d8
-   </td>
-   <td>Wisdom
-   </td>
-   <td>Intelligence & Wisdom
-   </td>
-   <td>Light and medium armor (nonmetal), shields (nonmetal), clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Fighter">Fighter</a></strong>
-   </td>
-   <td>A master of martial combat, skilled with a variety of weapons and armor
-   </td>
-   <td>d10
-   </td>
-   <td>Strength or Dexterity
-   </td>
-   <td>Strength & Constitution
-   </td>
-   <td>All armor, shields, simple and martial weapons
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Monk">Monk</a></strong>
-   </td>
-   <td>A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection
-   </td>
-   <td>d8
-   </td>
-   <td>Dexterity & Wisdom
-   </td>
-   <td>Strength & Dexterity
-   </td>
-   <td>Simple weapons, shortswords
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Paladin">Paladin</a></strong>
-   </td>
-   <td>A holy warrior bound to a sacred oath
-   </td>
-   <td>d10
-   </td>
-   <td>Strength & Charisma
-   </td>
-   <td>Wisdom & Charisma
-   </td>
-   <td>All armor, shields, simple and martial weapons
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Ranger">Ranger</a></strong>
-   </td>
-   <td>A warrior who uses martial prowess and nature magic to combat threats on the edges of civilization
-   </td>
-   <td>d10
-   </td>
-   <td>Dexterity & Wisdom
-   </td>
-   <td>Strength & Dexterity
-   </td>
-   <td>Light and medium armor, shields, simple and martial weapons
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Rogue">Rogue</a></strong>
-   </td>
-   <td>A scoundrel who uses stealth and trickery to overcome obstacles and enemies
-   </td>
-   <td>d8
-   </td>
-   <td>Dexterity
-   </td>
-   <td>Dexterity & Intelligence
-   </td>
-   <td>Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Sorcerer">Sorcerer</a></strong>
-   </td>
-   <td>A spellcaster who draws on inherent magic from a gift or bloodline
-   </td>
-   <td>d6
-   </td>
-   <td>Charisma
-   </td>
-   <td>Constitution & Charisma
-   </td>
-   <td>Daggers, darts, slings, quarterstaffs, light crossbows
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Warlock">Warlock</a></strong>
-   </td>
-   <td>A wielder of magic that is derived from a bargain with an extraplanar entity
-   </td>
-   <td>d8
-   </td>
-   <td>Charisma
-   </td>
-   <td>Wisdom & Charisma
-   </td>
-   <td>Light armor, simple weapons
-   </td>
-  </tr>
-  <tr>
-   <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Wizard">Wizard</a></strong>
-   </td>
-   <td>A scholarly magic-user capable of manipulating the structures of reality
-   </td>
-   <td>d6
-   </td>
-   <td>Intelligence
-   </td>
-   <td>Intelligence & Wisdom
-   </td>
-   <td>Daggers, darts, slings, quarterstaffs, light crossbows
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Class</strong>
+      </td>
+      <td><strong>Description</strong>
+      </td>
+      <td><strong>Hit Die</strong>
+      </td>
+      <td><strong>Primary Ability</strong>
+      </td>
+      <td><strong>Saving Throw Proficiencies</strong>
+      </td>
+      <td><strong>Armor and Weapon Proficiencies</strong>
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Barbarian">Barbarian</a></strong>
+      </td>
+      <td>A fierce warrior of primitive background who can enter a battle rage
+      </td>
+      <td>d12
+      </td>
+      <td>Strength
+      </td>
+      <td>Strength & Constitution
+      </td>
+      <td>Light and medium armor, shields, simple and martial weapons
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Bard">Bard</a></strong>
+      </td>
+      <td>An inspiring magician whose power echoes the music of creation
+      </td>
+      <td>d8
+      </td>
+      <td>Charisma
+      </td>
+      <td>Dexterity & Charisma
+      </td>
+      <td>Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Cleric">Cleric</a></strong>
+      </td>
+      <td>A priestly champion who wields divine magic in service of a higher power
+      </td>
+      <td>d8
+      </td>
+      <td>Wisdom
+      </td>
+      <td>Wisdom & Charisma
+      </td>
+      <td>Light and medium armor, shields, simple weapons
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Druid">Druid</a></strong>
+      </td>
+      <td>A priest of the Old Faith, wielding the powers of nature — moonlight and plant growth, fire and lightning —
+         and adopting animal forms
+      </td>
+      <td>d8
+      </td>
+      <td>Wisdom
+      </td>
+      <td>Intelligence & Wisdom
+      </td>
+      <td>Light and medium armor (nonmetal), shields (nonmetal), clubs, daggers, darts, javelins, maces, quarterstaffs,
+         scimitars, sickles, slings, spears
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Fighter">Fighter</a></strong>
+      </td>
+      <td>A master of martial combat, skilled with a variety of weapons and armor
+      </td>
+      <td>d10
+      </td>
+      <td>Strength or Dexterity
+      </td>
+      <td>Strength & Constitution
+      </td>
+      <td>All armor, shields, simple and martial weapons
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Monk">Monk</a></strong>
+      </td>
+      <td>A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection
+      </td>
+      <td>d8
+      </td>
+      <td>Dexterity & Wisdom
+      </td>
+      <td>Strength & Dexterity
+      </td>
+      <td>Simple weapons, shortswords
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Paladin">Paladin</a></strong>
+      </td>
+      <td>A holy warrior bound to a sacred oath
+      </td>
+      <td>d10
+      </td>
+      <td>Strength & Charisma
+      </td>
+      <td>Wisdom & Charisma
+      </td>
+      <td>All armor, shields, simple and martial weapons
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Ranger">Ranger</a></strong>
+      </td>
+      <td>A warrior who uses martial prowess and nature magic to combat threats on the edges of civilization
+      </td>
+      <td>d10
+      </td>
+      <td>Dexterity & Wisdom
+      </td>
+      <td>Strength & Dexterity
+      </td>
+      <td>Light and medium armor, shields, simple and martial weapons
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Rogue">Rogue</a></strong>
+      </td>
+      <td>A scoundrel who uses stealth and trickery to overcome obstacles and enemies
+      </td>
+      <td>d8
+      </td>
+      <td>Dexterity
+      </td>
+      <td>Dexterity & Intelligence
+      </td>
+      <td>Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Sorcerer">Sorcerer</a></strong>
+      </td>
+      <td>A spellcaster who draws on inherent magic from a gift or bloodline
+      </td>
+      <td>d6
+      </td>
+      <td>Charisma
+      </td>
+      <td>Constitution & Charisma
+      </td>
+      <td>Daggers, darts, slings, quarterstaffs, light crossbows
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Warlock">Warlock</a></strong>
+      </td>
+      <td>A wielder of magic that is derived from a bargain with an extraplanar entity
+      </td>
+      <td>d8
+      </td>
+      <td>Charisma
+      </td>
+      <td>Wisdom & Charisma
+      </td>
+      <td>Light armor, simple weapons
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Wizard">Wizard</a></strong>
+      </td>
+      <td>A scholarly magic-user capable of manipulating the structures of reality
+      </td>
+      <td>d6
+      </td>
+      <td>Intelligence
+      </td>
+      <td>Intelligence & Wisdom
+      </td>
+      <td>Daggers, darts, slings, quarterstaffs, light crossbows
+      </td>
+   </tr>
 </table>
 
 
@@ -1112,125 +1093,90 @@ Ako želite, možete nasumično odrediti visinu i težinu svog lika pomoću tab
 
 
 <table>
-  <tr>
-   <td>
-    <strong>Rasa</strong>
-   </td>
-   <td>
-    <strong>Osnovna visina</strong>
-   </td>
-   <td>
-    <strong>Modifikator visione</strong>
-   </td>
-   <td>
-    <strong>Osnovna težina</strong>
-   </td>
-   <td>
-    <strong>Modifikator težine</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Čovjek
-   </td>
-   <td>
-    4'8"
-   </td>
-   <td>
-    +2d10
-   </td>
-   <td>
-    110 lb.
-   </td>
-   <td>
-    × (2d4) lb.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Patuljak, brdski
-   </td>
-   <td>
-    3'8"
-   </td>
-   <td>
-    +2d4
-   </td>
-   <td>
-    115 lb.
-   </td>
-   <td>
-    × (2d6) lb.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Patuljak, planinski
-   </td>
-   <td>
-    4'
-   </td>
-   <td>
-    +2d4
-   </td>
-   <td>
-    130 lb.
-   </td>
-   <td>
-    × (2d6) lb.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Vilenjak, visoki
-   </td>
-   <td>
-    4'6"
-   </td>
-   <td>
-    +2d10
-   </td>
-   <td>
-    90 lb.
-   </td>
-   <td>
-    × (1d4) lb.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Vilenjak, šumski
-   </td>
-   <td>
-    4'6"
-   </td>
-   <td>
-    +2d10
-   </td>
-   <td>
-    100 lb.
-   </td>
-   <td>
-    × (1d4) lb.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Polutan
-   </td>
-   <td>
-    2'7"
-   </td>
-   <td>
-    +2d4
-   </td>
-   <td>
-    35 lb.
-   </td>
-   <td>
-    × 1 lb.
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Rasa</strong>
+      </td>
+      <td><strong>Osnovna visina</strong>
+      </td>
+      <td><strong>Modifikator visione</strong>
+      </td>
+      <td><strong>Osnovna težina</strong>
+      </td>
+      <td><strong>Modifikator težine</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Čovjek
+      </td>
+      <td>4'8"
+      </td>
+      <td>+2d10
+      </td>
+      <td>110 lb.
+      </td>
+      <td>× (2d4) lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Patuljak, brdski
+      </td>
+      <td>3'8"
+      </td>
+      <td>+2d4
+      </td>
+      <td>115 lb.
+      </td>
+      <td>× (2d6) lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Patuljak, planinski
+      </td>
+      <td>4'
+      </td>
+      <td>+2d4
+      </td>
+      <td>130 lb.
+      </td>
+      <td>× (2d6) lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Vilenjak, visoki
+      </td>
+      <td>4'6"
+      </td>
+      <td>+2d10
+      </td>
+      <td>90 lb.
+      </td>
+      <td>× (1d4) lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Vilenjak, šumski
+      </td>
+      <td>4'6"
+      </td>
+      <td>+2d10
+      </td>
+      <td>100 lb.
+      </td>
+      <td>× (1d4) lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Polutan
+      </td>
+      <td>2'7"
+      </td>
+      <td>+2d4
+      </td>
+      <td>35 lb.
+      </td>
+      <td>× 1 lb.
+      </td>
+   </tr>
 </table>
 
 
@@ -1304,185 +1250,149 @@ Neki od ovih jezika su zapravo porodice jezika sa mnogim dijalektima. Na primer,
 
 **Standardni jezici**
 
-
 <table>
-  <tr>
-   <td><strong>Jezik</strong>
-   </td>
-   <td>
-    <strong>Tipično govornici</strong>
-   </td>
-   <td>
-    <strong>Pismo</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Zajednički
-   </td>
-   <td>
-    Ljudi
-   </td>
-   <td>   Zajedničko
-   </td>
-  </tr>
-  <tr>
-   <td>Patuljasti
-   </td>
-   <td>
-    Patuljci
-   </td>
-   <td>   Patuljasto
-   </td>
-  </tr>
-  <tr>
-   <td>Vilenjački
-   </td>
-   <td>
-    Vilenjaci
-   </td>
-   <td>   Vilenjačko
-   </td>
-  </tr>
-  <tr>
-   <td>Gigantski
-   </td>
-   <td>
-    Ogresi i divovi
-   </td>
-   <td>   Patuljasto
-   </td>
-  </tr>
-  <tr>
-   <td>Gnomsku
-   </td>
-   <td>
-    Gnomi
-   </td>
-   <td>   Patuljasto
-   </td>
-  </tr>
-  <tr>
-   <td>Goblinski
-   </td>
-   <td>
-    Goblinoidi
-   </td>
-   <td>   Patuljasto
-   </td>
-  </tr>
-  <tr>
-   <td>Polutantski
-   </td>
-   <td>
-    Polutani
-   </td>
-   <td>   Zajedničko
-   </td>
-  </tr>
-  <tr>
-   <td>Orkski
-   </td>
-   <td>
-    Orci
-   </td>
-   <td>   Patuljasto
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Jezik</strong>
+      </td>
+      <td><strong>Tipično govornici</strong>
+      </td>
+      <td><strong>Pismo</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Zajednički
+      </td>
+      <td>Ljudi
+      </td>
+      <td> Zajedničko
+      </td>
+   </tr>
+   <tr>
+      <td>Patuljasti
+      </td>
+      <td>Patuljci
+      </td>
+      <td> Patuljasto
+      </td>
+   </tr>
+   <tr>
+      <td>Vilenjački
+      </td>
+      <td>Vilenjaci
+      </td>
+      <td> Vilenjačko
+      </td>
+   </tr>
+   <tr>
+      <td>Gigantski
+      </td>
+      <td>Ogresi i divovi
+      </td>
+      <td> Patuljasto
+      </td>
+   </tr>
+   <tr>
+      <td>Gnomsku
+      </td>
+      <td>Gnomi
+      </td>
+      <td> Patuljasto
+      </td>
+   </tr>
+   <tr>
+      <td>Goblinski
+      </td>
+      <td>Goblinoidi
+      </td>
+      <td> Patuljasto
+      </td>
+   </tr>
+   <tr>
+      <td>Polutantski
+      </td>
+      <td>Polutani
+      </td>
+      <td> Zajedničko
+      </td>
+   </tr>
+   <tr>
+      <td>Orkski
+      </td>
+      <td>Orci
+      </td>
+      <td> Patuljasto
+      </td>
+   </tr>
 </table>
 
 
 **Egzotični jezici**
 
-
 <table>
-  <tr>
-   <td>
-    Abyssal
-   </td>
-   <td>
-    Demons
-   </td>
-   <td>
-    Infernal
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Celestial
-   </td>
-   <td>
-    Celestials
-   </td>
-   <td>
-    Celestial
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Deep Speech
-   </td>
-   <td>
-    Mind flayers, beholders
-   </td>
-   <td>
-    —
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Draconic
-   </td>
-   <td>
-    Dragons,dragonborn
-   </td>
-   <td>
-    Draconic
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Infernal
-   </td>
-   <td>
-    Devils
-   </td>
-   <td>
-    Infernal
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Primordial
-   </td>
-   <td>
-    Elementals
-   </td>
-   <td>
-    Dwarvish
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Sylvan
-   </td>
-   <td>
-    Fey creatures
-   </td>
-   <td>
-    Elvish
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Undercommon
-   </td>
-   <td>
-    Underdark traders
-   </td>
-   <td>
-    Elvish
-   </td>
-  </tr>
+   <tr>
+      <td>Abyssal
+      </td>
+      <td>Demons
+      </td>
+      <td>Infernal
+      </td>
+   </tr>
+   <tr>
+      <td>Celestial
+      </td>
+      <td>Celestials
+      </td>
+      <td>Celestial
+      </td>
+   </tr>
+   <tr>
+      <td>Deep Speech
+      </td>
+      <td>Mind flayers, beholders
+      </td>
+      <td>—
+      </td>
+   </tr>
+   <tr>
+      <td>Draconic
+      </td>
+      <td>Dragons,dragonborn
+      </td>
+      <td>Draconic
+      </td>
+   </tr>
+   <tr>
+      <td>Infernal
+      </td>
+      <td>Devils
+      </td>
+      <td>Infernal
+      </td>
+   </tr>
+   <tr>
+      <td>Primordial
+      </td>
+      <td>Elementals
+      </td>
+      <td>Dwarvish
+      </td>
+   </tr>
+   <tr>
+      <td>Sylvan
+      </td>
+      <td>Fey creatures
+      </td>
+      <td>Elvish
+      </td>
+   </tr>
+   <tr>
+      <td>Undercommon
+      </td>
+      <td>Underdark traders
+      </td>
+      <td>Elvish
+      </td>
+   </tr>
 </table>
 
 
@@ -1641,38 +1551,37 @@ Vi odlučujete kako je vaš lik došao do ove startne opreme. To je moglo biti n
 
 **Početno bogatstvo po klasama**
 
-
 <table>
-  <tr>
-   <td><strong>Klasa</strong>
-   </td>
-   <td><strong>Novčana sredstva</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Cleric
-   </td>
-   <td>5d4 x 10gp
-   </td>
-  </tr>
-  <tr>
-   <td>Fighter
-   </td>
-   <td>5d4 x 10gp
-   </td>
-  </tr>
-  <tr>
-   <td>Rogue
-   </td>
-   <td>4d4 x 10gp
-   </td>
-  </tr>
-  <tr>
-   <td>Wizard
-   </td>
-   <td>4d4 x 10gp
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Klasa</strong>
+      </td>
+      <td><strong>Novčana sredstva</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Cleric
+      </td>
+      <td>5d4 x 10gp
+      </td>
+   </tr>
+   <tr>
+      <td>Fighter
+      </td>
+      <td>5d4 x 10gp
+      </td>
+   </tr>
+   <tr>
+      <td>Rogue
+      </td>
+      <td>4d4 x 10gp
+      </td>
+   </tr>
+   <tr>
+      <td>Wizard
+      </td>
+      <td>4d4 x 10gp
+      </td>
+   </tr>
 </table>
 
 
@@ -1700,158 +1609,91 @@ Standardni novčić težak je oko trećine unče, pa pedeset novčića teži 
 
 **Standardni kurs razmjene**
 
-
 <table>
-  <tr>
-   <td>
-    <strong>Coin</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>cp</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>sp</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>ep</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>gp</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>pp</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Copper (cp)
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/10</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/50</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/100</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/1,000</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Silver (sp)
-   </td>
-   <td><p style="text-align: right">
-10</p>
-
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/5</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/10</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/100</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Electrum (ep)
-   </td>
-   <td><p style="text-align: right">
-50</p>
-
-   </td>
-   <td><p style="text-align: right">
-5</p>
-
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/2</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/20</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Gold (gp)
-   </td>
-   <td><p style="text-align: right">
-100</p>
-
-   </td>
-   <td><p style="text-align: right">
-10</p>
-
-   </td>
-   <td><p style="text-align: right">
-2</p>
-
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/10</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Platinum (pp)
-   </td>
-   <td><p style="text-align: right">
-1,000</p>
-
-   </td>
-   <td><p style="text-align: right">
-100</p>
-
-   </td>
-   <td><p style="text-align: right">
-20</p>
-
-   </td>
-   <td><p style="text-align: right">
-10</p>
-
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Coin</strong>
+      </td>
+      <td><strong>cp</strong>
+      </td>
+      <td><strong>sp</strong>
+      </td>
+      <td><strong>ep</strong>
+      </td>
+      <td><strong>gp</strong>
+      </td>
+      <td><strong>pp</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Copper (cp)
+      </td>
+      <td>1
+      </td>
+      <td>1/10
+      </td>
+      <td>1/50
+      </td>
+      <td>1/100
+      </td>
+      <td>1/1,000
+      </td>
+   </tr>
+   <tr>
+      <td>Silver (sp)
+      </td>
+      <td>10
+      </td>
+      <td>1
+      </td>
+      <td>1/5
+      </td>
+      <td>1/10
+      </td>
+      <td>1/100
+      </td>
+   </tr>
+   <tr>
+      <td>Electrum (ep)
+      </td>
+      <td>50
+      </td>
+      <td>5
+      </td>
+      <td>1
+      </td>
+      <td>1/2
+      </td>
+      <td>1/20
+      </td>
+   </tr>
+   <tr>
+      <td>Gold (gp)
+      </td>
+      <td>100
+      </td>
+      <td>10
+      </td>
+      <td>2
+      </td>
+      <td>1
+      </td>
+      <td>1/10
+      </td>
+   </tr>
+   <tr>
+      <td>Platinum (pp)
+      </td>
+      <td>1,000
+      </td>
+      <td>100
+      </td>
+      <td>20
+      </td>
+      <td>10
+      </td>
+      <td>1
+      </td>
+   </tr>
 </table>
 
 
@@ -1889,6 +1731,7 @@ Vaša klasa vam daje vještine sa određenim vrstama oklopa. Ako nosite oklop sa
 
 
 ### Laki oklop
+
 <table>
    <tr>
       <td><strong>Armor Name</strong>
@@ -4362,54 +4205,54 @@ Vaš izbor načina života može imati posledice. Održavanje bogatog načina ž
 
 
 <table>
-  <tr>
-   <td><strong>Lifestyle</strong>
-   </td>
-   <td><strong>Price/Day</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Jadno
-   </td>
-   <td>—
-   </td>
-  </tr>
-  <tr>
-   <td>Bijedno
-   </td>
-   <td>1 sp
-   </td>
-  </tr>
-  <tr>
-   <td>Siromašno
-   </td>
-   <td>2 sp
-   </td>
-  </tr>
-  <tr>
-   <td>Skromno
-   </td>
-   <td>1 gp
-   </td>
-  </tr>
-  <tr>
-   <td>Udobno
-   </td>
-   <td>2 gp
-   </td>
-  </tr>
-  <tr>
-   <td>Bogato
-   </td>
-   <td>4 gp
-   </td>
-  </tr>
-  <tr>
-   <td>Aristokratski
-   </td>
-   <td>10 gp minimum
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Životni stil</strong>
+      </td>
+      <td><strong>Cijena po danu</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Jadno
+      </td>
+      <td>—
+      </td>
+   </tr>
+   <tr>
+      <td>Bijedno
+      </td>
+      <td>1 sp
+      </td>
+   </tr>
+   <tr>
+      <td>Siromašno
+      </td>
+      <td>2 sp
+      </td>
+   </tr>
+   <tr>
+      <td>Skromno
+      </td>
+      <td>1 gp
+      </td>
+   </tr>
+   <tr>
+      <td>Udobno
+      </td>
+      <td>2 gp
+      </td>
+   </tr>
+   <tr>
+      <td>Bogato
+      </td>
+      <td>4 gp
+      </td>
+   </tr>
+   <tr>
+      <td>Aristokratski
+      </td>
+      <td>10 gp minimum
+      </td>
+   </tr>
 </table>
 
 
@@ -4434,208 +4277,207 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
 
 **Hrana, piće i smještaj**
 
-
 <table>
-  <tr>
-   <td><strong>Item</strong>
-   </td>
-   <td>
-   </td>
-   <td><strong>Cost</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Ale
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Gallon
-   </td>
-   <td>2 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Mug
-   </td>
-   <td>4 cp
-   </td>
-  </tr>
-  <tr>
-   <td>Banquet (per person)
-   </td>
-   <td>
-   </td>
-   <td>10 gp
-   </td>
-  </tr>
-  <tr>
-   <td>Bread, loaf
-   </td>
-   <td>
-   </td>
-   <td>2 cp
-   </td>
-  </tr>
-  <tr>
-   <td>Cheese, hunk
-   </td>
-   <td>
-   </td>
-   <td>1 sp
-   </td>
-  </tr>
-  <tr>
-   <td>Inn stay (per day)
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Squalid
-   </td>
-   <td>7 cp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Poor
-   </td>
-   <td>1 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Modest
-   </td>
-   <td>5 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Comfortable
-   </td>
-   <td>8 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Wealthy
-   </td>
-   <td>2 gp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Aristocratic
-   </td>
-   <td>4 gp
-   </td>
-  </tr>
-  <tr>
-   <td>Meals (per day)
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Squalid
-   </td>
-   <td>3 cp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Poor
-   </td>
-   <td>6 cp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Modest
-   </td>
-   <td>3 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Comfortable
-   </td>
-   <td>5 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Wealthy
-   </td>
-   <td>8 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Aristocratic
-   </td>
-   <td>2 gp
-   </td>
-  </tr>
-  <tr>
-   <td>Meat, chunk
-   </td>
-   <td>3 sp
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Wine
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Common (pitcher)
-   </td>
-   <td>2 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Fine (bottle)
-   </td>
-   <td>10 gp
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Ale
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Gallon
+      </td>
+      <td>2 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Mug
+      </td>
+      <td>4 cp
+      </td>
+   </tr>
+   <tr>
+      <td>Banquet (per person)
+      </td>
+      <td>
+      </td>
+      <td>10 gp
+      </td>
+   </tr>
+   <tr>
+      <td>Bread, loaf
+      </td>
+      <td>
+      </td>
+      <td>2 cp
+      </td>
+   </tr>
+   <tr>
+      <td>Cheese, hunk
+      </td>
+      <td>
+      </td>
+      <td>1 sp
+      </td>
+   </tr>
+   <tr>
+      <td>Inn stay (per day)
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Squalid
+      </td>
+      <td>7 cp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Poor
+      </td>
+      <td>1 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Modest
+      </td>
+      <td>5 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Comfortable
+      </td>
+      <td>8 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Wealthy
+      </td>
+      <td>2 gp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Aristocratic
+      </td>
+      <td>4 gp
+      </td>
+   </tr>
+   <tr>
+      <td>Meals (per day)
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Squalid
+      </td>
+      <td>3 cp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Poor
+      </td>
+      <td>6 cp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Modest
+      </td>
+      <td>3 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Comfortable
+      </td>
+      <td>5 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Wealthy
+      </td>
+      <td>8 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Aristocratic
+      </td>
+      <td>2 gp
+      </td>
+   </tr>
+   <tr>
+      <td>Meat, chunk
+      </td>
+      <td>3 sp
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>Wine
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Common (pitcher)
+      </td>
+      <td>2 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Fine (bottle)
+      </td>
+      <td>10 gp
+      </td>
+   </tr>
 </table>
 
 
@@ -4650,86 +4492,86 @@ Drugi najamnici pružaju više stručne ili opasne usluge. Plaćeni vojnici pla�
 
 
 <table>
-  <tr>
-   <td><strong>Usloga</strong>
-   </td>
-   <td>
-   </td>
-   <td><strong>Palćanje</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Kočija
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Između gradova
-   </td>
-   <td>3 cp per mile
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Unutar grada
-   </td>
-   <td>1 cp
-   </td>
-  </tr>
-  <tr>
-   <td>Najamnici
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Kvalifikovani
-   </td>
-   <td>2 gp per day
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Neobučeni
-   </td>
-   <td>2 sp per day
-   </td>
-  </tr>
-  <tr>
-   <td>Pismonioša
-   </td>
-   <td>
-   </td>
-   <td>2 cp per mile
-   </td>
-  </tr>
-  <tr>
-   <td>Rampa na putu ili kapiji
-   </td>
-   <td>
-   </td>
-   <td>1 cp
-   </td>
-  </tr>
-  <tr>
-   <td>Prevoz brodom
-   </td>
-   <td>
-   </td>
-   <td>1 sp per mile
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Usloga</strong>
+      </td>
+      <td>
+      </td>
+      <td><strong>Palćanje</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Kočija
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Između gradova
+      </td>
+      <td>3 cp per mile
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Unutar grada
+      </td>
+      <td>1 cp
+      </td>
+   </tr>
+   <tr>
+      <td>Najamnici
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Kvalifikovani
+      </td>
+      <td>2 gp per day
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Neobučeni
+      </td>
+      <td>2 sp per day
+      </td>
+   </tr>
+   <tr>
+      <td>Pismonioša
+      </td>
+      <td>
+      </td>
+      <td>2 cp per mile
+      </td>
+   </tr>
+   <tr>
+      <td>Rampa na putu ili kapiji
+      </td>
+      <td>
+      </td>
+      <td>1 cp
+      </td>
+   </tr>
+   <tr>
+      <td>Prevoz brodom
+      </td>
+      <td>
+      </td>
+      <td>1 sp per mile
+      </td>
+   </tr>
 </table>
 
 
@@ -4757,614 +4599,614 @@ Kada napravite svoj lik, možete se jednom zakotrljati po stolu sa nakitom da bi
 
 **Drangulije**
 
-
 <table>
-<tr>
-   <td>d100
-   </td>
-   <td>Drangulija
-   </td>
-  </tr>
-  <tr>
-   <td>01
-   </td>
-   <td>Mumificirana ruka goblina
-   </td>
-  </tr>
-  <tr>
-   <td>02
-   </td>
-   <td>Komad kristala koji slabo blista na mesečini
-   </td>
-  </tr>
-  <tr>
-   <td>03
-   </td>
-   <td>Zlatnik kovan u nepoznatoj zemlji
-   </td>
-  </tr>
-  <tr>
-   <td>04
-   </td>
-   <td>Dnevnik napisan na jeziku koji ne znate
-   </td>
-  </tr>
-  <tr>
-   <td>05
-   </td>
-   <td>Mesingani prsten koji se nikada ne ocrni
-   </td>
-  </tr>
-  <tr>
-   <td>06
-   </td>
-   <td>Stara šahovska figura od stakla
-   </td>
-  </tr>
-  <tr>
-   <td>07
-   </td>
-   <td>Par kockica zglobova kostiju, svaka sa simbolom lobanje sa strane koji bi obično pokazivao šest pipova
-   </td>
-  </tr>
-  <tr>
-   <td>08
-   </td>
-   <td>Mali idol koji prikazuje košmarno stvorenje koje vam daje uznemirujuće snove kada spavate u njegovoj blizini
-   </td>
-  </tr>
-  <tr>
-   <td>09
-   </td>
-   <td>Ogrlica od užadi iz koje vise četiri mumificirana vilenjačka prsta
-   </td>
-  </tr>
-  <tr>
-   <td>10
-   </td>
-   <td>Akt za parcelu zemlje u vama nepoznatom carstvu
-   </td>
-  </tr>
-  <tr>
-   <td>11
-   </td>
-   <td>Blok od 1 unče napravljen od nepoznatog materijala
-   </td>
-  </tr>
-  <tr>
-   <td>12
-   </td>
-   <td>Mala lutka od platna nabodena iglama
-   </td>
-  </tr>
-  <tr>
-   <td>13
-   </td>
-   <td>Zub od nepoznate zveri
-   </td>
-  </tr>
-  <tr>
-   <td>14
-   </td>
-   <td>Ogromne razmere, možda od zmaja
-   </td>
-  </tr>
-  <tr>
-   <td>15
-   </td>
-   <td>Svetlo zeleno pero
-   </td>
-  </tr>
-  <tr>
-   <td>16
-   </td>
-   <td>Stara karta za proricanje s vašom slikom
-   </td>
-  </tr>
-  <tr>
-   <td>17
-   </td>
-   <td>Staklena kugla ispunjena pokretnim dimom
-   </td>
-  </tr>
-  <tr>
-   <td>18
-   </td>
-   <td>Jaje od 1 kilograma sa svetlo crvenom ljuskom
-   </td>
-  </tr>
-  <tr>
-   <td>19
-   </td>
-   <td>Cev koja duva mehuriće
-   </td>
-  </tr>
-  <tr>
-   <td>20
-   </td>
-   <td>Staklena tegla koja sadrži čudan komad mesa koji pluta u tečnosti za kiseljenje
-   </td>
-  </tr>
-  <tr>
-   <td>21
-   </td>
-   <td>Majušna muzička kutija napravljena od gnoma koja pušta pesmu koje se slabo sećate iz detinjstva
-   </td>
-  </tr>
-  <tr>
-   <td>22
-   </td>
-   <td>Mala drvena statueta samozadovoljne polutke
-   </td>
-  </tr>
-  <tr>
-   <td>23
-   </td>
-   <td>Mesingana kugla urezana čudnim runama
-   </td>
-  </tr>
-  <tr>
-   <td>24
-   </td>
-   <td>Višebojni kameni disk
-   </td>
-  </tr>
-  <tr>
-   <td>25
-   </td>
-   <td>Sićušna srebrna ikona gavrana
-   </td>
-  </tr>
-  <tr>
-   <td>26
-   </td>
-   <td>Torba sa četrdeset sedam humanoidnih zuba, od kojih je jedan truo
-   </td>
-  </tr>
-  <tr>
-   <td>27
-   </td>
-   <td>Krhotina opsidijana koja se uvek oseća toplo na dodir
-   </td>
-  </tr>
-  <tr>
-   <td>28
-   </td>
-   <td>Zmajev koščati talon visi na običnoj kožnoj ogrlici
-   </td>
-  </tr>
-  <tr>
-   <td>29
-   </td>
-   <td>Par starih čarapa
-   </td>
-  </tr>
-  <tr>
-   <td>30
-   </td>
-   <td>Prazna knjiga na čijim stranicama se ne nalazi mastilo, kreda, grafit ili bilo koja druga supstanca ili oznaka
-   </td>
-  </tr>
-  <tr>
-   <td>31
-   </td>
-   <td>Srebrna značka u obliku zvezde petokrake
-   </td>
-  </tr>
-  <tr>
-   <td>32
-   </td>
-   <td>Nož koji je pripadao rođaku
-   </td>
-  </tr>
-  <tr>
-   <td>33
-   </td>
-   <td>Staklena bočica ispunjena odsečcima noktiju
-   </td>
-  </tr>
-  <tr>
-   <td>34
-   </td>
-   <td>Pravougaona metalna naprava sa dvema majušnim metalnim čašama na jednom kraju koje bacaju varnice kad su mokre
-   </td>
-  </tr>
-  <tr>
-   <td>35
-   </td>
-   <td>Bela rukavica sa šljokicama veličine za čoveka
-   </td>
-  </tr>
-  <tr>
-   <td>36
-   </td>
-   <td>Prsluk sa sto sitnih džepova
-   </td>
-  </tr>
-  <tr>
-   <td>37
-   </td>
-   <td>Mali, bestežinski kameni blok
-   </td>
-  </tr>
-  <tr>
-   <td>38
-   </td>
-   <td>Sićušni portret goblina
-   </td>
-  </tr>
-  <tr>
-   <td>39
-   </td>
-   <td>Prazna staklena bočica koja prilikom otvaranja miriše na parfem
-   </td>
-  </tr>
-  <tr>
-   <td>40
-   </td>
-   <td>Drago kamenje koje izgleda kao grumen uglja kada ga pregleda niko osim vas
-   </td>
-  </tr>
-  <tr>
-   <td>41
-   </td>
-   <td>Komadić tkanine sa starog barjaka
-   </td>
-  </tr>
-  <tr>
-   <td>42
-   </td>
-   <td>Oznake ranga izgubljenog legionara
-   </td>
-  </tr>
-  <tr>
-   <td>43
-   </td>
-   <td>Sićušno srebrno zvono bez klapera
-   </td>
-  </tr>
-  <tr>
-   <td>44
-   </td>
-   <td>Mehanički kanarinac unutar lampe izrađene od gnoma
-   </td>
-  </tr>
-  <tr>
-   <td>45
-   </td>
-   <td>Sićušna škrinja izrezbarena da izgleda kao da ima mnogo stopala na dnu
-   </td>
-  </tr>
-  <tr>
-   <td>46
-   </td>
-   <td>Mrtvi sprit unutar prozirne staklene boce
-   </td>
-  </tr>
-  <tr>
-   <td>47
-   </td>
-   <td>Metalna limenka koja nema otvor, ali zvuči kao da je napunjena tečnošću, peskom, paucima ili slomljenim staklom (vaš izbor)
-   </td>
-  </tr>
-  <tr>
-   <td>48
-   </td>
-   <td>Staklena kugla napunjena vodom, u kojoj pliva zlatna ribica kao sat
-   </td>
-  </tr>
-  <tr>
-   <td>49
-   </td>
-   <td>Srebrna kašika sa utisnutim M na dršci
-   </td>
-  </tr>
-  <tr>
-   <td>50
-   </td>
-   <td>Zvižduk napravljen od drveta zlatne boje
-   </td>
-  </tr>
-  <tr>
-   <td>51
-   </td>
-   <td>Mrtva buba skarabeja veličine vaše ruke
-   </td>
-  </tr>
-  <tr>
-   <td>52
-   </td>
-   <td>Dva vojnika-igračke, jedan sa glavom koja nedostaje
-   </td>
-  </tr>
-  <tr>
-   <td>53
-   </td>
-   <td>Mala kutija ispunjena dugmadima različite veličine
-   </td>
-  </tr>
-  <tr>
-   <td>54
-   </td>
-   <td>Sveća koja se ne može upaliti
-   </td>
-  </tr>
-  <tr>
-   <td>55
-   </td>
-   <td>Sićušni kavez bez vrata
-   </td>
-  </tr>
-  <tr>
-   <td>56
-   </td>
-   <td>Stari ključ
-   </td>
-  </tr>
-  <tr>
-   <td>57
-   </td>
-   <td>Nerascjenjiva karta blaga
-   </td>
-  </tr>
-  <tr>
-   <td>58
-   </td>
-   <td>Držak od slomljenog mača
-   </td>
-  </tr>
-  <tr>
-   <td>59
-   </td>
-   <td>Zečje stopalo
-   </td>
-  </tr>
-  <tr>
-   <td>60
-   </td>
-   <td>Stakleno oko
-   </td>
-  </tr>
-  <tr>
-   <td>61
-   </td>
-   <td>Kameja isklesana nalik odvratnoj osobi
-   </td>
-  </tr>
-  <tr>
-   <td>62
-   </td>
-   <td>Srebrna lobanja veličine novčića
-   </td>
-  </tr>
-  <tr>
-   <td>63
-   </td>
-   <td>Alabaster maska
-   </td>
-  </tr>
-  <tr>
-   <td>64
-   </td>
-   <td>Piramida lepljivog crnog tamjana koja vrlo loše miriše
-   </td>
-  </tr>
-  <tr>
-   <td>65
-   </td>
-   <td>Noćna kapica koja vam, kad se nosi, daje prijatne snove
-   </td>
-  </tr>
-  <tr>
-   <td>66
-   </td>
-   <td>Jedna kalpot napravljena od kosti
-   </td>
-  </tr>
-  <tr>
-   <td>67
-   </td>
-   <td>Zlatni okvir za monokl bez sočiva
-   </td>
-  </tr>
-  <tr>
-   <td>68
-   </td>
-   <td>Kocka od 1 inča, svaka strana obojena je u drugu boju
-   </td>
-  </tr>
-  <tr>
-   <td>69
-   </td>
-   <td>Kristalno dugme sa vrata
-   </td>
-  </tr>
-  <tr>
-   <td>70
-   </td>
-   <td>Mali paketić ispunjen ružičastom prašinom
-   </td>
-  </tr>
-  <tr>
-   <td>71
-   </td>
-   <td>Fragment lepe pesme, napisane kao muzičke note na dva dela pergamenta
-   </td>
-  </tr>
-  <tr>
-   <td>72
-   </td>
-   <td>Srebrna minđuša od suza napravljena od prave suze
-   </td>
-  </tr>
-  <tr>
-   <td>73
-   </td>
-   <td>Ljuska jajeta naslikana scenama ljudske bede u uznemirujućim detaljima
-   </td>
-  </tr>
-  <tr>
-   <td>74
-   </td>
-   <td>Ventilator koji, kada se otvori, prikazuje usnulu mačku
-   </td>
-  </tr>
-  <tr>
-   <td>75
-   </td>
-   <td>Set koštanih cevi
-   </td>
-  </tr>
-  <tr>
-   <td>76
-   </td>
-   <td>Detelina sa četiri lista utisnuta u knjigu koja raspravlja o manirima i bontonu
-   </td>
-  </tr>
-  <tr>
-   <td>77
-   </td>
-   <td>List pergamenta na kome je nacrtana složena mehanička oprema
-   </td>
-  </tr>
-  <tr>
-   <td>78
-   </td>
-   <td>Ukrašeni korice koje ne odgovaraju nijednoj oštrici koju ste do sada pronašli
-   </td>
-  </tr>
-  <tr>
-   <td>79
-   </td>
-   <td>Poziv za zabavu na kojoj se dogodilo ubistvo
-   </td>
-  </tr>
-  <tr>
-   <td>80
-   </td>
-   <td>Bronzani peterokut sa gravurom glave pacova u sredini
-   </td>
-  </tr>
-  <tr>
-   <td>81
-   </td>
-   <td>Ljubičasta maramica na kojoj je izvezeno ime moćnog arhimagea
-   </td>
-  </tr>
-  <tr>
-   <td>82
-   </td>
-   <td>Polovina tlocrta za hram, dvorac ili neku drugu građevinu
-   </td>
-  </tr>
-  <tr>
-   <td>83
-   </td>
-   <td>Malo presavijene tkanine koja se, kada se rasklopi, pretvori u stilsku kapu
-   </td>
-  </tr>
-  <tr>
-   <td>84
-   </td>
-   <td>Prijem depozita u banci u dalekom gradu
-   </td>
-  </tr>
-  <tr>
-   <td>85
-   </td>
-   <td>Dnevnik sa sedam stranica koje nedostaju
-   </td>
-  </tr>
-  <tr>
-   <td>86
-   </td>
-   <td>Prazna srebrna burmutica sa natpisom na površini koji kaže „snovi“
-   </td>
-  </tr>
-  <tr>
-   <td>87
-   </td>
-   <td>Gvozdeni sveti simbol posvećen nepoznatom bogu
-   </td>
-  </tr>
-  <tr>
-   <td>88
-   </td>
-   <td>Knjiga koja govori o usponu i padu legendarnog junaka, a poslednje poglavlje nedostaje
-   </td>
-  </tr>
-  <tr>
-   <td>89
-   </td>
-   <td>Bočica sa zmajskom krvlju
-   </td>
-  </tr>
-  <tr>
-   <td>90
-   </td>
-   <td>Drevna strelica vilenjačkog dizajna
-   </td>
-  </tr>
-  <tr>
-   <td>91
-   </td>
-   <td>Igla koja se nikada ne savija
-   </td>
-  </tr>
-  <tr>
-   <td>92
-   </td>
-   <td>Okićeni broš patuljastog dizajna
-   </td>
-  </tr>
-  <tr>
-   <td>93
-   </td>
-   <td>Prazna boca vina sa lepom etiketom na kojoj piše: „Vizard of Vines Vineri, Red Dragon Crush, 331422-V“
-   </td>
-  </tr>
-  <tr>
-   <td>94
-   </td>
-   <td>Mozaična pločica sa raznobojnom, zastakljenom površinom
-   </td>
-  </tr>
-  <tr>
-   <td>95
-   </td>
-   <td>Okamenjeni miš
-   </td>
-  </tr>
-  <tr>
-   <td>96
-   </td>
-   <td>Crna gusarska zastava ukrašena zmajevom lobanjom i ukrštenim kostima
-   </td>
-  </tr>
-  <tr>
-   <td>97
-   </td>
-   <td>Sićušna mehanička račica ili pauk koji se kreće kad je nije primećen
-   </td>
-  </tr>
-  <tr>
-   <td>98
-   </td>
-   <td>Staklena tegla sa svinjskom mašću sa etiketom koja glasi „Griffon Grease“
-   </td>
-  </tr>
-  <tr>
-   <td>99
-   </td>
-   <td>Drvena kutija sa keramičkim dnom koja na svakom kraju tela drži živog crva sa glavom
-   </td>
-  </tr>
-  <tr>
-   <td>100
-   </td>
-   <td>Metalna urna u kojoj se nalazi pepeo heroja
-   </td>
-  </tr>
+   <tr>
+      <td>d100
+      </td>
+      <td>Drangulija
+      </td>
+   </tr>
+   <tr>
+      <td>01
+      </td>
+      <td>Mumificirana ruka goblina
+      </td>
+   </tr>
+   <tr>
+      <td>02
+      </td>
+      <td>Komad kristala koji slabo blista na mesečini
+      </td>
+   </tr>
+   <tr>
+      <td>03
+      </td>
+      <td>Zlatnik kovan u nepoznatoj zemlji
+      </td>
+   </tr>
+   <tr>
+      <td>04
+      </td>
+      <td>Dnevnik napisan na jeziku koji ne znate
+      </td>
+   </tr>
+   <tr>
+      <td>05
+      </td>
+      <td>Mesingani prsten koji se nikada ne ocrni
+      </td>
+   </tr>
+   <tr>
+      <td>06
+      </td>
+      <td>Stara šahovska figura od stakla
+      </td>
+   </tr>
+   <tr>
+      <td>07
+      </td>
+      <td>Par kockica zglobova kostiju, svaka sa simbolom lobanje sa strane koji bi obično pokazivao šest pipova
+      </td>
+   </tr>
+   <tr>
+      <td>08
+      </td>
+      <td>Mali idol koji prikazuje košmarno stvorenje koje vam daje uznemirujuće snove kada spavate u njegovoj blizini
+      </td>
+   </tr>
+   <tr>
+      <td>09
+      </td>
+      <td>Ogrlica od užadi iz koje vise četiri mumificirana vilenjačka prsta
+      </td>
+   </tr>
+   <tr>
+      <td>10
+      </td>
+      <td>Akt za parcelu zemlje u vama nepoznatom carstvu
+      </td>
+   </tr>
+   <tr>
+      <td>11
+      </td>
+      <td>Blok od 1 unče napravljen od nepoznatog materijala
+      </td>
+   </tr>
+   <tr>
+      <td>12
+      </td>
+      <td>Mala lutka od platna nabodena iglama
+      </td>
+   </tr>
+   <tr>
+      <td>13
+      </td>
+      <td>Zub od nepoznate zveri
+      </td>
+   </tr>
+   <tr>
+      <td>14
+      </td>
+      <td>Ogromne razmere, možda od zmaja
+      </td>
+   </tr>
+   <tr>
+      <td>15
+      </td>
+      <td>Svetlo zeleno pero
+      </td>
+   </tr>
+   <tr>
+      <td>16
+      </td>
+      <td>Stara karta za proricanje s vašom slikom
+      </td>
+   </tr>
+   <tr>
+      <td>17
+      </td>
+      <td>Staklena kugla ispunjena pokretnim dimom
+      </td>
+   </tr>
+   <tr>
+      <td>18
+      </td>
+      <td>Jaje od 1 kilograma sa svetlo crvenom ljuskom
+      </td>
+   </tr>
+   <tr>
+      <td>19
+      </td>
+      <td>Cev koja duva mehuriće
+      </td>
+   </tr>
+   <tr>
+      <td>20
+      </td>
+      <td>Staklena tegla koja sadrži čudan komad mesa koji pluta u tečnosti za kiseljenje
+      </td>
+   </tr>
+   <tr>
+      <td>21
+      </td>
+      <td>Majušna muzička kutija napravljena od gnoma koja pušta pesmu koje se slabo sećate iz detinjstva
+      </td>
+   </tr>
+   <tr>
+      <td>22
+      </td>
+      <td>Mala drvena statueta samozadovoljne polutke
+      </td>
+   </tr>
+   <tr>
+      <td>23
+      </td>
+      <td>Mesingana kugla urezana čudnim runama
+      </td>
+   </tr>
+   <tr>
+      <td>24
+      </td>
+      <td>Višebojni kameni disk
+      </td>
+   </tr>
+   <tr>
+      <td>25
+      </td>
+      <td>Sićušna srebrna ikona gavrana
+      </td>
+   </tr>
+   <tr>
+      <td>26
+      </td>
+      <td>Torba sa četrdeset sedam humanoidnih zuba, od kojih je jedan truo
+      </td>
+   </tr>
+   <tr>
+      <td>27
+      </td>
+      <td>Krhotina opsidijana koja se uvek oseća toplo na dodir
+      </td>
+   </tr>
+   <tr>
+      <td>28
+      </td>
+      <td>Zmajev koščati talon visi na običnoj kožnoj ogrlici
+      </td>
+   </tr>
+   <tr>
+      <td>29
+      </td>
+      <td>Par starih čarapa
+      </td>
+   </tr>
+   <tr>
+      <td>30
+      </td>
+      <td>Prazna knjiga na čijim stranicama se ne nalazi mastilo, kreda, grafit ili bilo koja druga supstanca ili oznaka
+      </td>
+   </tr>
+   <tr>
+      <td>31
+      </td>
+      <td>Srebrna značka u obliku zvezde petokrake
+      </td>
+   </tr>
+   <tr>
+      <td>32
+      </td>
+      <td>Nož koji je pripadao rođaku
+      </td>
+   </tr>
+   <tr>
+      <td>33
+      </td>
+      <td>Staklena bočica ispunjena odsečcima noktiju
+      </td>
+   </tr>
+   <tr>
+      <td>34
+      </td>
+      <td>Pravougaona metalna naprava sa dvema majušnim metalnim čašama na jednom kraju koje bacaju varnice kad su mokre
+      </td>
+   </tr>
+   <tr>
+      <td>35
+      </td>
+      <td>Bela rukavica sa šljokicama veličine za čoveka
+      </td>
+   </tr>
+   <tr>
+      <td>36
+      </td>
+      <td>Prsluk sa sto sitnih džepova
+      </td>
+   </tr>
+   <tr>
+      <td>37
+      </td>
+      <td>Mali, bestežinski kameni blok
+      </td>
+   </tr>
+   <tr>
+      <td>38
+      </td>
+      <td>Sićušni portret goblina
+      </td>
+   </tr>
+   <tr>
+      <td>39
+      </td>
+      <td>Prazna staklena bočica koja prilikom otvaranja miriše na parfem
+      </td>
+   </tr>
+   <tr>
+      <td>40
+      </td>
+      <td>Drago kamenje koje izgleda kao grumen uglja kada ga pregleda niko osim vas
+      </td>
+   </tr>
+   <tr>
+      <td>41
+      </td>
+      <td>Komadić tkanine sa starog barjaka
+      </td>
+   </tr>
+   <tr>
+      <td>42
+      </td>
+      <td>Oznake ranga izgubljenog legionara
+      </td>
+   </tr>
+   <tr>
+      <td>43
+      </td>
+      <td>Sićušno srebrno zvono bez klapera
+      </td>
+   </tr>
+   <tr>
+      <td>44
+      </td>
+      <td>Mehanički kanarinac unutar lampe izrađene od gnoma
+      </td>
+   </tr>
+   <tr>
+      <td>45
+      </td>
+      <td>Sićušna škrinja izrezbarena da izgleda kao da ima mnogo stopala na dnu
+      </td>
+   </tr>
+   <tr>
+      <td>46
+      </td>
+      <td>Mrtvi sprit unutar prozirne staklene boce
+      </td>
+   </tr>
+   <tr>
+      <td>47
+      </td>
+      <td>Metalna limenka koja nema otvor, ali zvuči kao da je napunjena tečnošću, peskom, paucima ili slomljenim
+         staklom (vaš izbor)
+      </td>
+   </tr>
+   <tr>
+      <td>48
+      </td>
+      <td>Staklena kugla napunjena vodom, u kojoj pliva zlatna ribica kao sat
+      </td>
+   </tr>
+   <tr>
+      <td>49
+      </td>
+      <td>Srebrna kašika sa utisnutim M na dršci
+      </td>
+   </tr>
+   <tr>
+      <td>50
+      </td>
+      <td>Zvižduk napravljen od drveta zlatne boje
+      </td>
+   </tr>
+   <tr>
+      <td>51
+      </td>
+      <td>Mrtva buba skarabeja veličine vaše ruke
+      </td>
+   </tr>
+   <tr>
+      <td>52
+      </td>
+      <td>Dva vojnika-igračke, jedan sa glavom koja nedostaje
+      </td>
+   </tr>
+   <tr>
+      <td>53
+      </td>
+      <td>Mala kutija ispunjena dugmadima različite veličine
+      </td>
+   </tr>
+   <tr>
+      <td>54
+      </td>
+      <td>Sveća koja se ne može upaliti
+      </td>
+   </tr>
+   <tr>
+      <td>55
+      </td>
+      <td>Sićušni kavez bez vrata
+      </td>
+   </tr>
+   <tr>
+      <td>56
+      </td>
+      <td>Stari ključ
+      </td>
+   </tr>
+   <tr>
+      <td>57
+      </td>
+      <td>Nerascjenjiva karta blaga
+      </td>
+   </tr>
+   <tr>
+      <td>58
+      </td>
+      <td>Držak od slomljenog mača
+      </td>
+   </tr>
+   <tr>
+      <td>59
+      </td>
+      <td>Zečje stopalo
+      </td>
+   </tr>
+   <tr>
+      <td>60
+      </td>
+      <td>Stakleno oko
+      </td>
+   </tr>
+   <tr>
+      <td>61
+      </td>
+      <td>Kameja isklesana nalik odvratnoj osobi
+      </td>
+   </tr>
+   <tr>
+      <td>62
+      </td>
+      <td>Srebrna lobanja veličine novčića
+      </td>
+   </tr>
+   <tr>
+      <td>63
+      </td>
+      <td>Alabaster maska
+      </td>
+   </tr>
+   <tr>
+      <td>64
+      </td>
+      <td>Piramida lepljivog crnog tamjana koja vrlo loše miriše
+      </td>
+   </tr>
+   <tr>
+      <td>65
+      </td>
+      <td>Noćna kapica koja vam, kad se nosi, daje prijatne snove
+      </td>
+   </tr>
+   <tr>
+      <td>66
+      </td>
+      <td>Jedna kalpot napravljena od kosti
+      </td>
+   </tr>
+   <tr>
+      <td>67
+      </td>
+      <td>Zlatni okvir za monokl bez sočiva
+      </td>
+   </tr>
+   <tr>
+      <td>68
+      </td>
+      <td>Kocka od 1 inča, svaka strana obojena je u drugu boju
+      </td>
+   </tr>
+   <tr>
+      <td>69
+      </td>
+      <td>Kristalno dugme sa vrata
+      </td>
+   </tr>
+   <tr>
+      <td>70
+      </td>
+      <td>Mali paketić ispunjen ružičastom prašinom
+      </td>
+   </tr>
+   <tr>
+      <td>71
+      </td>
+      <td>Fragment lepe pesme, napisane kao muzičke note na dva dela pergamenta
+      </td>
+   </tr>
+   <tr>
+      <td>72
+      </td>
+      <td>Srebrna minđuša od suza napravljena od prave suze
+      </td>
+   </tr>
+   <tr>
+      <td>73
+      </td>
+      <td>Ljuska jajeta naslikana scenama ljudske bede u uznemirujućim detaljima
+      </td>
+   </tr>
+   <tr>
+      <td>74
+      </td>
+      <td>Ventilator koji, kada se otvori, prikazuje usnulu mačku
+      </td>
+   </tr>
+   <tr>
+      <td>75
+      </td>
+      <td>Set koštanih cevi
+      </td>
+   </tr>
+   <tr>
+      <td>76
+      </td>
+      <td>Detelina sa četiri lista utisnuta u knjigu koja raspravlja o manirima i bontonu
+      </td>
+   </tr>
+   <tr>
+      <td>77
+      </td>
+      <td>List pergamenta na kome je nacrtana složena mehanička oprema
+      </td>
+   </tr>
+   <tr>
+      <td>78
+      </td>
+      <td>Ukrašeni korice koje ne odgovaraju nijednoj oštrici koju ste do sada pronašli
+      </td>
+   </tr>
+   <tr>
+      <td>79
+      </td>
+      <td>Poziv za zabavu na kojoj se dogodilo ubistvo
+      </td>
+   </tr>
+   <tr>
+      <td>80
+      </td>
+      <td>Bronzani peterokut sa gravurom glave pacova u sredini
+      </td>
+   </tr>
+   <tr>
+      <td>81
+      </td>
+      <td>Ljubičasta maramica na kojoj je izvezeno ime moćnog arhimagea
+      </td>
+   </tr>
+   <tr>
+      <td>82
+      </td>
+      <td>Polovina tlocrta za hram, dvorac ili neku drugu građevinu
+      </td>
+   </tr>
+   <tr>
+      <td>83
+      </td>
+      <td>Malo presavijene tkanine koja se, kada se rasklopi, pretvori u stilsku kapu
+      </td>
+   </tr>
+   <tr>
+      <td>84
+      </td>
+      <td>Prijem depozita u banci u dalekom gradu
+      </td>
+   </tr>
+   <tr>
+      <td>85
+      </td>
+      <td>Dnevnik sa sedam stranica koje nedostaju
+      </td>
+   </tr>
+   <tr>
+      <td>86
+      </td>
+      <td>Prazna srebrna burmutica sa natpisom na površini koji kaže „snovi“
+      </td>
+   </tr>
+   <tr>
+      <td>87
+      </td>
+      <td>Gvozdeni sveti simbol posvećen nepoznatom bogu
+      </td>
+   </tr>
+   <tr>
+      <td>88
+      </td>
+      <td>Knjiga koja govori o usponu i padu legendarnog junaka, a poslednje poglavlje nedostaje
+      </td>
+   </tr>
+   <tr>
+      <td>89
+      </td>
+      <td>Bočica sa zmajskom krvlju
+      </td>
+   </tr>
+   <tr>
+      <td>90
+      </td>
+      <td>Drevna strelica vilenjačkog dizajna
+      </td>
+   </tr>
+   <tr>
+      <td>91
+      </td>
+      <td>Igla koja se nikada ne savija
+      </td>
+   </tr>
+   <tr>
+      <td>92
+      </td>
+      <td>Okićeni broš patuljastog dizajna
+      </td>
+   </tr>
+   <tr>
+      <td>93
+      </td>
+      <td>Prazna boca vina sa lepom etiketom na kojoj piše: „Vizard of Vines Vineri, Red Dragon Crush, 331422-V“
+      </td>
+   </tr>
+   <tr>
+      <td>94
+      </td>
+      <td>Mozaična pločica sa raznobojnom, zastakljenom površinom
+      </td>
+   </tr>
+   <tr>
+      <td>95
+      </td>
+      <td>Okamenjeni miš
+      </td>
+   </tr>
+   <tr>
+      <td>96
+      </td>
+      <td>Crna gusarska zastava ukrašena zmajevom lobanjom i ukrštenim kostima
+      </td>
+   </tr>
+   <tr>
+      <td>97
+      </td>
+      <td>Sićušna mehanička račica ili pauk koji se kreće kad je nije primećen
+      </td>
+   </tr>
+   <tr>
+      <td>98
+      </td>
+      <td>Staklena tegla sa svinjskom mašću sa etiketom koja glasi „Griffon Grease“
+      </td>
+   </tr>
+   <tr>
+      <td>99
+      </td>
+      <td>Drvena kutija sa keramičkim dnom koja na svakom kraju tela drži živog crva sa glavom
+      </td>
+   </tr>
+   <tr>
+      <td>100
+      </td>
+      <td>Metalna urna u kojoj se nalazi pepeo heroja
+      </td>
+   </tr>
 </table>
 
 
