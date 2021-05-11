@@ -4335,7 +4335,308 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
 
 **Veslani brodovi**. Kobilice i čamci na vesla koriste se na jezerima i rekama. Ako idete nizvodno, dodajte brzinu struje (obično 3 milje na sat) brzini vozila. Ova vozila se ne mogu veslati ni protiv jedne značajnije struje, ali ih mogu vući uzvodno tegleće životinje na obalama. Čamac na vesla težak je 100 kilograma, u slučaju da ga avanturisti prevoze kopnom.
 
-POGLEDAJ TABELE ZA VISE DETALJA
+
+
+### Mounts
+
+<table>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Speed</strong>
+      </td>
+      <td><strong>Carrying Capacity</strong>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://www.dndbeyond.com/monsters/camel">Camel</a>
+      </td>
+      <td>50 gp
+      </td>
+      <td>50 ft.
+      </td>
+      <td>480 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Donkey or <a href="https://www.dndbeyond.com/monsters/mule">mule</a>
+      </td>
+      <td>8 gp
+      </td>
+      <td>40 ft.
+      </td>
+      <td>420 lb.
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://www.dndbeyond.com/monsters/elephant">Elephant</a>
+      </td>
+      <td>200 gp
+      </td>
+      <td>40 ft.
+      </td>
+      <td>1,320 lb.
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://www.dndbeyond.com/monsters/draft-horse">Draft horse</a>
+      </td>
+      <td>50 gp
+      </td>
+      <td>40 ft.
+      </td>
+      <td>540 lb.
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://www.dndbeyond.com/monsters/riding-horse">Riding horse</a>
+      </td>
+      <td>75 gp
+      </td>
+      <td>60 ft.
+      </td>
+      <td>480 lb.
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://www.dndbeyond.com/monsters/mastiff">Mastiff</a>
+      </td>
+      <td>25 gp
+      </td>
+      <td>40 ft.
+      </td>
+      <td>195 lb.
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://www.dndbeyond.com/monsters/pony">Pony</a>
+      </td>
+      <td>30 gp
+      </td>
+      <td>40 ft.
+      </td>
+      <td>225 lb.
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://www.dndbeyond.com/monsters/warhorse">Warhorse</a>
+      </td>
+      <td>400 gp
+      </td>
+      <td>60 ft.
+      </td>
+      <td>540 lb.
+      </td>
+   </tr>
+</table>
+
+
+
+### Tack, Harness, and Drawn Vehicles
+
+<table>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Barding
+      </td>
+      <td>x4
+      </td>
+      <td>x2
+      </td>
+   </tr>
+   <tr>
+      <td>Bit and bridle
+      </td>
+      <td>2 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Carriage
+      </td>
+      <td>100 gp
+      </td>
+      <td>600 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Cart
+      </td>
+      <td>15 gp
+      </td>
+      <td>200 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Chariot
+      </td>
+      <td>250 gp
+      </td>
+      <td>100 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Feed (per day)
+      </td>
+      <td>5 cp
+      </td>
+      <td>10 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Saddlebags
+      </td>
+      <td>4 gp
+      </td>
+      <td>8 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Sled
+      </td>
+      <td>20 gp
+      </td>
+      <td>300 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Stabling (per day)
+      </td>
+      <td>5 sp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Wagon
+      </td>
+      <td>35 gp
+      </td>
+      <td>400 lb.
+      </td>
+   </tr>
+</table>
+
+
+
+### Saddles
+
+<table>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Exotic
+      </td>
+      <td>60 gp
+      </td>
+      <td>40 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Military
+      </td>
+      <td>20 gp
+      </td>
+      <td>30 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Pack
+      </td>
+      <td>5 gp
+      </td>
+      <td>15 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Riding
+      </td>
+      <td>10 gp
+      </td>
+      <td>25 lb.
+      </td>
+   </tr>
+</table>
+
+
+
+### Waterborne Vehicles
+
+<table>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Speed</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Galley
+      </td>
+      <td>30,000 gp
+      </td>
+      <td>4 mph
+      </td>
+   </tr>
+   <tr>
+      <td>Keelboat
+      </td>
+      <td>3,000 gp
+      </td>
+      <td>1 mph
+      </td>
+   </tr>
+   <tr>
+      <td>Longship
+      </td>
+      <td>10,000 gp
+      </td>
+      <td>3 mph
+      </td>
+   </tr>
+   <tr>
+      <td>Rowboat
+      </td>
+      <td>50 gp
+      </td>
+      <td>1 1/2 mph
+      </td>
+   </tr>
+   <tr>
+      <td>Sailing ship
+      </td>
+      <td>10,000 gp
+      </td>
+      <td>2 mph
+      </td>
+   </tr>
+   <tr>
+      <td>Warship
+      </td>
+      <td>25,000 gp
+      </td>
+      <td>2 1/2 mph
+      </td>
+   </tr>
+</table>
+
 
 
 ## Trgovina robom
@@ -4343,6 +4644,97 @@ POGLEDAJ TABELE ZA VISE DETALJA
 Većina bogatstva nije u novčićima. Meri se u stoci, žitu, zemljištu, pravima na naplatu poreza ili pravima na resurse (poput rudnika ili šume).
 
 Udruženja, plemići i kraljevine regulišu trgovinu. Ovlašćene kompanije dobijaju prava da obavljaju trgovinu na određenim rutama, da šalju trgovačke brodove u različite luke ili da kupuju ili prodaju određenu robu. Udruženja određuju cene dobara ili usluga koje kontrolišu i određuju ko može ili ne može da nudi tu robu i usluge. Trgovci obično razmenjuju trgovinsku robu bez upotrebe valute. Tabela „Trgovinska roba“ prikazuje vrednost najčešće razmenjene robe.
+
+
+**Trade Goods Table**
+
+<table>
+   <tr>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Goods</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>1 cp
+      </td>
+      <td>1 lb. of wheat
+      </td>
+   </tr>
+   <tr>
+      <td>2 cp
+      </td>
+      <td>1 lb. of flour or one chicken
+      </td>
+   </tr>
+   <tr>
+      <td>5 cp
+      </td>
+      <td>1 lb. of salt
+      </td>
+   </tr>
+   <tr>
+      <td>1 sp
+      </td>
+      <td>1 lb. of iron or 1 sq. yd. of canvas
+      </td>
+   </tr>
+   <tr>
+      <td>5 sp
+      </td>
+      <td>1 lb. of copper of 1 sq. yd. of cotton cloth
+      </td>
+   </tr>
+   <tr>
+      <td>1 gp
+      </td>
+      <td>1 lb. of ginger or one goat
+      </td>
+   </tr>
+   <tr>
+      <td>2 gp
+      </td>
+      <td>1 lb. of cinnamon or pepper, or one sheep
+      </td>
+   </tr>
+   <tr>
+      <td>3 gp
+      </td>
+      <td>1 lb. of cloves or one pig
+      </td>
+   </tr>
+   <tr>
+      <td>5 gp
+      </td>
+      <td>1 lb. of silver or 1 sq. yd. of linen
+      </td>
+   </tr>
+   <tr>
+      <td>10 gp
+      </td>
+      <td>1 sq. yd. of silk or one cow
+      </td>
+   </tr>
+   <tr>
+      <td>15 gp
+      </td>
+      <td>1 lb. of saffron or one ox
+      </td>
+   </tr>
+   <tr>
+      <td>50 gp
+      </td>
+      <td>1 lb. of gold
+      </td>
+   </tr>
+   <tr>
+      <td>500 gp
+      </td>
+      <td>1 lb. of platinum
+      </td>
+   </tr>
+</table>
+
 
 
 ## Troškovi
@@ -4362,54 +4754,54 @@ Vaš izbor načina života može imati posledice. Održavanje bogatog načina ž
 
 
 <table>
-  <tr>
-   <td><strong>Lifestyle</strong>
-   </td>
-   <td><strong>Price/Day</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Jadno
-   </td>
-   <td>—
-   </td>
-  </tr>
-  <tr>
-   <td>Bijedno
-   </td>
-   <td>1 sp
-   </td>
-  </tr>
-  <tr>
-   <td>Siromašno
-   </td>
-   <td>2 sp
-   </td>
-  </tr>
-  <tr>
-   <td>Skromno
-   </td>
-   <td>1 gp
-   </td>
-  </tr>
-  <tr>
-   <td>Udobno
-   </td>
-   <td>2 gp
-   </td>
-  </tr>
-  <tr>
-   <td>Bogato
-   </td>
-   <td>4 gp
-   </td>
-  </tr>
-  <tr>
-   <td>Aristokratski
-   </td>
-   <td>10 gp minimum
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Životni stil</strong>
+      </td>
+      <td><strong>Cijena po danu</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Jadno
+      </td>
+      <td>—
+      </td>
+   </tr>
+   <tr>
+      <td>Bijedno
+      </td>
+      <td>1 sp
+      </td>
+   </tr>
+   <tr>
+      <td>Siromašno
+      </td>
+      <td>2 sp
+      </td>
+   </tr>
+   <tr>
+      <td>Skromno
+      </td>
+      <td>1 gp
+      </td>
+   </tr>
+   <tr>
+      <td>Udobno
+      </td>
+      <td>2 gp
+      </td>
+   </tr>
+   <tr>
+      <td>Bogato
+      </td>
+      <td>4 gp
+      </td>
+   </tr>
+   <tr>
+      <td>Aristokratski
+      </td>
+      <td>10 gp minimum
+      </td>
+   </tr>
 </table>
 
 
@@ -4428,6 +4820,13 @@ Vaš izbor načina života može imati posledice. Održavanje bogatog načina ž
 **Aristokratski**. Živite život u izobilju i udobnosti. Krećete se u krugovima u kojima žive najmoćniji ljudi u zajednici. Imate izvrsne konake, možda gradsku kuću u najlepšem delu grada ili sobe u najfinijoj gostionici. Obedujete u najboljim restoranima, ujamljujete najkvalifikovanijeg i najmodernijeg krojača i imate poslugu koji će se pobrinuti za sve vaše potrebe. Dobijate pozivnice za društvena okupljanja bogatih i moćnih, a večeri provodite u društvu političara, vođa udruženja, prvosveštenika i plemstva Takođe se morate boriti sa najvišim nivoima obmane i izdaje. Što ste bogatiji, veća je šansa da ćete biti uvučeni u političku spletku kao pion ili učesnik.
 
 
+>**Samodovoljnost**
+>
+>Troškovi i životni stilovi opisani u ovom poglavlju pretpostavljau da vreme provodite između avanture u gradu, koristeći sve usluge koje možete sebi priuštiti - plaćate hranu i smeštaj, plaćate varošane da vam izoštre mač i poprave oklop, i tako dalje. Neki likovi, ipak, možda više vole da troše svoje vreme daleko od civilizacije, održavajući se u divljini lovom, traganjem za hranom i popravljanjem sopstvene opreme.
+>
+>Održavanje ovakvog načina života ne zahteva od vas potrošite bilo koji novčić, ali je to dugotrajno. Ako trošite vaše vreme između avantura bavljenja nekom profesijom, kaošto je  opisano u poglavlju 8, možete izvući ekvivalent lošeg načina života. Poznavanje veštine preživljavanja omogućava vam da živite ekvivalent ugodnom načinu života.
+
+
 ### Hrana, piće i smeštaj
 
 Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene proizvode i smeštaj za jednu noć. Ove cene su uključene u vaše ukupne troškove života.
@@ -4436,206 +4835,206 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
 
 
 <table>
-  <tr>
-   <td><strong>Item</strong>
-   </td>
-   <td>
-   </td>
-   <td><strong>Cost</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Ale
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Gallon
-   </td>
-   <td>2 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Mug
-   </td>
-   <td>4 cp
-   </td>
-  </tr>
-  <tr>
-   <td>Banquet (per person)
-   </td>
-   <td>
-   </td>
-   <td>10 gp
-   </td>
-  </tr>
-  <tr>
-   <td>Bread, loaf
-   </td>
-   <td>
-   </td>
-   <td>2 cp
-   </td>
-  </tr>
-  <tr>
-   <td>Cheese, hunk
-   </td>
-   <td>
-   </td>
-   <td>1 sp
-   </td>
-  </tr>
-  <tr>
-   <td>Inn stay (per day)
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Squalid
-   </td>
-   <td>7 cp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Poor
-   </td>
-   <td>1 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Modest
-   </td>
-   <td>5 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Comfortable
-   </td>
-   <td>8 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Wealthy
-   </td>
-   <td>2 gp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Aristocratic
-   </td>
-   <td>4 gp
-   </td>
-  </tr>
-  <tr>
-   <td>Meals (per day)
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Squalid
-   </td>
-   <td>3 cp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Poor
-   </td>
-   <td>6 cp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Modest
-   </td>
-   <td>3 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Comfortable
-   </td>
-   <td>5 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Wealthy
-   </td>
-   <td>8 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Aristocratic
-   </td>
-   <td>2 gp
-   </td>
-  </tr>
-  <tr>
-   <td>Meat, chunk
-   </td>
-   <td>3 sp
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Wine
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Common (pitcher)
-   </td>
-   <td>2 sp
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Fine (bottle)
-   </td>
-   <td>10 gp
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Ale
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Gallon
+      </td>
+      <td>2 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Mug
+      </td>
+      <td>4 cp
+      </td>
+   </tr>
+   <tr>
+      <td>Banquet (per person)
+      </td>
+      <td>
+      </td>
+      <td>10 gp
+      </td>
+   </tr>
+   <tr>
+      <td>Bread, loaf
+      </td>
+      <td>
+      </td>
+      <td>2 cp
+      </td>
+   </tr>
+   <tr>
+      <td>Cheese, hunk
+      </td>
+      <td>
+      </td>
+      <td>1 sp
+      </td>
+   </tr>
+   <tr>
+      <td>Inn stay (per day)
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Squalid
+      </td>
+      <td>7 cp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Poor
+      </td>
+      <td>1 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Modest
+      </td>
+      <td>5 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Comfortable
+      </td>
+      <td>8 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Wealthy
+      </td>
+      <td>2 gp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Aristocratic
+      </td>
+      <td>4 gp
+      </td>
+   </tr>
+   <tr>
+      <td>Meals (per day)
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Squalid
+      </td>
+      <td>3 cp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Poor
+      </td>
+      <td>6 cp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Modest
+      </td>
+      <td>3 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Comfortable
+      </td>
+      <td>5 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Wealthy
+      </td>
+      <td>8 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Aristocratic
+      </td>
+      <td>2 gp
+      </td>
+   </tr>
+   <tr>
+      <td>Meat, chunk
+      </td>
+      <td>3 sp
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>Wine
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Common (pitcher)
+      </td>
+      <td>2 sp
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Fine (bottle)
+      </td>
+      <td>10 gp
+      </td>
+   </tr>
 </table>
 
 
@@ -4650,86 +5049,86 @@ Drugi najamnici pružaju više stručne ili opasne usluge. Plaćeni vojnici pla�
 
 
 <table>
-  <tr>
-   <td><strong>Usloga</strong>
-   </td>
-   <td>
-   </td>
-   <td><strong>Palćanje</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Kočija
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Između gradova
-   </td>
-   <td>3 cp per mile
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Unutar grada
-   </td>
-   <td>1 cp
-   </td>
-  </tr>
-  <tr>
-   <td>Najamnici
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Kvalifikovani
-   </td>
-   <td>2 gp per day
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Neobučeni
-   </td>
-   <td>2 sp per day
-   </td>
-  </tr>
-  <tr>
-   <td>Pismonioša
-   </td>
-   <td>
-   </td>
-   <td>2 cp per mile
-   </td>
-  </tr>
-  <tr>
-   <td>Rampa na putu ili kapiji
-   </td>
-   <td>
-   </td>
-   <td>1 cp
-   </td>
-  </tr>
-  <tr>
-   <td>Prevoz brodom
-   </td>
-   <td>
-   </td>
-   <td>1 sp per mile
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Usloga</strong>
+      </td>
+      <td>
+      </td>
+      <td><strong>Palćanje</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Kočija
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Između gradova
+      </td>
+      <td>3 cp per mile
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Unutar grada
+      </td>
+      <td>1 cp
+      </td>
+   </tr>
+   <tr>
+      <td>Najamnici
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Kvalifikovani
+      </td>
+      <td>2 gp per day
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Neobučeni
+      </td>
+      <td>2 sp per day
+      </td>
+   </tr>
+   <tr>
+      <td>Pismonioša
+      </td>
+      <td>
+      </td>
+      <td>2 cp per mile
+      </td>
+   </tr>
+   <tr>
+      <td>Rampa na putu ili kapiji
+      </td>
+      <td>
+      </td>
+      <td>1 cp
+      </td>
+   </tr>
+   <tr>
+      <td>Prevoz brodom
+      </td>
+      <td>
+      </td>
+      <td>1 sp per mile
+      </td>
+   </tr>
 </table>
 
 
@@ -4743,12 +5142,6 @@ Ljudi koji su u stanju da bacaju čarolije ne spadaju u kategoriju običnih naja
 Angažovanje nekoga da baci relativno uobičajenu čaroliju 1. ili 2. niva, poput lečenja rana ili identifikacije dovoljno je lagano u naselju ili gradu, a možda košta 10 do 50 zlatnuka (plus troškovi bilo kojih skupih komponenata materijala).
 
 Pronaći nekoga ko je sposoban i voljan da bacačarolije višeg nivoa može uključivati putovanje u veliki grad, možda onaj sa univerzitetom ili istaknutim hramom. Jednom pronađeno, bacač čarolije može tražiti uslugu umesto plaćanja - vrsta usluge koju samo avanturisti mogu obezbedite, kao što je preuzimanje retkog predmeta iz opasnog lokaliteta ili prelazak divljinom zaraženom čudovištima da bi se isporučio nešto važno za udaljeno naselje.
-
->**Samodovoljnost**
->
->Troškovi i životni stilovi opisani u ovom poglavlju pretpostavljau da vreme provodite između avanture u gradu, koristeći sve usluge koje možete sebi priuštiti - plaćate hranu i smeštaj, plaćate varošane da vam izoštre mač i poprave oklop, i tako dalje. Neki likovi, ipak, možda više vole da troše svoje vreme daleko od civilizacije, održavajući se u divljini lovom, traganjem za hranom i popravljanjem sopstvene opreme.
->
->Održavanje ovakvog načina života ne zahteva od vas potrošite bilo koji novčić, ali je to dugotrajno. Ako trošite vaše vreme između avantura bavljenja nekom profesijom, kaošto je  opisano u poglavlju 8, možete izvući ekvivalent lošeg načina života. Poznavanje veštine preživljavanja omogućava vam da živite ekvivalent ugodnom načinu života.
 
 
 ## Drangulije
