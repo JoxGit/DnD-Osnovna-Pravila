@@ -2150,6 +2150,40 @@ Teški oklop vam ne dozvoljava da dodate svoj modifikator spretnosti u svoju kla
 **Ploča**. Ploča se sastoji od oblikovanih, međusobno povezanih metalnih ploča koje pokrivaju celo telo. Odelo od ploča uključuje rukavice, teške kožne čizme, visoki šlem i debele naslage ispod oklopa. Kopče i kaiševi raspoređuju težinu po telu.
 
 
+### Shield
+
+<table>
+   <tr>
+      <td><strong>Armor Name</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Armor Class (AC)</strong>
+      </td>
+      <td><strong>Strength</strong>
+      </td>
+      <td><strong>Stealth</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Shield
+      </td>
+      <td>10 gp
+      </td>
+      <td>+2
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>6 lb.
+      </td>
+   </tr>
+</table>
+
+
 
 ### Ulazak i izlazak iz oklopa
 
@@ -2237,7 +2271,525 @@ Vaša klasa daje znanje određenog oružja, što odražava i fokus klase i alate
 
 Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a, njegovu cenu i težinu, štetu koju nanesu prilikom udara i sva posebna svojstva koja poseduju. Svako oružje je klasifikovano ili kao blisko ili kao oružije na daljinu. **Blisko oružje** koristi se za napad na metu na udaljenosti od 5 stopa od vas, dok se **oružje za napad na daljinu** koristi za ciljanje na daljinu.
 
-POGLEDAJ TABELU ORUŽIJA
+
+### Simple Melee Weapons
+
+
+<table>
+   <tr>
+      <td><strong>Weapon Name</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Damage</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+      <td><strong>Properties</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Club
+      </td>
+      <td>1 sp
+      </td>
+      <td>1d4 bludgeoning
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Light
+      </td>
+   </tr>
+   <tr>
+      <td>Dagger
+      </td>
+      <td>2 gp
+      </td>
+      <td>1d4 piercing
+      </td>
+      <td>1 lb.
+      </td>
+      <td>Finesse, light, thrown (range 20/60)
+      </td>
+   </tr>
+   <tr>
+      <td>Greatclub
+      </td>
+      <td>2 sp
+      </td>
+      <td>1d8 bludgeoning
+      </td>
+      <td>10 lb.
+      </td>
+      <td>Two-handed
+      </td>
+   </tr>
+   <tr>
+      <td>Handaxe
+      </td>
+      <td>5 gp
+      </td>
+      <td>1d6 slashing
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Light, thrown (range 20/60)
+      </td>
+   </tr>
+   <tr>
+      <td>Javelin
+      </td>
+      <td>5 sp
+      </td>
+      <td>1d6 piercing
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Thrown (range 30/120)
+      </td>
+   </tr>
+   <tr>
+      <td>Light hammer
+      </td>
+      <td>2 gp
+      </td>
+      <td>1d4 bludgeoning
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Light, thrown (range 20/60)
+      </td>
+   </tr>
+   <tr>
+      <td>Mace
+      </td>
+      <td>5 gp
+      </td>
+      <td>1d6 bludgeoning
+      </td>
+      <td>4 lb.
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Quarterstaff
+      </td>
+      <td>2 sp
+      </td>
+      <td>1d6 bludgeoning
+      </td>
+      <td>4 lb.
+      </td>
+      <td>Versatile (1d8)
+      </td>
+   </tr>
+   <tr>
+      <td>Sickle
+      </td>
+      <td>1 gp
+      </td>
+      <td>1d4 slashing
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Light
+      </td>
+   </tr>
+   <tr>
+      <td>Spear
+      </td>
+      <td>1 gp
+      </td>
+      <td>1d6 piercing
+      </td>
+      <td>3 lb.
+      </td>
+      <td>Thrown (range 20/60), versatile (1d8)
+      </td>
+   </tr>
+</table>
+
+
+
+### Simple Ranged Weapons
+
+<table>
+   <tr>
+      <td><strong>Weapon Name</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Damage</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+      <td><strong>Properties</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Crossbow, light
+      </td>
+      <td>25 gp
+      </td>
+      <td>1d8 piercing
+      </td>
+      <td>5 lb.
+      </td>
+      <td>Ammunition (range 80/320), loading, two-handed
+      </td>
+   </tr>
+   <tr>
+      <td>Dart
+      </td>
+      <td>5 cp
+      </td>
+      <td>1d4 piercing
+      </td>
+      <td>1/4 lb.
+      </td>
+      <td>Finesse, thrown (range 20/60)
+      </td>
+   </tr>
+   <tr>
+      <td>Shortbow
+      </td>
+      <td>25 gp
+      </td>
+      <td>1d6 piercing
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Ammunition (range 80/320), two-handed
+      </td>
+   </tr>
+   <tr>
+      <td>Sling
+      </td>
+      <td>1 sp
+      </td>
+      <td>1d4 bludgeoning
+      </td>
+      <td>-
+      </td>
+      <td>Ammunition (range 30/120)
+      </td>
+   </tr>
+</table>
+
+
+### Martial Melee Weapons
+
+<table>
+   <tr>
+      <td><strong>Weapon Name</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Damage</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+      <td><strong>Properties</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Battleaxe
+      </td>
+      <td>10 gp
+      </td>
+      <td>1d8 slashing
+      </td>
+      <td>4 lb.
+      </td>
+      <td>Versatile (1d10)
+      </td>
+   </tr>
+   <tr>
+      <td>Flail
+      </td>
+      <td>10 gp
+      </td>
+      <td>1d8 bludgeoning
+      </td>
+      <td>2 lb.
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Glaive
+      </td>
+      <td>20 gp
+      </td>
+      <td>1d10 slashing
+      </td>
+      <td>6 lb.
+      </td>
+      <td>Heavy, reach, two-handed
+      </td>
+   </tr>
+   <tr>
+      <td>Greataxe
+      </td>
+      <td>30 gp
+      </td>
+      <td>1d12 slashing
+      </td>
+      <td>7 lb.
+      </td>
+      <td>Heavy, two-handed
+      </td>
+   </tr>
+   <tr>
+      <td>Greatsword
+      </td>
+      <td>50 gp
+      </td>
+      <td>2d6 slashing
+      </td>
+      <td>6 lb.
+      </td>
+      <td>Heavy, two-handed
+      </td>
+   </tr>
+   <tr>
+      <td>Halberd
+      </td>
+      <td>20 gp
+      </td>
+      <td>1d10 slashing
+      </td>
+      <td>6 lb.
+      </td>
+      <td>Heavy, reach, two-handed
+      </td>
+   </tr>
+   <tr>
+      <td>Lance
+      </td>
+      <td>10 gp
+      </td>
+      <td>1d12 piercing
+      </td>
+      <td>6 lb.
+      </td>
+      <td>Reach, special
+      </td>
+   </tr>
+   <tr>
+      <td>Longsword
+      </td>
+      <td>15 gp
+      </td>
+      <td>1d8 slashing
+      </td>
+      <td>3 lb.
+      </td>
+      <td>Versatile (1d10)
+      </td>
+   </tr>
+   <tr>
+      <td>Maul
+      </td>
+      <td>10 gp
+      </td>
+      <td>2d6 bludgeoning
+      </td>
+      <td>10 lb.
+      </td>
+      <td>Heavy, two-handed
+      </td>
+   </tr>
+   <tr>
+      <td>Morningstar
+      </td>
+      <td>15 gp
+      </td>
+      <td>1d8 piercing
+      </td>
+      <td>4 lb.
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Pike
+      </td>
+      <td>5 gp
+      </td>
+      <td>1d10 piercing
+      </td>
+      <td>18 lb.
+      </td>
+      <td>Heavy, reach, two-handed
+      </td>
+   </tr>
+   <tr>
+      <td>Rapier
+      </td>
+      <td>25 gp
+      </td>
+      <td>1d8 piercing
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Finesse
+      </td>
+   </tr>
+   <tr>
+      <td>Scimitar
+      </td>
+      <td>25 gp
+      </td>
+      <td>1d6 slashing
+      </td>
+      <td>3 lb.
+      </td>
+      <td>Finesse, light
+      </td>
+   </tr>
+   <tr>
+      <td>Shortsword
+      </td>
+      <td>10 gp
+      </td>
+      <td>1d6 piercing
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Finesse, light
+      </td>
+   </tr>
+   <tr>
+      <td>Trident
+      </td>
+      <td>5 gp
+      </td>
+      <td>1d6 piercing
+      </td>
+      <td>4 lb.
+      </td>
+      <td>Thrown (range 20/60), versatile (1d8)
+      </td>
+   </tr>
+   <tr>
+      <td>War pick
+      </td>
+      <td>5 gp
+      </td>
+      <td>1d8 piercing
+      </td>
+      <td>2 lb.
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Warhammer
+      </td>
+      <td>15 gp
+      </td>
+      <td>1d8 bludgeoning
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Versatile (1d10)
+      </td>
+   </tr>
+   <tr>
+      <td>Whip
+      </td>
+      <td>2 gp
+      </td>
+      <td>1d4 slashing
+      </td>
+      <td>3 lb.
+      </td>
+      <td>Finesse, reach
+      </td>
+   </tr>
+</table>
+
+
+### Martial Ranged Weapons
+
+
+<table>
+   <tr>
+      <td><strong>Weapon Name</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Damage</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+      <td><strong>Properties</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Blowgun
+      </td>
+      <td>10 gp
+      </td>
+      <td>1 piercing
+      </td>
+      <td>1 lb.
+      </td>
+      <td>Ammunition (range 25/100), loading
+      </td>
+   </tr>
+   <tr>
+      <td>Crossbow, hand
+      </td>
+      <td>75 gp
+      </td>
+      <td>1d6 piercing
+      </td>
+      <td>3 lb.
+      </td>
+      <td>Ammunition (range 30/120), light, loading
+      </td>
+   </tr>
+   <tr>
+      <td>Crossbow, heavy
+      </td>
+      <td>50 gp
+      </td>
+      <td>1d10 piercing
+      </td>
+      <td>18 lb.
+      </td>
+      <td>Ammunition (range 100/400), heavy, loading, two-handed
+      </td>
+   </tr>
+   <tr>
+      <td>Longbow
+      </td>
+      <td>50 gp
+      </td>
+      <td>1d8 piercing
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Ammunition (range 150/600), heavy, two-handed
+      </td>
+   </tr>
+   <tr>
+      <td>Net
+      </td>
+      <td>1 gp
+      </td>
+      <td>-
+      </td>
+      <td>3 lb.
+      </td>
+      <td>Special, thrown (range 5/15)
+      </td>
+   </tr>
+</table>
+
 
 
 ### Poznavanje oružja
@@ -2306,6 +2858,874 @@ Kada koristite akciju, bonus akciju ili reakciju za napad mrežom, možete izvr�
 ## Avanturistička oprema
 
 Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja objašnjenja.
+
+
+### Ammunition
+
+<table>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Arrows (20)
+      </td>
+      <td>1 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Blowgun needles (50)
+      </td>
+      <td>1 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Crossbow bolts (20)
+      </td>
+      <td>1 gp
+      </td>
+      <td>1 1/2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Sling bullets (20)
+      </td>
+      <td>4 cp
+      </td>
+      <td>1 1/2 lb.
+      </td>
+   </tr>
+</table>
+
+
+
+### Arcane Focus
+
+<table>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Crystal
+      </td>
+      <td>10 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Orb
+      </td>
+      <td>20 gp
+      </td>
+      <td>3 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Rod
+      </td>
+      <td>10 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Staff
+      </td>
+      <td>5 gp
+      </td>
+      <td>4 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Wand
+      </td>
+      <td>10 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+</table>
+
+
+
+### Druidic Focus
+
+
+<table>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Sprig of mistletoe
+      </td>
+      <td>1 gp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Totem
+      </td>
+      <td>1 gp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Wooden staff
+      </td>
+      <td>5 gp
+      </td>
+      <td>4 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Yew wand
+      </td>
+      <td>10 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+</table>
+
+
+
+### Holy Symbol
+
+<table>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Amulet
+      </td>
+      <td>5 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Emblem
+      </td>
+      <td>5 gp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Reliquary
+      </td>
+      <td>5 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+</table>
+
+
+
+### Other Adventuring Gear
+
+<table>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Abacus
+      </td>
+      <td>2 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Acid (vial)
+      </td>
+      <td>25 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Alchemist's fire (flask)
+      </td>
+      <td>50 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Antitoxin (vial)
+      </td>
+      <td>50 gp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Backpack
+      </td>
+      <td>2 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Ball bearings (bag of 1,000)
+      </td>
+      <td>1 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Barrel
+      </td>
+      <td>2 gp
+      </td>
+      <td>70 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Basket
+      </td>
+      <td>4 sp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Bedroll
+      </td>
+      <td>1 gp
+      </td>
+      <td>7 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Bell
+      </td>
+      <td>1 gp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Blanket
+      </td>
+      <td>5 sp
+      </td>
+      <td>3 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Block and tackle
+      </td>
+      <td>1 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Book
+      </td>
+      <td>25 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Bottle, glass
+      </td>
+      <td>2 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Bucket
+      </td>
+      <td>5 cp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Caltrops (bag of 20)
+      </td>
+      <td>1 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Candle
+      </td>
+      <td>1 cp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Case, crossbow bolt
+      </td>
+      <td>1 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Case, map or scroll
+      </td>
+      <td>1 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Chain (10 feet)
+      </td>
+      <td>5 gp
+      </td>
+      <td>10 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Chalk (1 piece)
+      </td>
+      <td>1 cp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Chest
+      </td>
+      <td>5 gp
+      </td>
+      <td>25 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Climber's kit
+      </td>
+      <td>25 gp
+      </td>
+      <td>12 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Clothes, common
+      </td>
+      <td>5 sp
+      </td>
+      <td>3 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Clothes, costume
+      </td>
+      <td>5 gp
+      </td>
+      <td>4 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Clothes, fine
+      </td>
+      <td>15 gp
+      </td>
+      <td>6 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Clothes, traveler's
+      </td>
+      <td>2 gp
+      </td>
+      <td>4 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Component pouch
+      </td>
+      <td>25 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Crowbar
+      </td>
+      <td>2 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Fishing tackle
+      </td>
+      <td>1 gp
+      </td>
+      <td>4 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Flask or tankard
+      </td>
+      <td>2 cp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Grappling hook
+      </td>
+      <td>2 gp
+      </td>
+      <td>4 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Hammer
+      </td>
+      <td>1 gp
+      </td>
+      <td>3 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Hammer, sledge
+      </td>
+      <td>2 gp
+      </td>
+      <td>10 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Healer's kit
+      </td>
+      <td>5 gp
+      </td>
+      <td>3 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Holy water (flask)
+      </td>
+      <td>25 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Hourglass
+      </td>
+      <td>25 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Hunting trap
+      </td>
+      <td>5 gp
+      </td>
+      <td>25 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Ink (1 ounce bottle)
+      </td>
+      <td>10 gp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Ink pen
+      </td>
+      <td>2 cp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Jug or pitcher
+      </td>
+      <td>2 cp
+      </td>
+      <td>4 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Ladder (10 foot)
+      </td>
+      <td>1 sp
+      </td>
+      <td>25 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Lamp
+      </td>
+      <td>5 sp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Lantern, bullseye
+      </td>
+      <td>10 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Lantern, hooded
+      </td>
+      <td>5 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Lock
+      </td>
+      <td>10 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Magnifying glass
+      </td>
+      <td>100 gp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Manacles
+      </td>
+      <td>2 gp
+      </td>
+      <td>6 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Mess kit
+      </td>
+      <td>2 sp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Mirror, steel
+      </td>
+      <td>5 gp
+      </td>
+      <td>1/2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Oil (flask)
+      </td>
+      <td>1 sp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Paper (one sheet)
+      </td>
+      <td>2 sp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Parchment (one sheet)
+      </td>
+      <td>1 sp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Perfume (vial)
+      </td>
+      <td>5 gp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Pick, miner's
+      </td>
+      <td>2 gp
+      </td>
+      <td>10 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Piton
+      </td>
+      <td>5 cp
+      </td>
+      <td>1/4 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Poison, basic (vial)
+      </td>
+      <td>100 gp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Pole (10-foot)
+      </td>
+      <td>5 cp
+      </td>
+      <td>7 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Pot, iron
+      </td>
+      <td>2 gp
+      </td>
+      <td>10 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Potion of healing
+      </td>
+      <td>50 gp
+      </td>
+      <td>1/2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Pouch
+      </td>
+      <td>5 sp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Quiver
+      </td>
+      <td>1 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Ram, portable
+      </td>
+      <td>4 gp
+      </td>
+      <td>35 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Rations (1 day)
+      </td>
+      <td>5 sp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Robes
+      </td>
+      <td>1 gp
+      </td>
+      <td>4 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Rope, hempen (50 feet)
+      </td>
+      <td>1 gp
+      </td>
+      <td>10 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Rope, silk (50 feet)
+      </td>
+      <td>10 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Sack
+      </td>
+      <td>1 cp
+      </td>
+      <td>1/2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Scale, merchant's
+      </td>
+      <td>5 gp
+      </td>
+      <td>3 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Sealing wax
+      </td>
+      <td>5 sp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Shovel
+      </td>
+      <td>2 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Signal whistle
+      </td>
+      <td>5 cp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Signet ring
+      </td>
+      <td>5 gp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Soap
+      </td>
+      <td>2 cp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Spellbook
+      </td>
+      <td>50 gp
+      </td>
+      <td>3 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Spikes, iron (10)
+      </td>
+      <td>1 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Spyglass
+      </td>
+      <td>1,000 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Tent, two-person
+      </td>
+      <td>2 gp
+      </td>
+      <td>20 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Tinderbox
+      </td>
+      <td>5 sp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Torch
+      </td>
+      <td>1 cp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Vial
+      </td>
+      <td>1 gp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Waterskin
+      </td>
+      <td>2 sp
+      </td>
+      <td>5 lb. (full)
+      </td>
+   </tr>
+   <tr>
+      <td>Whetstone
+      </td>
+      <td>1 cp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+</table>
+
 
 **Kiselina**. Kao akciju, možete da poprskate sadržaj bočice na biće unutar 5 stopa od vas ili da bacate bočicu do 20 stopa, razbijajući je pri udaru. U oba slučaja izvršite napad iz daljine na biće ili predmet, tretirajući kiselinu kao improvizovano oružje. Na pogotku, meta prima 2d6 oštećenja kiselinom.
 
@@ -2393,9 +3813,102 @@ Sveštenik ili paladin može stvoriti svetu vodu izvođenjem posebnog rituala. I
 
 **Baklja**. Baklja gori 1 sat, pružajući jarko svetlo u radijusu od 20 stopa, a prigušeno svetlo za dodatnih 20 stopa. Ako izvršite napad iz blizine zapaljenom bakljom i pogodite, zadaće vam 1 štetu od požara.
 
-POGLEDAJ TABELUAV ANTURISTUČKE OPREME ZA VIŠE DETALJA
 
-**Paketi opreme**
+**Kapacitet kontejnera**
+
+<table>
+   <tr>
+      <td><strong>Container</strong>
+      </td>
+      <td><strong>Capacity</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Backpack*
+      </td>
+      <td>1 cubic foot/30 pounds of gear
+      </td>
+   </tr>
+   <tr>
+      <td>Barrel
+      </td>
+      <td>40 gallons liquid, 4 cubic feet solid
+      </td>
+   </tr>
+   <tr>
+      <td>Basket
+      </td>
+      <td>2 cubic feet/40 pounds of gear
+      </td>
+   </tr>
+   <tr>
+      <td>Bottle
+      </td>
+      <td>1½ pints liquid
+      </td>
+   </tr>
+   <tr>
+      <td>Bucket
+      </td>
+      <td>3 gallons liquid, 1/2 cubic foot solid
+      </td>
+   </tr>
+   <tr>
+      <td>Chest
+      </td>
+      <td>12 cubic feet/300 pounds of gear
+      </td>
+   </tr>
+   <tr>
+      <td>Flask or tankard
+      </td>
+      <td>1 pint liquid
+      </td>
+   </tr>
+   <tr>
+      <td>Jug or pitcher
+      </td>
+      <td>1 gallon liquid
+      </td>
+   </tr>
+   <tr>
+      <td>Pot, iron
+      </td>
+      <td>1 gallon liquid
+      </td>
+   </tr>
+   <tr>
+      <td>Pouch
+      </td>
+      <td>1/5 cubic foot/6 pounds of gear
+      </td>
+   </tr>
+   <tr>
+      <td>Sack
+      </td>
+      <td>1 cubic foot/30 pounds of gear
+      </td>
+   </tr>
+   <tr>
+      <td>Vial
+      </td>
+      <td>4 ounces liquid
+      </td>
+   </tr>
+   <tr>
+      <td>Waterskin
+      </td>
+      <td>4 pints liquid
+      </td>
+   </tr>
+</table>
+
+
+* Predmete, kao što su spavaćica ili kalem užeta, takođe možete da zakačite za spoljnu stranu ruksaka.
+
+
+
+### Paketi opreme
 
 Početna oprema koju dobijate iz odabrane klase uključuje kolekciju korisne opreme za avanture, složenu u a pakovanje. Sadržaj ovih pakovanja je ovde naveden. Ako kupujete početnu opremu, možete kupiti paket po prikazanoj ceni, što može biti jeftinije od pojedinačnog kupovine predmeta.
 
@@ -2413,98 +3926,6 @@ Početna oprema koju dobijate iz odabrane klase uključuje kolekciju korisne opr
 
 **Školarev paket (40 gp)**. Uključuje ruksak, knjigu predavanja, bocu mastila, olovku sa mastilom, 10 listova pergamenta, malu vreću peska i mali nož.
 
-**Kapacitet kontejnera**
-
-
-<table>
-  <tr>
-   <td><strong>Container</strong>
-   </td>
-   <td><strong>Capacity</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Backpack*
-   </td>
-   <td>1 cubic foot/30 pounds of gear
-   </td>
-  </tr>
-  <tr>
-   <td>Barrel
-   </td>
-   <td>40 gallons liquid, 4 cubic feet solid
-   </td>
-  </tr>
-  <tr>
-   <td>Basket
-   </td>
-   <td>2 cubic feet/40 pounds of gear
-   </td>
-  </tr>
-  <tr>
-   <td>Bottle
-   </td>
-   <td>1½ pints liquid
-   </td>
-  </tr>
-  <tr>
-   <td>Bucket
-   </td>
-   <td>3 gallons liquid, 1/2 cubic foot solid
-   </td>
-  </tr>
-  <tr>
-   <td>Chest
-   </td>
-   <td>12 cubic feet/300 pounds of gear
-   </td>
-  </tr>
-  <tr>
-   <td>Flask or tankard
-   </td>
-   <td>1 pint liquid
-   </td>
-  </tr>
-  <tr>
-   <td>Jug or pitcher
-   </td>
-   <td>1 gallon liquid
-   </td>
-  </tr>
-  <tr>
-   <td>Pot, iron
-   </td>
-   <td>1 gallon liquid
-   </td>
-  </tr>
-  <tr>
-   <td>Pouch
-   </td>
-   <td>1/5 cubic foot/6 pounds of gear
-   </td>
-  </tr>
-  <tr>
-   <td>Sack
-   </td>
-   <td>1 cubic foot/30 pounds of gear
-   </td>
-  </tr>
-  <tr>
-   <td>Vial
-   </td>
-   <td>4 ounces liquid
-   </td>
-  </tr>
-  <tr>
-   <td>Waterskin
-   </td>
-   <td>4 pints liquid
-   </td>
-  </tr>
-</table>
-
-
-* Predmete, kao što su spavaćica ili kalem užeta, takođe možete da zakačite za spoljnu stranu ruksaka.
 
 
 ### Alati
@@ -2529,7 +3950,373 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
 
 **Lopovski alat**. Ovaj set alata uključuje malu turpiju, set bravica, malo ogledalo postavljeno na metalni držač, set makaza sa uskim oštricama i par klešta. Veština ovih alata vam omogućava da dodate bonus za stručnost bilo kojoj proveri sposobnosti koju napravite za razoružavanje zamki ili otvaranje brava.
 
-POGLEDAJ TABELU ALATA ZA VIŠE DETALJA
+
+
+### Artisan's Tools
+
+<table>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Alchemist's supplies
+      </td>
+      <td>50 gp
+      </td>
+      <td>8 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Brewer's supplies
+      </td>
+      <td>20 gp
+      </td>
+      <td>9 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Calligrapher's supplies
+      </td>
+      <td>10 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Carpenter's tools
+      </td>
+      <td>8 gp
+      </td>
+      <td>6 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Cartographer's tools
+      </td>
+      <td>15 gp
+      </td>
+      <td>6 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Cobbler's tools
+      </td>
+      <td>5 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Cook's utensils
+      </td>
+      <td>1 gp
+      </td>
+      <td>8 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Glassblower's tools
+      </td>
+      <td>30 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Jeweler's tools
+      </td>
+      <td>25 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Leatherworker's tools
+      </td>
+      <td>5 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Mason's tools
+      </td>
+      <td>10 gp
+      </td>
+      <td>8 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Painter's supplies
+      </td>
+      <td>10 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Potter's tools
+      </td>
+      <td>10 gp
+      </td>
+      <td>3 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Smith's tools
+      </td>
+      <td>20 gp
+      </td>
+      <td>8 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Tinker's tools
+      </td>
+      <td>50 gp
+      </td>
+      <td>10 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Weaver's tools
+      </td>
+      <td>1 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Woodcarver's tools
+      </td>
+      <td>1 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+</table>
+
+
+
+### Gaming Set
+
+<table>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Dice set
+      </td>
+      <td>1 sp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Dragonchess set
+      </td>
+      <td>1 gp
+      </td>
+      <td>1/2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Playing card set
+      </td>
+      <td>5 sp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Three-Dragon Ante set
+      </td>
+      <td>1 gp
+      </td>
+      <td>-
+      </td>
+   </tr>
+</table>
+
+
+
+### Musical Instrument
+
+<table>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Bagpipes
+      </td>
+      <td>30 gp
+      </td>
+      <td>6 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Drum
+      </td>
+      <td>6 gp
+      </td>
+      <td>3 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Dulcimer
+      </td>
+      <td>25 gp
+      </td>
+      <td>10 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Flute
+      </td>
+      <td>2 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Lute
+      </td>
+      <td>35 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Lyre
+      </td>
+      <td>30 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Horn
+      </td>
+      <td>3 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Pan flute
+      </td>
+      <td>12 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Shawm
+      </td>
+      <td>2 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Viol
+      </td>
+      <td>30 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+</table>
+
+
+
+### Other Tools
+
+<table>
+   <tr>
+      <td><strong>Item</strong>
+      </td>
+      <td><strong>Cost</strong>
+      </td>
+      <td><strong>Weight</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Disguise kit
+      </td>
+      <td>25 gp
+      </td>
+      <td>3 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Forgery kit
+      </td>
+      <td>15 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Herbalism kit
+      </td>
+      <td>5 gp
+      </td>
+      <td>3 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Navigator's tools
+      </td>
+      <td>25 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Poisoner's kit
+      </td>
+      <td>50 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Thieves' tools
+      </td>
+      <td>25 gp
+      </td>
+      <td>1 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Vehicles (land or water)
+      </td>
+      <td>*
+      </td>
+      <td>*
+      </td>
+   </tr>
+</table>
+
+
+* See the ”Mounts and Vehicles” section.
+
 
 
 ## Nosači i vozila
