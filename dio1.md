@@ -1808,8 +1808,16 @@ Kada kreirate svoj lik, dobijate opremu zasnovanu na kombinaciji vaše klase i p
 
 Vi odlučujete kako je vaš lik došao do ove startne opreme. To je moglo biti nasledstvo ili roba koju je lik kupio tokom svog odrastanja. Možda ste bili opremljeni oružjem, oklopom i ruksakom kao deo vojne službe. Možda ste čak i ukrali opremu. Oružje bi moglo biti porodično nasleđe, prenosilo se s kolena na koleno dok vaš lik konačno nije uzeo plašt i krenuo avanturističkim stopama pretka.
 
-**Početno bogatstvo po klasama**
 
+
+
+## Bogatstvo
+
+Bogatstvo se pojavljuje u mnogim oblicima u svetu D&D. Novčići, drago kamenje, trgovačka roba, umetnički predmeti, životinje i imovina mogu odražavati finansijsko blagostanje vašeg lika.
+
+Članovi seljaštva trguju robom, trgujući za ono što im treba i plaćajući porez na žito i sir. Pripadnici plemstva trguju zakonskim pravima, poput prava na rudnik, luku ili obradivo zemljište, ili zlatnim polugama, mereći zlato u funti, a ne u novčiću. Samo trgovci, avanturisti i oni koji nude profesionalne usluge za najam obično trguju kovanicama.
+
+**Početno bogatstvo po klasama**
 
 <table>
    <tr>
@@ -1843,14 +1851,6 @@ Vi odlučujete kako je vaš lik došao do ove startne opreme. To je moglo biti n
       </td>
    </tr>
 </table>
-
-
-
-## Bogatstvo
-
-Bogatstvo se pojavljuje u mnogim oblicima u svetu D&D. Novčići, drago kamenje, trgovačka roba, umetnički predmeti, životinje i imovina mogu odražavati finansijsko blagostanje vašeg lika.
-
-Članovi seljaštva trguju robom, trgujući za ono što im treba i plaćajući porez na žito i sir. Pripadnici plemstva trguju zakonskim pravima, poput prava na rudnik, luku ili obradivo zemljište, ili zlatnim polugama, mereći zlato u funti, a ne u novčiću. Samo trgovci, avanturisti i oni koji nude profesionalne usluge za najam obično trguju kovanicama.
 
 
 #### Kovani novac
@@ -5219,220 +5219,6 @@ Drugi najamnici pružaju više stručne ili opasne usluge. Plaćeni vojnici pla�
 
 <table>
    <tr>
-      <td><strong>Item</strong>
-      </td>
-      <td>
-      </td>
-      <td><strong>Cost</strong>
-      </td>
-   </tr>
-   <tr>
-      <td>Ale
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Gallon
-      </td>
-      <td>2 sp
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Mug
-      </td>
-      <td>4 cp
-      </td>
-   </tr>
-   <tr>
-      <td>Banquet (per person)
-      </td>
-      <td>
-      </td>
-      <td>10 gp
-      </td>
-   </tr>
-   <tr>
-      <td>Bread, loaf
-      </td>
-      <td>
-      </td>
-      <td>2 cp
-      </td>
-   </tr>
-   <tr>
-      <td>Cheese, hunk
-      </td>
-      <td>
-      </td>
-      <td>1 sp
-      </td>
-   </tr>
-   <tr>
-      <td>Inn stay (per day)
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Squalid
-      </td>
-      <td>7 cp
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Poor
-      </td>
-      <td>1 sp
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Modest
-      </td>
-      <td>5 sp
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Comfortable
-      </td>
-      <td>8 sp
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Wealthy
-      </td>
-      <td>2 gp
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Aristocratic
-      </td>
-      <td>4 gp
-      </td>
-   </tr>
-   <tr>
-      <td>Meals (per day)
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Squalid
-      </td>
-      <td>3 cp
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Poor
-      </td>
-      <td>6 cp
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Modest
-      </td>
-      <td>3 sp
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Comfortable
-      </td>
-      <td>5 sp
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Wealthy
-      </td>
-      <td>8 sp
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Aristocratic
-      </td>
-      <td>2 gp
-      </td>
-   </tr>
-   <tr>
-      <td>Meat, chunk
-      </td>
-      <td>3 sp
-      </td>
-      <td>
-      </td>
-   </tr>
-   <tr>
-      <td>Wine
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Common (pitcher)
-      </td>
-      <td>2 sp
-      </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
-      <td>Fine (bottle)
-      </td>
-      <td>10 gp
-      </td>
-   </tr>
-</table>
-
-
-
-### Usluge
-
-Avanturisti mogu platiti ne-igračke likove da im pomognu ili deluju u njihovo ime u raznim okolnostima. Većina takvih najamnika ima prilično uobičajene veštine, dok su drugi majstori zanata ili umetnosti, a nekoliko je stručnjaka sa specijalizovanim avanturističkim veštinama.
-
-Neke od najosnovnijih vrsta najamnika pojavljuju se u tabeli usluga. Među ostale uobičajene najamnike spada bilo koji od široke raznolikost ljudi koji naseljavaju tipično naselje ili grad, kada im avanturisti plaćaju za izvođenje određenog zadatak. Na primer, čarobnjak može platiti stolaru da mu izradi složeni sanduk (i njegova minijaturna replika) za upotreba u tajnoj čaroliji sanduka Leomund-a. Lovac meže naručiti kovaču da iskuje poseban mač. Bard možda plati krojaču da napravi izvrsnu odeću za predstojecu  predstava pred vojvodom.
-
-Drugi najamnici pružaju više stručne ili opasne usluge. Plaćeni vojnici plaćeni da pomognu avanturistima preuzeti vojsku hobgoblina su najamnici, kao i mudrac angažovan za istraživanje drevnih ili ezoteričnih nauka. Ako na visokom nivou avanturista uspostavlja nekakvo uporište, on ili ona možda bi angažovala čitavo osoblje sluga i agenata da vode mesto, od kaštelana ili upravnika do muških radnika da staje budu čiste. Ovi najamnici često uživaju dugoročni ugovor koji uključuje mesto za život u uporište kao deo ponuđene nadoknade.
-
-
-<table>
-   <tr>
       <td><strong>Usloga</strong>
       </td>
       <td>
@@ -6167,6 +5953,88 @@ Kako napredujete u nivoima, možda ćete prvenstveno ostati član originalne kl
 Da biste se kvalifikovali za novu klasu, morate da ispunite bodove sposobnosti koji su preduslov i za trenutnu i za novu klasu, kao što je prikazano u tabeli Multiclassing Preduslovi u Priručniku za igrača. Bez pune obuke koju početni lik primi, morate biti brzi u učenju u svojoj novoj klasi, imajući prirodnu sposobnost ogleda se u ocenama sposobnosti višim od proseka.
 
 
+<table>
+  <tr>
+   <td><strong>Class</strong>
+   </td>
+   <td><strong>Ability Score Minimum</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Barbarian
+   </td>
+   <td>Strength 13
+   </td>
+  </tr>
+  <tr>
+   <td>Bard
+   </td>
+   <td>Charisma 13
+   </td>
+  </tr>
+  <tr>
+   <td>Cleric
+   </td>
+   <td>Wisdom 13
+   </td>
+  </tr>
+  <tr>
+   <td>Druid
+   </td>
+   <td>Wisdom 13
+   </td>
+  </tr>
+  <tr>
+   <td>Fighter
+   </td>
+   <td>Strength 13 or Dexterity 13
+   </td>
+  </tr>
+  <tr>
+   <td>Monk
+   </td>
+   <td>Dexterity 13 and Wisdom 13
+   </td>
+  </tr>
+  <tr>
+   <td>Paladin
+   </td>
+   <td>Strength 13 and Charisma 13
+   </td>
+  </tr>
+  <tr>
+   <td>Ranger
+   </td>
+   <td>Dexterity 13 and Wisdom 13
+   </td>
+  </tr>
+  <tr>
+   <td>Rogue
+   </td>
+   <td>Dexterity 13
+   </td>
+  </tr>
+  <tr>
+   <td>Sorcerer
+   </td>
+   <td>Charisma 13
+   </td>
+  </tr>
+  <tr>
+   <td>Warlock
+   </td>
+   <td>Charisma 13
+   </td>
+  </tr>
+  <tr>
+   <td>Wizard
+   </td>
+   <td>Intelligence 13
+   </td>
+  </tr>
+</table>
+
+
 ### Bodovi iskustva
 
 Trošak iskustvenog poena za sticanje nivoa uvek se zasniva na vašem ukupnom nivou karaktera, kao što je prikazano u Tabeli napretka u poglavlju 1 ovog dokumenta, ne vaš nivo u određenoj klasi.
@@ -6192,7 +6060,7 @@ Kada steknete nivo u klasi koji nije vaša po;etna, vi steknite samo neka počet
 
 
 ### Karakteristike klase
-
+[D&D Beyond](https://www.dndbeyond.com/sources/basic-rules/customization-options#ClassFeatures)
 Kada steknete novi nivo u klasi, dobijate njegove karakteristike za taj nivo. Nekoliko karakteristika, međutim, ima dodatne pravila kada koristite više klasa. Pogledajte poglavlje 6 Priručnika za igrača za više informacija.
 
 
