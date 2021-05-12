@@ -2069,7 +2069,7 @@ Teški oklop vam ne dozvoljava da dodate svoj modifikator spretnosti u svoju kla
 **Ploča**. Ploča se sastoji od oblikovanih, međusobno povezanih metalnih ploča koje pokrivaju celo telo. Odelo od ploča uključuje rukavice, teške kožne čizme, visoki šlem i debele naslage ispod oklopa. Kopče i kaiševi raspoređuju težinu po telu.
 
 
-### Shield
+### Štit
 
 <table>
    <tr>
@@ -3880,7 +3880,6 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-<tr>
       <td> Alhemičarske zalihe
       </td>
       <td> 50 gp
