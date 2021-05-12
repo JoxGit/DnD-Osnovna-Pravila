@@ -90,20 +90,20 @@ Vaš bonus za stručnost se ne može dodati jednoj kocki ili drugim brojevima vi
 
 ## 3. Određivanje ocena sposobnosti
 
-Mnogo onoga što vaš lik radi u igri zavisi od njegovih šest sposobnosti: **Snaga, Spretnost, Stav (konstitucija), Inteligencija, Mudrost i Karizma**. Svaka sposobnost ima rezultat, što je broj koji beležite na svom listu karaktera.
+Mnogo onoga što vaš lik radi u igri zavisi od njegovih šest sposobnosti: **Snaga, Spretnost, Stav (konstitucija), Inteligencija, Mudrost i Harizma**. Svaka sposobnost ima rezultat, što je broj koji beležite na svom listu karaktera.
 
 Šest sposobnosti i njihova upotreba u igri opisani su u poglavlju 7. Tabela sažetka rezultata sposobnosti pruža brzu referencu za to koje se osobine mere svakom sposobnošću, koje rase povećavaju koje sposobnosti i koje klase svaku sposobnost smatraju posebno važnom.
 
 Slučajno generišete šest ocena sposobnosti vašeg lika. Bacite četiri šestostrane kockice i zabeležite zbir najviše tri kockice na komad papira. Uradite to još pet puta, tako da imate šest brojeva. Ako želite da uštedite vreme ili vam se ne sviđa ideja nasumičnog određivanja ocena sposobnosti, umesto toga možete da koristite sledeće ocene: 15, 14, 13, 12, 10, 8.
 
-Sada uzmite svojih šest brojeva i napišite svaki broj pored jedne od šest sposobnosti vašeg lika da dodelite ocene Snazi, Spretnosti, Stavu,, Inteligenciji, Mudrosti i Karizmi. Posle toga, napravite bilo kakve promene u rezultatima vaših sposobnosti kao rezultat vašeg odabira rase.
+Sada uzmite svojih šest brojeva i napišite svaki broj pored jedne od šest sposobnosti vašeg lika da dodelite ocene Snazi, Spretnosti, Stavu,, Inteligenciji, Mudrosti i Harizmi. Posle toga, napravite bilo kakve promene u rezultatima vaših sposobnosti kao rezultat vašeg odabira rase.
 
 Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i koristeći tabelu Ocene sposobnosti i Modifikatori. Da biste odredili modifikator sposobnosti bez konsultovanja sa tabelom, od ocene sposobnosti oduzmite 10, a zatim podelite rezultat sa 2 (zaokružite nadole). Napišite modifikator pored svake vaše ocene.
 
 
 >**Izgradnja Bruenora, 3. korak**
 >
->Bob odlučuje da koristi standardni skup ocena (15, 14, 13, 12, 10, 8) za Bruenorove sposobnosti. Budući da je borac, svoj najviši rezultat, 15, dodjeljuje Snazi. Njegov sledeći najviši, 14, ide u Stav. Bruenor je možda drski borac, ali Bob odlučuje da želi da patuljak bude stariji, mudriji i dobar vođa, pa postavlja pristojne rezultate u Mudrosti i Karizmi. Nakon primene njegovih rasnih koristi (povećanje Bruenorovog stava za 2 i njegove Snage za 2), ocene i modifikatori Bruenorove sposobnosti izgledaju ovako: Snaga 17 (+3), Spretnost 10 (+0), Stav 16 (+3), Inteligencija 8 (–1), Mudrost 13 (+1), Karizma 12 (+1).
+>Bob odlučuje da koristi standardni skup ocena (15, 14, 13, 12, 10, 8) za Bruenorove sposobnosti. Budući da je borac, svoj najviši rezultat, 15, dodjeljuje Snazi. Njegov sledeći najviši, 14, ide u Stav. Bruenor je možda drski borac, ali Bob odlučuje da želi da patuljak bude stariji, mudriji i dobar vođa, pa postavlja pristojne rezultate u Mudrosti i Harizmi. Nakon primene njegovih rasnih koristi (povećanje Bruenorovog stava za 2 i njegove Snage za 2), ocene i modifikatori Bruenorove sposobnosti izgledaju ovako: Snaga 17 (+3), Spretnost 10 (+0), Stav 16 (+3), Inteligencija 8 (–1), Mudrost 13 (+1), Harizma 12 (+1).
 >
 >Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator stava od +3, za ukupno 13 poena za pogodak.
 
@@ -118,39 +118,73 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
 **Ocene sposobnosti i modifikatori**
 
 <table>
-   <tr><td><strong>Poeni</strong></td><td><strong>Modifikator</strong></td>
+   <tr>
+      <td><strong>Poeni</strong></td>
+      <td><strong>Modifikator</strong></td>
    </tr>
-   <tr><td>1</td><td>−5</td>
+   <tr>
+      <td>1</td>
+      <td>−5</td>
    </tr>
-   <tr><td>2–3</td><td>−4</td>
+   <tr>
+      <td>2–3</td>
+      <td>−4</td>
    </tr>
-   <tr><td>4–5</td><td>−3</td>
+   <tr>
+      <td>4–5</td>
+      <td>−3</td>
    </tr>
-   <tr><td>6–7</td><td>−2</td>
+   <tr>
+      <td>6–7</td>
+      <td>−2</td>
    </tr>
-   <tr><td>8–9</td><td>−1</td>
+   <tr>
+      <td>8–9</td>
+      <td>−1</td>
    </tr>
-   <tr><td>10–11</td><td>+0</td>
+   <tr>
+      <td>10–11</td>
+      <td>+0</td>
    </tr>
-   <tr><td>12–13</td><td>+1</td>
+   <tr>
+      <td>12–13</td>
+      <td>+1</td>
    </tr>
-   <tr><td>14–15</td><td>+2</td>
+   <tr>
+      <td>14–15</td>
+      <td>+2</td>
    </tr>
-   <tr><td>16–17</td><td>+3</td>
+   <tr>
+      <td>16–17</td>
+      <td>+3</td>
    </tr>
-   <tr><td>18–19</td><td>+4</td>
+   <tr>
+      <td>18–19</td>
+      <td>+4</td>
    </tr>
-   <tr><td>20–21</td><td>+5</td>
+   <tr>
+      <td>20–21</td>
+      <td>+5</td>
    </tr>
-   <tr><td>22–23</td><td>+6</td>
+   <tr>
+      <td>22–23</td>
+      <td>+6</td>
    </tr>
-   <tr><td>24–25</td><td>+7</td>
+   <tr>
+      <td>24–25</td>
+      <td>+7</td>
    </tr>
-   <tr><td>26–27</td><td>+8</td>
+   <tr>
+      <td>26–27</td>
+      <td>+8</td>
    </tr>
-   <tr><td>28–29</td><td>+9</td>
+   <tr>
+      <td>28–29</td>
+      <td>+9</td>
    </tr>
-   <tr><td>30</td><td>+10</td>
+   <tr>
+      <td>30</td>
+      <td>+10</td>
    </tr>
 </table>
 
@@ -269,7 +303,7 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
 
 <table>
    <tr>
-      <td><strong>Stav (konstitucija) </strong>
+      <td><strong>Stav (konstitucija)</strong>
       </td>
    </tr>
    <tr>
@@ -344,7 +378,7 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
 
 <table>
    <tr>
-      <td><strong>Karizma</strong>
+      <td><strong>Harizma</strong>
       </td>
    </tr>
    <tr>
@@ -399,7 +433,7 @@ Lik sa visokom mudrošću ima dobru procenu, empatiju i opštu svest o tome št
 
 Lik sa niskom mudrošću može biti odsutan, lud ili zaboravan.
 
-Lik sa visokom harizmom odiše samopouzdanjem, koje se obično meša sa gracioznim ili zastrašujućim prisustvom. Lik s niskom karizmom može se naići na abrazivnog, neartikulisanog ili plašljivog.
+Lik sa visokom harizmom odiše samopouzdanjem, koje se obično meša sa gracioznim ili zastrašujućim prisustvom. Lik s niskom harizmom može se naići na abrazivnog, neartikulisanog ili plašljivog.
 
 
 >**Izgradnja Bruenora, 4. korak**
@@ -443,8 +477,6 @@ Za svako oružje kojim vaš lik poseduje izračunajte modifikator koji koristite
 
 Kada izvršite napad oružjem, bacate d20 i dodate svoj bonus za sposobnost (ali samo ako ste stručnjak sa oružjem) i odgovarajući modifikator sposobnosti.
 
-
-
 *   Za napade sa **bliskim oružjem** koristite modifikator Snaga za bacanja za napa i oštećenje. Oružje koje ima svojstvo finese, kao što je rapier, umesto toga može da koristi vaš modifikator spretnosti.
 *   Za napade **oružjem na daljinu** koristite modifikator spretnosti za bacanja za napad i oštećenje. Ručno oružje koje ima svojstvo bacanja, poput ručna sjekira, umesto toga može da koristi vaš modifikator snage.
 
@@ -487,7 +519,6 @@ U trećem sloju (nivoi 11–16), likovi su dostigli nivo moći koji ih postavl
 Na četvrtom nivou (nivoi 17–20), likovi postižu vrhunac svojih klasnih karakteristika, postajući herojski (ili zlikovsi) arhetipovi sami po sebi. Sudbina sveta ili čak osnovni poredak multiverzuma mogao bi da visi o koncu tokom njihovih avantura.
 
 **Napredovanja karaktera**
-
 
 <table>
    <tr>
@@ -658,231 +689,7 @@ Na četvrtom nivou (nivoi 17–20), likovi postižu vrhunac svojih klasnih karak
       <td>+6
       </td>
    </tr>
-</table><table>
-  <tr>
-   <td>
-    <strong>Poeni iskustva</strong>
-   </td>
-   <td>
-    <strong>Nivo</strong>
-   </td>
-   <td>
-    <strong>Bonus stručnosti</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    0
-   </td>
-   <td>1
-   </td>
-   <td>
-    +2
-   </td>
-  </tr>
-  <tr>
-   <td>
-    300
-   </td>
-   <td>2
-   </td>
-   <td>
-    +2
-   </td>
-  </tr>
-  <tr>
-   <td>
-    900
-   </td>
-   <td>3
-   </td>
-   <td>
-    +2
-   </td>
-  </tr>
-  <tr>
-   <td>
-    2,700
-   </td>
-   <td>4
-   </td>
-   <td>
-    +2
-   </td>
-  </tr>
-  <tr>
-   <td>
-    6,500
-   </td>
-   <td>5
-   </td>
-   <td>
-    +3
-   </td>
-  </tr>
-  <tr>
-   <td>
-    14,000
-   </td>
-   <td>6
-   </td>
-   <td>
-    +3
-   </td>
-  </tr>
-  <tr>
-   <td>
-    23,000
-   </td>
-   <td>7
-   </td>
-   <td>
-    +3
-   </td>
-  </tr>
-  <tr>
-   <td>
-    34,000
-   </td>
-   <td>8
-   </td>
-   <td>
-    +3
-   </td>
-  </tr>
-  <tr>
-   <td>
-    48,000
-   </td>
-   <td>9
-   </td>
-   <td>
-    +4
-   </td>
-  </tr>
-  <tr>
-   <td>
-    64,000
-   </td>
-   <td>
-    10
-   </td>
-   <td>
-    +4
-   </td>
-  </tr>
-  <tr>
-   <td>
-    85,000
-   </td>
-   <td>
-    11
-   </td>
-   <td>
-    +4
-   </td>
-  </tr>
-  <tr>
-   <td>
-    100,000
-   </td>
-   <td>
-    12
-   </td>
-   <td>
-    +4
-   </td>
-  </tr>
-  <tr>
-   <td>
-    120,000
-   </td>
-   <td>
-    13
-   </td>
-   <td>
-    +5
-   </td>
-  </tr>
-  <tr>
-   <td>
-    140,000
-   </td>
-   <td>
-    14
-   </td>
-   <td>
-    +5
-   </td>
-  </tr>
-  <tr>
-   <td>
-    165,000
-   </td>
-   <td>
-    15
-   </td>
-   <td>
-    +5
-   </td>
-  </tr>
-  <tr>
-   <td>
-    195,000
-   </td>
-   <td>
-    16
-   </td>
-   <td>
-    +5
-   </td>
-  </tr>
-  <tr>
-   <td>
-    225,000
-   </td>
-   <td>
-    17
-   </td>
-   <td>
-    +6
-   </td>
-  </tr>
-  <tr>
-   <td>
-    265,000
-   </td>
-   <td>
-    18
-   </td>
-   <td>
-    +6
-   </td>
-  </tr>
-  <tr>
-   <td>
-    305,000
-   </td>
-   <td>
-    19
-   </td>
-   <td>
-    +6
-   </td>
-  </tr>
-  <tr>
-   <td>
-    355,000
-   </td>
-   <td>
-    20
-   </td>
-   <td>
-    +6
-   </td>
-  </tr>
 </table>
-
 
 
 # Poglavlje 2: Rase
@@ -946,8 +753,6 @@ Na osnovu vaše rase, vaš lik može da govori, čita i piše određene jezike. 
 Neke rase imaju podrase. Članovi podrase imaju osobine roditeljske rase pored osobina određenih za njihovu podrasu. Odnosi među podrasama značajno se razlikuju od rase do rase i od sveta do sveta. Na primer, u okruženju kampanje Dragonlance, planinski patuljci i brdski patuljci žive zajedno kao različiti klanovi istog naroda, ali u Zaboravljenim carstvima žive daleko odvojeno u odvojenim kraljevstvima i nazivaju se patuljcima štitova i zlatnim patuljcima.
 
 
-
-
 ## Patuljak
 [Dwarf](https://www.dndbeyond.com/sources/basic-rules/races#Dwarf)
 
@@ -1002,185 +807,185 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
 
 <table>
    <tr>
-      <td><strong>Class</strong>
+      <td><strong>Klasa</strong>
       </td>
-      <td><strong>Description</strong>
+      <td><strong>Opid</strong>
       </td>
-      <td><strong>Hit Die</strong>
+      <td><strong>Kockica pogodka</strong>
       </td>
-      <td><strong>Primary Ability</strong>
+      <td><strong>Primarna sposobnost</strong>
       </td>
-      <td><strong>Saving Throw Proficiencies</strong>
+      <td><strong>Veštine bacanja za spas</strong>
       </td>
-      <td><strong>Armor and Weapon Proficiencies</strong>
+      <td><strong>Veštine sa oružijem i oklopima</strong>
       </td>
    </tr>
    <tr>
-      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Barbarian">Barbarian</a></strong>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Barbarian">Varvar</a></strong>
       </td>
-      <td>A fierce warrior of primitive background who can enter a battle rage
+      <td> Žestoki ratnik primitivnog porekla koji može ući u borbeni bes
       </td>
-      <td>d12
+      <td> d12
       </td>
-      <td>Strength
+      <td> Snaga
       </td>
-      <td>Strength & Constitution
+      <td> Snaga i stav
       </td>
-      <td>Light and medium armor, shields, simple and martial weapons
+      <td> Laki i srednji oklop, štitovi, jednostavno i borilačko oružje
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Bard">Bard</a></strong>
       </td>
-      <td>An inspiring magician whose power echoes the music of creation
+      <td> Inspirativni mađioničar čija snaga odzvanja muzikom stvaranja
       </td>
-      <td>d8
+      <td> d8
       </td>
-      <td>Charisma
+      <td> Harizma
       </td>
-      <td>Dexterity & Charisma
+      <td> Spretnost i harizma
       </td>
-      <td>Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords
+      <td> Lagani oklop, jednostavno oružje, ručni samostreli, dugi mačevi, rapire, kratki mačevi
       </td>
    </tr>
    <tr>
-      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Cleric">Cleric</a></strong>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Cleric">Sveštenik</a></strong>
       </td>
-      <td>A priestly champion who wields divine magic in service of a higher power
+      <td> Sveštenički prvak koji koristi božansku magiju u službi više sile
       </td>
-      <td>d8
+      <td> d8
       </td>
-      <td>Wisdom
+      <td> Mudrost
       </td>
-      <td>Wisdom & Charisma
+      <td> Mudrost i harizma
       </td>
-      <td>Light and medium armor, shields, simple weapons
+      <td> Lagani i srednji oklop, štitovi, jednostavno oružje
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Druid">Druid</a></strong>
       </td>
-      <td>A priest of the Old Faith, wielding the powers of nature — moonlight and plant growth, fire and lightning — and adopting animal forms
+      <td> Sveštenik Stare vere, koji poseduje moći prirode - mesečinu i rast biljaka, vatru i munje - i usvaja životinjske oblike
       </td>
-      <td>d8
+      <td> d8
       </td>
-      <td>Wisdom
+      <td> Mudrost
       </td>
-      <td>Intelligence & Wisdom
+      <td> Inteligencija i mudrost
       </td>
-   <td>Light and medium armor (nonmetal), shields (nonmetal), clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
-      </td>
-   </tr>
-   <tr>
-      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Fighter">Fighter</a></strong>
-      </td>
-      <td>A master of martial combat, skilled with a variety of weapons and armor
-      </td>
-      <td>d10
-      </td>
-      <td>Strength or Dexterity
-      </td>
-      <td>Strength & Constitution
-      </td>
-      <td>All armor, shields, simple and martial weapons
+   <td> Laki i srednji oklop (nemetalni), štitovi (nemetalni), palice, bodeži, strelice, koplja, buzdovani, motke, jataci, srpovi, praćke, koplja
       </td>
    </tr>
    <tr>
-      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Monk">Monk</a></strong>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Fighter">Borac</a></strong>
       </td>
-      <td>A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection
+      <td> Majstor borilačke borbe, vešt u raznim oružjima i oklopima
       </td>
-      <td>d8
+      <td> d10
       </td>
-      <td>Dexterity & Wisdom
+      <td> Snaga ili spretnost
       </td>
-      <td>Strength & Dexterity
+      <td> Snaga i ustav
       </td>
-      <td>Simple weapons, shortswords
+      <td> Svi oklopi, štitovi, jednostavno i borilačko oružje
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Monk">Monah</a></strong>
+      </td>
+      <td> Majstor borilačkih veština, iskorišćavajući snagu tela u potrazi za fizičkim i duhovnim savršenstvom
+      </td>
+      <td> d8
+      </td>
+      <td> Spretnost i mudrost
+      </td>
+      <td> Snaga i spretnost
+      </td>
+      <td> Jednostavno oružje, kratki mačevi
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Paladin">Paladin</a></strong>
       </td>
-      <td>A holy warrior bound to a sacred oath
+      <td> Sveti ratnik vezan za svetu zakletvu
       </td>
-      <td>d10
+      <td> d10
       </td>
-      <td>Strength & Charisma
+      <td> Snaga i harizma
       </td>
-      <td>Wisdom & Charisma
+      <td> Mudrost i harizma
       </td>
-      <td>All armor, shields, simple and martial weapons
-      </td>
-   </tr>
-   <tr>
-      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Ranger">Ranger</a></strong>
-      </td>
-      <td>A warrior who uses martial prowess and nature magic to combat threats on the edges of civilization
-      </td>
-      <td>d10
-      </td>
-      <td>Dexterity & Wisdom
-      </td>
-      <td>Strength & Dexterity
-      </td>
-      <td>Light and medium armor, shields, simple and martial weapons
+      <td> Svi oklopi, štitovi, jednostavno i borilačko oružje
       </td>
    </tr>
    <tr>
-      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Rogue">Rogue</a></strong>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Ranger">Rendžer</a></strong>
       </td>
-      <td>A scoundrel who uses stealth and trickery to overcome obstacles and enemies
+      <td> Ratnik koji koristi borilačku snagu i magiju prirode za borbu protiv pretnji na ivicama civilizacije
       </td>
-      <td>d8
+      <td> d10
       </td>
-      <td>Dexterity
+      <td> Spretnost i mudrost
       </td>
-      <td>Dexterity & Intelligence
+      <td> Snaga i spretnost
       </td>
-      <td>Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords
-      </td>
-   </tr>
-   <tr>
-      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Sorcerer">Sorcerer</a></strong>
-      </td>
-      <td>A spellcaster who draws on inherent magic from a gift or bloodline
-      </td>
-      <td>d6
-      </td>
-      <td>Charisma
-      </td>
-      <td>Constitution & Charisma
-      </td>
-      <td>Daggers, darts, slings, quarterstaffs, light crossbows
+      <td> Laki i srednji oklop, štitovi, jednostavno i borilačko oružje
       </td>
    </tr>
    <tr>
-      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Warlock">Warlock</a></strong>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Rogue">Bitanga</a></strong>
       </td>
-      <td>A wielder of magic that is derived from a bargain with an extraplanar entity
+      <td> Podlac koji koristi šunjanje i prevare da bi savladao prepreke i neprijatelje
       </td>
-      <td>d8
+      <td> d8
       </td>
-      <td>Charisma
+      <td> Spretnost
       </td>
-      <td>Wisdom & Charisma
+      <td> Spretnost i inteligencija
       </td>
-      <td>Light armor, simple weapons
+      <td> Lagani oklop, jednostavno oružje, ručni samostreli, duge mačeve, rapire, kratke mačeve
       </td>
    </tr>
    <tr>
-      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Wizard">Wizard</a></strong>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Sorcerer">Vrač</a></strong>
       </td>
-      <td>A scholarly magic-user capable of manipulating the structures of reality
+      <td> Bacač čarolija koji crpi urođenu magiju iz dara ili krvne loze
       </td>
-      <td>d6
+      <td> d6
       </td>
-      <td>Intelligence
+      <td> Harizma
       </td>
-      <td>Intelligence & Wisdom
+      <td> Stav i harizma
       </td>
-      <td>Daggers, darts, slings, quarterstaffs, light crossbows
+      <td> Bodeži, strelice, praćke, motke, laki samostreli
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Warlock">Veštac</a></strong>
+      </td>
+      <td> Upravljač magije koji je izvedena iz dogovora sa ekstraplanarnim entitetom
+      </td>
+      <td> d8
+      </td>
+      <td> Harizma
+      </td>
+      <td> Mudrost i harizma
+      </td>
+      <td> Lagani oklop, jednostavno oružje
+      </td>
+   </tr>
+   <tr>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Wizard">Čarobnjak</a></strong>
+      </td>
+      <td> Školovan korisnik magije sposoban da manipuliše strukturama stvarnosti
+      </td>
+      <td> d6
+      </td>
+      <td> Inteligencija
+      </td>
+      <td> Inteligencija i mudrost
+      </td>
+      <td> Bodeži, strelice, praćke, motke, laki samostreli
       </td>
    </tr>
 </table>
@@ -1279,127 +1084,126 @@ Ako želite, možete nasumično odrediti visinu i težinu svog lika pomoću tab
 
 **Nasumična visina i težina**
 
-
 <table>
-  <tr>
-   <td>
-    <strong>Rasa</strong>
-   </td>
-   <td>
-    <strong>Osnovna visina</strong>
-   </td>
-   <td>
-    <strong>Modifikator visione</strong>
-   </td>
-   <td>
-    <strong>Osnovna težina</strong>
-   </td>
-   <td>
-    <strong>Modifikator težine</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Čovjek
-   </td>
-   <td>
-    4'8"
-   </td>
-   <td>
-    +2d10
-   </td>
-   <td>
-    110 lb.
-   </td>
-   <td>
-    × (2d4) lb.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Patuljak, brdski
-   </td>
-   <td>
-    3'8"
-   </td>
-   <td>
-    +2d4
-   </td>
-   <td>
-    115 lb.
-   </td>
-   <td>
-    × (2d6) lb.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Patuljak, planinski
-   </td>
-   <td>
-    4'
-   </td>
-   <td>
-    +2d4
-   </td>
-   <td>
-    130 lb.
-   </td>
-   <td>
-    × (2d6) lb.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Vilenjak, visoki
-   </td>
-   <td>
-    4'6"
-   </td>
-   <td>
-    +2d10
-   </td>
-   <td>
-    90 lb.
-   </td>
-   <td>
-    × (1d4) lb.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Vilenjak, šumski
-   </td>
-   <td>
-    4'6"
-   </td>
-   <td>
-    +2d10
-   </td>
-   <td>
-    100 lb.
-   </td>
-   <td>
-    × (1d4) lb.
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Polutan
-   </td>
-   <td>
-    2'7"
-   </td>
-   <td>
-    +2d4
-   </td>
-   <td>
-    35 lb.
-   </td>
-   <td>
-    × 1 lb.
-   </td>
-  </tr>
+   <tr>
+      <td>
+         <strong>Rasa</strong>
+      </td>
+      <td>
+         <strong>Osnovna visina</strong>
+      </td>
+      <td>
+         <strong>Modifikator visione</strong>
+      </td>
+      <td>
+         <strong>Osnovna težina</strong>
+      </td>
+      <td>
+         <strong>Modifikator težine</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Čovjek
+      </td>
+      <td>
+         4'8"
+      </td>
+      <td>
+         +2d10
+      </td>
+      <td>
+         110 lb.
+      </td>
+      <td>
+         × (2d4) lb.
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Patuljak, brdski
+      </td>
+      <td>
+         3'8"
+      </td>
+      <td>
+         +2d4
+      </td>
+      <td>
+         115 lb.
+      </td>
+      <td>
+         × (2d6) lb.
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Patuljak, planinski
+      </td>
+      <td>
+         4'
+      </td>
+      <td>
+         +2d4
+      </td>
+      <td>
+         130 lb.
+      </td>
+      <td>
+         × (2d6) lb.
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Vilenjak, visoki
+      </td>
+      <td>
+         4'6"
+      </td>
+      <td>
+         +2d10
+      </td>
+      <td>
+         90 lb.
+      </td>
+      <td>
+         × (1d4) lb.
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Vilenjak, šumski
+      </td>
+      <td>
+         4'6"
+      </td>
+      <td>
+         +2d10
+      </td>
+      <td>
+         100 lb.
+      </td>
+      <td>
+         × (1d4) lb.
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Polutan
+      </td>
+      <td>
+         2'7"
+      </td>
+      <td>
+         +2d4
+      </td>
+      <td>
+         35 lb.
+      </td>
+      <td>
+         × 1 lb.
+      </td>
+   </tr>
 </table>
 
 
@@ -1473,187 +1277,194 @@ Neki od ovih jezika su zapravo porodice jezika sa mnogim dijalektima. Na primer,
 
 **Standardni jezici**
 
-
 <table>
-  <tr>
-   <td><strong>Jezik</strong>
-   </td>
-   <td>
-    <strong>Tipično govornici</strong>
-   </td>
-   <td>
-    <strong>Pismo</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Zajednički
-   </td>
-   <td>
-    Ljudi
-   </td>
-   <td>   Zajedničko
-   </td>
-  </tr>
-  <tr>
-   <td>Patuljasti
-   </td>
-   <td>
-    Patuljci
-   </td>
-   <td>   Patuljasto
-   </td>
-  </tr>
-  <tr>
-   <td>Vilenjački
-   </td>
-   <td>
-    Vilenjaci
-   </td>
-   <td>   Vilenjačko
-   </td>
-  </tr>
-  <tr>
-   <td>Gigantski
-   </td>
-   <td>
-    Ogresi i divovi
-   </td>
-   <td>   Patuljasto
-   </td>
-  </tr>
-  <tr>
-   <td>Gnomsku
-   </td>
-   <td>
-    Gnomi
-   </td>
-   <td>   Patuljasto
-   </td>
-  </tr>
-  <tr>
-   <td>Goblinski
-   </td>
-   <td>
-    Goblinoidi
-   </td>
-   <td>   Patuljasto
-   </td>
-  </tr>
-  <tr>
-   <td>Polutantski
-   </td>
-   <td>
-    Polutani
-   </td>
-   <td>   Zajedničko
-   </td>
-  </tr>
-  <tr>
-   <td>Orkski
-   </td>
-   <td>
-    Orci
-   </td>
-   <td>   Patuljasto
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Jezik</strong>
+      </td>
+      <td>
+         <strong>Tipično govornici</strong>
+      </td>
+      <td>
+         <strong>Pismo</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Zajednički
+      </td>
+      <td>
+         Ljudi
+      </td>
+      <td>Zajedničko
+      </td>
+   </tr>
+   <tr>
+      <td>Patuljasti
+      </td>
+      <td>
+         Patuljci
+      </td>
+      <td>Patuljačko
+      </td>
+   </tr>
+   <tr>
+      <td>Vilenjački
+      </td>
+      <td>
+         Vilenjaci
+      </td>
+      <td>Vilenjačko
+      </td>
+   </tr>
+   <tr>
+      <td>Gigantski
+      </td>
+      <td>
+         Ogresi i divovi
+      </td>
+      <td>Patuljačko
+      </td>
+   </tr>
+   <tr>
+      <td>Gnomsku
+      </td>
+      <td>
+         Gnomi
+      </td>
+      <td>Patuljačko
+      </td>
+   </tr>
+   <tr>
+      <td>Goblinski
+      </td>
+      <td>
+         Goblinoidi
+      </td>
+      <td>Patuljačko
+      </td>
+   </tr>
+   <tr>
+      <td>Polutantski
+      </td>
+      <td>
+         Polutani
+      </td>
+      <td>Zajedničko
+      </td>
+   </tr>
+   <tr>
+      <td>Orkski
+      </td>
+      <td>
+         Orci
+      </td>
+      <td>Patuljačko
+      </td>
+   </tr>
 </table>
 
 
 **Egzotični jezici**
 
-
 <table>
-  <tr>
-   <td>
-    Abyssal
-   </td>
-   <td>
-    Demons
-   </td>
-   <td>
-    Infernal
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Celestial
-   </td>
-   <td>
-    Celestials
-   </td>
-   <td>
-    Celestial
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Deep Speech
-   </td>
-   <td>
-    Mind flayers, beholders
-   </td>
-   <td>
-    —
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Draconic
-   </td>
-   <td>
-    Dragons,dragonborn
-   </td>
-   <td>
-    Draconic
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Infernal
-   </td>
-   <td>
-    Devils
-   </td>
-   <td>
-    Infernal
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Primordial
-   </td>
-   <td>
-    Elementals
-   </td>
-   <td>
-    Dwarvish
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Sylvan
-   </td>
-   <td>
-    Fey creatures
-   </td>
-   <td>
-    Elvish
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Undercommon
-   </td>
-   <td>
-    Underdark traders
-   </td>
-   <td>
-    Elvish
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Jezik</strong>
+      </td>
+      <td>
+         <strong>Tipično govornici</strong>
+      </td>
+      <td>
+         <strong>Pismo</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Ponorni
+      </td>
+      <td>
+         Demoni
+      </td>
+      <td>
+         Pakleno
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Nebeski
+      </td>
+      <td>
+         Nebeski
+      </td>
+      <td>
+         Nebeski
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Duboki govor
+      </td>
+      <td>
+         Mind flayeri, beholderi
+      </td>
+      <td>
+         —
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Drakonski
+      </td>
+      <td>
+         Zmajevi, dragonborn
+      </td>
+      <td>
+         Drakonski
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Pakleni
+      </td>
+      <td>
+         Davoli
+      </td>
+      <td>
+         Pakleno
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Iskonski
+      </td>
+      <td>
+         Elementali
+      </td>
+      <td>
+         Patuljačko
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Silvan
+      </td>
+      <td>
+         Prokleta stvorenja
+      </td>
+      <td>
+         Vilenjačko
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Podzajedničko
+      </td>
+      <td>
+         Mračni trgovci
+      </td>
+      <td>
+         Vilenjačko
+      </td>
+   </tr>
 </table>
-
 
 
 ### Lične karakteristike
@@ -1827,25 +1638,25 @@ Bogatstvo se pojavljuje u mnogim oblicima u svetu D&D. Novčići, drago kamenje
       </td>
    </tr>
    <tr>
-      <td>Cleric
+      <td>Sveštenik
       </td>
       <td>5d4 x 10gp
       </td>
    </tr>
    <tr>
-      <td>Fighter
+      <td>Borac
       </td>
       <td>5d4 x 10gp
       </td>
    </tr>
    <tr>
-      <td>Rogue
+      <td>Bitanga
       </td>
       <td>4d4 x 10gp
       </td>
    </tr>
    <tr>
-      <td>Wizard
+      <td>Čarobnjak
       </td>
       <td>4d4 x 10gp
       </td>
@@ -1869,158 +1680,97 @@ Standardni novčić težak je oko trećine unče, pa pedeset novčića teži 
 
 **Standardni kurs razmjene**
 
-
 <table>
-  <tr>
-   <td>
-    <strong>Coin</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>cp</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>sp</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>ep</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>gp</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>pp</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Copper (cp)
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/10</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/50</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/100</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/1,000</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Silver (sp)
-   </td>
-   <td><p style="text-align: right">
-10</p>
-
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/5</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/10</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/100</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Electrum (ep)
-   </td>
-   <td><p style="text-align: right">
-50</p>
-
-   </td>
-   <td><p style="text-align: right">
-5</p>
-
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/2</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/20</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Gold (gp)
-   </td>
-   <td><p style="text-align: right">
-100</p>
-
-   </td>
-   <td><p style="text-align: right">
-10</p>
-
-   </td>
-   <td><p style="text-align: right">
-2</p>
-
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-   <td><p style="text-align: right">
-1/10</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Platinum (pp)
-   </td>
-   <td><p style="text-align: right">
-1,000</p>
-
-   </td>
-   <td><p style="text-align: right">
-100</p>
-
-   </td>
-   <td><p style="text-align: right">
-20</p>
-
-   </td>
-   <td><p style="text-align: right">
-10</p>
-
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-  </tr>
+   <tr>
+      <td>
+         <strong>Novčić</strong>
+      </td>
+      <td><strong>cp</strong>
+      </td>
+      <td><strong>sp</strong>
+      </td>
+      <td><strong>ep</strong>
+      </td>
+      <td><strong>gp</strong>
+      </td>
+      <td><strong>pp</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Bakrenjak (cp)
+      </td>
+      <td>1
+      </td>
+      <td>1/10
+      </td>
+      <td>1/50
+      </td>
+      <td>1/100
+      </td>
+      <td>1/1,000
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Srebrnjak (sp)
+      </td>
+      <td>10
+      </td>
+      <td>1
+      </td>
+      <td>1/5
+      </td>
+      <td>1/10
+      </td>
+      <td>1/100
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Electrum (ep)
+      </td>
+      <td>50
+      </td>
+      <td>5
+      </td>
+      <td>1
+      </td>
+      <td>1/2
+      </td>
+      <td>1/20
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Zlatnik (gp)
+      </td>
+      <td>100
+      </td>
+      <td>10
+      </td>
+      <td>2
+      </td>
+      <td>1
+      </td>
+      <td>1/10
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Platinum (pp)
+      </td>
+      <td>1,000
+      </td>
+      <td>100
+      </td>
+      <td>20
+      </td>
+      <td>10
+      </td>
+      <td>1
+      </td>
+   </tr>
 </table>
 
 
@@ -2061,39 +1811,39 @@ Vaša klasa vam daje vještine sa određenim vrstama oklopa. Ako nosite oklop sa
 
 <table>
    <tr>
-      <td><strong>Armor Name</strong>
+      <td><strong>Ime oklopa</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td><strong>Armor Class (AC)</strong>
+      <td><strong>Klasa oklopa (AC)</strong>
       </td>
-      <td><strong>Strength</strong>
+      <td><strong>Snaga</strong>
       </td>
-      <td><strong>Stealth</strong>
+      <td><strong>Nečujno</strong>
       </td>
-      <td><strong>Weight</strong>
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td>Padded
+      <td>Postavljen
       </td>
       <td>5 gp
       </td>
-      <td>11 + Dex modifier
+      <td>11 + Modifikator spretnosti
       </td>
       <td>-
       </td>
-      <td>Disadvantage
+      <td>Nedostatak
       </td>
       <td>8 lb.
       </td>
    </tr>
    <tr>
-      <td>Leather
+      <td>Kožni
       </td>
       <td>10 gp
       </td>
-      <td>11 + Dex modifier
+      <td>11 + Modifikator spretnosti
       </td>
       <td>-
       </td>
@@ -2103,11 +1853,11 @@ Vaša klasa vam daje vještine sa određenim vrstama oklopa. Ako nosite oklop sa
       </td>
    </tr>
    <tr>
-      <td>Studded leather
+      <td>Koža sa nitnama
       </td>
       <td>45 gp
       </td>
-      <td>12 + Dex modifier
+      <td>12 + Modifikator spretnosti
       </td>
       <td>-
       </td>
@@ -2132,25 +1882,25 @@ Napravljen od gipkih i tankih materijala, lagani oklop pogoduje okretnim avantur
 
 <table>
    <tr>
-      <td><strong>Armor Name</strong>
+      <td><strong>Ime oklopa</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td><strong>Armor Class (AC)</strong>
+      <td><strong>Klasa oklopa (AC)</strong>
       </td>
-      <td><strong>Strength</strong>
+      <td><strong>Snaga</strong>
       </td>
-      <td><strong>Stealth</strong>
+      <td><strong>Nečujno</strong>
       </td>
-      <td><strong>Weight</strong>
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td>Hide
+      <td>Krzneni
       </td>
       <td>10 gp
       </td>
-      <td>12 + Dex modifier (max 2)
+      <td>12 + Modifikator spretnosti (max 2)
       </td>
       <td>-
       </td>
@@ -2160,11 +1910,11 @@ Napravljen od gipkih i tankih materijala, lagani oklop pogoduje okretnim avantur
       </td>
    </tr>
    <tr>
-      <td>Chain shirt
+      <td>Lančana košulja
       </td>
       <td>50 gp
       </td>
-      <td>13 + Dex modifier (max 2)
+      <td>13 + modifikator spretnosti (max 2)
       </td>
       <td>-
       </td>
@@ -2174,25 +1924,25 @@ Napravljen od gipkih i tankih materijala, lagani oklop pogoduje okretnim avantur
       </td>
    </tr>
    <tr>
-      <td>Scale mail
+      <td>Krljušt
       </td>
       <td>50 gp
       </td>
-      <td>14 + Dex modifier (max 2)
+      <td>14 + modifikator spretnosti (max 2)
       </td>
       <td>-
       </td>
-      <td>Disadvantage
+      <td>Nedostatak
       </td>
       <td>45 lb.
       </td>
    </tr>
    <tr>
-      <td>Breastplate
+      <td>Naprsnik
       </td>
       <td>400 gp
       </td>
-      <td>14 + Dex modifier (max 2)
+      <td>14 + modifikator spretnosti (max 2)
       </td>
       <td>-
       </td>
@@ -2202,15 +1952,15 @@ Napravljen od gipkih i tankih materijala, lagani oklop pogoduje okretnim avantur
       </td>
    </tr>
    <tr>
-      <td>Half plate
+      <td>Pola ploče
       </td>
       <td>750 gp
       </td>
-      <td>15 + Dex modifier (max 2)
+      <td>15 + modifikator spretnosti (max 2)
       </td>
       <td>-
       </td>
-      <td>Disadvantage
+      <td>Nedostatak
       </td>
       <td>40 lb.
       </td>
@@ -2232,24 +1982,23 @@ Srednji oklop nudi veću zaštitu od lakog oklopa, ali takođe otežava kretanj
 
 ### Teški oklop
 
-
 <table>
     <tr>
-        <td><strong>Armor Name</strong>
-        </td>
-        <td><strong>Cost</strong>
-        </td>
-        <td><strong>Armor Class (AC)</strong>
-        </td>
-        <td><strong>Strength</strong>
-        </td>
-        <td><strong>Stealth</strong>
-        </td>
-        <td><strong>Weight</strong>
-        </td>
+      <td><strong>Ime oklopa</strong>
+      </td>
+      <td><strong>Cijena</strong>
+      </td>
+      <td><strong>Klasa oklopa (AC)</strong>
+      </td>
+      <td><strong>Snaga</strong>
+      </td>
+      <td><strong>Nečujno</strong>
+      </td>
+      <td><strong>Težina</strong>
+      </td>
     </tr>
     <tr>
-        <td>Ring mail
+        <td>Prsteni oklop
         </td>
         <td>30 gp
         </td>
@@ -2257,13 +2006,13 @@ Srednji oklop nudi veću zaštitu od lakog oklopa, ali takođe otežava kretanj
         </td>
         <td>-
         </td>
-        <td>Disadvantage
+        <td>Nedostakat
         </td>
         <td>40 lb.
         </td>
     </tr>
     <tr>
-        <td>Chain mail
+        <td>Lančani oklop
         </td>
         <td>75 gp
         </td>
@@ -2271,13 +2020,13 @@ Srednji oklop nudi veću zaštitu od lakog oklopa, ali takođe otežava kretanj
         </td>
         <td>Str 13
         </td>
-        <td>Disadvantage
+        <td>Nedostatak
         </td>
         <td>55 lb.
         </td>
     </tr>
     <tr>
-        <td>Splint
+        <td>Udlaga
         </td>
         <td>200 gp
         </td>
@@ -2285,13 +2034,13 @@ Srednji oklop nudi veću zaštitu od lakog oklopa, ali takođe otežava kretanj
         </td>
         <td>Str 15
         </td>
-        <td>Disadvantage
+        <td>Nedostatak
         </td>
         <td>60 lb.
         </td>
     </tr>
     <tr>
-        <td>Plate
+        <td>Ploča
         </td>
         <td>1,500 gp
         </td>
@@ -2299,7 +2048,7 @@ Srednji oklop nudi veću zaštitu od lakog oklopa, ali takođe otežava kretanj
         </td>
         <td>Str 15
         </td>
-        <td>Disadvantage
+        <td>Nedostatak
         </td>
         <td>65 lb.
         </td>
@@ -2324,21 +2073,21 @@ Teški oklop vam ne dozvoljava da dodate svoj modifikator spretnosti u svoju kla
 
 <table>
    <tr>
-      <td><strong>Armor Name</strong>
+      <td><strong>Ime oklopa</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td><strong>Armor Class (AC)</strong>
+      <td><strong>Klasa oklopa (AC)</strong>
       </td>
-      <td><strong>Strength</strong>
+      <td><strong>Snaga</strong>
       </td>
-      <td><strong>Stealth</strong>
+      <td><strong>Nečujno</strong>
       </td>
-      <td><strong>Weight</strong>
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td>Shield
+      <td>Štit
       </td>
       <td>10 gp
       </td>
@@ -2365,63 +2114,62 @@ Doff. Ovo je vreme potrebno za skidanje predmeta. Ako vam je potrebna pomoć u 
 
 **Stavljanje i skidanje oklopa**
 
-
 <table>
-  <tr>
-   <td>
-    <strong>Category</strong>
-   </td>
-   <td>
-    <strong>Don</strong>
-   </td>
-   <td>
-    <strong>Doff</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Light Armor
-   </td>
-   <td>
-    1 minute
-   </td>
-   <td>
-    1 minute
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Medium Armor
-   </td>
-   <td>
-    5 minutes
-   </td>
-   <td>
-    1 minute
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Heavy Armor
-   </td>
-   <td>
-    10 minutes
-   </td>
-   <td>
-    5 minutes
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Shield
-   </td>
-   <td>
-    1 action
-   </td>
-   <td>
-    1 action
-   </td>
-  </tr>
+   <tr>
+      <td>
+         <strong>Kategorija</strong>
+      </td>
+      <td>
+         <strong>Don</strong>
+      </td>
+      <td>
+         <strong>Doff</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Lagani oklop
+      </td>
+      <td>
+         1 minut
+      </td>
+      <td>
+         1 minut
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Srednji oklop
+      </td>
+      <td>
+         5 minuta
+      </td>
+      <td>
+         1 minut
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Teški oklop
+      </td>
+      <td>
+         10 minuta
+      </td>
+      <td>
+         5 minuta
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Štit
+      </td>
+      <td>
+         1 akcija
+      </td>
+      <td>
+         1 akcija
+      </td>
+   </tr>
 </table>
 
 
@@ -2442,100 +2190,99 @@ Vaša klasa daje znanje određenog oružja, što odražava i fokus klase i alate
 Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a, njegovu cenu i težinu, štetu koju nanesu prilikom udara i sva posebna svojstva koja poseduju. Svako oružje je klasifikovano ili kao blisko ili kao oružije na daljinu. **Blisko oružje** koristi se za napad na metu na udaljenosti od 5 stopa od vas, dok se **oružje za napad na daljinu** koristi za ciljanje na daljinu.
 
 
-### Simple Melee Weapons
-
+### Jednostavno oružije za blisku borbu
 
 <table>
    <tr>
-      <td><strong>Weapon Name</strong>
+      <td> <strong> Ime oružja </strong>
       </td>
-      <td><strong>Cost</strong>
+      <td> <strong> Cena </strong>
       </td>
-      <td><strong>Damage</strong>
+      <td> <strong> Šteta </strong>
       </td>
-      <td><strong>Weight</strong>
+      <td> <strong> Težina </strong>
       </td>
-      <td><strong>Properties</strong>
+      <td> <strong> Svojstva </strong>
       </td>
    </tr>
    <tr>
-      <td>Club
+      <td>Palica
       </td>
       <td>1 sp
       </td>
-      <td>1d4 bludgeoning
+      <td>1d4 batinanje
       </td>
       <td>2 lb.
       </td>
-      <td>Light
+      <td>Lagano
       </td>
    </tr>
    <tr>
-      <td>Dagger
+      <td>Bodež
       </td>
       <td>2 gp
       </td>
-      <td>1d4 piercing
+      <td>1d4 probadanje
       </td>
       <td>1 lb.
       </td>
-      <td>Finesse, light, thrown (range 20/60)
+      <td>Finessa, lagano, bačeno (domet 20/60)
       </td>
    </tr>
    <tr>
-      <td>Greatclub
+      <td>Toljaga
       </td>
       <td>2 sp
       </td>
-      <td>1d8 bludgeoning
+      <td>1d8 batinanje
       </td>
       <td>10 lb.
       </td>
-      <td>Two-handed
+      <td>Dvoručno
       </td>
    </tr>
    <tr>
-      <td>Handaxe
+      <td>Ručna sjekira
       </td>
       <td>5 gp
       </td>
-      <td>1d6 slashing
+      <td>1d6 sječenje
       </td>
       <td>2 lb.
       </td>
-      <td>Light, thrown (range 20/60)
+      <td>Lagano, bacano (domet 20/60)
       </td>
    </tr>
    <tr>
-      <td>Javelin
+      <td>Koplje (Javelin)
       </td>
       <td>5 sp
       </td>
-      <td>1d6 piercing
+      <td>1d6 probadanje
       </td>
       <td>2 lb.
       </td>
-      <td>Thrown (range 30/120)
+      <td>Bačeno (domet 30/120)
       </td>
    </tr>
    <tr>
-      <td>Light hammer
+      <td>lagani čekić
       </td>
       <td>2 gp
       </td>
-      <td>1d4 bludgeoning
+      <td>1d4 batinanje
       </td>
       <td>2 lb.
       </td>
-      <td>Light, thrown (range 20/60)
+      <td>Lagano, bacanje (domet 20/60)
       </td>
    </tr>
    <tr>
-      <td>Mace
+      <td>Buzdovan
       </td>
       <td>5 gp
       </td>
-      <td>1d6 bludgeoning
+      <td>1d6 batinanje
       </td>
       <td>4 lb.
       </td>
@@ -2543,419 +2290,418 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
       </td>
    </tr>
    <tr>
-      <td>Quarterstaff
+      <td>Motka
       </td>
       <td>2 sp
       </td>
-      <td>1d6 bludgeoning
+      <td>1d6 batinanje
       </td>
       <td>4 lb.
       </td>
-      <td>Versatile (1d8)
+      <td>Svestrano (1d8)
       </td>
    </tr>
    <tr>
-      <td>Sickle
+      <td>Srp
       </td>
       <td>1 gp
       </td>
-      <td>1d4 slashing
+      <td>1d4 sječenje
       </td>
       <td>2 lb.
       </td>
-      <td>Light
+      <td>Lagano
       </td>
    </tr>
    <tr>
-      <td>Spear
+      <td>Koplje (Spear)
       </td>
       <td>1 gp
       </td>
-      <td>1d6 piercing
+      <td>1d6 probadanje
       </td>
       <td>3 lb.
       </td>
-      <td>Thrown (range 20/60), versatile (1d8)
+      <td>Bačeno (bomet 20/60), svestrano (1d8)
       </td>
    </tr>
 </table>
 
 
 
-### Simple Ranged Weapons
+### Jednostavno oružije za daljinu
 
 <table>
    <tr>
-      <td><strong>Weapon Name</strong>
+      <td> <strong> Ime oružja </strong>
       </td>
-      <td><strong>Cost</strong>
+      <td> <strong> Cena </strong>
       </td>
-      <td><strong>Damage</strong>
+      <td> <strong> Šteta </strong>
       </td>
-      <td><strong>Weight</strong>
+      <td> <strong> Težina </strong>
       </td>
-      <td><strong>Properties</strong>
+      <td> <strong> Svojstva </strong>
       </td>
    </tr>
    <tr>
-      <td>Crossbow, light
+      <td>Samostrijel, lagan
       </td>
       <td>25 gp
       </td>
-      <td>1d8 piercing
+      <td>1d8 probijanje
       </td>
       <td>5 lb.
       </td>
-      <td>Ammunition (range 80/320), loading, two-handed
+      <td>Municija (domet 80/320), punjenje, dvoručno
       </td>
    </tr>
    <tr>
-      <td>Dart
+      <td>Strelica
       </td>
       <td>5 cp
       </td>
-      <td>1d4 piercing
+      <td>1d4 probijanje
       </td>
       <td>1/4 lb.
       </td>
-      <td>Finesse, thrown (range 20/60)
+      <td>Finess, bačeno (bomet 20/60)
       </td>
    </tr>
    <tr>
-      <td>Shortbow
+      <td>Luk
       </td>
       <td>25 gp
       </td>
-      <td>1d6 piercing
+      <td>1d6 probijanje
       </td>
       <td>2 lb.
       </td>
-      <td>Ammunition (range 80/320), two-handed
+      <td>Municija (domet 80/320), dvoručno
       </td>
    </tr>
    <tr>
-      <td>Sling
+      <td>Plaćka
       </td>
       <td>1 sp
       </td>
-      <td>1d4 bludgeoning
+      <td>1d4 batinanje
       </td>
       <td>-
       </td>
-      <td>Ammunition (range 30/120)
+      <td>Municija (domet 30/120)
       </td>
    </tr>
 </table>
 
 
-### Martial Melee Weapons
+### Borilačko oružje za blisku borbu
 
 <table>
    <tr>
-      <td><strong>Weapon Name</strong>
+      <td> <strong> Ime oružja </strong>
       </td>
-      <td><strong>Cost</strong>
+      <td> <strong> Cena </strong>
       </td>
-      <td><strong>Damage</strong>
+      <td> <strong> Šteta </strong>
       </td>
-      <td><strong>Weight</strong>
+      <td> <strong> Težina </strong>
       </td>
-      <td><strong>Properties</strong>
-      </td>
-   </tr>
-   <tr>
-      <td>Battleaxe
-      </td>
-      <td>10 gp
-      </td>
-      <td>1d8 slashing
-      </td>
-      <td>4 lb.
-      </td>
-      <td>Versatile (1d10)
+      <td> <strong> Svojstva </strong>
       </td>
    </tr>
    <tr>
-      <td>Flail
+      <td> Borbena sjekira
       </td>
-      <td>10 gp
+      <td> 10 gp
       </td>
-      <td>1d8 bludgeoning
+      <td> 1d8 sječenje
       </td>
-      <td>2 lb.
+      <td> 4 lb.
       </td>
-      <td>-
-      </td>
-   </tr>
-   <tr>
-      <td>Glaive
-      </td>
-      <td>20 gp
-      </td>
-      <td>1d10 slashing
-      </td>
-      <td>6 lb.
-      </td>
-      <td>Heavy, reach, two-handed
+      <td> Svestrano (1d10)
       </td>
    </tr>
    <tr>
-      <td>Greataxe
+      <td> Mlat
       </td>
-      <td>30 gp
+      <td> 10 gp
       </td>
-      <td>1d12 slashing
+      <td> 1d8 batinanje
       </td>
-      <td>7 lb.
+      <td> 2 lb.
       </td>
-      <td>Heavy, two-handed
-      </td>
-   </tr>
-   <tr>
-      <td>Greatsword
-      </td>
-      <td>50 gp
-      </td>
-      <td>2d6 slashing
-      </td>
-      <td>6 lb.
-      </td>
-      <td>Heavy, two-handed
+      <td> -
       </td>
    </tr>
    <tr>
-      <td>Halberd
+      <td> Mač
       </td>
-      <td>20 gp
+      <td> 20 gp
       </td>
-      <td>1d10 slashing
+      <td> 1d10 sječenje
       </td>
-      <td>6 lb.
+      <td> 6 lb.
       </td>
-      <td>Heavy, reach, two-handed
-      </td>
-   </tr>
-   <tr>
-      <td>Lance
-      </td>
-      <td>10 gp
-      </td>
-      <td>1d12 piercing
-      </td>
-      <td>6 lb.
-      </td>
-      <td>Reach, special
+      <td> Teško, domašaj, dvoručno
       </td>
    </tr>
    <tr>
-      <td>Longsword
+      <td> Velika sjekira
       </td>
-      <td>15 gp
+      <td> 30 gp
       </td>
-      <td>1d8 slashing
+      <td> 1d12 sječenje
       </td>
-      <td>3 lb.
+      <td> 7 lb.
       </td>
-      <td>Versatile (1d10)
-      </td>
-   </tr>
-   <tr>
-      <td>Maul
-      </td>
-      <td>10 gp
-      </td>
-      <td>2d6 bludgeoning
-      </td>
-      <td>10 lb.
-      </td>
-      <td>Heavy, two-handed
+      <td> Teško, dvoručno
       </td>
    </tr>
    <tr>
-      <td>Morningstar
+      <td> Veliki mač
       </td>
-      <td>15 gp
+      <td> 50 gp
       </td>
-      <td>1d8 piercing
+      <td> 2d6 sječenje
       </td>
-      <td>4 lb.
+      <td> 6 lb.
       </td>
-      <td>-
-      </td>
-   </tr>
-   <tr>
-      <td>Pike
-      </td>
-      <td>5 gp
-      </td>
-      <td>1d10 piercing
-      </td>
-      <td>18 lb.
-      </td>
-      <td>Heavy, reach, two-handed
+      <td> Teško, dvoručno
       </td>
    </tr>
    <tr>
-      <td>Rapier
+      <td> Halberda
       </td>
-      <td>25 gp
+      <td> 20 gp
       </td>
-      <td>1d8 piercing
+      <td> 1d10 sječenje
       </td>
-      <td>2 lb.
+      <td> 6 lb.
       </td>
-      <td>Finesse
-      </td>
-   </tr>
-   <tr>
-      <td>Scimitar
-      </td>
-      <td>25 gp
-      </td>
-      <td>1d6 slashing
-      </td>
-      <td>3 lb.
-      </td>
-      <td>Finesse, light
+      <td> Teško, domašaj, dvoručnos
       </td>
    </tr>
    <tr>
-      <td>Shortsword
+      <td> Koplje (Lance)
       </td>
-      <td>10 gp
+      <td> 10 gp
       </td>
-      <td>1d6 piercing
+      <td> 1d12 probadanje
       </td>
-      <td>2 lb.
+      <td> 6 lb.
       </td>
-      <td>Finesse, light
-      </td>
-   </tr>
-   <tr>
-      <td>Trident
-      </td>
-      <td>5 gp
-      </td>
-      <td>1d6 piercing
-      </td>
-      <td>4 lb.
-      </td>
-      <td>Thrown (range 20/60), versatile (1d8)
+      <td> Domašaj, posebno
       </td>
    </tr>
    <tr>
-      <td>War pick
+      <td> Dugi mač
       </td>
-      <td>5 gp
+      <td> 15 gp
       </td>
-      <td>1d8 piercing
+      <td> 1d8 sječenje
       </td>
-      <td>2 lb.
+      <td> 3 lb.
       </td>
-      <td>-
-      </td>
-   </tr>
-   <tr>
-      <td>Warhammer
-      </td>
-      <td>15 gp
-      </td>
-      <td>1d8 bludgeoning
-      </td>
-      <td>2 lb.
-      </td>
-      <td>Versatile (1d10)
+      <td> Svestrano (1d10)
       </td>
    </tr>
    <tr>
-      <td>Whip
+      <td> Malj
       </td>
-      <td>2 gp
+      <td> 10 gp
       </td>
-      <td>1d4 slashing
+      <td> 2d6 batinanje
       </td>
-      <td>3 lb.
+      <td> 10 lb.
       </td>
-      <td>Finesse, reach
+      <td> Teško, dvoručno
+      </td>
+   </tr>
+   <tr>
+      <td> Jutarnja zvijezda
+      </td>
+      <td> 15 gp
+      </td>
+      <td> 1d8 prodanje
+      </td>
+      <td> 4 lb.
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> Koplje (Pike)
+      </td>
+      <td> 5 gp
+      </td>
+      <td> 1d10 probadanje
+      </td>
+      <td> 18 lb.
+      </td>
+      <td> Teško, domašaj, dvoručno
+      </td>
+   </tr>
+   <tr>
+      <td> Rapier
+      </td>
+      <td> 25 gp
+      </td>
+      <td> 1d8 probadanje
+      </td>
+      <td> 2 lb.
+      </td>
+      <td> Finesa
+      </td>
+   </tr>
+   <tr>
+      <td> Simitar
+      </td>
+      <td> 25 gp
+      </td>
+      <td> 1d6 sjecenje
+      </td>
+      <td> 3 lb.
+      </td>
+      <td> Finesa, lagano
+      </td>
+   </tr>
+   <tr>
+      <td> Kratki mač
+      </td>
+      <td> 10 gp
+      </td>
+      <td> 1d6 probadanje
+      </td>
+      <td> 2 lb.
+      </td>
+      <td> Finesa, lagano
+      </td>
+   </tr>
+   <tr>
+      <td> Trozubac
+      </td>
+      <td> 5 gp
+      </td>
+      <td> 1d6 probadanje
+      </td>
+      <td> 4 lb.
+      </td>
+      <td> Bacanje (domet 20/60), svestrano (1d8)
+      </td>
+   </tr>
+   <tr>
+      <td> Ratno koplje
+      </td>
+      <td> 5 gp
+      </td>
+      <td> 1d8 probadanje
+      </td>
+      <td> 2 lb.
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> Ratni čekić
+      </td>
+      <td> 15 gp
+      </td>
+      <td> 1d8 batinanje
+      </td>
+      <td> 2 lb.
+      </td>
+      <td> Svestrano (1d10)
+      </td>
+   </tr>
+   <tr>
+      <td> Bič
+      </td>
+      <td> 2 gp
+      </td>
+      <td> 1d4 sječenje
+      </td>
+      <td> 3 lb.
+      </td>
+      <td> Finesa, domašaj
       </td>
    </tr>
 </table>
 
 
-### Martial Ranged Weapons
-
+### Borilačko oružije za daljinu
 
 <table>
    <tr>
-      <td><strong>Weapon Name</strong>
+      <td> <strong> Ime oružja </strong>
       </td>
-      <td><strong>Cost</strong>
+      <td> <strong> Cena </strong>
       </td>
-      <td><strong>Damage</strong>
+      <td> <strong> Šteta </strong>
       </td>
-      <td><strong>Weight</strong>
+      <td> <strong> Težina </strong>
       </td>
-      <td><strong>Properties</strong>
-      </td>
-   </tr>
-   <tr>
-      <td>Blowgun
-      </td>
-      <td>10 gp
-      </td>
-      <td>1 piercing
-      </td>
-      <td>1 lb.
-      </td>
-      <td>Ammunition (range 25/100), loading
+      <td> <strong> Svojstva </strong>
       </td>
    </tr>
    <tr>
-      <td>Crossbow, hand
+      <td> Puvaljka
       </td>
-      <td>75 gp
+      <td> 10 gp
       </td>
-      <td>1d6 piercing
+      <td> 1 porbadanje
       </td>
-      <td>3 lb.
+      <td> 1 lb.
       </td>
-      <td>Ammunition (range 30/120), light, loading
-      </td>
-   </tr>
-   <tr>
-      <td>Crossbow, heavy
-      </td>
-      <td>50 gp
-      </td>
-      <td>1d10 piercing
-      </td>
-      <td>18 lb.
-      </td>
-      <td>Ammunition (range 100/400), heavy, loading, two-handed
+      <td> Municija (opseg 25/100), punjenje
       </td>
    </tr>
    <tr>
-      <td>Longbow
+      <td> Samostrel, ruka
       </td>
-      <td>50 gp
+      <td> 75 gp
       </td>
-      <td>1d8 piercing
+      <td> 1d6 probadanje
       </td>
-      <td>2 lb.
+      <td> 3 lb.
       </td>
-      <td>Ammunition (range 150/600), heavy, two-handed
+      <td> Municija (domet 30/120), lagana, punjenje
       </td>
    </tr>
    <tr>
-      <td>Net
+      <td> Samostrel, težak
       </td>
-      <td>1 gp
+      <td> 50 gp
       </td>
-      <td>-
+      <td> 1d10 probadanje
       </td>
-      <td>3 lb.
+      <td> 18 lb.
       </td>
-      <td>Special, thrown (range 5/15)
+      <td> Municija (domet 100/400), teška, punjenje, dvoručna
+      </td>
+   </tr>
+   <tr>
+      <td> Dugački luk
+      </td>
+      <td> 50 gp
+      </td>
+      <td> 1d8 probadanje
+      </td>
+      <td> 2 lb.
+      </td>
+      <td> Municija (domet 150/600), teška, dvoručna
+      </td>
+   </tr>
+   <tr>
+      <td> Mreža
+      </td>
+      <td> 1 gp
+      </td>
+      <td> -
+      </td>
+      <td> 3 lb.
+      </td>
+      <td> Specijalno, bačeno (opseg 5/15)
       </td>
    </tr>
 </table>
@@ -3030,19 +2776,19 @@ Kada koristite akciju, bonus akciju ili reakciju za napad mrežom, možete izvr�
 Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja objašnjenja.
 
 
-### Ammunition
+### Municija
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td><strong>Stavka</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td><strong>Weight</strong>
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td>Arrows (20)
+      <td>Strijele (20)
       </td>
       <td>1 gp
       </td>
@@ -3050,7 +2796,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Blowgun needles (50)
+      <td>Strelice za puvaljku (50)
       </td>
       <td>1 gp
       </td>
@@ -3058,7 +2804,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Crossbow bolts (20)
+      <td>Strijele sa samostrijel (20)
       </td>
       <td>1 gp
       </td>
@@ -3066,7 +2812,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Sling bullets (20)
+      <td>Meci za praćku (20)
       </td>
       <td>4 cp
       </td>
@@ -3077,19 +2823,19 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
 
 
 
-### Arcane Focus
+### Arcanski Fokus
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td><strong>Stavka</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td><strong>Weight</strong>
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td>Crystal
+      <td>Kristal
       </td>
       <td>10 gp
       </td>
@@ -3097,7 +2843,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Orb
+      <td>Kugla
       </td>
       <td>20 gp
       </td>
@@ -3105,7 +2851,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Rod
+      <td>Šipka
       </td>
       <td>10 gp
       </td>
@@ -3113,7 +2859,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Staff
+      <td>Štap
       </td>
       <td>5 gp
       </td>
@@ -3121,7 +2867,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Wand
+      <td>Štapić
       </td>
       <td>10 gp
       </td>
@@ -3132,20 +2878,20 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
 
 
 
-### Druidic Focus
+### Druidski Fokus
 
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td><strong>Stavka</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td><strong>Weight</strong>
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td>Sprig of mistletoe
+      <td>Grančica imele
       </td>
       <td>1 gp
       </td>
@@ -3161,7 +2907,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Wooden staff
+      <td>Drveni štap
       </td>
       <td>5 gp
       </td>
@@ -3169,7 +2915,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Yew wand
+      <td>Štapić od tiseS
       </td>
       <td>10 gp
       </td>
@@ -3180,19 +2926,19 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
 
 
 
-### Holy Symbol
+### Sveti Simbol
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td><strong>Stavka</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td><strong>Weight</strong>
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td>Amulet
+      <td>Amajlija
       </td>
       <td>5 gp
       </td>
@@ -3200,7 +2946,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Emblem
+      <td>Amblem
       </td>
       <td>5 gp
       </td>
@@ -3208,7 +2954,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Reliquary
+      <td>Relikvija
       </td>
       <td>5 gp
       </td>
@@ -3219,19 +2965,19 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
 
 
 
-### Other Adventuring Gear
+### Ostala avanturistickaa oprem
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td><strong>Stavka</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td><strong>Weight</strong>
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td>Abacus
+      <td>Abakus
       </td>
       <td>2 gp
       </td>
@@ -3239,7 +2985,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Acid (vial)
+      <td>Kiselina (bočica)
       </td>
       <td>25 gp
       </td>
@@ -3247,47 +2993,47 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Alchemist's fire (flask)
+      <td> Alhemičarska vatra (čutura)
       </td>
-      <td>50 gp
+      <td> 50 gp
       </td>
-      <td>1 lb.
-      </td>
-   </tr>
-   <tr>
-      <td>Antitoxin (vial)
-      </td>
-      <td>50 gp
-      </td>
-      <td>-
+      <td> 1 lb.
       </td>
    </tr>
    <tr>
-      <td>Backpack
+      <td> Antitoksin (bočica)
       </td>
-      <td>2 gp
+      <td> 50 gp
       </td>
-      <td>5 lb.
-      </td>
-   </tr>
-   <tr>
-      <td>Ball bearings (bag of 1,000)
-      </td>
-      <td>1 gp
-      </td>
-      <td>2 lb.
+      <td> -
       </td>
    </tr>
    <tr>
-      <td>Barrel
+      <td> Ruksak
       </td>
-      <td>2 gp
+      <td> 2 gp
       </td>
-      <td>70 lb.
+      <td> 5 lb.
       </td>
    </tr>
    <tr>
-      <td>Basket
+      <td> Kuglični ležajevi (vreća od 1.000)
+      </td>
+      <td> 1 gp
+      </td>
+      <td> 2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td> Bure
+      </td>
+      <td> 2 gp
+      </td>
+      <td> 70 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Košara
       </td>
       <td>4 sp
       </td>
@@ -3295,7 +3041,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Bedroll
+      <td>Posteljina
       </td>
       <td>1 gp
       </td>
@@ -3303,7 +3049,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Bell
+      <td>Zvono
       </td>
       <td>1 gp
       </td>
@@ -3311,7 +3057,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Blanket
+      <td>Ćebe
       </td>
       <td>5 sp
       </td>
@@ -3319,7 +3065,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Block and tackle
+      <td>Čekrk
       </td>
       <td>1 gp
       </td>
@@ -3327,7 +3073,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Book
+      <td>Knjiga
       </td>
       <td>25 gp
       </td>
@@ -3335,7 +3081,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Bottle, glass
+      <td>ABoca, staklena
       </td>
       <td>2 gp
       </td>
@@ -3343,7 +3089,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Bucket
+      <td>Kanta
       </td>
       <td>5 cp
       </td>
@@ -3351,7 +3097,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Caltrops (bag of 20)
+      <td>Šiljci (vreća od 20)
       </td>
       <td>1 gp
       </td>
@@ -3359,7 +3105,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Candle
+      <td>Svijeća
       </td>
       <td>1 cp
       </td>
@@ -3367,7 +3113,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Case, crossbow bolt
+      <td>Futrola, samostrel
       </td>
       <td>1 gp
       </td>
@@ -3375,7 +3121,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Case, map or scroll
+      <td>Kutija, karta ili svitak
       </td>
       <td>1 gp
       </td>
@@ -3383,7 +3129,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Chain (10 feet)
+      <td>Lanac (10 stopa)
       </td>
       <td>5 gp
       </td>
@@ -3391,7 +3137,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Chalk (1 piece)
+      <td>kreda (1 komad)
       </td>
       <td>1 cp
       </td>
@@ -3399,7 +3145,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Chest
+      <td>Kovčeg
       </td>
       <td>5 gp
       </td>
@@ -3407,7 +3153,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Climber's kit
+      <td>Penjački komplet
       </td>
       <td>25 gp
       </td>
@@ -3415,7 +3161,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Clothes, common
+      <td>Odjeća, obična
       </td>
       <td>5 sp
       </td>
@@ -3423,7 +3169,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Clothes, costume
+      <td>Odjeća, kostim
       </td>
       <td>5 gp
       </td>
@@ -3431,7 +3177,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Clothes, fine
+      <td>Odjeća, fina
       </td>
       <td>15 gp
       </td>
@@ -3439,7 +3185,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Clothes, traveler's
+      <td>Odjeća, putnička
       </td>
       <td>2 gp
       </td>
@@ -3447,7 +3193,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Component pouch
+      <td>Torbica za komponente
       </td>
       <td>25 gp
       </td>
@@ -3455,7 +3201,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Crowbar
+      <td>Pajser
       </td>
       <td>2 gp
       </td>
@@ -3463,7 +3209,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Fishing tackle
+      <td>Pribor za pecanje
       </td>
       <td>1 gp
       </td>
@@ -3471,7 +3217,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Flask or tankard
+      <td>Čutura ili rezervoar
       </td>
       <td>2 cp
       </td>
@@ -3479,7 +3225,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Grappling hook
+      <td>Kuka za hvatanje
       </td>
       <td>2 gp
       </td>
@@ -3487,7 +3233,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Hammer
+      <td>Čekić
       </td>
       <td>1 gp
       </td>
@@ -3495,7 +3241,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Hammer, sledge
+      <td>Macola
       </td>
       <td>2 gp
       </td>
@@ -3503,7 +3249,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Healer's kit
+      <td>Isceliteljski pribor
       </td>
       <td>5 gp
       </td>
@@ -3511,7 +3257,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Holy water (flask)
+      <td>Sveta voda (čutura)
       </td>
       <td>25 gp
       </td>
@@ -3519,7 +3265,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Hourglass
+      <td>Pješčani sat
       </td>
       <td>25 gp
       </td>
@@ -3527,7 +3273,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Hunting trap
+      <td>Lovačka zamka
       </td>
       <td>5 gp
       </td>
@@ -3535,7 +3281,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Ink (1 ounce bottle)
+      <td>Mastilo (bočica od 1 unce)
       </td>
       <td>10 gp
       </td>
@@ -3543,7 +3289,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Ink pen
+      <td>Naliv pero
       </td>
       <td>2 cp
       </td>
@@ -3551,7 +3297,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Jug or pitcher
+      <td>Vrč ili bokal
       </td>
       <td>2 cp
       </td>
@@ -3559,7 +3305,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Ladder (10 foot)
+      <td>merdevine (10 stopa)
       </td>
       <td>1 sp
       </td>
@@ -3567,7 +3313,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Lamp
+      <td>Lampa
       </td>
       <td>5 sp
       </td>
@@ -3575,7 +3321,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Lantern, bullseye
+      <td>Fenjert za jarače
       </td>
       <td>10 gp
       </td>
@@ -3583,7 +3329,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Lantern, hooded
+      <td>Fenjer, s poklopcem
       </td>
       <td>5 gp
       </td>
@@ -3591,7 +3337,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Lock
+      <td>Katanac
       </td>
       <td>10 gp
       </td>
@@ -3599,7 +3345,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Magnifying glass
+      <td>Lupa
       </td>
       <td>100 gp
       </td>
@@ -3607,7 +3353,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Manacles
+      <td>Lisice
       </td>
       <td>2 gp
       </td>
@@ -3615,7 +3361,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Mess kit
+      <td>Pribor za jelo
       </td>
       <td>2 sp
       </td>
@@ -3623,7 +3369,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Mirror, steel
+      <td>Ogledalo, čelično
       </td>
       <td>5 gp
       </td>
@@ -3631,7 +3377,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Oil (flask)
+      <td>Ulje (čutura)
       </td>
       <td>1 sp
       </td>
@@ -3639,7 +3385,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Paper (one sheet)
+      <td>Papir (jedan list)
       </td>
       <td>2 sp
       </td>
@@ -3647,7 +3393,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Parchment (one sheet)
+      <td>Pergament (jedan list)
       </td>
       <td>1 sp
       </td>
@@ -3655,7 +3401,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Perfume (vial)
+      <td>Parfem (bočica)
       </td>
       <td>5 gp
       </td>
@@ -3663,7 +3409,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Pick, miner's
+      <td>Krampa
       </td>
       <td>2 gp
       </td>
@@ -3671,7 +3417,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Piton
+      <td>Sidro za penjanje
       </td>
       <td>5 cp
       </td>
@@ -3679,7 +3425,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Poison, basic (vial)
+      <td>Otrov, obični (bočica)
       </td>
       <td>100 gp
       </td>
@@ -3687,7 +3433,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Pole (10-foot)
+      <td>Motka (10 stopa)
       </td>
       <td>5 cp
       </td>
@@ -3695,7 +3441,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Pot, iron
+      <td>Lonac, gvozdeni
       </td>
       <td>2 gp
       </td>
@@ -3703,7 +3449,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Potion of healing
+      <td>Napitak isceljenja
       </td>
       <td>50 gp
       </td>
@@ -3711,7 +3457,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Pouch
+      <td>Torbica
       </td>
       <td>5 sp
       </td>
@@ -3719,7 +3465,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Quiver
+      <td>Tobolac
       </td>
       <td>1 gp
       </td>
@@ -3727,7 +3473,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Ram, portable
+      <td>Ovan, prenosni
       </td>
       <td>4 gp
       </td>
@@ -3735,7 +3481,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Rations (1 day)
+      <td>Obroci/sledovanja (1 dan)
       </td>
       <td>5 sp
       </td>
@@ -3743,7 +3489,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Robes
+      <td>Ogrtači
       </td>
       <td>1 gp
       </td>
@@ -3751,7 +3497,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Rope, hempen (50 feet)
+      <td>Uže, konoplja (50 stopa)
       </td>
       <td>1 gp
       </td>
@@ -3759,7 +3505,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Rope, silk (50 feet)
+      <td>Uže, svila (50 stopa)
       </td>
       <td>10 gp
       </td>
@@ -3767,7 +3513,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Sack
+      <td>Vreća
       </td>
       <td>1 cp
       </td>
@@ -3775,7 +3521,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Scale, merchant's
+      <td>Vaga, Trgovačka
       </td>
       <td>5 gp
       </td>
@@ -3783,7 +3529,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Sealing wax
+      <td>Vosak ya pečat
       </td>
       <td>5 sp
       </td>
@@ -3791,7 +3537,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Shovel
+      <td>Lopata
       </td>
       <td>2 gp
       </td>
@@ -3799,7 +3545,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Signal whistle
+      <td>Signalna zviždaljka
       </td>
       <td>5 cp
       </td>
@@ -3807,7 +3553,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Signet ring
+      <td>Pečat
       </td>
       <td>5 gp
       </td>
@@ -3815,7 +3561,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Soap
+      <td>Sapun
       </td>
       <td>2 cp
       </td>
@@ -3823,7 +3569,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Spellbook
+      <td>Knjiga čarolija
       </td>
       <td>50 gp
       </td>
@@ -3831,7 +3577,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Spikes, iron (10)
+      <td>Šiljci, gvozdeni (10)
       </td>
       <td>1 gp
       </td>
@@ -3839,7 +3585,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Spyglass
+      <td>Durbin
       </td>
       <td>1,000 gp
       </td>
@@ -3847,7 +3593,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Tent, two-person
+      <td>Šator za dvoje
       </td>
       <td>2 gp
       </td>
@@ -3855,7 +3601,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Tinderbox
+      <td>Kutija za kresivo
       </td>
       <td>5 sp
       </td>
@@ -3863,7 +3609,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Torch
+      <td>Baklja
       </td>
       <td>1 cp
       </td>
@@ -3871,7 +3617,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Vial
+      <td>Bočica
       </td>
       <td>1 gp
       </td>
@@ -3879,15 +3625,15 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td>Waterskin
+      <td>Vodena koža
       </td>
       <td>2 sp
       </td>
-      <td>5 lb. (full)
+      <td>5 lb. (puna)
       </td>
    </tr>
    <tr>
-      <td>Whetstone
+      <td>Brus
       </td>
       <td>1 cp
       </td>
@@ -3988,87 +3734,87 @@ Sveštenik ili paladin može stvoriti svetu vodu izvođenjem posebnog rituala. I
 
 <table>
    <tr>
-      <td><strong>Container</strong>
+      <td><strong>Kontejner</strong>
       </td>
-      <td><strong>Capacity</strong>
-      </td>
-   </tr>
-   <tr>
-      <td>Backpack*
-      </td>
-      <td>1 cubic foot/30 pounds of gear
+      <td><strong>Kapacitet</strong>
       </td>
    </tr>
    <tr>
-      <td>Barrel
+      <td>Ruksak*
       </td>
-      <td>40 gallons liquid, 4 cubic feet solid
-      </td>
-   </tr>
-   <tr>
-      <td>Basket
-      </td>
-      <td>2 cubic feet/40 pounds of gear
+      <td>1 kubna stopa/30 funti opreme
       </td>
    </tr>
    <tr>
-      <td>Bottle
+      <td>Bure
       </td>
-      <td>1½ pints liquid
-      </td>
-   </tr>
-   <tr>
-      <td>Bucket
-      </td>
-      <td>3 gallons liquid, 1/2 cubic foot solid
+      <td>40 galona tečnosti, 4 kubne stope čvrstog materijala
       </td>
    </tr>
    <tr>
-      <td>Chest
+      <td>Košara
       </td>
-      <td>12 cubic feet/300 pounds of gear
-      </td>
-   </tr>
-   <tr>
-      <td>Flask or tankard
-      </td>
-      <td>1 pint liquid
+      <td>2 kubne stope/40 funti opreme
       </td>
    </tr>
    <tr>
-      <td>Jug or pitcher
+      <td>Boca
       </td>
-      <td>1 gallon liquid
-      </td>
-   </tr>
-   <tr>
-      <td>Pot, iron
-      </td>
-      <td>1 gallon liquid
+      <td>1½ pinta tečnosti
       </td>
    </tr>
    <tr>
-      <td>Pouch
+      <td>Kanta
       </td>
-      <td>1/5 cubic foot/6 pounds of gear
-      </td>
-   </tr>
-   <tr>
-      <td>Sack
-      </td>
-      <td>1 cubic foot/30 pounds of gear
+      <td>3 galona tečnosti, 1/2 kubne stope čvrstog materijal
       </td>
    </tr>
    <tr>
-      <td>Vial
+      <td>Kovčeg
       </td>
-      <td>4 ounces liquid
+      <td>12 kubnih stopa/300 funti opreme
       </td>
    </tr>
    <tr>
-      <td>Waterskin
+      <td>Čutura ili rezervoar
       </td>
-      <td>4 pints liquid
+      <td>1 pinta tečnosti
+      </td>
+   </tr>
+   <tr>
+      <td>Vrč ili bokal
+      </td>
+      <td>1 galon tečnosti
+      </td>
+   </tr>
+   <tr>
+      <td> gvozdeni onac
+      </td>
+      <td> 1 galon tečnosti
+      </td>
+   </tr>
+   <tr>
+      <td> Torbica
+      </td>
+      <td> 1/5 kubnih stopa/6 funti opreme
+      </td>
+   </tr>
+   <tr>
+      <td> Vreća
+      </td>
+      <td> 1 kubna stopa/30 funti opreme
+      </td>
+   </tr>
+   <tr>
+      <td> Bočica
+      </td>
+      <td> 4 unce tečnosti
+      </td>
+   </tr>
+   <tr>
+      <td> Vodena koža
+      </td>
+      <td> 4 pinte tečnosti
       </td>
    </tr>
 </table>
@@ -4106,11 +3852,11 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
 
 **Komplet za prerušavanje**. Ova torbica sa kozmetikom, bojom za kosu i malim rekvizitima omogućava vam da stvorite maske koje menjaju vaš fizički izgled. Veština ovog kompleta vam omogućava da dodate bonus za stručnost bilo kojoj proveri sposobnosti koju napravite da biste stvorili vizuelnu masku.
 
-**Komplet za falsifikat**. Ova mala kutija sadrži razne papire i pergamente, olovke i mastila, pečate i pečatni vosak, zlatne i srebrne listiće i druge potrepštine potrebne za stvaranje uverljivih falsifikata fizičkih dokumenata. Profesionalnost sa ovim kompletom omogućava vam da dodate svoj bonus za stručnost bilo kojoj proveri sposobnosti koju napravite za stvaranje fizičkog falsifikovanja dokumenta.
+**Komplet za falsifikovanje**. Ova mala kutija sadrži razne papire i pergamente, olovke i mastila, pečate i pečatni vosak, zlatne i srebrne listiće i druge potrepštine potrebne za stvaranje uverljivih falsifikata fizičkih dokumenata. Profesionalnost sa ovim kompletom omogućava vam da dodate svoj bonus za stručnost bilo kojoj proveri sposobnosti koju napravite za stvaranje fizičkog falsifikovanja dokumenta.
 
 **Set za igre**. Ovaj set obuhvata širok spektar djelova igara, uključujući kockice i špilove karata (za igre kao što je Three-Dragon Ante). Nekoliko uobičajenih primera pojavljuje se na tabeli Alati, ali i druge vrste igračkih setova postoje. Ako ste iskusni sa igračkim setom, možete dodati svoj bonus za stručnost proverama sposobnosti koje vršite da biste igrali igru sa tim setom. Svaka vrsta igraćeg seta zahteva posebno znanje.
 
-**Herbalistički ser**. Ovaj komplet sadrži razne instrumente kao što su škare, avan i tučak, vrećice i bočice koje herbalisti koriste za stvaranje lekova i napitaka. Stručnost sa ovim kompletom omogućava vam da dodate svoj bonus za profesionalnost bilo kojoj proveri sposobnosti koju napravite da biste identifikovali ili primenili bilje. Takođe, znanje ovog kompleta je potrebno za stvaranje antitoksina i lekova za lečenje.
+**Herbalistički set**. Ovaj komplet sadrži razne instrumente kao što su škare, avan i tučak, vrećice i bočice koje herbalisti koriste za stvaranje lekova i napitaka. Stručnost sa ovim kompletom omogućava vam da dodate svoj bonus za profesionalnost bilo kojoj proveri sposobnosti koju napravite da biste identifikovali ili primenili bilje. Takođe, znanje ovog kompleta je potrebno za stvaranje antitoksina i lekova za lečenje.
 
 **Muzički instrument**. Nekoliko najčešćih vrsta muzičkih instrumenata prikazano je u tabeli kao primeri. Ako imate znanje određenog muzičkog instrumenta, možete dodati bonus za znanje bilo kojoj proveri sposobnosti koju vršite za sviranje muzike sa instrumentom. Svaka vrsta muzičkog instrumenta zahteva posebno znanje.
 
@@ -4122,170 +3868,170 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
 
 
 
-### Artisan's Tools
+### Zanatlijski alat
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td><strong>Stavka</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td><strong>Weight</strong>
-      </td>
-   </tr>
-   <tr>
-      <td>Alchemist's supplies
-      </td>
-      <td>50 gp
-      </td>
-      <td>8 lb.
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td>Brewer's supplies
+<tr>
+      <td> Alhemičarske zalihe
       </td>
-      <td>20 gp
+      <td> 50 gp
       </td>
-      <td>9 lb.
-      </td>
-   </tr>
-   <tr>
-      <td>Calligrapher's supplies
-      </td>
-      <td>10 gp
-      </td>
-      <td>5 lb.
+      <td> 8 lb.
       </td>
    </tr>
    <tr>
-      <td>Carpenter's tools
+      <td> Pivarske zalihe
       </td>
-      <td>8 gp
+      <td> 20 gp
       </td>
-      <td>6 lb.
-      </td>
-   </tr>
-   <tr>
-      <td>Cartographer's tools
-      </td>
-      <td>15 gp
-      </td>
-      <td>6 lb.
+      <td> 9 lb.
       </td>
    </tr>
    <tr>
-      <td>Cobbler's tools
+      <td> Kaligrafske zalihe
       </td>
-      <td>5 gp
+      <td> 10 gp
       </td>
-      <td>5 lb.
-      </td>
-   </tr>
-   <tr>
-      <td>Cook's utensils
-      </td>
-      <td>1 gp
-      </td>
-      <td>8 lb.
+      <td> 5 lb.
       </td>
    </tr>
    <tr>
-      <td>Glassblower's tools
+      <td> Stolarski alati
       </td>
-      <td>30 gp
+      <td> 8 gp
       </td>
-      <td>5 lb.
-      </td>
-   </tr>
-   <tr>
-      <td>Jeweler's tools
-      </td>
-      <td>25 gp
-      </td>
-      <td>2 lb.
+      <td> 6 lb.
       </td>
    </tr>
    <tr>
-      <td>Leatherworker's tools
+      <td> Alati kartografa
       </td>
-      <td>5 gp
+      <td> 15 gp
       </td>
-      <td>5 lb.
-      </td>
-   </tr>
-   <tr>
-      <td>Mason's tools
-      </td>
-      <td>10 gp
-      </td>
-      <td>8 lb.
+      <td> 6 lb.
       </td>
    </tr>
    <tr>
-      <td>Painter's supplies
+      <td> Obućarski alati
       </td>
-      <td>10 gp
+      <td> 5 gp
       </td>
-      <td>5 lb.
-      </td>
-   </tr>
-   <tr>
-      <td>Potter's tools
-      </td>
-      <td>10 gp
-      </td>
-      <td>3 lb.
+      <td> 5 lb.
       </td>
    </tr>
    <tr>
-      <td>Smith's tools
+      <td> Kuvarski pribor
       </td>
-      <td>20 gp
+      <td> 1 gp
       </td>
-      <td>8 lb.
-      </td>
-   </tr>
-   <tr>
-      <td>Tinker's tools
-      </td>
-      <td>50 gp
-      </td>
-      <td>10 lb.
+      <td> 8 lb.
       </td>
    </tr>
    <tr>
-      <td>Weaver's tools
+      <td> Alati za puhanje stakla
       </td>
-      <td>1 gp
+      <td> 30 gp
       </td>
-      <td>5 lb.
+      <td> 5 lb.
       </td>
    </tr>
    <tr>
-      <td>Woodcarver's tools
+      <td> Zlatarski alati
       </td>
-      <td>1 gp
+      <td> 25 gp
       </td>
-      <td>5 lb.
+      <td> 2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td> Kožarevi alati
+      </td>
+      <td> 5 gp
+      </td>
+      <td> 5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td> Zidarev alat
+      </td>
+      <td> 10 gp
+      </td>
+      <td> 8 lb.
+      </td>
+   </tr>
+   <tr>
+      <td> Slikarske potrepštine
+      </td>
+      <td> 10 gp
+      </td>
+      <td> 5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td> Alati grnčariju
+      </td>
+      <td> 10 gp
+      </td>
+      <td> 3 lb.
+      </td>
+   </tr>
+   <tr>
+      <td> Kovačev alat
+      </td>
+      <td> 20 gp
+      </td>
+      <td> 8 lb.
+      </td>
+   </tr>
+   <tr>
+      <td> Alati za krpljenje
+      </td>
+      <td> 50 gp
+      </td>
+      <td> 10 lb.
+      </td>
+   </tr>
+   <tr>
+      <td> Alati za tkanje
+      </td>
+      <td> 1 gp
+      </td>
+      <td> 5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td> Alati za drvorez
+      </td>
+      <td> 1 gp
+      </td>
+      <td> 5 lb.
       </td>
    </tr>
 </table>
 
 
-
-### Gaming Set
+### Set za igru
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td><strong>Stavka</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td><strong>Weight</strong>
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td>Dice set
+      <td>Set kockica
       </td>
       <td>1 sp
       </td>
@@ -4293,7 +4039,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Dragonchess set
+      <td>Set za zmajev šah
       </td>
       <td>1 gp
       </td>
@@ -4301,7 +4047,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Playing card set
+      <td>Set igračkih karata
       </td>
       <td>5 sp
       </td>
@@ -4309,7 +4055,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Three-Dragon Ante set
+      <td>Set čipova tri zmaja
       </td>
       <td>1 gp
       </td>
@@ -4319,20 +4065,19 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
 </table>
 
 
-
 ### Musical Instrument
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td><strong>Stavka</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>CoCijenast</strong>
       </td>
-      <td><strong>Weight</strong>
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td>Bagpipes
+      <td>Gajde
       </td>
       <td>30 gp
       </td>
@@ -4348,7 +4093,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Dulcimer
+      <td>Čimbalo
       </td>
       <td>25 gp
       </td>
@@ -4356,7 +4101,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Flute
+      <td>Flauta
       </td>
       <td>2 gp
       </td>
@@ -4364,7 +4109,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Lute
+      <td>Lauta
       </td>
       <td>35 gp
       </td>
@@ -4372,7 +4117,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Lyre
+      <td>Lira
       </td>
       <td>30 gp
       </td>
@@ -4380,7 +4125,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Horn
+      <td>Rog
       </td>
       <td>3 gp
       </td>
@@ -4388,7 +4133,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Pan flute
+      <td>Panova svirala
       </td>
       <td>12 gp
       </td>
@@ -4396,7 +4141,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Shawm
+      <td>Frula
       </td>
       <td>2 gp
       </td>
@@ -4404,7 +4149,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Viol
+      <td>Viola
       </td>
       <td>30 gp
       </td>
@@ -4414,20 +4159,19 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
 </table>
 
 
-
-### Other Tools
+### Ostali alati
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td><strong>Stavka</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td><strong>Weight</strong>
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td>Disguise kit
+      <td>Komplet za prerušavanje
       </td>
       <td>25 gp
       </td>
@@ -4435,7 +4179,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Forgery kit
+      <td>Komplet za falsifikovanje
       </td>
       <td>15 gp
       </td>
@@ -4443,7 +4187,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Herbalism kit
+      <td>Herbalistički set
       </td>
       <td>5 gp
       </td>
@@ -4451,7 +4195,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Navigator's tools
+      <td>Navigacioni alat
       </td>
       <td>25 gp
       </td>
@@ -4459,7 +4203,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Poisoner's kit
+      <td>Komplet za otrov
       </td>
       <td>50 gp
       </td>
@@ -4467,7 +4211,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Thieves' tools
+      <td>Lopovski alat
       </td>
       <td>25 gp
       </td>
@@ -4475,7 +4219,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td>Vehicles (land or water)
+      <td>Vozila (zemlja ili voda)
       </td>
       <td>*
       </td>
@@ -4484,9 +4228,7 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
    </tr>
 </table>
 
-
 * See the ”Mounts and Vehicles” section.
-
 
 
 ## Nosači i vozila
@@ -4497,7 +4239,7 @@ Dobar nosač vam može pomoći da se brže krećete kroz divljinu, ali njegova
 
 Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično nisu dostupni za kupovinu. Tu spadaju leteći nosači (pegazi, grifoni, hipogrifi i slične životinje), pa čak i vodeni nosači (džinovski morski konji, na primer). Sticanje takvog nosača često znači osigurati jaje i sami uzgajati stvorenje, sklopiti pogodbu sa moćnim entitetom ili pregovarati sa samim nosačem.
 
-**Barding**. Barding je oklop dizajniran da zaštiti glavu, vrat, prsa i telo životinje. Bilo koja vrsta oklopa prikazana na tablici oklopa u ovom poglavlju može se kupiti kao bard. Trošak je četiri puta veći od ekvivalentnog oklopa napravljenog za humanoide, a težak je dvostruko više.
+**Životinjski oklop**. Životinjski oklop je oklop dizajniran da zaštiti glavu, vrat, prsa i telo životinje. Bilo koja vrsta oklopa prikazana na tablici oklopa u ovom poglavlju može se kupiti kao bard. Trošak je četiri puta veći od ekvivalentnog oklopa napravljenog za humanoide, a težak je dvostruko više.
 
 **Sedla**. Vojno sedlo podupire jahača, pomažući vam da držite svoje mesto na aktivnom nosaču u borbi. Daje vam prednost pri bilo kojoj provjeri da biste ostali na nosaču. Za jahanje bilo kojim vodenim ili letećim nosačima potrebno je egzotično sedlo.
 
@@ -4506,22 +4248,21 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
 **Veslani brodovi**. Kobilice i čamci na vesla koriste se na jezerima i rekama. Ako idete nizvodno, dodajte brzinu struje (obično 3 milje na sat) brzini vozila. Ova vozila se ne mogu veslati ni protiv jedne značajnije struje, ali ih mogu vući uzvodno tegleće životinje na obalama. Čamac na vesla težak je 100 kilograma, u slučaju da ga avanturisti prevoze kopnom.
 
 
-
-### Mounts
+### Nosači
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td><strong>Stavka</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td><strong>Speed</strong>
+      <td><strong>Brzina</strong>
       </td>
-      <td><strong>Carrying Capacity</strong>
+      <td><strong>Nosivost</strong>
       </td>
    </tr>
    <tr>
-      <td><a href="https://www.dndbeyond.com/monsters/camel">Camel</a>
+      <td><a href="https://www.dndbeyond.com/monsters/camel">Kamila</a>
       </td>
       <td>50 gp
       </td>
@@ -4531,7 +4272,7 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
       </td>
    </tr>
    <tr>
-      <td>Donkey or <a href="https://www.dndbeyond.com/monsters/mule">mule</a>
+      <td>Donkey or <a href="https://www.dndbeyond.com/monsters/mule">Mula</a>
       </td>
       <td>8 gp
       </td>
@@ -4541,7 +4282,7 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
       </td>
    </tr>
    <tr>
-      <td><a href="https://www.dndbeyond.com/monsters/elephant">Elephant</a>
+      <td><a href="https://www.dndbeyond.com/monsters/elephant">Slon</a>
       </td>
       <td>200 gp
       </td>
@@ -4551,7 +4292,7 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
       </td>
    </tr>
    <tr>
-      <td><a href="https://www.dndbeyond.com/monsters/draft-horse">Draft horse</a>
+      <td><a href="https://www.dndbeyond.com/monsters/draft-horse">Konj za vuču</a>
       </td>
       <td>50 gp
       </td>
@@ -4561,7 +4302,7 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
       </td>
    </tr>
    <tr>
-      <td><a href="https://www.dndbeyond.com/monsters/riding-horse">Riding horse</a>
+      <td><a href="https://www.dndbeyond.com/monsters/riding-horse">Konj za jahanje</a>
       </td>
       <td>75 gp
       </td>
@@ -4571,7 +4312,7 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
       </td>
    </tr>
    <tr>
-      <td><a href="https://www.dndbeyond.com/monsters/mastiff">Mastiff</a>
+      <td><a href="https://www.dndbeyond.com/monsters/mastiff">Mastif</a>
       </td>
       <td>25 gp
       </td>
@@ -4581,7 +4322,7 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
       </td>
    </tr>
    <tr>
-      <td><a href="https://www.dndbeyond.com/monsters/pony">Pony</a>
+      <td><a href="https://www.dndbeyond.com/monsters/pony">Poni</a>
       </td>
       <td>30 gp
       </td>
@@ -4591,7 +4332,7 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
       </td>
    </tr>
    <tr>
-      <td><a href="https://www.dndbeyond.com/monsters/warhorse">Warhorse</a>
+      <td><a href="https://www.dndbeyond.com/monsters/warhorse">Ratni konj</a>
       </td>
       <td>400 gp
       </td>
@@ -4603,115 +4344,113 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
 </table>
 
 
-
-### Tack, Harness, and Drawn Vehicles
+### Hvatači, uprtači i vučena vozila
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td> <strong> Stavka </strong>
       </td>
-      <td><strong>Cost</strong>
+      <td> <strong> Cijena </strong>
       </td>
-      <td><strong>Weight</strong>
-      </td>
-   </tr>
-   <tr>
-      <td>Barding
-      </td>
-      <td>x4
-      </td>
-      <td>x2
+      <td> <strong> Težina </strong>
       </td>
    </tr>
    <tr>
-      <td>Bit and bridle
+      <td> Životinjski oklop
       </td>
-      <td>2 gp
+      <td> k4
       </td>
-      <td>1 lb.
-      </td>
-   </tr>
-   <tr>
-      <td>Carriage
-      </td>
-      <td>100 gp
-      </td>
-      <td>600 lb.
+      <td> k2
       </td>
    </tr>
    <tr>
-      <td>Cart
+      <td> Bit i uzda
       </td>
-      <td>15 gp
+      <td> 2 gp
       </td>
-      <td>200 lb.
-      </td>
-   </tr>
-   <tr>
-      <td>Chariot
-      </td>
-      <td>250 gp
-      </td>
-      <td>100 lb.
+      <td> 1 lb.
       </td>
    </tr>
    <tr>
-      <td>Feed (per day)
+      <td> Fijaker
       </td>
-      <td>5 cp
+      <td> 100 gp
       </td>
-      <td>10 lb.
-      </td>
-   </tr>
-   <tr>
-      <td>Saddlebags
-      </td>
-      <td>4 gp
-      </td>
-      <td>8 lb.
+      <td> 600 lb.
       </td>
    </tr>
    <tr>
-      <td>Sled
+      <td> Kolica
       </td>
-      <td>20 gp
+      <td> 15 gp
       </td>
-      <td>300 lb.
-      </td>
-   </tr>
-   <tr>
-      <td>Stabling (per day)
-      </td>
-      <td>5 sp
-      </td>
-      <td>-
+      <td> 200 lb.
       </td>
    </tr>
    <tr>
-      <td>Wagon
+      <td> Kočija
       </td>
-      <td>35 gp
+      <td> 250 gp
       </td>
-      <td>400 lb.
+      <td> 100 lb.
+      </td>
+   </tr>
+   <tr>
+      <td> Hranjenje (po danu)
+      </td>
+      <td> 5 cp
+      </td>
+      <td> 10 lb.
+      </td>
+   </tr>
+   <tr>
+      <td> Bisage (Tobre za sedlo)
+      </td>
+      <td> 4 gp
+      </td>
+      <td> 8 lb.
+      </td>
+   </tr>
+   <tr>
+      <td> Sanke
+      </td>
+      <td> 20 gp
+      </td>
+      <td> 300 lb.
+      </td>
+   </tr>
+   <tr>
+      <td> Štala (po danu)
+      </td>
+      <td> 5 sp
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> Vagon
+      </td>
+      <td> 35 gp
+      </td>
+      <td> 400 lb.
       </td>
    </tr>
 </table>
 
 
-
-### Saddles
+### Sijedla
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td><strong>Stavka</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td><strong>Weight</strong>
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td>Exotic
+      <td>Egzotično
       </td>
       <td>60 gp
       </td>
@@ -4719,7 +4458,7 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
       </td>
    </tr>
    <tr>
-      <td>Military
+      <td>Vojno
       </td>
       <td>20 gp
       </td>
@@ -4727,7 +4466,7 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
       </td>
    </tr>
    <tr>
-      <td>Pack
+      <td>Samar
       </td>
       <td>5 gp
       </td>
@@ -4735,7 +4474,7 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
       </td>
    </tr>
    <tr>
-      <td>Riding
+      <td>Jahajuće
       </td>
       <td>10 gp
       </td>
@@ -4745,64 +4484,63 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
 </table>
 
 
-
-### Waterborne Vehicles
+### Vodena vozila
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td> <strong>Stavka</strong>
       </td>
-      <td><strong>Cost</strong>
+      <td> <strong>Cijena</strong>
       </td>
-      <td><strong>Speed</strong>
-      </td>
-   </tr>
-   <tr>
-      <td>Galley
-      </td>
-      <td>30,000 gp
-      </td>
-      <td>4 mph
+      <td> <strong>Brzina</strong>
       </td>
    </tr>
    <tr>
-      <td>Keelboat
+      <td> Galija
       </td>
-      <td>3,000 gp
+      <td> 30.000 gp
       </td>
-      <td>1 mph
-      </td>
-   </tr>
-   <tr>
-      <td>Longship
-      </td>
-      <td>10,000 gp
-      </td>
-      <td>3 mph
+      <td> 4 mph
       </td>
    </tr>
    <tr>
-      <td>Rowboat
+      <td> Jedrilica
       </td>
-      <td>50 gp
+      <td> 3.000 gp
       </td>
-      <td>1 1/2 mph
-      </td>
-   </tr>
-   <tr>
-      <td>Sailing ship
-      </td>
-      <td>10,000 gp
-      </td>
-      <td>2 mph
+      <td> 1 mph
       </td>
    </tr>
    <tr>
-      <td>Warship
+      <td> Dugi brod
       </td>
-      <td>25,000 gp
+      <td> 10.000 gp
       </td>
-      <td>2 1/2 mph
+      <td> 3 mph
+      </td>
+   </tr>
+   <tr>
+      <td> Veslački čamac
+      </td>
+      <td> 50 gp
+      </td>
+      <td> 1 1/2 mph
+      </td>
+   </tr>
+   <tr>
+      <td> Jedrenjak
+      </td>
+      <td> 10.000 gp
+      </td>
+      <td> 2 mph
+      </td>
+   </tr>
+   <tr>
+      <td> Ratni brod
+      </td>
+      <td> 25.000 gp
+      </td>
+      <td> 2 1/2 mph
       </td>
    </tr>
 </table>
@@ -4816,91 +4554,91 @@ Većina bogatstva nije u novčićima. Meri se u stoci, žitu, zemljištu, prav
 Udruženja, plemići i kraljevine regulišu trgovinu. Ovlašćene kompanije dobijaju prava da obavljaju trgovinu na određenim rutama, da šalju trgovačke brodove u različite luke ili da kupuju ili prodaju određenu robu. Udruženja određuju cene dobara ili usluga koje kontrolišu i određuju ko može ili ne može da nudi tu robu i usluge. Trgovci obično razmenjuju trgovinsku robu bez upotrebe valute. Tabela „Trgovinska roba“ prikazuje vrednost najčešće razmenjene robe.
 
 
-**Trade Goods Table**
+**Tabela trgovačke robe**
 
 <table>
    <tr>
-      <td><strong>Cost</strong>
+      <td><strong>Cena</strong>
       </td>
-      <td><strong>Goods</strong>
+      <td><strong>Roba</strong>
       </td>
    </tr>
    <tr>
       <td>1 cp
       </td>
-      <td>1 lb. of wheat
+      <td>1 lb pšenice
       </td>
    </tr>
    <tr>
       <td>2 cp
       </td>
-      <td>1 lb. of flour or one chicken
+      <td>1 lb brašna ili jedno pile
       </td>
    </tr>
    <tr>
       <td>5 cp
       </td>
-      <td>1 lb. of salt
+      <td>1 lb soli
       </td>
    </tr>
    <tr>
       <td>1 sp
       </td>
-      <td>1 lb. of iron or 1 sq. yd. of canvas
+      <td>1 lb gvožđa ili 1 kv. platna
       </td>
    </tr>
    <tr>
       <td>5 sp
       </td>
-      <td>1 lb. of copper of 1 sq. yd. of cotton cloth
+      <td>1 lb bakra ili 1 kv. pamučnog platna
       </td>
    </tr>
    <tr>
       <td>1 gp
       </td>
-      <td>1 lb. of ginger or one goat
+      <td>1 lb đumbira ili jedna koze
       </td>
    </tr>
    <tr>
       <td>2 gp
       </td>
-      <td>1 lb. of cinnamon or pepper, or one sheep
+      <td>1 lb cimeta ili bibera, ili jedna ovca
       </td>
    </tr>
    <tr>
       <td>3 gp
       </td>
-      <td>1 lb. of cloves or one pig
+      <td>1 lb klinčića ili jedna svinja
       </td>
    </tr>
    <tr>
       <td>5 gp
       </td>
-      <td>1 lb. of silver or 1 sq. yd. of linen
+      <td>1 lb srebra ili 1 kv. lanenog platna
       </td>
    </tr>
    <tr>
       <td>10 gp
       </td>
-      <td>1 sq. yd. of silk or one cow
+      <td>1 kv. svile ili jedne krava
       </td>
    </tr>
    <tr>
       <td>15 gp
       </td>
-      <td>1 lb. of saffron or one ox
+      <td>1 lb šafrana ili jednog vola
       </td>
    </tr>
    <tr>
       <td>50 gp
       </td>
-      <td>1 lb. of gold
+      <td>1 lb. zlata
       </td>
    </tr>
    <tr>
       <td>500 gp
       </td>
-      <td>1 lb. of platinum
+      <td>1 lb platine
       </td>
    </tr>
 </table>
@@ -5005,15 +4743,15 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
 
 <table>
    <tr>
-      <td><strong>Item</strong>
+      <td><strong>Stavka</strong>
       </td>
       <td>
       </td>
-      <td><strong>Cost</strong>
+      <td><strong>Cena</strong>
       </td>
    </tr>
    <tr>
-      <td>Ale
+      <td>Pivo
       </td>
       <td>
       </td>
@@ -5023,7 +4761,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Gallon
+      <td>Galon
       </td>
       <td>2 sp
       </td>
@@ -5031,13 +4769,13 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Mug
+      <td>Šolja
       </td>
       <td>4 cp
       </td>
    </tr>
    <tr>
-      <td>Banquet (per person)
+      <td>Banket (po osobi)
       </td>
       <td>
       </td>
@@ -5045,7 +4783,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
       </td>
    </tr>
    <tr>
-      <td>Bread, loaf
+      <td>Hleb, vekna
       </td>
       <td>
       </td>
@@ -5053,7 +4791,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
       </td>
    </tr>
    <tr>
-      <td>Cheese, hunk
+      <td>Sir, komad
       </td>
       <td>
       </td>
@@ -5061,7 +4799,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
       </td>
    </tr>
    <tr>
-      <td>Inn stay (per day)
+      <td>Boravak u gostionici (po danu)
       </td>
       <td>
       </td>
@@ -5071,7 +4809,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Squalid
+      <td>Nekvalitetno
       </td>
       <td>7 cp
       </td>
@@ -5079,7 +4817,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Poor
+      <td>Jadno
       </td>
       <td>1 sp
       </td>
@@ -5087,7 +4825,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Modest
+      <td>Skromno
       </td>
       <td>5 sp
       </td>
@@ -5095,7 +4833,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Comfortable
+      <td>Udobno
       </td>
       <td>8 sp
       </td>
@@ -5103,7 +4841,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Wealthy
+      <td>Bogato
       </td>
       <td>2 gp
       </td>
@@ -5111,13 +4849,13 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Aristocratic
+      <td>Aristokratski
       </td>
       <td>4 gp
       </td>
    </tr>
    <tr>
-      <td>Meals (per day)
+      <td>Obroci (po danu)
       </td>
       <td>
       </td>
@@ -5127,7 +4865,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Squalid
+      <td>Nekvalitetno
       </td>
       <td>3 cp
       </td>
@@ -5135,7 +4873,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Poor
+      <td>Jadno
       </td>
       <td>6 cp
       </td>
@@ -5143,7 +4881,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Modest
+      <td>Skromao
       </td>
       <td>3 sp
       </td>
@@ -5151,7 +4889,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Comfortable
+      <td>Udobno
       </td>
       <td>5 sp
       </td>
@@ -5159,7 +4897,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Wealthy
+      <td>Bogato
       </td>
       <td>8 sp
       </td>
@@ -5167,13 +4905,13 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Aristocratic
+      <td>Aristokratski
       </td>
       <td>2 gp
       </td>
    </tr>
    <tr>
-      <td>Meat, chunk
+      <td>Meso, komad
       </td>
       <td>3 sp
       </td>
@@ -5181,7 +4919,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
       </td>
    </tr>
    <tr>
-      <td>Wine
+      <td>Vino
       </td>
       <td>
       </td>
@@ -5191,7 +4929,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Common (pitcher)
+      <td>Obično (bokal)
       </td>
       <td>2 sp
       </td>
@@ -5199,13 +4937,12 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
    <tr>
       <td>
       </td>
-      <td>Fine (bottle)
+      <td>Fino (boca)
       </td>
       <td>10 gp
       </td>
    </tr>
 </table>
-
 
 
 ### Usluge
@@ -5239,7 +4976,7 @@ Drugi najamnici pružaju više stručne ili opasne usluge. Plaćeni vojnici pla�
       </td>
       <td>Između gradova
       </td>
-      <td>3 cp per mile
+      <td>3 cp po milji
       </td>
    </tr>
    <tr>
@@ -5263,7 +5000,7 @@ Drugi najamnici pružaju više stručne ili opasne usluge. Plaćeni vojnici pla�
       </td>
       <td>Kvalifikovani
       </td>
-      <td>2 gp per day
+      <td>2 gp po danu
       </td>
    </tr>
    <tr>
@@ -5271,7 +5008,7 @@ Drugi najamnici pružaju više stručne ili opasne usluge. Plaćeni vojnici pla�
       </td>
       <td>Neobučeni
       </td>
-      <td>2 sp per day
+      <td>2 sp po danu
       </td>
    </tr>
    <tr>
@@ -5279,7 +5016,7 @@ Drugi najamnici pružaju više stručne ili opasne usluge. Plaćeni vojnici pla�
       </td>
       <td>
       </td>
-      <td>2 cp per mile
+      <td>2 cp po milji
       </td>
    </tr>
    <tr>
@@ -5295,7 +5032,7 @@ Drugi najamnici pružaju više stručne ili opasne usluge. Plaćeni vojnici pla�
       </td>
       <td>
       </td>
-      <td>1 sp per mile
+      <td>1 sp po milji
       </td>
    </tr>
 </table>
@@ -5952,86 +5689,85 @@ Kako napredujete u nivoima, možda ćete prvenstveno ostati član originalne kl
 
 Da biste se kvalifikovali za novu klasu, morate da ispunite bodove sposobnosti koji su preduslov i za trenutnu i za novu klasu, kao što je prikazano u tabeli Multiclassing Preduslovi u Priručniku za igrača. Bez pune obuke koju početni lik primi, morate biti brzi u učenju u svojoj novoj klasi, imajući prirodnu sposobnost ogleda se u ocenama sposobnosti višim od proseka.
 
-
 <table>
-  <tr>
-   <td><strong>Class</strong>
-   </td>
-   <td><strong>Ability Score Minimum</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Barbarian
-   </td>
-   <td>Strength 13
-   </td>
-  </tr>
-  <tr>
-   <td>Bard
-   </td>
-   <td>Charisma 13
-   </td>
-  </tr>
-  <tr>
-   <td>Cleric
-   </td>
-   <td>Wisdom 13
-   </td>
-  </tr>
-  <tr>
-   <td>Druid
-   </td>
-   <td>Wisdom 13
-   </td>
-  </tr>
-  <tr>
-   <td>Fighter
-   </td>
-   <td>Strength 13 or Dexterity 13
-   </td>
-  </tr>
-  <tr>
-   <td>Monk
-   </td>
-   <td>Dexterity 13 and Wisdom 13
-   </td>
-  </tr>
-  <tr>
-   <td>Paladin
-   </td>
-   <td>Strength 13 and Charisma 13
-   </td>
-  </tr>
-  <tr>
-   <td>Ranger
-   </td>
-   <td>Dexterity 13 and Wisdom 13
-   </td>
-  </tr>
-  <tr>
-   <td>Rogue
-   </td>
-   <td>Dexterity 13
-   </td>
-  </tr>
-  <tr>
-   <td>Sorcerer
-   </td>
-   <td>Charisma 13
-   </td>
-  </tr>
-  <tr>
-   <td>Warlock
-   </td>
-   <td>Charisma 13
-   </td>
-  </tr>
-  <tr>
-   <td>Wizard
-   </td>
-   <td>Intelligence 13
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Klasa</strong>
+      </td>
+      <td><strong>Minimum bodova sposobnosti</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Varvar
+      </td>
+      <td>Snaga 13
+      </td>
+   </tr>
+   <tr>
+      <td>Bard
+      </td>
+      <td>Harizma 13
+      </td>
+   </tr>
+   <tr>
+      <td>Sveštenik
+      </td>
+      <td>Mudrost 13
+      </td>
+   </tr>
+   <tr>
+      <td>Druid
+      </td>
+      <td>Mudrost 13
+      </td>
+   </tr>
+   <tr>
+      <td>Borac
+      </td>
+      <td>Snaga 13 ili Spremnost 13
+      </td>
+   </tr>
+   <tr>
+      <td>Monah
+      </td>
+      <td>Spremnost 13 i Mudrost 13
+      </td>
+   </tr>
+   <tr>
+      <td>Paladin
+      </td>
+      <td>Snaga 13 i Harizma 13
+      </td>
+   </tr>
+   <tr>
+      <td>Rendžer
+      </td>
+      <td>Spremnost 13 i Mudrost 13
+      </td>
+   </tr>
+   <tr>
+      <td>Bitanga
+      </td>
+      <td>Spremnost 13
+      </td>
+   </tr>
+   <tr>
+      <td>Vrač
+      </td>
+      <td>Harizma 13
+      </td>
+   </tr>
+   <tr>
+      <td>Veštac
+      </td>
+      <td>Harizma 13
+      </td>
+   </tr>
+   <tr>
+      <td>Čarobnjak
+      </td>
+      <td>Inteligencija 13
+      </td>
+   </tr>
 </table>
 
 
@@ -6061,6 +5797,7 @@ Kada steknete nivo u klasi koji nije vaša po;etna, vi steknite samo neka počet
 
 ### Karakteristike klase
 [D&D Beyond](https://www.dndbeyond.com/sources/basic-rules/customization-options#ClassFeatures)
+
 Kada steknete novi nivo u klasi, dobijate njegove karakteristike za taj nivo. Nekoliko karakteristika, međutim, ima dodatne pravila kada koristite više klasa. Pogledajte poglavlje 6 Priručnika za igrača za više informacija.
 
 
@@ -6069,4 +5806,3 @@ Kada steknete novi nivo u klasi, dobijate njegove karakteristike za taj nivo. Ne
 Podvig predstavlja talenat ili oblast stručnosti koja daje karakteru posebne sposobnosti. Oličenje treninga, iskustva, i sposobnosti iznad onoga što klasa pruža. Vidite poglavlje 6 Priručnika za igrača za više informacija.
 
 Na određenim nivoima, vaša klasa vam daje opciju poboljšanja bodova sposobnosti. Koristeći opcionalno pravilo podviga, možete se odreći uzimanja te funkcije da biste preduzeli podvig po vašem izboru umesto toga. Svaki podvig možete preduzeti samo jednom, osim ako opis podviga govori drugačije. Morate ispuniti sve preduslove navedene u podvigu za dobijanje tog podviga. Ako ikada izgubite preduslov za podvig, ne može da koristite taj podvig dok ponovo ne steknete preduslov.
-
