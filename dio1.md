@@ -5878,7 +5878,6 @@ Kada steknete nivo u klasi koji nije vaša po;etna, vi steknite samo neka počet
 
 
 ### Karakteristike klase
-[D&D Beyond](https://www.dndbeyond.com/sources/basic-rules/customization-options#ClassFeatures)
 
 Kada steknete novi nivo u klasi, dobijate njene karakteristike za taj nivo. Nekoliko karakteristika, međutim, ima dodatne pravila kada koristite više klasa: Usmjeravanje božanstva, dodatni napad, nenaoružana odbrana i čarolija.
 
