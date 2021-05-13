@@ -261,7 +261,7 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
       </td>
    </tr>
    <tr>
-      <td><em>Važno za: Fighter</em>
+      <td><em>Važno za: Borac</em>
       </td>
    </tr>
    <tr>
@@ -286,7 +286,7 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
       </td>
    </tr>
    <tr>
-      <td><em>Važno za: Rogue</em>
+      <td><em>Važno za: Nevaljalac</em>
       </td>
    </tr>
    <tr>
@@ -336,7 +336,7 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
       </td>
    </tr>
    <tr>
-      <td><em>Važno za: Wizard </em>
+      <td><em>Važno za: Čarobnjak </em>
       </td>
    </tr>
    <tr>
@@ -361,7 +361,7 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
       </td>
    </tr>
    <tr>
-      <td><em>Važno za: Cleric </em>
+      <td><em>Važno za: Sveštenik </em>
       </td>
    </tr>
    <tr>
@@ -386,7 +386,7 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
       </td>
    </tr>
    <tr>
-      <td><em>Važno za: Vođe i diplomatski likovi</em>
+      <td><em>Važno za: Vođe i diplomatske likove</em>
       </td>
    </tr>
    <tr>
@@ -933,7 +933,7 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
       </td>
    </tr>
    <tr>
-      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Rogue">Bitanga</a></strong>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Rogue">Nevaljalac</a></strong>
       </td>
       <td> Podlac koji koristi šunjanje i prevare da bi savladao prepreke i neprijatelje
       </td>
@@ -1023,7 +1023,7 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
 [Ranger](https://www.dndbeyond.com/sources/basic-rules/classes#Ranger)
 
 
-## Bitanga
+## Nevaljalac
 [Rogue](https://www.dndbeyond.com/sources/basic-rules/classes#Rogue)
 
 
@@ -1650,7 +1650,7 @@ Bogatstvo se pojavljuje u mnogim oblicima u svetu D&D. Novčići, drago kamenje
       </td>
    </tr>
    <tr>
-      <td>Bitanga
+      <td>Nevaljalac
       </td>
       <td>4d4 x 10gp
       </td>
@@ -5744,7 +5744,7 @@ Da biste se kvalifikovali za novu klasu, morate da ispunite bodove sposobnosti k
       </td>
    </tr>
    <tr>
-      <td>Bitanga
+      <td>Nevaljalac
       </td>
       <td>Spremnost 13
       </td>
@@ -5792,6 +5792,89 @@ Vaš bonus za stručnost se uvek zasniva na vašem ukupnom nivou karaktera, kao 
 ### Stručnost
 
 Kada steknete nivo u klasi koji nije vaša po;etna, vi steknite samo neka početna znanja te klase. Vidite poglavlje 6 Priručnika za igrača za više informacija.
+
+**Stručnosti višeklasiranja**
+
+<table>
+   <tr>
+      <td> <strong> Klasa </strong>
+      </td>
+      <td> <strong> Stečena stručnost </strong>
+      </td>
+   </tr>
+   <tr>
+      <td> Varvar
+      </td>
+      <td> Štitovi, jednostavno oružje, borilačko oružje
+      </td>
+   </tr>
+   <tr>
+      <td> Bard
+      </td>
+      <td> Lagani oklop, jedna veština po vašem izboru, jedan muzički instrument po vašem izboru
+      </td>
+   </tr>
+   <tr>
+      <td> Sveštenik
+      </td>
+      <td> Laki oklop, srednji oklop, štitovi
+      </td>
+   </tr>
+   <tr>
+      <td> Druid
+      </td>
+      <td> Lagani oklop, srednji oklop, štitovi (druidi neće nositi oklop niti koristiti metalne štitove)
+      </td>
+   </tr>
+   <tr>
+      <td> Lovac
+      </td>
+      <td> Laki oklop, srednji oklop, štitovi, jednostavno oružje, borilačko oružje
+      </td>
+   </tr>
+   <tr>
+      <td> Monah
+      </td>
+      <td> Jednostavno oružje, kratki mačevi
+      </td>
+   </tr>
+   <tr>
+      <td> Paladin
+      </td>
+      <td> Laki oklop, srednji oklop, štitovi, jednostavno oružje, borilačko oružje
+      </td>
+   </tr>
+   <tr>
+      <td> Rendžer
+      </td>
+      <td> Laki oklop, srednji oklop, štitovi, jednostavno oružje, borilačko oružje, jedna veština sa spiska veština klase
+      </td>
+   </tr>
+   <tr>
+      <td> Nevaljalac
+      </td>
+      <td> Lagani oklop, jedna veština sa spiska veština klase, alati za lopove
+      </td>
+   </tr>
+   <tr>
+      <td> Vrač
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> Varlock
+      </td>
+      <td> Laki oklop, jednostavno oružje
+      </td>
+   </tr>
+   <tr>
+      <td> Čarobnjak
+      </td>
+      <td> -
+      </td>
+   </tr>
+</table>
 
 
 ### Karakteristike klase
