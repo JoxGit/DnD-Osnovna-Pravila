@@ -823,169 +823,169 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Barbarian">Varvar</a></strong>
       </td>
-      <td> Žestoki ratnik primitivnog porekla koji može ući u borbeni bes
+      <td>Žestoki ratnik primitivnog porekla koji može ući u borbeni bes
       </td>
-      <td> d12
+      <td>d12
       </td>
-      <td> Snaga
+      <td>Snaga
       </td>
-      <td> Snaga i stav
+      <td>Snaga i stav
       </td>
-      <td> Laki i srednji oklop, štitovi, jednostavno i borilačko oružje
+      <td>Laki i srednji oklop, štitovi, jednostavno i borilačko oružje
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Bard">Bard</a></strong>
       </td>
-      <td> Inspirativni mađioničar čija snaga odzvanja muzikom stvaranja
+      <td>Inspirativni mađioničar čija snaga odzvanja muzikom stvaranja
       </td>
-      <td> d8
+      <td>d8
       </td>
-      <td> Harizma
+      <td>Harizma
       </td>
-      <td> Spretnost i harizma
+      <td>Spretnost i harizma
       </td>
-      <td> Lagani oklop, jednostavno oružje, ručni samostreli, dugi mačevi, rapire, kratki mačevi
+      <td>Lagani oklop, jednostavno oružje, ručni samostreli, dugi mačevi, rapire, kratki mačevi
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Cleric">Sveštenik</a></strong>
       </td>
-      <td> Sveštenički prvak koji koristi božansku magiju u službi više sile
+      <td>Sveštenički prvak koji koristi božansku magiju u službi više sile
       </td>
-      <td> d8
+      <td>d8
       </td>
-      <td> Mudrost
+      <td>Mudrost
       </td>
-      <td> Mudrost i harizma
+      <td>Mudrost i harizma
       </td>
-      <td> Lagani i srednji oklop, štitovi, jednostavno oružje
+      <td>Lagani i srednji oklop, štitovi, jednostavno oružje
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Druid">Druid</a></strong>
       </td>
-      <td> Sveštenik Stare vere, koji poseduje moći prirode - mesečinu i rast biljaka, vatru i munje - i usvaja životinjske oblike
+      <td>Sveštenik Stare vere, koji poseduje moći prirode - mesečinu i rast biljaka, vatru i munje - i usvaja životinjske oblike
       </td>
-      <td> d8
+      <td>d8
       </td>
-      <td> Mudrost
+      <td>Mudrost
       </td>
-      <td> Inteligencija i mudrost
+      <td>Inteligencija i mudrost
       </td>
-   <td> Laki i srednji oklop (nemetalni), štitovi (nemetalni), palice, bodeži, strelice, koplja, buzdovani, motke, jataci, srpovi, praćke, koplja
+   <td>Laki i srednji oklop (nemetalni), štitovi (nemetalni), palice, bodeži, strelice, koplja, buzdovani, motke, jataci, srpovi, praćke, koplja
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Fighter">Borac</a></strong>
       </td>
-      <td> Majstor borilačke borbe, vešt u raznim oružjima i oklopima
+      <td>Majstor borilačke borbe, vešt u raznim oružjima i oklopima
       </td>
-      <td> d10
+      <td>d10
       </td>
-      <td> Snaga ili spretnost
+      <td>Snaga ili spretnost
       </td>
-      <td> Snaga i ustav
+      <td>Snaga i ustav
       </td>
-      <td> Svi oklopi, štitovi, jednostavno i borilačko oružje
+      <td>Svi oklopi, štitovi, jednostavno i borilačko oružje
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Monk">Monah</a></strong>
       </td>
-      <td> Majstor borilačkih veština, iskorišćavajući snagu tela u potrazi za fizičkim i duhovnim savršenstvom
+      <td>Majstor borilačkih veština, iskorišćavajući snagu tela u potrazi za fizičkim i duhovnim savršenstvom
       </td>
-      <td> d8
+      <td>d8
       </td>
-      <td> Spretnost i mudrost
+      <td>Spretnost i mudrost
       </td>
-      <td> Snaga i spretnost
+      <td>Snaga i spretnost
       </td>
-      <td> Jednostavno oružje, kratki mačevi
+      <td>Jednostavno oružje, kratki mačevi
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Paladin">Paladin</a></strong>
       </td>
-      <td> Sveti ratnik vezan za svetu zakletvu
+      <td>Sveti ratnik vezan za svetu zakletvu
       </td>
-      <td> d10
+      <td>d10
       </td>
-      <td> Snaga i harizma
+      <td>Snaga i harizma
       </td>
-      <td> Mudrost i harizma
+      <td>Mudrost i harizma
       </td>
-      <td> Svi oklopi, štitovi, jednostavno i borilačko oružje
+      <td>Svi oklopi, štitovi, jednostavno i borilačko oružje
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Ranger">Rendžer</a></strong>
       </td>
-      <td> Ratnik koji koristi borilačku snagu i magiju prirode za borbu protiv pretnji na ivicama civilizacije
+      <td>Ratnik koji koristi borilačku snagu i magiju prirode za borbu protiv pretnji na ivicama civilizacije
       </td>
-      <td> d10
+      <td>d10
       </td>
-      <td> Spretnost i mudrost
+      <td>Spretnost i mudrost
       </td>
-      <td> Snaga i spretnost
+      <td>Snaga i spretnost
       </td>
-      <td> Laki i srednji oklop, štitovi, jednostavno i borilačko oružje
+      <td>Laki i srednji oklop, štitovi, jednostavno i borilačko oružje
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Rogue">Nevaljalac</a></strong>
       </td>
-      <td> Podlac koji koristi šunjanje i prevare da bi savladao prepreke i neprijatelje
+      <td>Podlac koji koristi šunjanje i prevare da bi savladao prepreke i neprijatelje
       </td>
-      <td> d8
+      <td>d8
       </td>
-      <td> Spretnost
+      <td>Spretnost
       </td>
-      <td> Spretnost i inteligencija
+      <td>Spretnost i inteligencija
       </td>
-      <td> Lagani oklop, jednostavno oružje, ručni samostreli, duge mačeve, rapire, kratke mačeve
+      <td>Lagani oklop, jednostavno oružje, ručni samostreli, duge mačeve, rapire, kratke mačeve
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Sorcerer">Vrač</a></strong>
       </td>
-      <td> Bacač čarolija koji crpi urođenu magiju iz dara ili krvne loze
+      <td>Bacač čarolija koji crpi urođenu magiju iz dara ili krvne loze
       </td>
-      <td> d6
+      <td>d6
       </td>
-      <td> Harizma
+      <td>Harizma
       </td>
-      <td> Stav i harizma
+      <td>Stav i harizma
       </td>
-      <td> Bodeži, strelice, praćke, motke, laki samostreli
+      <td>Bodeži, strelice, praćke, motke, laki samostreli
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Warlock">Veštac</a></strong>
       </td>
-      <td> Upravljač magije koji je izvedena iz dogovora sa ekstraplanarnim entitetom
+      <td>Upravljač magije koji je izvedena iz dogovora sa ekstraplanarnim entitetom
       </td>
-      <td> d8
+      <td>d8
       </td>
-      <td> Harizma
+      <td>Harizma
       </td>
-      <td> Mudrost i harizma
+      <td>Mudrost i harizma
       </td>
-      <td> Lagani oklop, jednostavno oružje
+      <td>Lagani oklop, jednostavno oružje
       </td>
    </tr>
    <tr>
       <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Wizard">Čarobnjak</a></strong>
       </td>
-      <td> Školovan korisnik magije sposoban da manipuliše strukturama stvarnosti
+      <td>Školovan korisnik magije sposoban da manipuliše strukturama stvarnosti
       </td>
-      <td> d6
+      <td>d6
       </td>
-      <td> Inteligencija
+      <td>Inteligencija
       </td>
-      <td> Inteligencija i mudrost
+      <td>Inteligencija i mudrost
       </td>
-      <td> Bodeži, strelice, praćke, motke, laki samostreli
+      <td>Bodeži, strelice, praćke, motke, laki samostreli
       </td>
    </tr>
 </table>
@@ -2194,15 +2194,15 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
 
 <table>
    <tr>
-      <td> <strong> Ime oružja </strong>
+      <td><strong>Ime oružja</strong>
       </td>
-      <td> <strong> Cena </strong>
+      <td><strong>Cena</strong>
       </td>
-      <td> <strong> Šteta </strong>
+      <td><strong>Šteta</strong>
       </td>
-      <td> <strong> Težina </strong>
+      <td><strong>Težina</strong>
       </td>
-      <td> <strong> Svojstva </strong>
+      <td><strong>Svojstva</strong>
       </td>
    </tr>
    <tr>
@@ -2333,15 +2333,15 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
 
 <table>
    <tr>
-      <td> <strong> Ime oružja </strong>
+      <td><strong>Ime oružja</strong>
       </td>
-      <td> <strong> Cena </strong>
+      <td><strong>Cena</strong>
       </td>
-      <td> <strong> Šteta </strong>
+      <td><strong>Šteta</strong>
       </td>
-      <td> <strong> Težina </strong>
+      <td><strong>Težina</strong>
       </td>
-      <td> <strong> Svojstva </strong>
+      <td><strong>Svojstva</strong>
       </td>
    </tr>
    <tr>
@@ -2399,231 +2399,231 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
 
 <table>
    <tr>
-      <td> <strong> Ime oružja </strong>
+      <td><strong>Ime oružja</strong>
       </td>
-      <td> <strong> Cena </strong>
+      <td><strong>Cena</strong>
       </td>
-      <td> <strong> Šteta </strong>
+      <td><strong>Šteta</strong>
       </td>
-      <td> <strong> Težina </strong>
+      <td><strong>Težina</strong>
       </td>
-      <td> <strong> Svojstva </strong>
-      </td>
-   </tr>
-   <tr>
-      <td> Borbena sjekira
-      </td>
-      <td> 10 gp
-      </td>
-      <td> 1d8 sječenje
-      </td>
-      <td> 4 lb.
-      </td>
-      <td> Svestrano (1d10)
+      <td><strong>Svojstva</strong>
       </td>
    </tr>
    <tr>
-      <td> Mlat
+      <td>Borbena sjekira
       </td>
-      <td> 10 gp
+      <td>10 gp
       </td>
-      <td> 1d8 batinanje
+      <td>1d8 sječenje
       </td>
-      <td> 2 lb.
+      <td>4 lb.
       </td>
-      <td> -
-      </td>
-   </tr>
-   <tr>
-      <td> Mač
-      </td>
-      <td> 20 gp
-      </td>
-      <td> 1d10 sječenje
-      </td>
-      <td> 6 lb.
-      </td>
-      <td> Teško, domašaj, dvoručno
+      <td>Svestrano (1d10)
       </td>
    </tr>
    <tr>
-      <td> Velika sjekira
+      <td>Mlat
       </td>
-      <td> 30 gp
+      <td>10 gp
       </td>
-      <td> 1d12 sječenje
+      <td>1d8 batinanje
       </td>
-      <td> 7 lb.
+      <td>2 lb.
       </td>
-      <td> Teško, dvoručno
-      </td>
-   </tr>
-   <tr>
-      <td> Veliki mač
-      </td>
-      <td> 50 gp
-      </td>
-      <td> 2d6 sječenje
-      </td>
-      <td> 6 lb.
-      </td>
-      <td> Teško, dvoručno
+      <td>-
       </td>
    </tr>
    <tr>
-      <td> Halberda
+      <td>Mač
       </td>
-      <td> 20 gp
+      <td>20 gp
       </td>
-      <td> 1d10 sječenje
+      <td>1d10 sječenje
       </td>
-      <td> 6 lb.
+      <td>6 lb.
       </td>
-      <td> Teško, domašaj, dvoručnos
-      </td>
-   </tr>
-   <tr>
-      <td> Koplje (Lance)
-      </td>
-      <td> 10 gp
-      </td>
-      <td> 1d12 probadanje
-      </td>
-      <td> 6 lb.
-      </td>
-      <td> Domašaj, posebno
+      <td>Teško, domašaj, dvoručno
       </td>
    </tr>
    <tr>
-      <td> Dugi mač
+      <td>Velika sjekira
       </td>
-      <td> 15 gp
+      <td>30 gp
       </td>
-      <td> 1d8 sječenje
+      <td>1d12 sječenje
       </td>
-      <td> 3 lb.
+      <td>7 lb.
       </td>
-      <td> Svestrano (1d10)
-      </td>
-   </tr>
-   <tr>
-      <td> Malj
-      </td>
-      <td> 10 gp
-      </td>
-      <td> 2d6 batinanje
-      </td>
-      <td> 10 lb.
-      </td>
-      <td> Teško, dvoručno
+      <td>Teško, dvoručno
       </td>
    </tr>
    <tr>
-      <td> Jutarnja zvijezda
+      <td>Veliki mač
       </td>
-      <td> 15 gp
+      <td>50 gp
       </td>
-      <td> 1d8 prodanje
+      <td>2d6 sječenje
       </td>
-      <td> 4 lb.
+      <td>6 lb.
       </td>
-      <td> -
-      </td>
-   </tr>
-   <tr>
-      <td> Koplje (Pike)
-      </td>
-      <td> 5 gp
-      </td>
-      <td> 1d10 probadanje
-      </td>
-      <td> 18 lb.
-      </td>
-      <td> Teško, domašaj, dvoručno
+      <td>Teško, dvoručno
       </td>
    </tr>
    <tr>
-      <td> Rapier
+      <td>Halberda
       </td>
-      <td> 25 gp
+      <td>20 gp
       </td>
-      <td> 1d8 probadanje
+      <td>1d10 sječenje
       </td>
-      <td> 2 lb.
+      <td>6 lb.
       </td>
-      <td> Finesa
-      </td>
-   </tr>
-   <tr>
-      <td> Simitar
-      </td>
-      <td> 25 gp
-      </td>
-      <td> 1d6 sjecenje
-      </td>
-      <td> 3 lb.
-      </td>
-      <td> Finesa, lagano
+      <td>Teško, domašaj, dvoručnos
       </td>
    </tr>
    <tr>
-      <td> Kratki mač
+      <td>Koplje (Lance)
       </td>
-      <td> 10 gp
+      <td>10 gp
       </td>
-      <td> 1d6 probadanje
+      <td>1d12 probadanje
       </td>
-      <td> 2 lb.
+      <td>6 lb.
       </td>
-      <td> Finesa, lagano
-      </td>
-   </tr>
-   <tr>
-      <td> Trozubac
-      </td>
-      <td> 5 gp
-      </td>
-      <td> 1d6 probadanje
-      </td>
-      <td> 4 lb.
-      </td>
-      <td> Bacanje (domet 20/60), svestrano (1d8)
+      <td>Domašaj, posebno
       </td>
    </tr>
    <tr>
-      <td> Ratno koplje
+      <td>Dugi mač
       </td>
-      <td> 5 gp
+      <td>15 gp
       </td>
-      <td> 1d8 probadanje
+      <td>1d8 sječenje
       </td>
-      <td> 2 lb.
+      <td>3 lb.
       </td>
-      <td> -
-      </td>
-   </tr>
-   <tr>
-      <td> Ratni čekić
-      </td>
-      <td> 15 gp
-      </td>
-      <td> 1d8 batinanje
-      </td>
-      <td> 2 lb.
-      </td>
-      <td> Svestrano (1d10)
+      <td>Svestrano (1d10)
       </td>
    </tr>
    <tr>
-      <td> Bič
+      <td>Malj
       </td>
-      <td> 2 gp
+      <td>10 gp
       </td>
-      <td> 1d4 sječenje
+      <td>2d6 batinanje
       </td>
-      <td> 3 lb.
+      <td>10 lb.
       </td>
-      <td> Finesa, domašaj
+      <td>Teško, dvoručno
+      </td>
+   </tr>
+   <tr>
+      <td>Jutarnja zvijezda
+      </td>
+      <td>15 gp
+      </td>
+      <td>1d8 prodanje
+      </td>
+      <td>4 lb.
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Koplje (Pike)
+      </td>
+      <td>5 gp
+      </td>
+      <td>1d10 probadanje
+      </td>
+      <td>18 lb.
+      </td>
+      <td>Teško, domašaj, dvoručno
+      </td>
+   </tr>
+   <tr>
+      <td>Rapier
+      </td>
+      <td>25 gp
+      </td>
+      <td>1d8 probadanje
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Finesa
+      </td>
+   </tr>
+   <tr>
+      <td>Simitar
+      </td>
+      <td>25 gp
+      </td>
+      <td>1d6 sjecenje
+      </td>
+      <td>3 lb.
+      </td>
+      <td>Finesa, lagano
+      </td>
+   </tr>
+   <tr>
+      <td>Kratki mač
+      </td>
+      <td>10 gp
+      </td>
+      <td>1d6 probadanje
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Finesa, lagano
+      </td>
+   </tr>
+   <tr>
+      <td>Trozubac
+      </td>
+      <td>5 gp
+      </td>
+      <td>1d6 probadanje
+      </td>
+      <td>4 lb.
+      </td>
+      <td>Bacanje (domet 20/60), svestrano (1d8)
+      </td>
+   </tr>
+   <tr>
+      <td>Ratno koplje
+      </td>
+      <td>5 gp
+      </td>
+      <td>1d8 probadanje
+      </td>
+      <td>2 lb.
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Ratni čekić
+      </td>
+      <td>15 gp
+      </td>
+      <td>1d8 batinanje
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Svestrano (1d10)
+      </td>
+   </tr>
+   <tr>
+      <td>Bič
+      </td>
+      <td>2 gp
+      </td>
+      <td>1d4 sječenje
+      </td>
+      <td>3 lb.
+      </td>
+      <td>Finesa, domašaj
       </td>
    </tr>
 </table>
@@ -2633,75 +2633,75 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
 
 <table>
    <tr>
-      <td> <strong> Ime oružja </strong>
+      <td><strong>Ime oružja</strong>
       </td>
-      <td> <strong> Cena </strong>
+      <td><strong>Cena</strong>
       </td>
-      <td> <strong> Šteta </strong>
+      <td><strong>Šteta</strong>
       </td>
-      <td> <strong> Težina </strong>
+      <td><strong>Težina</strong>
       </td>
-      <td> <strong> Svojstva </strong>
-      </td>
-   </tr>
-   <tr>
-      <td> Puvaljka
-      </td>
-      <td> 10 gp
-      </td>
-      <td> 1 porbadanje
-      </td>
-      <td> 1 lb.
-      </td>
-      <td> Municija (opseg 25/100), punjenje
+      <td><strong>Svojstva</strong>
       </td>
    </tr>
    <tr>
-      <td> Samostrel, ruka
+      <td>Puvaljka
       </td>
-      <td> 75 gp
+      <td>10 gp
       </td>
-      <td> 1d6 probadanje
+      <td>1 porbadanje
       </td>
-      <td> 3 lb.
+      <td>1 lb.
       </td>
-      <td> Municija (domet 30/120), lagana, punjenje
-      </td>
-   </tr>
-   <tr>
-      <td> Samostrel, težak
-      </td>
-      <td> 50 gp
-      </td>
-      <td> 1d10 probadanje
-      </td>
-      <td> 18 lb.
-      </td>
-      <td> Municija (domet 100/400), teška, punjenje, dvoručna
+      <td>Municija (opseg 25/100), punjenje
       </td>
    </tr>
    <tr>
-      <td> Dugački luk
+      <td>Samostrel, ruka
       </td>
-      <td> 50 gp
+      <td>75 gp
       </td>
-      <td> 1d8 probadanje
+      <td>1d6 probadanje
       </td>
-      <td> 2 lb.
+      <td>3 lb.
       </td>
-      <td> Municija (domet 150/600), teška, dvoručna
+      <td>Municija (domet 30/120), lagana, punjenje
       </td>
    </tr>
    <tr>
-      <td> Mreža
+      <td>Samostrel, težak
       </td>
-      <td> 1 gp
+      <td>50 gp
       </td>
-      <td> -
+      <td>1d10 probadanje
       </td>
-      <td> 3 lb.
+      <td>18 lb.
       </td>
-      <td> Specijalno, bačeno (opseg 5/15)
+      <td>Municija (domet 100/400), teška, punjenje, dvoručna
+      </td>
+   </tr>
+   <tr>
+      <td>Dugački luk
+      </td>
+      <td>50 gp
+      </td>
+      <td>1d8 probadanje
+      </td>
+      <td>2 lb.
+      </td>
+      <td>Municija (domet 150/600), teška, dvoručna
+      </td>
+   </tr>
+   <tr>
+      <td>Mreža
+      </td>
+      <td>1 gp
+      </td>
+      <td>-
+      </td>
+      <td>3 lb.
+      </td>
+      <td>Specijalno, bačeno (opseg 5/15)
       </td>
    </tr>
 </table>
@@ -2993,43 +2993,43 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
       </td>
    </tr>
    <tr>
-      <td> Alhemičarska vatra (čutura)
+      <td>Alhemičarska vatra (čutura)
       </td>
-      <td> 50 gp
+      <td>50 gp
       </td>
-      <td> 1 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Antitoksin (bočica)
-      </td>
-      <td> 50 gp
-      </td>
-      <td> -
+      <td>1 lb.
       </td>
    </tr>
    <tr>
-      <td> Ruksak
+      <td>Antitoksin (bočica)
       </td>
-      <td> 2 gp
+      <td>50 gp
       </td>
-      <td> 5 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Kuglični ležajevi (vreća od 1.000)
-      </td>
-      <td> 1 gp
-      </td>
-      <td> 2 lb.
+      <td>-
       </td>
    </tr>
    <tr>
-      <td> Bure
+      <td>Ruksak
       </td>
-      <td> 2 gp
+      <td>2 gp
       </td>
-      <td> 70 lb.
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Kuglični ležajevi (vreća od 1.000)
+      </td>
+      <td>1 gp
+      </td>
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Bure
+      </td>
+      <td>2 gp
+      </td>
+      <td>70 lb.
       </td>
    </tr>
    <tr>
@@ -3788,33 +3788,33 @@ Sveštenik ili paladin može stvoriti svetu vodu izvođenjem posebnog rituala. I
       </td>
    </tr>
    <tr>
-      <td> gvozdeni onac
+      <td>gvozdeni onac
       </td>
-      <td> 1 galon tečnosti
-      </td>
-   </tr>
-   <tr>
-      <td> Torbica
-      </td>
-      <td> 1/5 kubnih stopa/6 funti opreme
+      <td>1 galon tečnosti
       </td>
    </tr>
    <tr>
-      <td> Vreća
+      <td>Torbica
       </td>
-      <td> 1 kubna stopa/30 funti opreme
-      </td>
-   </tr>
-   <tr>
-      <td> Bočica
-      </td>
-      <td> 4 unce tečnosti
+      <td>1/5 kubnih stopa/6 funti opreme
       </td>
    </tr>
    <tr>
-      <td> Vodena koža
+      <td>Vreća
       </td>
-      <td> 4 pinte tečnosti
+      <td>1 kubna stopa/30 funti opreme
+      </td>
+   </tr>
+   <tr>
+      <td>Bočica
+      </td>
+      <td>4 unce tečnosti
+      </td>
+   </tr>
+   <tr>
+      <td>Vodena koža
+      </td>
+      <td>4 pinte tečnosti
       </td>
    </tr>
 </table>
@@ -3880,139 +3880,139 @@ Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao š
       </td>
    </tr>
    <tr>
-      <td> Alhemičarske zalihe
+      <td>Alhemičarske zalihe
       </td>
-      <td> 50 gp
+      <td>50 gp
       </td>
-      <td> 8 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Pivarske zalihe
-      </td>
-      <td> 20 gp
-      </td>
-      <td> 9 lb.
+      <td>8 lb.
       </td>
    </tr>
    <tr>
-      <td> Kaligrafske zalihe
+      <td>Pivarske zalihe
       </td>
-      <td> 10 gp
+      <td>20 gp
       </td>
-      <td> 5 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Stolarski alati
-      </td>
-      <td> 8 gp
-      </td>
-      <td> 6 lb.
+      <td>9 lb.
       </td>
    </tr>
    <tr>
-      <td> Alati kartografa
+      <td>Kaligrafske zalihe
       </td>
-      <td> 15 gp
+      <td>10 gp
       </td>
-      <td> 6 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Obućarski alati
-      </td>
-      <td> 5 gp
-      </td>
-      <td> 5 lb.
+      <td>5 lb.
       </td>
    </tr>
    <tr>
-      <td> Kuvarski pribor
+      <td>Stolarski alati
       </td>
-      <td> 1 gp
+      <td>8 gp
       </td>
-      <td> 8 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Alati za puhanje stakla
-      </td>
-      <td> 30 gp
-      </td>
-      <td> 5 lb.
+      <td>6 lb.
       </td>
    </tr>
    <tr>
-      <td> Zlatarski alati
+      <td>Alati kartografa
       </td>
-      <td> 25 gp
+      <td>15 gp
       </td>
-      <td> 2 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Kožarevi alati
-      </td>
-      <td> 5 gp
-      </td>
-      <td> 5 lb.
+      <td>6 lb.
       </td>
    </tr>
    <tr>
-      <td> Zidarev alat
+      <td>Obućarski alati
       </td>
-      <td> 10 gp
+      <td>5 gp
       </td>
-      <td> 8 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Slikarske potrepštine
-      </td>
-      <td> 10 gp
-      </td>
-      <td> 5 lb.
+      <td>5 lb.
       </td>
    </tr>
    <tr>
-      <td> Alati grnčariju
+      <td>Kuvarski pribor
       </td>
-      <td> 10 gp
+      <td>1 gp
       </td>
-      <td> 3 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Kovačev alat
-      </td>
-      <td> 20 gp
-      </td>
-      <td> 8 lb.
+      <td>8 lb.
       </td>
    </tr>
    <tr>
-      <td> Alati za krpljenje
+      <td>Alati za puhanje stakla
       </td>
-      <td> 50 gp
+      <td>30 gp
       </td>
-      <td> 10 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Alati za tkanje
-      </td>
-      <td> 1 gp
-      </td>
-      <td> 5 lb.
+      <td>5 lb.
       </td>
    </tr>
    <tr>
-      <td> Alati za drvorez
+      <td>Zlatarski alati
       </td>
-      <td> 1 gp
+      <td>25 gp
       </td>
-      <td> 5 lb.
+      <td>2 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Kožarevi alati
+      </td>
+      <td>5 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Zidarev alat
+      </td>
+      <td>10 gp
+      </td>
+      <td>8 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Slikarske potrepštine
+      </td>
+      <td>10 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Alati grnčariju
+      </td>
+      <td>10 gp
+      </td>
+      <td>3 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Kovačev alat
+      </td>
+      <td>20 gp
+      </td>
+      <td>8 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Alati za krpljenje
+      </td>
+      <td>50 gp
+      </td>
+      <td>10 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Alati za tkanje
+      </td>
+      <td>1 gp
+      </td>
+      <td>5 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Alati za drvorez
+      </td>
+      <td>1 gp
+      </td>
+      <td>5 lb.
       </td>
    </tr>
 </table>
@@ -4347,91 +4347,91 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
 
 <table>
    <tr>
-      <td> <strong> Stavka </strong>
+      <td><strong>Stavka</strong>
       </td>
-      <td> <strong> Cijena </strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td> <strong> Težina </strong>
-      </td>
-   </tr>
-   <tr>
-      <td> Životinjski oklop
-      </td>
-      <td> k4
-      </td>
-      <td> k2
+      <td><strong>Težina</strong>
       </td>
    </tr>
    <tr>
-      <td> Bit i uzda
+      <td>Životinjski oklop
       </td>
-      <td> 2 gp
+      <td>k4
       </td>
-      <td> 1 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Fijaker
-      </td>
-      <td> 100 gp
-      </td>
-      <td> 600 lb.
+      <td>k2
       </td>
    </tr>
    <tr>
-      <td> Kolica
+      <td>Bit i uzda
       </td>
-      <td> 15 gp
+      <td>2 gp
       </td>
-      <td> 200 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Kočija
-      </td>
-      <td> 250 gp
-      </td>
-      <td> 100 lb.
+      <td>1 lb.
       </td>
    </tr>
    <tr>
-      <td> Hranjenje (po danu)
+      <td>Fijaker
       </td>
-      <td> 5 cp
+      <td>100 gp
       </td>
-      <td> 10 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Bisage (Tobre za sedlo)
-      </td>
-      <td> 4 gp
-      </td>
-      <td> 8 lb.
+      <td>600 lb.
       </td>
    </tr>
    <tr>
-      <td> Sanke
+      <td>Kolica
       </td>
-      <td> 20 gp
+      <td>15 gp
       </td>
-      <td> 300 lb.
-      </td>
-   </tr>
-   <tr>
-      <td> Štala (po danu)
-      </td>
-      <td> 5 sp
-      </td>
-      <td> -
+      <td>200 lb.
       </td>
    </tr>
    <tr>
-      <td> Vagon
+      <td>Kočija
       </td>
-      <td> 35 gp
+      <td>250 gp
       </td>
-      <td> 400 lb.
+      <td>100 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Hranjenje (po danu)
+      </td>
+      <td>5 cp
+      </td>
+      <td>10 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Bisage (Tobre za sedlo)
+      </td>
+      <td>4 gp
+      </td>
+      <td>8 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Sanke
+      </td>
+      <td>20 gp
+      </td>
+      <td>300 lb.
+      </td>
+   </tr>
+   <tr>
+      <td>Štala (po danu)
+      </td>
+      <td>5 sp
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Vagon
+      </td>
+      <td>35 gp
+      </td>
+      <td>400 lb.
       </td>
    </tr>
 </table>
@@ -4487,59 +4487,59 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
 
 <table>
    <tr>
-      <td> <strong>Stavka</strong>
+      <td><strong>Stavka</strong>
       </td>
-      <td> <strong>Cijena</strong>
+      <td><strong>Cijena</strong>
       </td>
-      <td> <strong>Brzina</strong>
-      </td>
-   </tr>
-   <tr>
-      <td> Galija
-      </td>
-      <td> 30.000 gp
-      </td>
-      <td> 4 mph
+      <td><strong>Brzina</strong>
       </td>
    </tr>
    <tr>
-      <td> Jedrilica
+      <td>Galija
       </td>
-      <td> 3.000 gp
+      <td>30.000 gp
       </td>
-      <td> 1 mph
-      </td>
-   </tr>
-   <tr>
-      <td> Dugi brod
-      </td>
-      <td> 10.000 gp
-      </td>
-      <td> 3 mph
+      <td>4 mph
       </td>
    </tr>
    <tr>
-      <td> Veslački čamac
+      <td>Jedrilica
       </td>
-      <td> 50 gp
+      <td>3.000 gp
       </td>
-      <td> 1 1/2 mph
-      </td>
-   </tr>
-   <tr>
-      <td> Jedrenjak
-      </td>
-      <td> 10.000 gp
-      </td>
-      <td> 2 mph
+      <td>1 mph
       </td>
    </tr>
    <tr>
-      <td> Ratni brod
+      <td>Dugi brod
       </td>
-      <td> 25.000 gp
+      <td>10.000 gp
       </td>
-      <td> 2 1/2 mph
+      <td>3 mph
+      </td>
+   </tr>
+   <tr>
+      <td>Veslački čamac
+      </td>
+      <td>50 gp
+      </td>
+      <td>1 1/2 mph
+      </td>
+   </tr>
+   <tr>
+      <td>Jedrenjak
+      </td>
+      <td>10.000 gp
+      </td>
+      <td>2 mph
+      </td>
+   </tr>
+   <tr>
+      <td>Ratni brod
+      </td>
+      <td>25.000 gp
+      </td>
+      <td>2 1/2 mph
       </td>
    </tr>
 </table>
@@ -5797,81 +5797,81 @@ Kada steknete nivo u klasi koji nije vaša po;etna, vi steknite samo neka počet
 
 <table>
    <tr>
-      <td> <strong> Klasa </strong>
+      <td><strong>Klasa</strong>
       </td>
-      <td> <strong> Stečena stručnost </strong>
-      </td>
-   </tr>
-   <tr>
-      <td> Varvar
-      </td>
-      <td> Štitovi, jednostavno oružje, borilačko oružje
+      <td><strong>Stečena stručnost</strong>
       </td>
    </tr>
    <tr>
-      <td> Bard
+      <td>Varvar
       </td>
-      <td> Lagani oklop, jedna veština po vašem izboru, jedan muzički instrument po vašem izboru
-      </td>
-   </tr>
-   <tr>
-      <td> Sveštenik
-      </td>
-      <td> Laki oklop, srednji oklop, štitovi
+      <td>Štitovi, jednostavno oružje, borilačko oružje
       </td>
    </tr>
    <tr>
-      <td> Druid
+      <td>Bard
       </td>
-      <td> Lagani oklop, srednji oklop, štitovi (druidi neće nositi oklop niti koristiti metalne štitove)
-      </td>
-   </tr>
-   <tr>
-      <td> Lovac
-      </td>
-      <td> Laki oklop, srednji oklop, štitovi, jednostavno oružje, borilačko oružje
+      <td>Lagani oklop, jedna veština po vašem izboru, jedan muzički instrument po vašem izboru
       </td>
    </tr>
    <tr>
-      <td> Monah
+      <td>Sveštenik
       </td>
-      <td> Jednostavno oružje, kratki mačevi
-      </td>
-   </tr>
-   <tr>
-      <td> Paladin
-      </td>
-      <td> Laki oklop, srednji oklop, štitovi, jednostavno oružje, borilačko oružje
+      <td>Laki oklop, srednji oklop, štitovi
       </td>
    </tr>
    <tr>
-      <td> Rendžer
+      <td>Druid
       </td>
-      <td> Laki oklop, srednji oklop, štitovi, jednostavno oružje, borilačko oružje, jedna veština sa spiska veština klase
-      </td>
-   </tr>
-   <tr>
-      <td> Nevaljalac
-      </td>
-      <td> Lagani oklop, jedna veština sa spiska veština klase, alati za lopove
+      <td>Lagani oklop, srednji oklop, štitovi (druidi neće nositi oklop niti koristiti metalne štitove)
       </td>
    </tr>
    <tr>
-      <td> Vrač
+      <td>Lovac
       </td>
-      <td> -
-      </td>
-   </tr>
-   <tr>
-      <td> Varlock
-      </td>
-      <td> Laki oklop, jednostavno oružje
+      <td>Laki oklop, srednji oklop, štitovi, jednostavno oružje, borilačko oružje
       </td>
    </tr>
    <tr>
-      <td> Čarobnjak
+      <td>Monah
       </td>
-      <td> -
+      <td>Jednostavno oružje, kratki mačevi
+      </td>
+   </tr>
+   <tr>
+      <td>Paladin
+      </td>
+      <td>Laki oklop, srednji oklop, štitovi, jednostavno oružje, borilačko oružje
+      </td>
+   </tr>
+   <tr>
+      <td>Rendžer
+      </td>
+      <td>Laki oklop, srednji oklop, štitovi, jednostavno oružje, borilačko oružje, jedna veština sa spiska veština klase
+      </td>
+   </tr>
+   <tr>
+      <td>Nevaljalac
+      </td>
+      <td>Lagani oklop, jedna veština sa spiska veština klase, alati za lopove
+      </td>
+   </tr>
+   <tr>
+      <td>Vrač
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>Veštac
+      </td>
+      <td>Laki oklop, jednostavno oružje
+      </td>
+   </tr>
+   <tr>
+      <td>Čarobnjak
+      </td>
+      <td>-
       </td>
    </tr>
 </table>
@@ -5880,7 +5880,498 @@ Kada steknete nivo u klasi koji nije vaša po;etna, vi steknite samo neka počet
 ### Karakteristike klase
 [D&D Beyond](https://www.dndbeyond.com/sources/basic-rules/customization-options#ClassFeatures)
 
-Kada steknete novi nivo u klasi, dobijate njegove karakteristike za taj nivo. Nekoliko karakteristika, međutim, ima dodatne pravila kada koristite više klasa. Pogledajte poglavlje 6 Priručnika za igrača za više informacija.
+Kada steknete novi nivo u klasi, dobijate njene karakteristike za taj nivo. Nekoliko karakteristika, međutim, ima dodatne pravila kada koristite više klasa: Usmjeravanje božanstva, dodatni napad, nenaoružana odbrana i čarolija.
+
+#### Usmjeravanje Božanstva
+Ako već imate sposobnost Usmjeravanje Božanstva i dostignete nivo u klasi koja takođe dodeljuje istu, dobijate efekte Usmjeravanja Božanstva koje dodeljuje ta klasa, ali ponovno dobijanje sposobnosti ne znači da je možete dodatno koristiti. Dodatnu upotrebu dobijate samo kada dostignete nivo klase koji vam ih izričito dodeljuje. Na primer, ako ste sveštenik 6 / paladin 4, možete dva puta da koristite Usmjeravanje Božanstva između odmora jer ste dovoljno visok u klasi sveštenika da biste mogli više koristi više puta. Kad god koristite sposobnost, možete odabrati bilo koji od efekata Usmjeravanje Božanstva koji su vam dostupni iz vaše dve klase.
+
+#### Dodatni Napad
+Ako funkciju klase Dodatni mbapad dobijete iz više klasa, funkcije se neće zbrajati. Ovom funkcijom ne možete izvršiti više od dva napada, osim ako ona to kaže (kao što to čini borbena verzija Dodatni Napad). Slično tome, vještčev tajanstveni priziv Thirsting Blade ne daje vam dodatne napade ako imate i Dodatni Napad.
+
+#### Odbrana Bez Oklopa
+Ako već imate funkciju Odbrane Bez Oklopa, ne možete je ponovo dobiti od druge klase.
+
+### Čaranje
+Vaš kapacitet za čaranje delimično zavisi od vaših kombinovanih nivoa u svim vašim klasama čaranja, a delom od vaših individualnih nivoa u tim klasama. Jednom kada imate funkciju čaranja iz više klasa, koristite dole navedena pravila. Ako imate više klasa, ali imate funkciju Čaranja iz samo jedne klase, sledite pravila opisana u toj klasi.
+
+**Čarolije poznate i pripremljene.** Vi određujete koje čarolije znate i možete da pripremite za svaku klasu ponaosob, kao da ste član te klase sa jednim klasifikovanjem. Na primer, ako ste rendžer 4 / čarobnjak 3, znate tri čarolije rendžera 1. nivoa na osnovu vaših nivoa u klasi rendžera. Kao čarobnjak 3. nivoa znate tri čarobnjakova cantripa, a vaša knjiga čarolija sadrži deset čarobnjačkih čarolija, od kojih dve (dve koje ste stekli kada ste kao čarobnjak dostigli 3. nivo) mogu biti čarolije drugog nivoa. Ako je vaša inteligencija 16, možete pripremiti šest čarobnjačkih čarolija.
+
+Svaka čarolija koju poznajete i pripremite povezana je sa nekom od vaših klasa, a vi koristite čarobnu sposobnost te klase kada pravite čaroliju. Slično tome, fokus čarolije, kao što je sveti simbol, može se koristiti samo za čarolije iz klase povezane sa tim fokusom.
+
+**Slotovi čarolija** Dostupne slotove čarolija određujete dodavanjem svih nivoa u razredima bard, sveštenik, druid, vrač i čarobnjak i polovinu nivoa (zaokruženo nadole) u razredima paladina i rendžera. Koristite ovaj ukupan iznos da biste odredili slotove čarolija konsultujući tabelu Višeklasni bacač čarolija.
+
+Ako imate više od jedne klase čaranja, ova tabela vam može dati slotove čarolija na nivou koji je viši od čarolija koji znate ili možete pripremiti. Možete koristiti te slotove, ali samo za bacanje čarolija nižeg nivoa. Ako čarolija nižeg nivoa koju bacate, poput gorećih ruku, ima pojačani efekat kada se baci pomoću slota višeg nivoa, možete da koristite poboljšani efekat, iako nemate čarolije tog višeg nivoa.
+
+Na primer, ako ste pomenuti rendžer 4 / čarobnjak 3, računate se kao lik 5. nivoa pri određivanju slotova čarolija: imate četiri slota 1. nivoa, tri slota 2. nivoa i dva slota 3. nivoa. Međutim, ne znate nijednu čaroliju 3. nivoa, niti poznajete bilo koju čaroliju rendžera 2. nivoa. Možete koristiti slotove za čarolije tih nivoa da biste bacili čarolije koje znate - i potencijalno poboljšali njihove efekte.
+
+**Pakt magije.** Ako imate i sposobnosti klase čaranja i sposobnosti klase Pakt Magije iz klase veštac, možete koristiti slotove za čarolije koje steknete od sa Paktom Magije da biste bacali čarolije koje znate ili ste ih pripremili iz klase sa sposobnostima Čaranja, a može da koristi i slotove za čarolije koje steknete pomoću klase sa sposobnostima Čaranja da biste bacali čarolije veštca koje znate.
+
+**Višeklasni bacač čarolija**
+
+<table>
+   <tr>
+      <td><strong>Novo</strong>
+      </td>
+      <td><strong>1</strong>
+      </td>
+      <td><strong>2</strong>
+      </td>
+      <td><strong>3</strong>
+      </td>
+      <td><strong>4</strong>
+      </td>
+      <td><strong>5</strong>
+      </td>
+      <td><strong>6</strong>
+      </td>
+      <td><strong>7</strong>
+      </td>
+      <td><strong>8</strong>
+      </td>
+      <td><strong>9</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>1
+      </td>
+      <td>2
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>2
+      </td>
+      <td>3
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>3
+      </td>
+      <td>4
+      </td>
+      <td>2
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>4
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>5
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>2
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>6
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>7
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>1
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>8
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>2
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>9
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>1
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>10
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>2
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>11
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>2
+      </td>
+      <td>1
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>12
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>2
+      </td>
+      <td>1
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>13
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>2
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>14
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>2
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+      <td>-
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>15
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>2
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>16
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>2
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+      <td>-
+      </td>
+   </tr>
+   <tr>
+      <td>17
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>2
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+   </tr>
+   <tr>
+      <td>18
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+   </tr>
+   <tr>
+      <td>19
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>2
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+   </tr>
+   <tr>
+      <td>20
+      </td>
+      <td>4
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>3
+      </td>
+      <td>2
+      </td>
+      <td>2
+      </td>
+      <td>1
+      </td>
+      <td>1
+      </td>
+   </tr>
+</table>
 
 
 ## Podvizi
