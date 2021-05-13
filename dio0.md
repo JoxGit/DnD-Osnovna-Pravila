@@ -12,7 +12,7 @@ Igra uloga Dungeons & Dragons govori o pripovedanju u svetovima mačeva i čaran
 
 Za razliku od igre izmišljanja, D&D daje strukturu pričama, način utvrđivanja posledica akcije avanturista. Igrači bacaju kockice da bi rešili da li njihovi napadi pogađaju ili promašuju ili mogu li njihovi avanturisti popeti se na liticu, odkotrljati se od udara magične munje ili izvesti neki drugi opasan zadatak. Sve je moguće, ali kockice čine neke ishode verovatnijim od drugih.
 
-> **Majstor tamnice (DM)**: U redu, jedan po jedan. Phillip, gledaš li gargojle?
+> **Gospodar tamnice (DM)**: U redu, jedan po jedan. Phillip, gledaš li gargojle?
 > 
 > **Phillip**: Da. Postoji li nagoveštaj da bi to mogla biti bića, a ne ukrasi?
 > 
