@@ -2823,7 +2823,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
 
 
 
-### Arcanski Fokus
+### Arkanski Fokus
 
 <table>
    <tr>
