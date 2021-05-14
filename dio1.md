@@ -4271,7 +4271,7 @@ Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično 
       </td>
    </tr>
    <tr>
-      <td>Donkey or <a href="https://www.dndbeyond.com/monsters/mule">Mula</a>
+      <td>Magarac ili <a href="https://www.dndbeyond.com/monsters/mule">Mula</a>
       </td>
       <td>8 gp
       </td>
