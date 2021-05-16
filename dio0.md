@@ -101,7 +101,7 @@ Ista oznaka d pojavljuje se u izrazima „1d3“ i „1d2“. Da biste simuliral
 
 Da li zamah avanturistinog mača povređuje zmaja ili se samo odbija od njegove tvrde gvozdene krljušti? Da li će čudovište verovati nečuvenom blefu? Može li lik preplivati nabujalu reku? Da li lik može da izbegne glavnu eksploziju vatrene kugle ili on ili ona dobije pun udar od plamena? U slučajevima kada je ishod neke akcije neizvestan, igra Dungeons & Dragons oslanja se na bacanja 20-strane kocke, d20, da bi se utvrdio uspeh ili neuspeh.
 
-Svaki lik i čudovište u igri ima sposobnosti definisane sa šest ocena sposobnosti. Sposobnosti su snaga, spretnost, stav, inteligencija, mudrost i karizma, a obično se kreću od 3 do 18 za većinu avanturista. (Čudovišta mogu imati ocene od 1 do 30.) Ovi rezultati sposobnosti i modifikatori sposobnosti izvedeni iz njih su osnova za skoro svako d20 bacanje koje igrač napravi u ime lika ili čudovišta.
+Svaki lik i čudovište u igri ima sposobnosti definisane sa šest ocena sposobnosti. Sposobnosti su snaga, spretnost, građa, inteligencija, mudrost i harizma, a obično se kreću od 3 do 18 za većinu avanturista. (Čudovišta mogu imati ocene od 1 do 30.) Ovi rezultati sposobnosti i modifikatori sposobnosti izvedeni iz njih su osnova za skoro svako d20 bacanje koje igrač napravi u ime lika ili čudovišta.
 
 Provere sposobnosti, bacanja napada i spasilačka bacanja su tri glavne vrste bacanja d20, čineći srž pravila igre. Sva tri slede ove jednostavne korake.
 

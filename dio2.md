@@ -6,7 +6,7 @@
 # Poglavlje 7: Korišćenje bodova sposobnost
 [D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores)
 
-Šest sposobnosti pruža brz opis fizičkih i mentalnih karakteristika svakog stvorenja: **Snaga**, merenje fizičke snage **Spretnost**, merenje okretnosti **Stav**, merenje izdržljivosti **Inteligencija**, merenje rasuđivanja i pamćenja **Mudrost**, merenje percepcije i uvida **Karizma**, merenje snage ličnosti.
+Šest sposobnosti pruža brz opis fizičkih i mentalnih karakteristika svakog stvorenja: **Snaga**, merenje fizičke snage **Spretnost**, merenje okretnosti **Građa**, merenje izdržljivosti **Inteligencija**, merenje rasuđivanja i pamćenja **Mudrost**, merenje percepcije i uvida **Karizma**, merenje snage ličnosti.
 
 Da li je lik vezan za mišiće i pronicljiv? Sjajan i šarmantan? Spretan i izdržljiv? Ocene sposobnosti definišu ove kvalitete - vrline stvorenja kao i slabosti.
 
@@ -288,7 +288,7 @@ Svaka sposobnost pokriva širok spektar mogućnosti, uključujući veštine u 
 
 Na primer, provera spretnosti može odražavati pokušaj lika da izvede akrobatski trik, da uzme neki predmet ili ostane skriven. Svaki od ovih aspekata Spretnosti ima povezane veštine: akrobatiku, sposobnost rukovanja i skrivanja. Dakle, lik koji ima profesionalnost u veštini Skivanja posebno je dobar u spretnosti u vezi sa šunjanjem i skrivanjem.
 
-Veštine povezane sa svakom ocenom sposobnosti prikazane su na sledećoj listi. (Nijedna veština nije povezana sa stavom.) Pogledajte opis sposobnosti u kasnijim odeljcima ovog poglavlja za primere kako se koristi veština povezana sa sposobnošću.
+Veštine povezane sa svakom ocenom sposobnosti prikazane su na sledećoj listi. (Nijedna veština nije povezana sa građom.) Pogledajte opis sposobnosti u kasnijim odeljcima ovog poglavlja za primere kako se koristi veština povezana sa sposobnošću.
 
 
 <table>
@@ -374,7 +374,7 @@ Na primer, ako lik pokušava da se popne na opasnu liticu, Gospodar tamnice mož
 
 #### Varijanta: Veštine različitih sposobnosti
 
-Obično se vaša stručnost veštine odnosi samo na određenu vrstu provere sposobnosti. Na primer, stručnost u atletici obično se odnosi na provere snage. Međutim, u nekim se situacijama vaša stručnost može opravdano primeniti na drugu vrstu provere. U takvim slučajevima, DM može zatražiti provjeru koristeći neobičnu kombinaciju sposobnosti i veštine, ili možete zatražiti od svog DM-a da li možete primeniti znanje na drugoj provjeri. Na primer, ako morate da preplivate sa ostrva do kopna, vaš DM će možda zatražiti proveru Stava da biste videli da li imate izdržljivosti da biste stigli toliko daleko. U ovom slučaju, vaš DM vam može omogućiti da primenite svoje znanje iz atletike i zatražite proveru Stava (atletika). Dakle, ako ste stručnjak za atletiku, svoj bonus za stručnost primenite na proveru Stava baš kao što biste to obično uradili za proveru snage (atletika). Slično tome, kada vaš patuljasti borac koristi prikaz sirove snage za zastrašivanje neprijatelja, vaš DM može zatražiti proveru Snage (zastrašivanja), iako je zastrašivanje obično povezano sa Karizmom.
+Obično se vaša stručnost veštine odnosi samo na određenu vrstu provere sposobnosti. Na primer, stručnost u atletici obično se odnosi na provere snage. Međutim, u nekim se situacijama vaša stručnost može opravdano primeniti na drugu vrstu provere. U takvim slučajevima, DM može zatražiti provjeru koristeći neobičnu kombinaciju sposobnosti i veštine, ili možete zatražiti od svog DM-a da li možete primeniti znanje na drugoj provjeri. Na primer, ako morate da preplivate sa ostrva do kopna, vaš DM će možda zatražiti proveru Građe da biste videli da li imate izdržljivosti da biste stigli toliko daleko. U ovom slučaju, vaš DM vam može omogućiti da primenite svoje znanje iz atletike i zatražite proveru Građe (atletika). Dakle, ako ste stručnjak za atletiku, svoj bonus za stručnost primenite na proveru Građe baš kao što biste to obično uradili za proveru snage (atletika). Slično tome, kada vaš patuljasti borac koristi prikaz sirove snage za zastrašivanje neprijatelja, vaš DM može zatražiti proveru Snage (zastrašivanja), iako je zastrašivanje obično povezano sa Karizmom.
 
 
 ### Pasivne provere
@@ -469,7 +469,7 @@ Pravila za dizanje i nošenje su namerno jednostavna. Evo varijante ako tražite
 
 Ako nosite težinu veću od 5 puta vaše ocene snage, **opterećeni** ste, što znači da vam brzina pada za 10 stopa.
 
-Ako nosite težinu veću od 10 puta vaše ocene snage, do vaše maksimalne nosivosti, umesto toga ste **opterećeni**, što znači da vaša brzina pada za 20 stopa i imate nedostatak u proveri sposobnosti, napadačkim rolama i spasilačkim bacanjima koja koriste Snaga, spretnost ili ustava.
+Ako nosite težinu veću od 10 puta vaše ocene snage, do vaše maksimalne nosivosti, umesto toga ste **opterećeni**, što znači da vaša brzina pada za 20 stopa i imate nedostatak u proveri sposobnosti, napadačkim rolama i spasilačkim bacanjima koja koriste Snaga, spretnost ili garđa.
 
 
 ### Spretnost
@@ -537,16 +537,16 @@ Na početku svake borbe pokrećete inicijativu proverom spretnosti. Inicijativa
 >**Šta možeš da vidiš?** Jedan od glavnih faktora pri utvrđivanju da li možete pronaći skriveno biće ili predmet jeste koliko dobro vidite u području koje može biti lagano ili jako zaklonjeno, kao što je objašnjeno u poglavlju 8.
 
 
-### Stav
+### Građa
 
-Ustav meri zdravlje, izdržljivost i vitalnu snagu.
+Građa meri zdravlje, izdržljivost i vitalnu snagu.
 
 
-#### Provere stava
+#### Provere građe
 
-Provera ustavnosti je neuobičajena i nijedna veština se ne primenjuje na proveru ustava, jer je izdržljivost koju ova sposobnost predstavlja uglavnom pasivna, a ne podrazumeva određeni napor lika ili čudovišta. Provera ustavnosti, međutim, može modelirati vaš pokušaj da pređete normalne granice.
+Provera građe je neuobičajena i nijedna veština se ne primenjuje na proveru građe, jer je izdržljivost koju ova sposobnost predstavlja uglavnom pasivna, a ne podrazumeva određeni napor lika ili čudovišta. Provera građe, međutim, može modelirati vaš pokušaj da pređete normalne granice.
 
-DM može zatražiti proveru ustavnosti kada pokušate da izvršite zadatke poput sledećih:
+DM može zatražiti proveru građe kada pokušate da izvršite zadatke poput sledećih:
 
 • Zadržite dah
 
@@ -561,9 +561,9 @@ DM može zatražiti proveru ustavnosti kada pokušate da izvršite zadatke poput
 
 #### Hit Points
 
-Vaš modifikator Ustava doprinosi vašim pogodacima. Tipično dodajete svoj modifikator Ustava u svaki udarac koji ubacite za svoje pogotke.
+Vaš modifikator Građe doprinosi vašim pogodacima. Tipično dodajete svoj modifikator Građe u svaki udarac koji ubacite za svoje pogotke.
 
-Ako se vaš modifikator Ustava promeni, maksimalni broj pogodaka se takođe menja, kao da ste novi modifikator imali sa prvog nivoa. Na primer, ako povisite ustavnu ocenu kada dostignete 4. nivo, a vaš modifikator ustavnosti se poveća sa +1 na +2, prilagođavate maksimum svoje pogođene tačke kao da je modifikator uvek bio +2. Dakle, dodajete 3 pogodaka za prva tri nivoa, a zatim kotrljate pogođene poene za 4. nivo pomoću novog modifikatora. Ili ako ste sedmi nivo i neki efekat smanjuje ocenu ustavnosti tako da modifikator ustavnosti smanji za 1, maksimalan broj pogodaka smanjuje se za 7.
+Ako se vaš modifikator Građe promeni, maksimalni broj pogodaka se takođe menja, kao da ste novi modifikator imali sa prvog nivoa. Na primer, ako povisite ocenu građe kada dostignete 4. nivo, a vaš modifikator građe se poveća sa +1 na +2, prilagođavate maksimum svoje pogođene tačke kao da je modifikator uvek bio +2. Dakle, dodajete 3 pogodaka za prva tri nivoa, a zatim kotrljate pogođene poene za 4. nivo pomoću novog modifikatora. Ili ako ste sedmi nivo i neki efekat smanjuje ocenu građe tako da modifikator građe smanji za 1, maksimalan broj pogodaka smanjuje se za 7.
 
 
 ### Inteligencija
@@ -895,11 +895,11 @@ Stvorenje sleti sklono, osim ako ne izbegne da pretrpi štetu od pada.
 
 ### Gušenje
 
-Stvorenje može da zadrži dah nekoliko minuta jednako 1 + njegovom modifikatoru Ustava (najmanje 30 sekundi).
+Stvorenje može da zadrži dah nekoliko minuta jednako 1 + njegovom modifikatoru Građe (najmanje 30 sekundi).
 
 Kada stvorenju ostane bez daha ili se guši, može preživeti nekoliko rundi jednakih njegovom modifikatoru konstitucije (najmanje 1 runda). Na početku svog sledećeg zavoja pada na 0 pogodaka i umire i ne može ponovo da osvoji poene ili da se stabilizuje dok ponovo ne može da diše.
 
-Na primer, stvorenje sa Ustavom od 14 može da zadrži dah 3 minuta. Ako počne da se guši, ima 2 runde da dostigne vazduh pre nego što padne na 0 pogodaka.
+Na primer, stvorenje sa Građom od 14 može da zadrži dah 3 minuta. Ako počne da se guši, ima 2 runde da dostigne vazduh pre nego što padne na 0 pogodaka.
 
 
 ### Vid i Svetlost
@@ -943,14 +943,14 @@ Likovi koji ne jedu i ne piju trpe posledice iscrpljenosti (vidi dodatak A). Isc
 
 Liku je potreban jedan kilogram hrane dnevno i može učiniti da hrana duže traje izdržavanjem na pola obroka. Jedenje pola kilograma hrane dnevno računa se kao pola dana bez hrane.
 
-Lik može ostati bez hrane tokom nekoliko dana jednakih 3 + njegovog ili njenog modifikatora ustava (najmanje 1). Na kraju svakog dana preko te granice, lik automatski pati od jednog nivoa iscrpljenosti.
+Lik može ostati bez hrane tokom nekoliko dana jednakih 3 + njegovog ili njenog modifikatora građe (najmanje 1). Na kraju svakog dana preko te granice, lik automatski pati od jednog nivoa iscrpljenosti.
 
 Uobičajeni dan jedenja resetuje broj dana bez hrane na nulu.
 
 
 #### Voda
 
-Liku je potreban jedan galon vode dnevno ili dva galona dnevno ako je vruće vreme. Lik koji popije samo upola manje vode mora uspeti na uštedi ustava DC 15 ili pretrpeti jedan nivo iscrpljenosti na kraju dana. Lik sa pristupom još manje vode automatski pati od jednog nivoa iscrpljenosti na kraju dana.
+Liku je potreban jedan galon vode dnevno ili dva galona dnevno ako je vruće vreme. Lik koji popije samo upola manje vode mora uspeti na uštedi građe DC 15 ili pretrpeti jedan nivo iscrpljenosti na kraju dana. Lik sa pristupom još manje vode automatski pati od jednog nivoa iscrpljenosti na kraju dana.
 
 Ako lik već ima jedan ili više nivoa iscrpljenosti, lik zauzima dva nivoa u oba slučaja.
 
@@ -1047,7 +1047,7 @@ Avanturisti, kao i druga stvorenja, mogu da se odmore usred dana i da se dugo od
 
 Kratki odmor je period zastoja, dug najmanje 1 sat, tokom kojeg lik ne radi ništa napornije od jedenja, pijenja, čitanja i nege rana.
 
-Lik može da potroši jednu ili više Hit Dice na kraju kratkog odmora, do maksimalnog broja Hit Dice lika, koji je jednak nivou lika. Za svaki Hit Die utrošen na ovaj način, igrač baca kockicu i dodaje joj modifikator ustava lika. Lik vraća pogođene poene jednake ukupnom (najmanje 0). Igrač može da odluči da potroši dodatni Hit Die nakon svakog bacanja. Lik vraća neke potrošene Hit Dice nakon završetka dugog odmora, kao što je objašnjeno u nastavku.
+Lik može da potroši jednu ili više Hit Dice na kraju kratkog odmora, do maksimalnog broja Hit Dice lika, koji je jednak nivou lika. Za svaki Hit Die utrošen na ovaj način, igrač baca kockicu i dodaje joj modifikator građe lika. Lik vraća pogođene poene jednake ukupnom (najmanje 0). Igrač može da odluči da potroši dodatni Hit Die nakon svakog bacanja. Lik vraća neke potrošene Hit Dice nakon završetka dugog odmora, kao što je objašnjeno u nastavku.
 
 
 ### Dug odmor

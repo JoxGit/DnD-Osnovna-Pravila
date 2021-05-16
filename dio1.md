@@ -59,7 +59,7 @@ Zapišitte svoj nivo na listu kataktera. Ako započinjete sa višim nivoom, zabe
 
 ### Poeni za pogodak ii kockice pogodka
 
-Poeni za pogodak vašeg lika definišu koliko je čvrst vaš lik u borbi i drugim opasnim situacijama. Poeni za pogodak određuju se vašim kockicama kockama pogodka. Na 1. nivou, vaš lik ima 1 kocku pogodka, a tiu kocku određuje vaša klasa. Počinjete sa poenima za pogodak jednakim najvišem bacanju te kockice, kako je naznačeno u opisu vaše klase. (Takođe dodajete svoj modifikator Stava, koji ćete odrediti u koraku 3.) Ovo je ujedno i **vaš maksimum poena za pogodak**.
+Poeni za pogodak vašeg lika definišu koliko je čvrst vaš lik u borbi i drugim opasnim situacijama. Poeni za pogodak određuju se vašim kockicama kockama pogodka. Na 1. nivou, vaš lik ima 1 kocku pogodka, a tiu kocku određuje vaša klasa. Počinjete sa poenima za pogodak jednakim najvišem bacanju te kockice, kako je naznačeno u opisu vaše klase. (Takođe dodajete svoj modifikator Građe, koji ćete odrediti u koraku 3.) Ovo je ujedno i **vaš maksimum poena za pogodak**.
 
 Upišite poene za pogodak svog lika na listu sa likovima. Takođe zabeležite vrstu kocke za pogodak koji vaš lik koristi i broj kocki za pogodak koji imate. Nakon što se odmorite, možete iskoristiti kocke za pogodke da biste povratili poene za pogodak (pogledajte „Odmaranje“ u poglavlju 8).
 
@@ -85,27 +85,27 @@ Vaš bonus za stručnost se ne može dodati jednoj kocki ili drugim brojevima vi
 >
 >Bob zamišlja Bruenor-a kako u borbu kreće sekirom, s jednim odbijenim rogom na kacigi. Od Bruenora pravi borca i beleži njegovo znanje i karakteristike klase 1. nivoa na njegovom listu s likovima.
 >
->Kao borac prvog nivoa, Bruenor ima 1 kocku za pogodak - d10 - i započinje sa pogođenim bodovima jednakim 10 + njegovom modifikatoru Stava. Bob to beleži i zabeležiće konačni broj nakon što odredi ocenu Bruenorovog stava (vidi korak 3). Bob takođe bilježi i bonus za stručnost za lik prvog nivoa, koji je +2.
+>Kao borac prvog nivoa, Bruenor ima 1 kocku za pogodak - d10 - i započinje sa pogođenim bodovima jednakim 10 + njegovom modifikatoru Građe. Bob to beleži i zabeležiće konačni broj nakon što odredi ocenu Bruenorove građe (vidi korak 3). Bob takođe bilježi i bonus za stručnost za lik prvog nivoa, koji je +2.
 
 
 ## 3. Određivanje ocena sposobnosti
 
-Mnogo onoga što vaš lik radi u igri zavisi od njegovih šest sposobnosti: **Snaga, Spretnost, Stav (konstitucija), Inteligencija, Mudrost i Harizma**. Svaka sposobnost ima rezultat, što je broj koji beležite na svom listu karaktera.
+Mnogo onoga što vaš lik radi u igri zavisi od njegovih šest sposobnosti: **Snaga, Spretnost, Građa, Inteligencija, Mudrost i Harizma**. Svaka sposobnost ima rezultat, što je broj koji beležite na svom listu karaktera.
 
 Šest sposobnosti i njihova upotreba u igri opisani su u poglavlju 7. Tabela sažetka rezultata sposobnosti pruža brzu referencu za to koje se osobine mere svakom sposobnošću, koje rase povećavaju koje sposobnosti i koje klase svaku sposobnost smatraju posebno važnom.
 
 Slučajno generišete šest ocena sposobnosti vašeg lika. Bacite četiri šestostrane kockice i zabeležite zbir najviše tri kockice na komad papira. Uradite to još pet puta, tako da imate šest brojeva. Ako želite da uštedite vreme ili vam se ne sviđa ideja nasumičnog određivanja ocena sposobnosti, umesto toga možete da koristite sledeće ocene: 15, 14, 13, 12, 10, 8.
 
-Sada uzmite svojih šest brojeva i napišite svaki broj pored jedne od šest sposobnosti vašeg lika da dodelite ocene Snazi, Spretnosti, Stavu,, Inteligenciji, Mudrosti i Harizmi. Posle toga, napravite bilo kakve promene u rezultatima vaših sposobnosti kao rezultat vašeg odabira rase.
+Sada uzmite svojih šest brojeva i napišite svaki broj pored jedne od šest sposobnosti vašeg lika da dodelite ocene Snazi, Spretnosti, Građi, Inteligenciji, Mudrosti i Harizmi. Posle toga, napravite bilo kakve promene u rezultatima vaših sposobnosti kao rezultat vašeg odabira rase.
 
 Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i koristeći tabelu Ocene sposobnosti i Modifikatori. Da biste odredili modifikator sposobnosti bez konsultovanja sa tabelom, od ocene sposobnosti oduzmite 10, a zatim podelite rezultat sa 2 (zaokružite nadole). Napišite modifikator pored svake vaše ocene.
 
 
 >**Izgradnja Bruenora, 3. korak**
 >
->Bob odlučuje da koristi standardni skup ocena (15, 14, 13, 12, 10, 8) za Bruenorove sposobnosti. Budući da je borac, svoj najviši rezultat, 15, dodjeljuje Snazi. Njegov sledeći najviši, 14, ide u Stav. Bruenor je možda drski borac, ali Bob odlučuje da želi da patuljak bude stariji, mudriji i dobar vođa, pa postavlja pristojne rezultate u Mudrosti i Harizmi. Nakon primene njegovih rasnih koristi (povećanje Bruenorovog stava za 2 i njegove Snage za 2), ocene i modifikatori Bruenorove sposobnosti izgledaju ovako: Snaga 17 (+3), Spretnost 10 (+0), Stav 16 (+3), Inteligencija 8 (–1), Mudrost 13 (+1), Harizma 12 (+1).
+>Bob odlučuje da koristi standardni skup ocena (15, 14, 13, 12, 10, 8) za Bruenorove sposobnosti. Budući da je borac, svoj najviši rezultat, 15, dodjeljuje Snazi. Njegov sledeći najviši, 14, ide u Građu. Bruenor je možda drski borac, ali Bob odlučuje da želi da patuljak bude stariji, mudriji i dobar vođa, pa postavlja pristojne rezultate u Mudrosti i Harizmi. Nakon primene njegovih rasnih koristi (povećanje Bruenorove građe za 2 i njegove Snage za 2), ocene i modifikatori Bruenorove sposobnosti izgledaju ovako: Snaga 17 (+3), Spretnost 10 (+0), Građa 16 (+3), Inteligencija 8 (–1), Mudrost 13 (+1), Harizma 12 (+1).
 >
->Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator stava od +3, za ukupno 13 poena za pogodak.
+>Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator građe od +3, za ukupno 13 poena za pogodak.
 
 
 ### Varijanta: Prilagođavanje ocjena sposobnosti
@@ -303,7 +303,7 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
 
 <table>
    <tr>
-      <td><strong>Stav (konstitucija)</strong>
+      <td><strong>Građa</strong>
       </td>
    </tr>
    <tr>
@@ -425,7 +425,7 @@ Na primer, velika snaga obično odgovara krupnom ili atletskom telu, dok lik sa 
 
 Lik visoke spretnosti verovatno je gipk i vitak, dok lik niske spretnosti može biti ili žgoljav i nespretan ili težak i debelih prstiju.
 
-Lik sa visokom konstitucijom (stavom) obično izgleda zdrav, bistrih očiju i obilne energije. Karakter sa niskim stavom mogao bi biti boležljiv ili slab.
+Lik sa visokom konstitucijom (građom) obično izgleda zdrav, bistrih očiju i obilne energije. Karakter sa niskim građom mogao bi biti boležljiv ili slab.
 
 Lik sa visokom inteligencijom može biti vrlo radoznao i studiozan, dok lik sa niskom inteligencijom može jednostavno ili lako zaboraviti detalje.
 
@@ -438,7 +438,7 @@ Lik sa visokom harizmom odiše samopouzdanjem, koje se obično meša sa graciozn
 
 >**Izgradnja Bruenora, 4. korak**
 >
->Bob ispunjava neke Bruenorove osnovne detalje: njegovo ime, pol (muški), visinu i težinu i poravnanje (zakonski dobro). Njegova visoka snaga i stav sugerišu zdravo, atletsko telo, a niska inteligencija ukazuje na stepen zaborava.
+>Bob ispunjava neke Bruenorove osnovne detalje: njegovo ime, pol (muški), visinu i težinu i poravnanje (zakonski dobro). Njegova visoka snaga i građa sugerišu zdravo, atletsko telo, a niska inteligencija ukazuje na stepen zaborava.
 >
 >Bob odlučuje da Bruenor dolazi iz plemenite loze, ali je njegov klan proteran iz domovine kada je Bruenor bio vrlo mlad. Odrastao je radeći kao kovač u udaljenim selima Icevind Dale-a. Ali Bruenor ima herojsku sudbinu - da povrati svoju otadžbinu - pa Bob bira pozadinu narodnog heroja za svog patuljka. Primećuje profitabilnosti i posebnosti koje mu ova pozadina daje.
 >
@@ -499,9 +499,9 @@ Kako vaš lik odlazi u avanture i savladava izazove, on ili ona stiče iskustvo,
 
 Kada vaš lik dostigne nivo, njegova klasa često daje dodatne funkcije, kao što je detaljno opisano u opisu klase. Neke od ovih karakteristika omogućavaju vam da povećate ocene sposobnosti, ili povećavajući dve ocene za 1 ili povećavajući jedanu ocjenu za 2. Ne možete povećati ocenu sposobnosti iznad 20. Pored toga, bonus za sposobnost svakog lika se povećava na određenim nivoima.
 
-Svaki put kada osvojite nivo, dobijate 1 dodatnu kocku za pogodak. Bacite tu kocku za pogodak, dodajte svoj modifikator Stava i dodajte ukupan broj (najmanje 1) u svoje maksimalne poene pogodka. Alternativno, možete koristiti fiksnu vrednost prikazanu u unosu vaše klase, što je prosečni rezultat bacanja (zaokruženo).
+Svaki put kada osvojite nivo, dobijate 1 dodatnu kocku za pogodak. Bacite tu kocku za pogodak, dodajte svoj modifikator Građe i dodajte ukupan broj (najmanje 1) u svoje maksimalne poene pogodka. Alternativno, možete koristiti fiksnu vrednost prikazanu u unosu vaše klase, što je prosečni rezultat bacanja (zaokruženo).
 
-Kada se vaš modifikator Stava poveća za 1, maksimum poena pogodaka povećava se za 1 za svaki nivo koji ste postigli. Na primer, kada Bruenor dostigne 8. nivo kao borac, povećava svoj rezultat stava sa 17 na 18, povećavajući tako svoj modifikator stava sa +3 na +4. Tada se maksimum njegovih poena pogotka povećava za 8.
+Kada se vaš modifikator Građe poveća za 1, maksimum poena pogodaka povećava se za 1 za svaki nivo koji ste postigli. Na primer, kada Bruenor dostigne 8. nivo kao borac, povećava svoj rezultat građe sa 17 na 18, povećavajući tako svoj modifikator građe sa +3 na +4. Tada se maksimum njegovih poena pogotka povećava za 8.
 
 Tabela za unapređivanje karaktera rezimira XP koji vam je potreban za napredovanje u nivoima od nivoa 1 do nivoa 20 i bonus za stručnost za lik tog nivoa. Pogledajte informacije u opisu klase vašeg lika da biste videli koja još poboljšanja dobijate na svakom nivou.
 
@@ -725,7 +725,7 @@ Svaka rasa povećava jedan ili više rezultata sposobnosti lika.
 
 #### Starost
 
-Stavka uzrasta beleži starost kada se član rase smatra punoletnim, kao i očekivani životni vek rase. Ove informacije vam mogu pomoći da odlučite koliko je star vaš lik na početku igre. Možete odabrati bilo koje doba za svoj lik, što bi moglo objasniti neke od vaših ocena sposobnosti. Na primer, ako igrate mladog ili vrlo starog lika, vaše godine bi mogle objasniti posebno nizak rezultat snage ili stava, dok bi poodmaklo doba moglo predstavljati visoku inteligenciju ili mudrost.
+Stavka uzrasta beleži starost kada se član rase smatra punoletnim, kao i očekivani životni vek rase. Ove informacije vam mogu pomoći da odlučite koliko je star vaš lik na početku igre. Možete odabrati bilo koje doba za svoj lik, što bi moglo objasniti neke od vaših ocena sposobnosti. Na primer, ako igrate mladog ili vrlo starog lika, vaše godine bi mogle objasniti posebno nizak rezultat snage ili građe, dok bi poodmaklo doba moglo predstavljati visoku inteligenciju ili mudrost.
 
 
 #### Poravnanje
@@ -829,7 +829,7 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
       </td>
       <td>Snaga
       </td>
-      <td>Snaga i stav
+      <td>Snaga i građa
       </td>
       <td>Laki i srednji oklop, štitovi, jednostavno i borilačko oružje
       </td>
@@ -885,7 +885,7 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
       </td>
       <td>Snaga ili spretnost
       </td>
-      <td>Snaga i ustav
+      <td>Snaga i građa
       </td>
       <td>Svi oklopi, štitovi, jednostavno i borilačko oružje
       </td>
@@ -955,7 +955,7 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
       </td>
       <td>Harizma
       </td>
-      <td>Stav i harizma
+      <td>Građa i harizma
       </td>
       <td>Bodeži, strelice, praćke, motke, laki samostreli
       </td>
@@ -3703,7 +3703,7 @@ Sveštenik ili paladin može stvoriti svetu vodu izvođenjem posebnog rituala. I
 
 **Ulje**. Ulje se obično isporučuje u glinenoj čuturi koja sadrži 1 pintu. Kao akciju možete ulje iz ove čuture naprskati na biće unutar 5 stopa od vas ili baciti do 20 stopa, razbivši ga pri udaru. Izvršite napad iz daljine na ciljno stvorenje ili predmet, tretirajući ulje kao improvizovano oružje. Na pogotku, meta je prekrivena uljem. Ako meta preuzme bilo kakvu štetu od požara pre nego što se ulje osuši (nakon 1 minute), meta uzima dodatnih 5 oštećenja od požara od ulja koje gori. Možete i sipati bocu ulja na zemlju da biste pokrili površinu od 5 stopa, pod uslovom da površina je ravna. Ako gori, ulje gori dve runde i nanosi 5 oštećenja od vatre bilo kojem stvorenju koje uđe u područje ili završi svoj red u njemu. Stvorenje može da pretrpi ovu štetu samo jednom po potezu.
 
-**Otrov, običan**. Otrov u ovoj bočici možete koristiti za premazivanje jednog oružja za rezanje ili ubadanje ili do tri komada municije. Za primena otrova zahtjeva akciju. Stvorenje pogođeno otrovanim oružjem ili municijom mora da napravi spasonosno bacanje stava DC 10 ili da napravi 1d4 štete od otrova. Jednom primenjen, otrov zadržava snagu 1 minut pre sušenja.
+**Otrov, običan**. Otrov u ovoj bočici možete koristiti za premazivanje jednog oružja za rezanje ili ubadanje ili do tri komada municije. Za primena otrova zahtjeva akciju. Stvorenje pogođeno otrovanim oružjem ili municijom mora da napravi spasonosno bacanje građe DC 10 ili da napravi 1d4 štete od otrova. Jednom primenjen, otrov zadržava snagu 1 minut pre sušenja.
 
 **Napitak isceljenja**. Lik koji pije čarobnu crvenu tečnost u ovoj bočici vraća 2d4 + 2 pogotka. Pijenje ili davanje napitaka preduzima akciju.
 
