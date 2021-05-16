@@ -23,27 +23,62 @@
 
 # Osnovni termini - prevodi
 
-Dungeon Master (DM) - Gospodar Tamnice (DMs)
-Character Sheet - List Karaktera
-Ability Scores - Bodovi Sposobnosti
-Abiliti Modifiers - Modifikatori Sposobnosti
-Difficulty Class (DC) - Klasa težine (DC)
-Armor Class (AC) - Klasa Oklopa (AC)
-Magic - Magija ili Čarolija
-Spell - Čarolija
-Spellcaster - Bacaći ili korisnici magije / čarolije
-Race - Rasa
-Class - Klasa
-Level - Nivo
-Experience point (XP) - Bodovi iskustva (XP)
-Hit points (HP) - Životni poeni
-Hit die / Hit Dice (HD) - Kocka / kockice Života (HD)
-Proficiency Bonus - Ponis za stričnost
-Strength
-Dexterity
-Constitution
-Intelligence
-Wisdom
-Charisma
-
-
+* Dungeon Master (DM) - Gospodar Tamnice (DMs)
+* Character Sheet - List Karaktera
+* Ability Scores - Bodovi Sposobnosti
+* Abiliti Modifiers - Modifikatori Sposobnosti
+* Difficulty Class (DC) - Klasa težine (DC)
+* Armor Class (AC) - Klasa Oklopa (AC)
+* Magic - Magija ili Čarolija
+* Spell - Čarolija
+* Spellcasting - Čaranje
+* Spellcaster - Bacaći ili korisnici magije / čarolije
+* Experience point (XP) - Bodovi iskustva (XP)
+* Hit points (HP) - Životni poeni
+* Hit die / Hit Dice (HD) - Kocka / kockice Života (HD)
+* Proficiency Bonus - Ponis za stričnost
+* Strength - Snaga
+* Dexterity - Spretnost
+* Constitution - Građa
+* Intelligence - Inteligencija
+* Wisdom - Mudrost
+* Charisma - Harizma
+* Mele Wepoan - Oružije za blisku borbu
+* Range Weapon - Oružije za borbu na daljinu
+* Party - Družina
+* Dwarf - Patuljak
+* Elf - Vilenjak
+* Halfling - Polutan
+* Human - Čovjek
+* Dragonborn - Dragonborn
+* Gnome - Gnom
+* Half-Elf - Polu Vilenjak
+* Half-Orc - Polu Ork
+* Tiefling - Tifling
+* Barbarian - Varvar
+* Bard - Bard
+* Cleric - Sveštenik
+* Druid - Druid
+* Fighter - -Borac
+* Monk - Monah
+* Paladin - Paladin
+* Ranger - Rendžer
+* Rogue - Nevaljalac
+* Sorcerer - Vrač
+* Warlock - Veštac
+* Wizard - Čarobnjak
+* Alignament - Poravnanje
+* Personality Traits - Osobine ličnosti
+* Ideals - Ideali
+* Bonds -Veze
+* Flaws - Mane
+* Proficiencie - Stručnost
+* Acolyte - Sledbenik
+* Criminal - Kriminalac
+* Folk Hero - Narodni heroj
+* Noble - Plemenit
+* Sage - Mudrac
+* Soldier - Vojnik
+* Mounts - Nosači
+* Multiclassing - Višeklasiranje
+* Feats - Podvizi

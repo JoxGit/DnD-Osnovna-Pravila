@@ -1547,7 +1547,7 @@ Izbor pozadine pruža vam važne nagoveštaje o identitetu vašeg lika. Najvažn
 Primjeri pozadine u ovom poglavlju pružaju i konkretne koristi (karakteristike, znanje i jezike) i predloge za igranje uloga.
 
 
-#### Stručnost
+### Stručnost
 
 Svaka pozadina daje znanje u dve veštine. Veštine su opisane u poglavlju 7.
 
@@ -1556,22 +1556,22 @@ Pored toga, većina pozadina daje znanje liku pomoću jednog ili više alata. 
 Ako bi lik stekao istu veštinu iz dva različita izvora, umesto toga može izabrati drugu veštinu iste vrste (veština ili alat).
 
 
-#### Jezici
+### Dodatni jezici
 
 Neke pozadine takođe omogućavaju likovima da uče dodatne jezike, osim onih datih rasom. Pogledajte „Jezici“ ranije u ovom poglavlju.
 
 
-#### Oprema
+### Oprema
 
 Svaka pozadina pruža paket početne opreme. Ako koristite opciono pravilo iz poglavlja 5 za trošenje novčića na opremu, početnu opremu nećete dobiti iz pozadine.
 
 
-#### Predložene karakteristike
+### Predložene karakteristike
 
 Pozadina sadrži predložene lične karakteristike na osnovu vašeg porekla. Možete odabrati karakteristike, baciti kockice da biste ih odredili nasumično ili koristiti predloge kao inspiraciju za karakteristike sopstvene kreacije.
 
 
-#### Prilagođavanje pozadine
+### Prilagođavanje pozadine
 
 Možda ćete želeti da podesite neke funkcije pozadine, tako da bolje odgovaraju vašem karakteru ili postavci kampanje. Da biste prilagodili pozadinu, možete zameniti jednu osobinu bilo kojom drugom, odabrati bilo koje dve veštine i odabrati ukupno dve veštine alata ili jezika iz primera pozadine. Možete koristiti paket opreme iz vaše pozadine ili potrošiti novac na opreui kao što je opisano u poglavlju 5. (Ako trošite novac, ne možete uzeti i paket opreme koji je predložen za vašu klasu.) Na kraju, odaberite dve osobine ličnosti, jedan ideal, jednu vezu i jednu manu. Ako ne možete da pronađete funkciju koja odgovara željenoj pozadini, sarađujte sa DM-om da biste je stvorili.
 
