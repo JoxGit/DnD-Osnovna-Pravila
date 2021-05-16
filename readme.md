@@ -2,7 +2,7 @@
 > **NAPOMENA** Ovaj dokument je pokušaj prevoda prva tri poglavlja D&D Basic Rules sa dopunama iz SRD za proširenje rasa i klasa. Ideja prevoda je da se omogući pristup pravilima igre zainteresovanim igračima koji ne mogu jednostavno čitati i razumjete dugačke tekstove na engleskom jeziku. Za osnovni prevod teksta je korišten google tranlsate, koji sam ja pogledao prije nego što sam ga ubcio u ovaj dokument. Čak i pored toga dobar dio stvari, nije baš dobro preveden i prepravke te prirode su u toku. Za početak je ideja da se prođe jedno čitaje sa ispravkama (uglavnom stilskim) kako bi tekst bio smislen i čitljiv. Nakon toga sledeće bi bilo dopunjavanje podataka koji su preskoćeni, usaglašavanje termina i prevod dodatnih informacija, kao i prevod jedinica mjere na metričke. Vjerujem da će se nakon toga pojaviti i potreba da dodatnim dopunama i objašnjenjima. 
 
 
-# D&D Osnovna pravila
+# D&D Osnovna pravila - Sadržaj
 
 * [Uvod](https://joxgit.github.io/DnD-Osnovna-Pravila/dio0)
 * [Dio 1 - Kreiranje lika](https://joxgit.github.io/DnD-Osnovna-Pravila/dio1)
@@ -19,3 +19,31 @@
 * [Dio 3 - Pravilo magije](https://joxgit.github.io/DnD-Osnovna-Pravila/dio3)
     * [Poglavlje 10: Čaranje](https://joxgit.github.io/DnD-Osnovna-Pravila/dio3#poglavlje-10-%C4%8Daranje)
     * [Poglavlje 11: Čarolije](https://joxgit.github.io/DnD-Osnovna-Pravila/dio3#poglavlje-11-%C4%8Darolije)
+
+
+# Osnovni termini - prevodi
+
+Dungeon Master (DM) - Gospodar Tamnice (DMs)
+Character Sheet - List Karaktera
+Ability Scores - Bodovi Sposobnosti
+Abiliti Modifiers - Modifikatori Sposobnosti
+Difficulty Class (DC) - Klasa težine (DC)
+Armor Class (AC) - Klasa Oklopa (AC)
+Magic - Magija ili Čarolija
+Spell - Čarolija
+Spellcaster - Bacaći ili korisnici magije / čarolije
+Race - Rasa
+Class - Klasa
+Level - Nivo
+Experience point (XP) - Bodovi iskustva (XP)
+Hit points (HP) - Životni poeni
+Hit die / Hit Dice (HD) - Kocka / kockice Života (HD)
+Proficiency Bonus - Ponis za stričnost
+Strength
+Dexterity
+Constitution
+Intelligence
+Wisdom
+Charisma
+
+
