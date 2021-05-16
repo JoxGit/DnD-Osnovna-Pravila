@@ -29,13 +29,14 @@
 * Abiliti Modifiers - Modifikatori Sposobnosti
 * Difficulty Class (DC) - Klasa težine (DC)
 * Armor Class (AC) - Klasa Oklopa (AC)
+* Saving Throw - Bacanje Spasa
 * Magic - Magija ili Čarolija
 * Spell - Čarolija
 * Spellcasting - Čaranje
 * Spellcaster - Bacaći ili korisnici magije / čarolije
 * Experience point (XP) - Bodovi iskustva (XP)
 * Hit points (HP) - Životni bodovi
-* Hit die / Hit Dice (HD) - Kocka / kockice Života (HD)
+* Hit die / Hit Dice (HD) - Kockica Života (HD)
 * Proficiency Bonus - Bonus za stričnost
 * Strength - Snaga
 * Dexterity - Spretnost

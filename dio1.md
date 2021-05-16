@@ -57,9 +57,9 @@ Zapišitte svoj nivo na listu kataktera. Ako započinjete sa višim nivoom, zabe
 >
 >Svaki opis kalse u poglavlju 3 sadrži odeljak koji nudi predloge za brzo stvaranje lika te klase, uključujući kako dodeliti najviše  ocene sposobnosti, pozadinu koja odgovara klasi i početne čarolije.
 
-### Poeni za pogodak ii kockice pogodka
+### Životni bodobi i kockice života
 
-Poeni za pogodak vašeg lika definišu koliko je čvrst vaš lik u borbi i drugim opasnim situacijama. Poeni za pogodak određuju se vašim kockicama kockama pogodka. Na 1. nivou, vaš lik ima 1 kocku pogodka, a tiu kocku određuje vaša klasa. Počinjete sa poenima za pogodak jednakim najvišem bacanju te kockice, kako je naznačeno u opisu vaše klase. (Takođe dodajete svoj modifikator Građe, koji ćete odrediti u koraku 3.) Ovo je ujedno i **vaš maksimum poena za pogodak**.
+Životni bodovi vašeg lika definišu koliko je čvrst vaš lik u borbi i drugim opasnim situacijama. Životni bodovi određuju se vašim kockicama života. Na 1. nivou, vaš lik ima 1 kocku života, a tu kocku određuje vaša klasa. Počinjete sa životnim bodovima jednakim najvišem bacanju te kockice, kako je naznačeno u opisu vaše klase. (Takođe dodajete svoj modifikator Građe, koji ćete odrediti u koraku 3.) Ovo je ujedno i **vaš maksimum životnih bodovaS**.
 
 Upišite poene za pogodak svog lika na listu sa likovima. Takođe zabeležite vrstu kocke za pogodak koji vaš lik koristi i broj kocki za pogodak koji imate. Nakon što se odmorite, možete iskoristiti kocke za pogodke da biste povratili poene za pogodak (pogledajte „Odmaranje“ u poglavlju 8).
 
@@ -85,7 +85,7 @@ Vaš bonus za stručnost se ne može dodati jednoj kocki ili drugim brojevima vi
 >
 >Bob zamišlja Bruenor-a kako u borbu kreće sekirom, s jednim odbijenim rogom na kacigi. Od Bruenora pravi borca i beleži njegovo znanje i karakteristike klase 1. nivoa na njegovom listu s likovima.
 >
->Kao borac prvog nivoa, Bruenor ima 1 kocku za pogodak - d10 - i započinje sa pogođenim bodovima jednakim 10 + njegovom modifikatoru Građe. Bob to beleži i zabeležiće konačni broj nakon što odredi ocenu Bruenorove građe (vidi korak 3). Bob takođe bilježi i bonus za stručnost za lik prvog nivoa, koji je +2.
+>Kao borac prvog nivoa, Bruenor ima 1 kocku za život - d10 - i započinje sa životnim bodovima jednakim 10 + njegovom modifikatorom Građe. Bob to beleži i zabeležiće konačni broj nakon što odredi ocenu Bruenorove građe (vidi korak 3). Bob takođe bilježi i bonus za stručnost za lik prvog nivoa, koji je +2.
 
 
 ## 3. Određivanje ocena sposobnosti
@@ -105,7 +105,7 @@ Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i kor
 >
 >Bob odlučuje da koristi standardni skup ocena (15, 14, 13, 12, 10, 8) za Bruenorove sposobnosti. Budući da je borac, svoj najviši rezultat, 15, dodjeljuje Snazi. Njegov sledeći najviši, 14, ide u Građu. Bruenor je možda drski borac, ali Bob odlučuje da želi da patuljak bude stariji, mudriji i dobar vođa, pa postavlja pristojne rezultate u Mudrosti i Harizmi. Nakon primene njegovih rasnih koristi (povećanje Bruenorove građe za 2 i njegove Snage za 2), ocene i modifikatori Bruenorove sposobnosti izgledaju ovako: Snaga 17 (+3), Spretnost 10 (+0), Građa 16 (+3), Inteligencija 8 (–1), Mudrost 13 (+1), Harizma 12 (+1).
 >
->Bob popunjava Bruenor-ove poslednje poene za pogodak: 10 + njegov modifikator građe od +3, za ukupno 13 poena za pogodak.
+>Bob popunjava Bruenor-ove poslednje životne poene: 10 + njegov modifikator Građe od +3, za ukupno 13 životnih bodova.
 
 
 ### Varijanta: Prilagođavanje ocjena sposobnosti
@@ -499,9 +499,9 @@ Kako vaš lik odlazi u avanture i savladava izazove, on ili ona stiče iskustvo,
 
 Kada vaš lik dostigne nivo, njegova klasa često daje dodatne funkcije, kao što je detaljno opisano u opisu klase. Neke od ovih karakteristika omogućavaju vam da povećate ocene sposobnosti, ili povećavajući dve ocene za 1 ili povećavajući jedanu ocjenu za 2. Ne možete povećati ocenu sposobnosti iznad 20. Pored toga, bonus za sposobnost svakog lika se povećava na određenim nivoima.
 
-Svaki put kada osvojite nivo, dobijate 1 dodatnu kocku za pogodak. Bacite tu kocku za pogodak, dodajte svoj modifikator Građe i dodajte ukupan broj (najmanje 1) u svoje maksimalne poene pogodka. Alternativno, možete koristiti fiksnu vrednost prikazanu u unosu vaše klase, što je prosečni rezultat bacanja (zaokruženo).
+Svaki put kada osvojite nivo, dobijate 1 dodatnu kocku za život. Bacite tu kocku za život, dodajte svoj modifikator Građe i dodajte ukupan broj (najmanje 1) u svoje maksimalne životne bodove. Alternativno, možete koristiti fiksnu vrednost prikazanu u unosu vaše klase, što je prosečni rezultat bacanja (zaokruženo).
 
-Kada se vaš modifikator Građe poveća za 1, maksimum poena pogodaka povećava se za 1 za svaki nivo koji ste postigli. Na primer, kada Bruenor dostigne 8. nivo kao borac, povećava svoj rezultat građe sa 17 na 18, povećavajući tako svoj modifikator građe sa +3 na +4. Tada se maksimum njegovih poena pogotka povećava za 8.
+Kada se vaš modifikator Građe poveća za 1, maksimum Životnih bodova povećava se za 1 za svaki nivo koji ste postigli. Na primer, kada Bruenor dostigne 8. nivo kao borac, povećava svoj rezultat Građe sa 17 na 18, povećavajući tako svoj modifikator Građe sa +3 na +4. Tada se maksimum njegovih Životnih bodova povećava za 8.
 
 Tabela za unapređivanje karaktera rezimira XP koji vam je potreban za napredovanje u nivoima od nivoa 1 do nivoa 20 i bonus za stručnost za lik tog nivoa. Pogledajte informacije u opisu klase vašeg lika da biste videli koja još poboljšanja dobijate na svakom nivou.
 
@@ -811,7 +811,7 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
       </td>
       <td><strong>Opid</strong>
       </td>
-      <td><strong>Kockica pogodka</strong>
+      <td><strong>Kockica života</strong>
       </td>
       <td><strong>Primarna sposobnost</strong>
       </td>
@@ -3657,7 +3657,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
 
 **Knjiga**. Knjiga može sadržati poeziju, istorijske iskaze, informacije koje se odnose na određeno naučno područje, dijagrame i beleške o gnomskim izmišljotinama ili samo nešto drugo što se može predstaviti pomoću teksta ili slika. Knjiga čarolija je čarolija (opisana kasnije u ovom odeljku).
 
-**Šiljci**. Kao akciju možete da raširite jednu vreću sa šiljcima da biste pokrili površinu od 5 stopa. Svako stvorenje koje uđe u to područje mora uspeti u bacanju spretnosti DC 15 ili zaustaviti kretanje i napraviti 1 prodornu štetu. Dok stvorenje ne povrati najmanje 1 pogodak, brzina hodanja mu se smanjuje za 10 stopa. Biće koje se kreće kroz područje sa pola brzine ne treba da napravi spasonosno bacanje.
+**Šiljci**. Kao akciju možete da raširite jednu vreću sa šiljcima da biste pokrili površinu od 5 stopa. Svako stvorenje koje uđe u to područje mora uspeti u bacanju spretnosti DC 15 ili zaustaviti kretanje i napraviti 1  štetu probadanjem. Dok stvorenje ne povrati najmanje 1 životni bod, brzina hodanja mu se smanjuje za 10 stopa. Biće koje se kreće kroz područje sa pola brzine ne treba da napravi spasonosno bacanje.
 
 **Sveća**. Tokom 1 sata sveća baca jarko svetlo u radijusu od 5 stopa i prigušeno svetlo za dodatnih 5 stopa.
 
@@ -3665,7 +3665,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
 
 **Kutija, karta ili svitak**. Ova cilindrična kožna futrola može da primi do deset smotanih listova papira ili pet smotanih listova pergamenta.
 
-**Lanac**. Lanac ima 10 životnih poena. Može se puknuti uspešnom proverom čvrstoće DC 20.
+**Lanac**. Lanac ima 10 životnih bodova. Može se puknuti uspešnom proverom čvrstoće DC 20.
 
 **Penjački komplet**. Penjački komplet uključuje posebne kopče, vrhove čizama, rukavice i uprtač. Penjački komplet možete koristiti kao akciju usidrenja; kada to učinite, ne možete pasti više od 25 stopa od mesta na kojem ste se usidrili i ne možete se popeti na više od 25 stopa od te tačke, a da ne raskačite sidro.
 
@@ -3677,7 +3677,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
 
 **Pribor za pecanje**. Ovaj komplet uključuje drvenu šipku, svilenu vrpcu, plovakl od pluta, čelične kuke, varalice, baršunaste mamce i uske mreže.
 
-**Isceliteljski pribor**. Ovaj komplet je kožna torbica koja sadrži zavoje, salvete i udlage. Komplet ima deset primena. Kao akciju, možete potrošiti jednu upotrebu kompleta za stabilizaciju stvorenja koje ima 0 pogodaka, bez potrebe za proverom mudrosti (medicine).
+**Isceliteljski pribor**. Ovaj komplet je kožna torbica koja sadrži zavoje, salvete i udlage. Komplet ima deset primena. Kao akciju, možete potrošiti jednu upotrebu kompleta za stabilizaciju stvorenja koje ima 0 životnih bodova, bez potrebe za proverom mudrosti (medicine).
 
 **Sveti Simbol**. Sveti simbol je prikaz boga ili panteona. To bi mogao biti amulet koji prikazuje simbol koji predstavlja božanstvo, isti simbol koji je pažljivo urezan ili umetnut kao amblem na štitu ili sićušna kutija u kojoj se nalazi fragment svete relikvije. The Player’s Handbook sadrži mnoge bogove u multiverzumu i njihove tipične simbole. Sveštenik ili paladin mogu da koriste sveti simbol kao žarište čarolije, kao što je opisano u poglavlju 10. Da bi simbol koristio na ovaj način, bacač čarolije ga mora držati u ruci, vidljivo nositi ili nositi na štitu.
 
@@ -3705,7 +3705,7 @@ Sveštenik ili paladin može stvoriti svetu vodu izvođenjem posebnog rituala. I
 
 **Otrov, običan**. Otrov u ovoj bočici možete koristiti za premazivanje jednog oružja za rezanje ili ubadanje ili do tri komada municije. Za primena otrova zahtjeva akciju. Stvorenje pogođeno otrovanim oružjem ili municijom mora da napravi spasonosno bacanje građe DC 10 ili da napravi 1d4 štete od otrova. Jednom primenjen, otrov zadržava snagu 1 minut pre sušenja.
 
-**Napitak isceljenja**. Lik koji pije čarobnu crvenu tečnost u ovoj bočici vraća 2d4 + 2 pogotka. Pijenje ili davanje napitaka preduzima akciju.
+**Napitak isceljenja**. Lik koji pije čarobnu crvenu tečnost u ovoj bočici vraća 2d4 + 2 životna boda. Pijenje ili davanje napitaka preduzima akciju.
 
 **Torbica**. U platnenu ili kožnu torbicu, između ostalog, može da stane do 20 metaka u praćku ili 50 strelica za puvaljku. Torba sa odeljkom za držanje komponenata čarolije naziva se torbica za komponente (opisana ranije u ovom odeljku).
 
@@ -5775,13 +5775,13 @@ Da biste se kvalifikovali za novu klasu, morate da ispunite bodove sposobnosti k
 Trošak iskustvenog poena za sticanje nivoa uvek se zasniva na vašem ukupnom nivou karaktera, kao što je prikazano u Tabeli napretka u poglavlju 1 ovog dokumenta, ne vaš nivo u određenoj klasi.
 
 
-### Bodovi pogodka i kocke pogodka
+### Životni bodovi i kocke života
 
-Dobijate bodove iz nove klase kako je opisano za nivoe posle 1.. Osvajate poene pogotka prvog nivoa za a klasu samo ako ste lik prvog nivoa.
+Dobijate životne bodove iz nove klase kako je opisano za nivoe posle 1.. Osvajate životne bodove prvog nivoa za a klasu samo ako ste lik prvog nivoa.
 
-Vi sabirate kocke pogodka koju su odobrili svi vaši klase da biste formirali svoj bazen Hit Dice-a. Ako su Hit Dice istog kalupa, možete ih jednostavno objediniti.
+Vi sabirate kocke života svih klasa koje ste odobrili biste formirali svoj skup kocki života. Ako su kocke života istog vrsta, možete ih jednostavno objediniti.
 
-Ako vam klase daju Hit Dice različitih vrsta, pratiti ih odvojeno.
+Ako vam klase daju kockice života različitih vrsta, pratiti ih odvojeno.
 
 
 ### Bonus za stručnost

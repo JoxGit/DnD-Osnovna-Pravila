@@ -28,7 +28,7 @@ Za razliku od igre izmišljanja, D&D daje strukturu pričama, način utvrđivanj
 
 U igri Dungeons & Dragons, svaki igrač stvara avanturistu (koji se naziva i lik) i udružuje se sa drugim avanturistima (koje igraju prijatelji). Radeći zajedno, grupa bi mogla istražiti mračnu tamnicu, porušeni grad, uklet zamak, izgubljeni hram duboko u džungli ili pećinu ispunjenu lavom ispod misteriozne planine. Avanturisti mogu da rešavaju zagonetke, razgovaraju sa drugim likovima, bore se sa fantastičnim čudovištima i otkrivaju čudesne magične predmete i drugo blago.
 
-Međutim, jedan igrač preuzima ulogu Dungeon Master-a (DM), glavnog pripovedača i sudije igre. DM stvara avanture za likove koji se kreću kroz njegove opasnosti i odlučuju koje puteve će istražiti. DM može opisati ulaz u Castle Ravenloft, a igrači odlučuju šta žele da rade njihovi avanturisti.
+Međutim, jedan igrač preuzima ulogu Gospodara Tamnice (DM), glavnog pripovedača i sudije igre. DM stvara avanture za likove koji se kreću kroz njegove opasnosti i odlučuju koje puteve će istražiti. DM može opisati ulaz u Castle Ravenloft, a igrači odlučuju šta žele da rade njihovi avanturisti.
 
 Da li će hodati preko opasno oronulog mosta? Vezati se konopcem kako bi se smanjila šansa da neko padne ako pokretni most popusti? Ili bacti čaroliju da ih nosi preko provalije?
 
