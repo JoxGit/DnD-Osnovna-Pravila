@@ -27,160 +27,75 @@ Da biste odredili modifikator sposobnosti bez konsultovanja tabele, od ocene spo
 
 **Ocene sposobnosti i modifikatori**
 
-
 <table>
-  <tr>
-   <td><p style="text-align: right">
-<strong>Score</strong></p>
-
-   </td>
-   <td>
-    <strong>Modifier</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-    <strong>Score</strong>
-   </td>
-   <td>
-    <strong>Modifier</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    1
-   </td>
-   <td>
-    −5
-   </td>
-   <td>
-   </td>
-   <td>
-    16–17
-   </td>
-   <td>
-    +3
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-2–3</p>
-
-   </td>
-   <td>
-    −4
-   </td>
-   <td>
-   </td>
-   <td>
-    18–19
-   </td>
-   <td>
-    +4
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-4–5</p>
-
-   </td>
-   <td>
-    −3
-   </td>
-   <td>
-   </td>
-   <td>
-    20–21
-   </td>
-   <td>
-    +5
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-6–7</p>
-
-   </td>
-   <td>
-    −2
-   </td>
-   <td>
-   </td>
-   <td>
-    22–23
-   </td>
-   <td>
-    +6
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-8–9</p>
-
-   </td>
-   <td>
-    −1
-   </td>
-   <td>
-   </td>
-   <td>
-    24–25
-   </td>
-   <td>
-    +7
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-10–11</p>
-
-   </td>
-   <td>
-    +0
-   </td>
-   <td>
-   </td>
-   <td>
-    26–27
-   </td>
-   <td>
-    +8
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-12–13</p>
-
-   </td>
-   <td>
-    +1
-   </td>
-   <td>
-   </td>
-   <td>
-    28–29
-   </td>
-   <td>
-    +9
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-14–15</p>
-
-   </td>
-   <td>
-    +2
-   </td>
-   <td>
-   </td>
-   <td>
-    30
-   </td>
-   <td>
-    +10
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Poeni</strong></td>
+      <td><strong>Modifikator</strong></td>
+   </tr>
+   <tr>
+      <td>1</td>
+      <td>−5</td>
+   </tr>
+   <tr>
+      <td>2–3</td>
+      <td>−4</td>
+   </tr>
+   <tr>
+      <td>4–5</td>
+      <td>−3</td>
+   </tr>
+   <tr>
+      <td>6–7</td>
+      <td>−2</td>
+   </tr>
+   <tr>
+      <td>8–9</td>
+      <td>−1</td>
+   </tr>
+   <tr>
+      <td>10–11</td>
+      <td>+0</td>
+   </tr>
+   <tr>
+      <td>12–13</td>
+      <td>+1</td>
+   </tr>
+   <tr>
+      <td>14–15</td>
+      <td>+2</td>
+   </tr>
+   <tr>
+      <td>16–17</td>
+      <td>+3</td>
+   </tr>
+   <tr>
+      <td>18–19</td>
+      <td>+4</td>
+   </tr>
+   <tr>
+      <td>20–21</td>
+      <td>+5</td>
+   </tr>
+   <tr>
+      <td>22–23</td>
+      <td>+6</td>
+   </tr>
+   <tr>
+      <td>24–25</td>
+      <td>+7</td>
+   </tr>
+   <tr>
+      <td>26–27</td>
+      <td>+8</td>
+   </tr>
+   <tr>
+      <td>28–29</td>
+      <td>+9</td>
+   </tr>
+   <tr>
+      <td>30</td>
+      <td>+10</td>
+   </tr>
 </table>
 
 
