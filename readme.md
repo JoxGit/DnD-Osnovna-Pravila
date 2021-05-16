@@ -34,9 +34,9 @@
 * Spellcasting - Čaranje
 * Spellcaster - Bacaći ili korisnici magije / čarolije
 * Experience point (XP) - Bodovi iskustva (XP)
-* Hit points (HP) - Životni poeni
+* Hit points (HP) - Životni bodovi
 * Hit die / Hit Dice (HD) - Kocka / kockice Života (HD)
-* Proficiency Bonus - Ponis za stričnost
+* Proficiency Bonus - Bonus za stričnost
 * Strength - Snaga
 * Dexterity - Spretnost
 * Constitution - Građa
