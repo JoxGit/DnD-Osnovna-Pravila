@@ -214,81 +214,149 @@ Veštine povezane sa svakom ocenom sposobnosti prikazane su na sledećoj listi.
 
 <table>
    <tr>
-      <td><strong>Viještina</strong>
+      <td>Osobina
       </td>
-      <td><strong>Viještina </strong>
+   </tr>
+   <tr>
+      <td>Vještina
       </td>
    </tr>
    <tr>
       <td><strong>Snaga</strong>
       </td>
-      <td><strong>Mudrost </strong>
+      <td>
       </td>
    </tr>
    <tr>
+      <td>
+      </td>
       <td>Atlekita
+      </td>
+   </tr>
+   <tr>
+      <td><strong>Spremnost</strong>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Akrobacije
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Vješte ruke
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Skrivanje
+      </td>
+   </tr>
+   <tr>
+      <td><strong>Inteligencija</strong>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Arkana
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Istorija
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Istraga
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Priroda
+      </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Religija
+      </td>
+   </tr>
+   <tr>
+      <td><strong>Mudrost<7strong>
+      </td>
+      <td>
+      </td>
+   </tr>
+   <tr>
+      <td>
       </td>
       <td>Rukovanje životinjama
       </td>
    </tr>
    <tr>
-      <td><strong>Spremnost </strong>
+      <td>
       </td>
       <td>Uvid, shvatanje
       </td>
    </tr>
    <tr>
-      <td>Akrobacije
+      <td>
       </td>
       <td>Medicina
       </td>
    </tr>
    <tr>
-      <td>Vješte ruke
+      <td>
       </td>
       <td>Percepcija
       </td>
    </tr>
    <tr>
-      <td>Skrivanje
+      <td>
       </td>
       <td>Preživljavanje
       </td>
    </tr>
    <tr>
-      <td>I<strong>nteligencija </strong>
+      <td><strong>Harizma</strong>
       </td>
-      <td><strong>Harizma </strong>
+      <td>
       </td>
    </tr>
    <tr>
-      <td>Arkana
+      <td>
       </td>
       <td>Obmana
       </td>
    </tr>
    <tr>
-      <td>Istorija
+      <td>
       </td>
       <td>Zastrašivanje
       </td>
    </tr>
    <tr>
-      <td>Istraga
+      <td>
       </td>
       <td>Nastup
       </td>
    </tr>
    <tr>
-      <td>Priroda
+      <td>
       </td>
       <td>Ubjeđivanje
-      </td>
-   </tr>
-   <tr>
-      <td>Religija
-      </td>
-      <td>
       </td>
    </tr>
 </table>
