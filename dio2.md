@@ -294,7 +294,7 @@ Veštine povezane sa svakom ocenom sposobnosti prikazane su na sledećoj listi.
       </td>
    </tr>
    <tr>
-      <td><strong>Mudrost<7strong>
+      <td><strong>Mudrost</strong>
       </td>
       <td>
       </td>
