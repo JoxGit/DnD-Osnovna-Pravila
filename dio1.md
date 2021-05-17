@@ -61,7 +61,7 @@ Zapišitte svoj nivo na listu kataktera. Ako započinjete sa višim nivoom, zabe
 
 Životni bodovi vašeg lika definišu koliko je čvrst vaš lik u borbi i drugim opasnim situacijama. Životni bodovi određuju se vašim kockicama života. Na 1. nivou, vaš lik ima 1 kocku života, a tu kocku određuje vaša klasa. Počinjete sa životnim bodovima jednakim najvišem bacanju te kockice, kako je naznačeno u opisu vaše klase. (Takođe dodajete svoj modifikator Građe, koji ćete odrediti u koraku 3.) Ovo je ujedno i **vaš maksimum životnih bodovaS**.
 
-Upišite poene za pogodak svog lika na listu sa likovima. Takođe zabeležite vrstu kocke za pogodak koji vaš lik koristi i broj kocki za pogodak koji imate. Nakon što se odmorite, možete iskoristiti kocke za pogodke da biste povratili poene za pogodak (pogledajte „Odmaranje“ u poglavlju 8).
+Upišite životne bodove svog lika na listu sa likovima. Takođe zabeležite vrstu kocke za pogodak koji vaš lik koristi i broj kocki za pogodak koji imate. Nakon što se odmorite, možete iskoristiti kocke za pogodke da biste povratili životne bodove (pogledajte „Odmaranje“ u poglavlju 8).
 
 
 ### Bonus za stručnost
@@ -105,21 +105,21 @@ Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i kor
 >
 >Bob odlučuje da koristi standardni skup ocena (15, 14, 13, 12, 10, 8) za Bruenorove sposobnosti. Budući da je borac, svoj najviši rezultat, 15, dodjeljuje Snazi. Njegov sledeći najviši, 14, ide u Građu. Bruenor je možda drski borac, ali Bob odlučuje da želi da patuljak bude stariji, mudriji i dobar vođa, pa postavlja pristojne rezultate u Mudrosti i Harizmi. Nakon primene njegovih rasnih koristi (povećanje Bruenorove građe za 2 i njegove Snage za 2), ocene i modifikatori Bruenorove sposobnosti izgledaju ovako: Snaga 17 (+3), Spretnost 10 (+0), Građa 16 (+3), Inteligencija 8 (–1), Mudrost 13 (+1), Harizma 12 (+1).
 >
->Bob popunjava Bruenor-ove poslednje životne poene: 10 + njegov modifikator Građe od +3, za ukupno 13 životnih bodova.
+>Bob popunjava Bruenor-ove poslednje životne bodove: 10 + njegov modifikator Građe od +3, za ukupno 13 životnih bodova.
 
 
 ### Varijanta: Prilagođavanje ocjena sposobnosti
 
-Prema opciji vašeg Dungeon Master-a, ovu varijantu možete koristiti za određivanje rezultata vaših sposobnosti. Ovde opisana metoda omogućava vam da izgradite lik sa nizom ocena sposobnosti koje odaberete pojedinačno.
+Prema opciji vašeg Gospodara Tamnice (DM), ovu varijantu možete koristiti za određivanje rezultata vaših sposobnosti. Ovde opisana metoda omogućava vam da izgradite lik sa nizom ocena sposobnosti koje odaberete pojedinačno.
 
-Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake ocene prikazani su na tabeli Troškovi porna ocjena sposobnosti.  Na primer, ocjena 14 košta 7 poena.
+Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake ocene prikazani su na tabeli Troškovi poena ocjena sposobnosti.  Na primer, ocjena 14 košta 7 poena.
 
 
 **Ocene sposobnosti i modifikatori**
 
 <table>
    <tr>
-      <td><strong>Poeni</strong></td>
+      <td><strong>Ocijena sposobnosti</strong></td>
       <td><strong>Modifikator</strong></td>
    </tr>
    <tr>

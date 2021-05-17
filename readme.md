@@ -26,10 +26,12 @@
 * Dungeon Master (DM) - Gospodar Tamnice (DMs)
 * Character Sheet - List Karaktera
 * Ability Scores - Bodovi Sposobnosti
-* Abiliti Modifiers - Modifikatori Sposobnosti
+* Ability Modifiers - Modifikatori Sposobnosti
+* Ability Check - Provjera Sposonosti
 * Difficulty Class (DC) - Klasa težine (DC)
 * Armor Class (AC) - Klasa Oklopa (AC)
 * Saving Throw - Bacanje Spasa
+* Attack Roll - Bacanje Napada
 * Magic - Magija ili Čarolija
 * Spell - Čarolija
 * Spellcasting - Čaranje

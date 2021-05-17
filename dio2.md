@@ -6,18 +6,24 @@
 # Poglavlje 7: Korišćenje bodova sposobnost
 [D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores)
 
-Šest sposobnosti pruža brz opis fizičkih i mentalnih karakteristika svakog stvorenja: **Snaga**, merenje fizičke snage **Spretnost**, merenje okretnosti **Građa**, merenje izdržljivosti **Inteligencija**, merenje rasuđivanja i pamćenja **Mudrost**, merenje percepcije i uvida **Karizma**, merenje snage ličnosti.
+Šest sposobnosti pruža brz opis fizičkih i mentalnih karakteristika svakog stvorenja: 
+* **Snaga**, merenje fizičke snage 
+* **Spretnost**, merenje okretnosti 
+* **Građa**, merenje izdržljivosti 
+* **Inteligencija**, merenje rasuđivanja i pamćenja 
+* **Mudrost**, merenje percepcije i uvida 
+* **Harizma**, merenje snage ličnosti
 
-Da li je lik vezan za mišiće i pronicljiv? Sjajan i šarmantan? Spretan i izdržljiv? Ocene sposobnosti definišu ove kvalitete - vrline stvorenja kao i slabosti.
+Da li je lik mišićav i pronicljiv? Sjajan i šarmantan? Spretan i izdržljiv? Ocene sposobnosti definišu ove kvalitete - vrline i slabosti stvorenja.
 
-Tri glavna bacanja igre - provera sposobnosti, spasilačko bacanje i bacanje napada - oslanjaju se na šest ocena sposobnosti. Uvod u knjizi opisuje osnovno pravilo iza ovih bacanja: kotrljajte d20, dodajte modifikator sposobnosti izveden iz jednog od šest ocena sposobnosti i uporedite ukupan broj sa ciljnim brojem.
+Tri glavna bacanja igre - provera sposobnosti, spasilačko bacanje i bacanje napada - oslanjaju se na šest ocena sposobnosti. Uvod u knjizi opisuje osnovno pravilo iza ovih bacanja: kotrljajte d20, dodajte modifikator sposobnosti izveden iz jednog od šest ocena sposobnosti i uporedite ukupan broj sa ciljanim brojem.
 
 Ovo poglavlje se fokusira na to kako koristiti provere sposobnosti i spasilačka bacanja, pokrivajući osnovne aktivnosti koje bića pokušavaju u igri. Pravila za bacanja za napad pojavljuju se u poglavlju 9.
 
 
 ## Ocene sposobnosti i modifikatori
 
-Svaka sposobnost stvorenja ima poene, broj koji definiše veličinu te sposobnosti. Ocena sposobnosti nije samo mera urođenih sposobnosti, već uključuje i obuku i kompetentnost bića u aktivnostima povezanim sa tom sposobnošću.
+Svaka sposobnost stvorenja ima svoju ocijenu, broj koji definiše veličinu te sposobnosti. Ocena sposobnosti nije samo mera urođenih sposobnosti, već uključuje i obuku i kompetentnost bića u aktivnostima povezanim sa tom sposobnošću.
 
 Rezultat 10 ili 11 je uobičajeni ljudski prosek, ali avanturisti i mnoga čudovišta su uglavnom natprosečna u većini sposobnosti. Ocena 18 je najviša vrednost koju osoba obično postigne. Avanturisti mogu imati i do 20, a čudovišta i božanska bića do 30.
 
@@ -29,7 +35,7 @@ Da biste odredili modifikator sposobnosti bez konsultovanja tabele, od ocene spo
 
 <table>
    <tr>
-      <td><strong>Poeni</strong></td>
+      <td><strong>Ocijena sposobnosti</strong></td>
       <td><strong>Modifikator</strong></td>
    </tr>
    <tr>
@@ -99,25 +105,25 @@ Da biste odredili modifikator sposobnosti bez konsultovanja tabele, od ocene spo
 </table>
 
 
-Budući da modifikatori sposobnosti utiču na skoro svako bacanje napada, proveru sposobnosti i spasilačko bacanje, modifikatori sposobnosti se pojavljuju češće od njihovih povezanih poena.
+Budući da modifikatori sposobnosti utiču na skoro svako bacanje napada, proveru sposobnosti i spasilačko bacanje, modifikatori sposobnosti se pojavljuju češće od njihovih povezanih ocijena.
 
 
 ## Prednost i nedostatak
 
-Ponekad vam posebna sposobnost ili čarolija govore da imate prednost ili nedostatak u proveri sposobnosti, spasilačkom bacanju ili bacanju napada. Kada se to dogodi, kotrljate drugi d20 kada bacate kocke. Koristite viši od dva rezulatata bacanja ako imate prednost, a niži koristite ako imate nedostatak. Na primer, ako imate nedostatak i bacite 17 i 5, koristite 5. Ako umesto toga imate prednost i pomerate te brojeve, koristite 17.
+Ponekad vam posebna sposobnost ili čarolija govore da imate prednost ili nedostatak u proveri sposobnosti, spasilačkom bacanju ili bacanju napada. Kada se to dogodi, kotrljate drugi d20 kada bacate kocke. Koristite viši od dva rezulatata bacanja ako imate prednost, a niži koristite ako imate nedostatak. Na primer, ako imate nedostatak i bacite 17 i 5, koristite 5. Ako umesto toga imate prednost i bacate te brojeve, koristite 17.
 
-Ako više situacija utiče na bacanjei svaka joj daje prednost ili nameće nedostatak, ne bacate više od jednog dodatnog d20. Ako dve povoljne situacije daju prednost, na primer, i dalje kotrljate samo jedan dodatni d20.
+Ako više situacija utiče na bacanje i svaka joj daje prednost ili nameće nedostatak, ne bacate više od jednog dodatnog d20. Ako dve povoljne situacije daju prednost, na primer, i dalje kotrljate samo jedan dodatni d20.
 
 Ako okolnosti dovedu do toga da bacanje ima i prednost i nedostatak, smatra se da nemate nijednu od njih i bacite jedan d20. To je tačno čak i ako više okolnosti nameće nedostatak, a samo jedna daje prednost ili obrnuto. U takvoj situaciji nemate ni prednost ni nedostatak.
 
 Kada imate prednost ili nedostatak i nešto u igri, kao što je osobina Sreće polutana, omogućava vam da vratite ili zamenite d20, možete da vratite ili zamenite samo jednu od kockica. Vi birajte koju. Na primer, ako polutan ima prednost ili nedostatak u proveri sposobnosti i zakotrlja 1 i 13, polutan bi mogao da iskoristi osobinu Sreće da ponovo baca 1.
 
-Obično steknete prednost ili nedostatak korišćenjem posebnih sposobnosti, radnji ili čarolija. Inspiracija takođe može dati prednost karakteru (kao što je objašnjeno u poglavlju 4, „Ličnost i pozadina“). DM takođe može odlučiti da li okolnosti utiču na kretanje u jednom ili drugom smeru i kao rezultat dati prednost ili nametnuti nedostatak.
+Obično steknete prednost ili nedostatak korišćenjem posebnih sposobnosti, radnji ili čarolija. Inspiracija takođe može dati prednost liku (kao što je objašnjeno u poglavlju 4, „Ličnost i pozadina“). DM takođe može odlučiti da li okolnosti utiču na kretanje u jednom ili drugom smeru i kao rezultat dati prednost ili nametnuti nedostatak.
 
 
 ## Bonus za stručnost
 
-Likovi imaju bonus za sposobnost određen nivoom, kao što je detaljno opisano u poglavlju 1. Čudovišta takođe imaju ovaj bonus, koji je ugrađen u njihove reultate sposobnosti. Bonus se koristi u pravilima o proveri sposobnosti, spasilačkim bacanjima i rolama napada.
+Likovi imaju bonus za stručnost određen nivoom, kao što je detaljno opisano u poglavlju 1. Čudovišta takođe imaju ovaj bonus, koji je ugrađen u njihove ocijene sposobnosti. Bonus se koristi u pravilima o proveri sposobnosti, spasilačkim bacanjima i bacanjima napada.
 
 Vaš bonus za stručnost se ne može dodati jednom bacanju kocke ili drugom broju više puta. Na primer, ako dva različita pravila kažu da možete dodati svoj bonus mudrosti sa bacanje spasa, ipak dodajete bonus samo jednom kada bacate za spas.
 
@@ -138,52 +144,52 @@ Za svaku proveru sposobnosti, DM odlučuje koja je od šest sposobnosti relevant
 
 
 <table>
-  <tr>
-   <td><strong>Težina zadatka</strong>
-   </td>
-   <td><strong>DC</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Veoma lagan
-   </td>
-   <td>5
-   </td>
-  </tr>
-  <tr>
-   <td>Lagan
-   </td>
-   <td>10
-   </td>
-  </tr>
-  <tr>
-   <td>Srednji
-   </td>
-   <td>15
-   </td>
-  </tr>
-  <tr>
-   <td>Težak
-   </td>
-   <td>20
-   </td>
-  </tr>
-  <tr>
-   <td>Veoma težak
-   </td>
-   <td>25
-   </td>
-  </tr>
-  <tr>
-   <td>Skoro nemoguć
-   </td>
-   <td>30
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Težina zadatka</strong>
+      </td>
+      <td><strong>DC</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Veoma lagan
+      </td>
+      <td>5
+      </td>
+   </tr>
+   <tr>
+      <td>Lagan
+      </td>
+      <td>10
+      </td>
+   </tr>
+   <tr>
+      <td>Srednji
+      </td>
+      <td>15
+      </td>
+   </tr>
+   <tr>
+      <td>Težak
+      </td>
+      <td>20
+      </td>
+   </tr>
+   <tr>
+      <td>Veoma težak
+      </td>
+      <td>25
+      </td>
+   </tr>
+   <tr>
+      <td>Skoro nemoguć
+      </td>
+      <td>30
+      </td>
+   </tr>
 </table>
 
 
-Da biste izvršili proveru sposobnosti, kotrljajte d20 i dodajte odgovarajući modifikator sposobnosti. Kao i kod ostalih d20 bacanj, primenite bonuse i kazne i uporedite ukupan iznos sa DC.
+Da biste izvršili proveru sposobnosti, kotrljajte d20 i dodajte odgovarajući modifikator sposobnosti. Kao i kod ostalih d20 bacanja, primenite bonuse i kazne i uporedite ukupan iznos sa DC.
 
 Ako je ukupan iznos jednak ili veći od DC, provera sposobnosti je uspešna - stvorenje prevazilazi izazov koji mu je dat. U suprotnom, to je neuspeh, što znači da lik ili čudovište ne napreduje ka cilju ili napreduje u kombinaciji sa neuspehom koji je utvrdio DM.
 
@@ -207,78 +213,84 @@ Veštine povezane sa svakom ocenom sposobnosti prikazane su na sledećoj listi.
 
 
 <table>
-  <tr>
-   <td><strong>Snaga</strong>
-   </td>
-   <td><strong>Mudrost </strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Atlekita 
-   </td>
-   <td>Rukovanje životinjama
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Spremnost </strong>
-   </td>
-   <td>Uvid, shvatanje
-   </td>
-  </tr>
-  <tr>
-   <td>Akrobacije 
-   </td>
-   <td>Medicina 
-   </td>
-  </tr>
-  <tr>
-   <td>Vješte ruke 
-   </td>
-   <td>Percepcija 
-   </td>
-  </tr>
-  <tr>
-   <td>Skrivanje
-   </td>
-   <td>Preživljavanje 
-   </td>
-  </tr>
-  <tr>
-   <td>I<strong>nteligencija </strong>
-   </td>
-   <td><strong>Karizma </strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Arkana 
-   </td>
-   <td>Obmana 
-   </td>
-  </tr>
-  <tr>
-   <td>Istorija 
-   </td>
-   <td>Zastrašivanje 
-   </td>
-  </tr>
-  <tr>
-   <td>Istraga 
-   </td>
-   <td>Nastup 
-   </td>
-  </tr>
-  <tr>
-   <td>Priroda 
-   </td>
-   <td>Ubjeđivanje 
-   </td>
-  </tr>
-  <tr>
-   <td>Religija 
-   </td>
-   <td>
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Viještina</strong>
+      </td>
+      <td><strong>Viještina </strong>
+      </td>
+   </tr>
+   <tr>
+      <td><strong>Snaga</strong>
+      </td>
+      <td><strong>Mudrost </strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Atlekita
+      </td>
+      <td>Rukovanje životinjama
+      </td>
+   </tr>
+   <tr>
+      <td><strong>Spremnost </strong>
+      </td>
+      <td>Uvid, shvatanje
+      </td>
+   </tr>
+   <tr>
+      <td>Akrobacije
+      </td>
+      <td>Medicina
+      </td>
+   </tr>
+   <tr>
+      <td>Vješte ruke
+      </td>
+      <td>Percepcija
+      </td>
+   </tr>
+   <tr>
+      <td>Skrivanje
+      </td>
+      <td>Preživljavanje
+      </td>
+   </tr>
+   <tr>
+      <td>I<strong>nteligencija </strong>
+      </td>
+      <td><strong>Harizma </strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Arkana
+      </td>
+      <td>Obmana
+      </td>
+   </tr>
+   <tr>
+      <td>Istorija
+      </td>
+      <td>Zastrašivanje
+      </td>
+   </tr>
+   <tr>
+      <td>Istraga
+      </td>
+      <td>Nastup
+      </td>
+   </tr>
+   <tr>
+      <td>Priroda
+      </td>
+      <td>Ubjeđivanje
+      </td>
+   </tr>
+   <tr>
+      <td>Religija
+      </td>
+      <td>
+      </td>
+   </tr>
 </table>
 
 
@@ -289,7 +301,7 @@ Na primer, ako lik pokušava da se popne na opasnu liticu, Gospodar tamnice mož
 
 #### Varijanta: Veštine različitih sposobnosti
 
-Obično se vaša stručnost veštine odnosi samo na određenu vrstu provere sposobnosti. Na primer, stručnost u atletici obično se odnosi na provere snage. Međutim, u nekim se situacijama vaša stručnost može opravdano primeniti na drugu vrstu provere. U takvim slučajevima, DM može zatražiti provjeru koristeći neobičnu kombinaciju sposobnosti i veštine, ili možete zatražiti od svog DM-a da li možete primeniti znanje na drugoj provjeri. Na primer, ako morate da preplivate sa ostrva do kopna, vaš DM će možda zatražiti proveru Građe da biste videli da li imate izdržljivosti da biste stigli toliko daleko. U ovom slučaju, vaš DM vam može omogućiti da primenite svoje znanje iz atletike i zatražite proveru Građe (atletika). Dakle, ako ste stručnjak za atletiku, svoj bonus za stručnost primenite na proveru Građe baš kao što biste to obično uradili za proveru snage (atletika). Slično tome, kada vaš patuljasti borac koristi prikaz sirove snage za zastrašivanje neprijatelja, vaš DM može zatražiti proveru Snage (zastrašivanja), iako je zastrašivanje obično povezano sa Karizmom.
+Obično se vaša stručnost veštine odnosi samo na određenu vrstu provere sposobnosti. Na primer, stručnost u atletici obično se odnosi na provere snage. Međutim, u nekim se situacijama vaša stručnost može opravdano primeniti na drugu vrstu provere. U takvim slučajevima, DM može zatražiti provjeru koristeći neobičnu kombinaciju sposobnosti i veštine, ili možete zatražiti od svog DM-a da li možete primeniti znanje na drugoj provjeri. Na primer, ako morate da preplivate sa ostrva do kopna, vaš DM će možda zatražiti proveru Građe da biste videli da li imate izdržljivosti da biste stigli toliko daleko. U ovom slučaju, vaš DM vam može omogućiti da primenite svoje znanje iz atletike i zatražite proveru Građe (atletika). Dakle, ako ste stručnjak za atletiku, svoj bonus za stručnost primenite na proveru Građe baš kao što biste to obično uradili za proveru snage (atletika). Slično tome, kada vaš patuljasti borac koristi prikaz sirove snage za zastrašivanje neprijatelja, vaš DM može zatražiti proveru Snage (zastrašivanja), iako je zastrašivanje obično povezano sa Harizmom.
 
 
 ### Pasivne provere
@@ -565,24 +577,24 @@ Na primer, možete pokušati da čujete razgovor kroz zatvorena vrata, prislušk
 Sveštenici koriste Mudrost kao svoju sposobnost pravljenja čarolija, što pomaže u određivanju spasilačkih bacanja čarolija koje su bacili.
 
 
-### Karizma
+### Harizma
 
-Karizma meri vašu sposobnost efikasne interakcije sa drugima. Uključuje faktore kao što su samopouzdanje i rečitost, a može predstavljati šarmantnu ili zapovedničku ličnost.
+Harizma meri vašu sposobnost efikasne interakcije sa drugima. Uključuje faktore kao što su samopouzdanje i rečitost, a može predstavljati šarmantnu ili zapovedničku ličnost.
 
 
 #### Provera harizme
 
-Provera harizme može nastati kada pokušavate da utičete na druge ili da ih zabavite, kada pokušavate da napravite utisak ili izgovorite uverljivu laž ili kada se krećete u zapetljanoj socijalnoj situaciji. Veštine obmanjivanja, zastrašivanja, performansi i ubeđivanja odražavaju sposobnost u određenim vrstama provera karizme.
+Provera harizme može nastati kada pokušavate da utičete na druge ili da ih zabavite, kada pokušavate da napravite utisak ili izgovorite uverljivu laž ili kada se krećete u zapetljanoj socijalnoj situaciji. Veštine obmanjivanja, zastrašivanja, performansi i ubeđivanja odražavaju sposobnost u određenim vrstama provera harizme.
 
-**Obmana**. Vaša provera karizme (obmana) određuje da li možete uverljivo sakriti istinu, bilo verbalno ili svojim postupcima. Ova obmana može obuhvatiti sve, od zavaravanja drugih preko dvosmislenosti do izricanja otvorenih laži. Tipične situacije uključuju pokušaj brzog razgovora sa čuvarom, prevarom trgovca, zarađivanjem novca putem kockanja, izdavanjem sebe pod krinkom, otupljivanjem nečijih sumnji lažnim uveravanjima ili održavanjem pravog lica dok izričite očitu laž.
+**Obmana**. Vaša provera harizme (obmana) određuje da li možete uverljivo sakriti istinu, bilo verbalno ili svojim postupcima. Ova obmana može obuhvatiti sve, od zavaravanja drugih preko dvosmislenosti do izricanja otvorenih laži. Tipične situacije uključuju pokušaj brzog razgovora sa čuvarom, prevarom trgovca, zarađivanjem novca putem kockanja, izdavanjem sebe pod krinkom, otupljivanjem nečijih sumnji lažnim uveravanjima ili održavanjem pravog lica dok izričite očitu laž.
 
-**Zastrašivanje**. Kada na nekoga pokušate da utičete putem otvorenih pretnji, neprijateljskih radnji i fizičkog delovanja nasilja, DM može tražiti od vas da izvršite proveru karizme (zastrašivanja). Primeri uključuju pokušaj izvlačenja informacija iz zatvorenika, ubeđivanje uličnih siledžija da se povuku iz sukoba ili da ivicom slomljene boce ubede podrugljivog vezira da preispita odluku.
+**Zastrašivanje**. Kada na nekoga pokušate da utičete putem otvorenih pretnji, neprijateljskih radnji i fizičkog delovanja nasilja, DM može tražiti od vas da izvršite proveru harizme (zastrašivanja). Primeri uključuju pokušaj izvlačenja informacija iz zatvorenika, ubeđivanje uličnih siledžija da se povuku iz sukoba ili da ivicom slomljene boce ubede podrugljivog vezira da preispita odluku.
 
-**Performanse**. Vaša provera karizme (performansa) određuje koliko dobro možete da obradujete publiku muzikom, plesom, glumom, pričanjem priča ili nekim drugim oblikom zabave.
+**Performanse**. Vaša provera harizme (performansa) određuje koliko dobro možete da obradujete publiku muzikom, plesom, glumom, pričanjem priča ili nekim drugim oblikom zabave.
 
-**Ubeđivanje**. Kada pokušate da taktom, socijalnom milošću ili dobrom prirodom utičete na nekoga ili na grupu ljudi, DM može zatražiti da izvršite proveru karizme (ubeđivanja). Tipično koristite ubeđivanje kada delujete u dobroj nameri, negujete prijateljstva, upućujete srdačne zahteve ili pokazujete odgovarajuće etikete. Primeri nagovaranja drugih uključuju ubeđivanje komornika da dozvoli vašoj partiji da vidi kralja, pregovaranje o miru između zaraćenih plemena ili nadahnuće gomile meštana.
+**Ubeđivanje**. Kada pokušate da taktom, socijalnom milošću ili dobrom prirodom utičete na nekoga ili na grupu ljudi, DM može zatražiti da izvršite proveru harizme (ubeđivanja). Tipično koristite ubeđivanje kada delujete u dobroj nameri, negujete prijateljstva, upućujete srdačne zahteve ili pokazujete odgovarajuće etikete. Primeri nagovaranja drugih uključuju ubeđivanje komornika da dozvoli vašoj partiji da vidi kralja, pregovaranje o miru između zaraćenih plemena ili nadahnuće gomile meštana.
 
-Ostale provere harizme. DM može zatražiti proveru karizme kada pokušate da izvršite zadatke poput sledećih:
+Ostale provere harizme. DM može zatražiti proveru harizme kada pokušate da izvršite zadatke poput sledećih:
 
 • Pronađite najbolju osobu za razgovor za vesti, glasine i tračeve
 
@@ -591,7 +603,7 @@ Ostale provere harizme. DM može zatražiti proveru karizme kada pokušate da iz
 
 #### Sposobnost bacanje čarolija 
 
-Bardovi, paladini, vračevi i veštaci koriste Karizmu kao svoju sposobnost čaranja, što pomaže u određivanju spasilačkih bacanja čarolija koje su bacili.
+Bardovi, paladini, vračevi i veštaci koriste Harizmu kao svoju sposobnost čaranja, što pomaže u određivanju spasilačkih bacanja čarolija koje su bacili.
 
 
 ### Bacanja spasa
@@ -674,44 +686,43 @@ Određeni specijalni nosači, kao što su pegaz ili beloglavi kamen, ili posebna
 
 Distanca pređena za...
 
-
 <table>
-  <tr>
-   <td><strong>Tempo</strong>
-   </td>
-   <td><strong>Minut</strong>
-   </td>
-   <td><strong>Sat</strong>
-   </td>
-   <td><strong>Dan</strong>
-   </td>
-   <td><strong>Efekat</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Brz
-   </td>
-   <td>400 stopa
-   </td>
-   <td>4 milje
-   </td>
-   <td>30 milja
-   </td>
-   <td>−5 kazna za pasivne mudrosti (percepcije)
-   </td>
-  </tr>
-  <tr>
-   <td>Spor
-   </td>
-   <td>200 stopa
-   </td>
-   <td>2 milje
-   </td>
-   <td>18 milja
-   </td>
-   <td>Moguće biti nevidljiv
-   </td>
-  </tr>
+   <tr>
+      <td><strong>Tempo</strong>
+      </td>
+      <td><strong>Minut</strong>
+      </td>
+      <td><strong>Sat</strong>
+      </td>
+      <td><strong>Dan</strong>
+      </td>
+      <td><strong>Efekat</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>Brz
+      </td>
+      <td>400 stopa
+      </td>
+      <td>4 milje
+      </td>
+      <td>30 milja
+      </td>
+      <td>−5 kazna za pasivne mudrosti (percepcije)
+      </td>
+   </tr>
+   <tr>
+      <td>Spor
+      </td>
+      <td>200 stopa
+      </td>
+      <td>2 milje
+      </td>
+      <td>18 milja
+      </td>
+      <td>Moguće biti nevidljiv
+      </td>
+   </tr>
 </table>
 
 
@@ -946,7 +957,7 @@ Interakcije u razvoju i razvoju slične su interakcijama u stvarnom životu. Ako
 
 Pored igranja uloga, provere sposobnosti su ključne za određivanje ishoda interakcije.
 
-Vaši napori u igranju uloga mogu promeniti stav NPC-a, ali u situaciji ipak može postojati element slučajnosti. Na primer, vaš DM može da pozove na proveru karizme u bilo kom trenutku tokom interakcije ako želi da kockice igraju ulogu u određivanju NPC-ovih reakcija. Druge provere mogu biti prikladne u određenim situacijama, po vašem nahođenju.
+Vaši napori u igranju uloga mogu promeniti stav NPC-a, ali u situaciji ipak može postojati element slučajnosti. Na primer, vaš DM može da pozove na proveru harizme u bilo kom trenutku tokom interakcije ako želi da kockice igraju ulogu u određivanju NPC-ovih reakcija. Druge provere mogu biti prikladne u određenim situacijama, po vašem nahođenju.
 
 Obratite pažnju na svoje veštine kada razmišljate o tome kako želite da komunicirate sa NPC-om i složite špil u svoju korist koristeći pristup koji se oslanja na vaše najbolje bonuse i veštine. Ako grupa treba da prevari stražara da ih pusti u zamak, najbolja opklada da vodi raspravu je lupež koji je vešt u prevari. Kada pregovara o oslobađanju taoca, sveštenik sa Persuasionom treba da održi veći deo razgovora.
 
@@ -1243,85 +1254,84 @@ Svako stvorenje zauzima različitu količinu prostora. Tabela kategorija veliči
 
 **Kategorije veličine**
 
-
 <table>
-  <tr>
-   <td>
-    <strong>Size</strong>
-   </td>
-   <td>
-    <strong>Space</strong>
-   </td>
-   <td>
-    <strong>Example Monsters</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Tiny
-   </td>
-   <td>
-    2½ by 2½ ft.
-   </td>
-   <td>
-    Imp, sprite
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Small
-   </td>
-   <td>
-    5 by 5 ft.
-   </td>
-   <td>
-    Giant rat, goblin
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Medium
-   </td>
-   <td>
-    5 by 5 ft.
-   </td>
-   <td>
-    Orc, werewolf
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Large
-   </td>
-   <td>
-    10 by 10 ft.
-   </td>
-   <td>
-    Hippogriff, ogre
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Huge
-   </td>
-   <td>
-    15 by 15 ft.
-   </td>
-   <td>
-    Fire giant, treant
-   </td>
-  </tr>
-  <tr>
-   <td>
-    Gargantuan
-   </td>
-   <td>
-    20 by 20 ft. or larger
-   </td>
-   <td>
-    Kraken, purple worm
-   </td>
-  </tr>
+   <tr>
+      <td>
+         <strong>Size</strong>
+      </td>
+      <td>
+         <strong>Space</strong>
+      </td>
+      <td>
+         <strong>Example Monsters</strong>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Tiny
+      </td>
+      <td>
+         2½ by 2½ ft.
+      </td>
+      <td>
+         Imp, sprite
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Small
+      </td>
+      <td>
+         5 by 5 ft.
+      </td>
+      <td>
+         Giant rat, goblin
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Medium
+      </td>
+      <td>
+         5 by 5 ft.
+      </td>
+      <td>
+         Orc, werewolf
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Large
+      </td>
+      <td>
+         10 by 10 ft.
+      </td>
+      <td>
+         Hippogriff, ogre
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Huge
+      </td>
+      <td>
+         15 by 15 ft.
+      </td>
+      <td>
+         Fire giant, treant
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Gargantuan
+      </td>
+      <td>
+         20 by 20 ft. or larger
+      </td>
+      <td>
+         Kraken, purple worm
+      </td>
+   </tr>
 </table>
 
 
