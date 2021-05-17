@@ -216,8 +216,6 @@ Veštine povezane sa svakom ocenom sposobnosti prikazane su na sledećoj listi.
    <tr>
       <td>Osobina
       </td>
-   </tr>
-   <tr>
       <td>Vještina
       </td>
    </tr>
