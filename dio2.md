@@ -1047,195 +1047,156 @@ Obuka traje 250 dana i košta 1 gp dnevno. Nakon što potrošite potrebnu količ
 # Poglavlje 9: Borba
 [D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/combat)
 
-Zveket mača koji udara o štit. Užasan zvuk pucanja dok se monstruozne kandže prodiru kroz oklop. Sjajni bljesak svetlosti dok plamena kugla cveta iz čarobnjakove čarolije. Oštar trzaj krvi u vazduhu, presecajući smrad gnusnih čudovišta.
+Zveket mača koji udara o štit. Užasan zvuk pucanja dok se monstruozne kandže prodiru kroz oklop. Sjajni bljesak svetlosti dok plamena kugla cveta iz čarobnjakove čarolije. Oštar trzaj krvi u vazduhu, presecajući smrad gnusnih čudovišta. Urlici besa, uzvici trijumfa, uzvici bola. Borba u D&D može biti haotična, smrtonosna i uzbudljiva.
 
-Urlici besa, uzvici trijumfa, uzvici bola. Borba u D&D može biti haotična, smrtonosna i uzbudljiva.
-
-Ovo poglavlje pruža pravila koja su vam potrebna da bi vaši likovi i čudovišta mogli da učestvuju u borbi, bez obzira jeste li ona
-
-kratak okršaj ili produženi sukob u tamnici ili na bojnom polju. Kroz ovo poglavlje, pravila se odnose na vas, igrača ili majstora tamnice. Dungeon Master kontroliše sva čudovišta i ne-igračke karaktere koji su uključeni u borbu, a svaki drugi igrač kontroliše avanturista. „Vi“ takođe može značiti lik ili monstrum kojim upravljate.
+Ovo poglavlje pruža pravila koja su vam potrebna da bi vaši likovi i čudovišta mogli da učestvuju u borbi, bez obzira je li ona kratak okršaj ili produženi sukob u tamnici ili na bojnom polju. Kroz ovo poglavlje, pravila se odnose na vas, igrača ili gospodara tamnice. Gospodar tamnice kontroliše sva čudovišta i ne-igračke karaktere koji su uključeni u borbu, a svaki drugi igrač kontroliše avanturista. „Vi“ takođe može značiti lik ili monstrum kojim upravljate.
 
 
 ## Redosled borbe
 
-Tipičan borbeni susret je sukob dve strane, nalet zamaha oružjem, finte, parije, rad nogu i čarolija. Igra organizuje haos borbe u ciklus krugova. Runda predstavlja oko 6 sekundi u svetu igre. Tokom runde, svaki učesnik u bitci uzima svoj red. Redosled okreta određuje se na početku borbenog susreta, kada svi pokreću inicijativu. Jednom kada se svi okrenu, borba se nastavlja do sledeće runde ako nijedna strana nije pobedila drugu.
-
+Tipičan borbeni susret je sukob dve strane, nalet zamaha oružjem, finte, pariranje, rad nogu i čarolija. Igra organizuje haos borbe u ciklus krugova. **Runda** predstavlja oko 6 sekundi u svetu igre. Tokom runde, svaki učesnik u bitci uzima svoj **potez**. Redosled poteza određuje se na početku borbenog susreta, kada svi pokreću inicijativu. Jednom kada se svi odrade svoj potez, borba se nastavlja u sledećoj rundi ako nijedna strana nije pobedila drugu.
 
 ### Iznenađenje
 
-Skup avanturista prikrada se razbojničkom kampu izvirući sa drveća da ih napadne. Želatinozna kocka klizi niz prolaz kroz tamnicu, a avanturisti je ne primećuju dok kocka ne zahvati jednog od njih. U ovim situacijama jedna strana bitke dobija iznenađenje drugi.
+Skup avanturista prikrada se razbojničkom kampu izvirući sa drveća da ih napadne. Želatinozna kocka klizi niz prolaz kroz tamnicu, a avanturisti je ne primećuju dok kocka ne zahvati jednog od njih. U ovim situacijama jedna strana iznenađuje drugu.
 
-DM određuje ko bi mogao biti iznenađen. Ako se nijedna strana ne trudi biti skrivena, automatski se primećuju. Inače, DM upoređuje provere spretnosti (Stealth) bilo kog ko se skriva sa rezultatom pasivne mudrosti (percepcije) svakog bića na protivničkom strani. Bilo koji lik ili čudovište koji ne primete pretnju iznenadi se na početku susreta.
+DM određuje ko bi mogao biti iznenađen. Ako se nijedna strana ne trudi biti skrivena, automatski se primećuju. Inače, DM upoređuje provere Spretnosti (Skrivanje) bilo kog ko se skriva sa rezultatom pasivne Mudrosti (Percepcije) svakog bića na protivničkom strani. Bilo koji lik ili čudovište koji ne primete pretnju iznenadi se na početku susreta.
 
-Ako ste iznenađeni, ne možete se pomeriti ili preduzeti akciju na prvom zavoju borbe i ne možete preduzeti reakciju dok se taj zaokret ne završi. Član grupe može biti iznenađen čak i ako drugi članovi nisu.
+Ako ste iznenađeni, ne možete se pomeriti ili preduzeti akciju na prvoj rundi borbe i ne možete preduzeti reakciju dok se ta runda ne završi. Član grupe može biti iznenađen čak i ako drugi članovi nisu.
 
-**Borba korak po korak**
-
-1. Odredite iznenađenje. DM određuje da li je neko umešan u borbeni susret iznenađen.
-
-2. Uspostavite pozicije. DM odlučuje gde se nalaze svi likovi i čudovišta. S obzirom na marš-naredbu avanturista ili njihove navedene položaje u sobi ili na drugom mestu, DM otkriva gde su protivnici - koliko daleko i u kom smeru.
-
-3. Pokretanje inicijative. Svi uključeni u inicijativu za borbu protiv borbe, određujući redosled okretanja boraca.
-
-4. Naizmenično. Svaki učesnik u bitci preokreće se po redosledu inicijative.
-
-5. Započnite sledeću rundu. Kada svi koji učestvuju u borbi imaju preokret, runda se završava. Ponavljajte korak 4 dok borbe ne prestanu.
-
+>**Borba korak po korak**
+>
+>1. Odredite iznenađenje. DM određuje da li je neko umešan u borbeni susret iznenađen.
+>2. Uspostavite pozicije. DM odlučuje gde se nalaze svi likovi i čudovišta. S obzirom na marš-naredbu avanturista ili njihove navedene položaje u sobi ili na drugom mestu, DM otkriva gde su protivnici - koliko daleko i u kom smeru.
+>3. Pokretanje inicijative. Svi uključeni u inicijativu za borbu protiv borbe, određujući redosled okretanja boraca.
+>4. Naizmenično. Svaki učesnik u bitci preokreće se po redosledu inicijative.
+>5. Započnite sledeću rundu. Kada svi koji učestvuju u borbi imaju preokret, runda se završava. Ponavljajte korak 4 dok borbe ne prestanu.
 
 ### Inicijativa
 
-Inicijativa određuje redosled okreta tokom borbe. Kada borba započne, svaki učesnik vrši proveru spretnosti kako bi utvrdio svoje mesto u redosledu inicijative. DM pravi jedan kolut za čitavu grupu identičnih tvorevina, tako da svaki član grupe deluje istovremeno.
+Inicijativa određuje redosled poteza tokom borbe. Kada borba započne, svaki učesnik vrši proveru spretnosti kako bi utvrdio svoje mesto u redosledu inicijative. DM pravi jedan kolut za čitavu grupu identičnih stvorena, tako da svaki član grupe deluje istovremeno.
 
-DM rangira borce po redosledu od onog sa najvećim brojem kontrola spretnosti do onog sa najnižim. Ovo je redosled (koji se naziva inicijativni redosled) kojim deluju tokom svakog kruga. Redosled inicijative ostaje isti iz kruga u krug.
+DM rangira borce po redosledu od onog sa najvećim brojem provjere spretnosti do onog sa najnižim. Ovo je redosled (koji se naziva inicijativni redosled) kojim deluju tokom svakog kruga. Redosled inicijative ostaje isti iz runde u rundu.
 
-Ako dođe do izjednačenja, DM odlučuje o redosledu među vezanim bićima pod kontrolom DM-a, a igrači odlučuju o redosledu između svojih vezanih likova. DM može odlučiti o redosledu ako je veza između čudovišta i karaktera igrača. Opcionalno, DM može da ima vezane likove i čudovišta, a svako baca d20 da bi odredio redosled, najviši roll ide prvi.
-
+Ako dođe do izjednačenja, DM odlučuje o redosledu među vezanim bićima pod kontrolom DM-a, a igrači odlučuju o redosledu između svojih vezanih likova. DM može odlučiti o redosledu ako je neriješeno između čudovišta i lika igrača. Opcionalno, DM može da ima neriješeno likove i čudovišta, a svako baca d20 da bi odredio redosled, najviše bacanje ide prvo.
 
 ### Tvoj red
 
-Zauzvrat možete da pređete udaljenost do vaše brzine i preduzmete jednu akciju. Vi odlučujete da li ćete prvo krenuti ili prvo preduzeti svoju akciju. Vaša brzina - koja se ponekad naziva i brzina hodanja - zabeležena je na vašem listu karaktera.
+Kada dođe red na vas možete da **pređete** udaljenost do vaše brzine i **preduzmete jednu akciju**. Vi odlučujete da li ćete prvo krenuti ili prvo preduzeti svoju akciju. Vaša brzina - koja se ponekad naziva i brzina hodanja - zabeležena je na vašem listu karaktera.
 
 Najčešće akcije koje možete preduzeti opisane su u odeljku „Akcije u borbi“ kasnije u ovom poglavlju. Mnoge funkcije klase i druge sposobnosti pružaju dodatne mogućnosti za vašu akciju.
 
 Odeljak „Kretanje i položaj“ kasnije u ovom poglavlju daje pravila za vaš potez.
 
-Možete odustati od kretanja, preduzimanja radnje ili bilo čega što možete učiniti na svom potezu. Ako ne možete da odlučite šta ćete raditi na svom potezu, razmislite o preduzimanju radnje Dodge ili Readi, kao što je opisano u „Akcije u borbi“.
-
+Možete odustati od kretanja, preduzimanja radnje ili bilo čega što možete učiniti na svom potezu. Ako ne možete da odlučite šta ćete raditi na svom potezu, razmislite o preduzimanju radnje Izbijeći ili Pripremiti se, kao što je opisano u „Akcije u borbi“.
 
 #### Bonus akcije
 
-Razne osobine klase, čarolije i druge sposobnosti omogućavaju vam da preduzmete dodatnu radnju koja se zove bonus akcija. Funkcija Lukava akcija, na primer, omogućava lupežu da preduzme bonus akciju. Možete preduzeti bonus akciju samo kada posebna sposobnost, čarolija ili druga karakteristika igre navodi da nešto možete učiniti kao bonus akciju. Inače nemate bonus radnju.
+Razne osobine klase, čarolije i druge sposobnosti omogućavaju vam da preduzmete dodatnu radnju koja se zove bonus akcija. Funkcija Lukava akcija, na primer, omogućava lupežu da preduzme bonus akciju. Možete preduzeti bonus akciju samo kada posebna sposobnost, čarolija ili druga karakteristika igre navodi da nešto možete učiniti kao bonus akciju. Inače nemate bonus akciju.
 
 Na svom potezu možete preduzeti samo jednu bonus akciju, tako da morate odabrati koju bonus akciju ćete koristiti kada imate na raspolaganju više od jedne.
 
-Vi birate kada ćete preduzeti bonus akciju tokom vašeg poteza, osim ako nije određeno vreme bonus akcije, a sve što vas lišava sposobnosti za preduzimanje radnji takođe vas sprečava da preduzmete bonus akciju.
-
+Vi birate kada ćete preduzeti bonus akciju tokom vašeg poteza, osim ako nije određeno vreme bonus akcije, kao i sve što vas lišava sposobnosti za preduzimanje akciju takođe vas sprečava da preduzmete bonus akciju.
 
 #### Ostale aktivnosti na tvom redu
 
-Vaš red može uključivati razne napredovanja koja ne zahtevaju ni vašu akciju ni vaš potez.
+Vaš red može uključivati razna napredovanja koja ne zahtevaju ni vašu akciju ni vaš pokret.
 
-Možete komunicirati kako god možete, kratkim izgovorima i gestama, dok zauzimate svoj red.
+Možete komunicirati kako god možete, kratkim izgovorima i gestama, dok ste na potezu.
 
 Takođe možete besplatno da komunicirate sa jednim objektom ili obeležjem okoline tokom pokreta ili akcije. Na primer, tokom otvaranja vrata možete otvoriti vrata dok koračate prema neprijatelju ili možete povući oružje kao deo iste akcije koju koristite za napad.
 
-Ako želite da komunicirate sa drugim objektom, treba da upotrebite svoju akciju. Neki magični predmeti i drugi posebni predmeti uvek zahtevaju radnju, kako je navedeno u njihovim opisima.
+Ako želite da komunicirate sa drugim objektom, treba da upotrebite svoju akciju. Neki magični predmeti i drugi posebni predmeti uvek zahtevaju akciju, kako je navedeno u njihovim opisima.
 
-DM će možda zahtevati da za bilo koji od njih koristite neku radnju ovih aktivnosti kada joj je potrebna posebna nega ili kada predstavlja neobičnu prepreku. Na primer, DM može razumno očekivati da ćete preduzeti akciju za otvaranje zaglavljenih vrata ili okretanje ručice za spuštanje pokretnog mosta.
+DM će možda zahtevati da za bilo koji od ovih aktivnosti koristite neku akciju kada joj je potrebna posebna nega ili kada predstavlja neobičnu prepreku. Na primer, DM može razumno očekivati da ćete preduzeti akciju za otvaranje zaglavljenih vrata ili okretanje ručice za spuštanje pokretnog mosta.
 
+#### Reakcije
 
-### Reakcije
+Određene posebne sposobnosti, uroci i situacije omogućavaju vam da preduzmete posebnu akciju koja se naziva reakcija. Reakcija je trenutni odgovor na neku vrstu okidača koji može dogoditi se na vašem ili na tuđem potezu. Prilika za napad kojA je opisanA kasnije u ovom poglavlju najčešća je vrsta reakcije.
 
-Određene posebne sposobnosti, uroci i situacije omogućavaju vam da preduzmete posebnu akciju koja se naziva reakcija. Reakcija je trenutni odgovor na neku vrstu okidača koji može dogoditi se na vašem ili na tuđem. Napad koji je opisan kasnije u ovom poglavlju najčešća je vrsta reakcije.
-
-Kada primite reakciju, ne možete da preduzmete drugu do početka sledećeg okreta. Ako reakcija prekine okretanje drugog bića, to stvorenje može da nastavi svoj red odmah nakon reakcije.
+Kada jednom reagujete, ne možete da preduzmete drugu reakciju do početka sledeće runde. Ako reakcija prekine potez drugog bića, to stvorenje može da nastavi svoj potez odmah nakon reakcije.
 
 
 ## Kretanje i položaj
 
 U borbi su likovi i čudovišta u neprekidnom pokretu, često koristeći pokret i položaj da prevladaju.
 
-**Interakcija sa objektima oko vas**
-
-Evo nekoliko primera vrsta stvari koje možete raditi zajedno sa svojim kretanjem i delovanjem:
-
-* izvući ili oštriti mač
-
-* otvorite ili zatvorite vrata
-
-* povucite napitak iz ruksaka
-
-* podignite ispuštenu sekiru
-
-* uzmite baner sa stola
-
-* uklonite prsten sa prsta
-
-* trpite malo hrane u usta
-
-* posadite transparent u zemlju
-
-* izlovite nekoliko novčića iz torbe za pojas
-
-* popijte sve pivo u flaši
-
-* baci ručicu ili prekidač
-
-* izvući baklju iz svetiljke
-
-* uzmite knjigu sa police do koje možete doći
-
-* ugasiti mali plamen
-
-* stavite masku
-
-* povucite kapuljaču ogrtača gore i iznad glave
-
-* prislonite uvo na vrata
-
-* šutnite mali kamen
-
-* okrenuti ključ u bravi
-
-* lupnite po podu motkom od 10 stopa
-
-* predajte predmet drugom liku
-
-Zauzvrat možete da pređete udaljenost do vaše brzine. Možete koristiti svoju brzinu koliko god želite ili malo, na svom redu, poštujući ovde navedena pravila.
+U vašem potezu možete da pređete udaljenost do vaše brzine. Možete koristiti svoju brzinu koliko god želite ili malo, na svom redu, poštujući ovde navedena pravila.
 
 Vaše kretanje može da uključuje skakanje, penjanje i plivanje. Ovi različiti načini kretanja mogu se kombinovati sa hodanjem ili mogu predstavljati čitav vaš pokret. Kako god da se krećete, odvajate udaljenost svakog dela vašeg kretanja od brzine dok se ne potroši ili dok ne završite sa kretanjem.
 
 Odeljak „Posebne vrste kretanja“ u poglavlju 8 daje detalje za skakanje, penjanje i plivanje.
 
-
 ### Prekid vašeg poteza
 
-Možete da prekinete kretanje na svom skretanju, koristeći malo brzine pre i posle akcije. Na primer, ako imate brzinu od 30 stopa, možete se pomeriti 10 stopa, preduzeti akciju, a zatim 20 stopa.
-
+Možete da prekinete kretanje na svom potezu, koristeći malo brzine pre i posle akcije. Na primer, ako imate brzinu od 30 stopa, možete se pomeriti 10 stopa, preduzeti akciju, a zatim pomeriti 20 stopa.
 
 #### Kretanje između napada
 
-Ako poduzmete akciju koja uključuje više od jednog napada oružjem, možete još više prekinuti kretanje pomicanjem između tih napada. Na primer, borac koji može izvršiti dva napada pomoću funkcije Ektra Attack i koji ima brzinu od 25 stopa mogao bi se pomeriti 10 stopa, izvršiti napad, pomeriti se 15 stopa, a zatim ponovo napasti.
-
+Ako poduzmete akciju koja uključuje više od jednog napada oružjem, možete još više prekinuti kretanje pomicanjem između tih napada. Na primer, borac koji može izvršiti dva napada pomoću funkcije Dodatni napad i koji ima brzinu od 25 stopa mogao bi se pomeriti 10 stopa, izvršiti napad, pomeriti se 15 stopa, a zatim ponovo napasti.
 
 #### Korišćenje različitih brzina
 
-Ako imate više od jedne brzine, poput brzine hodanja i brzine letenja, tokom kretanja možete da prebacujete između svojih brzina. Kad god prebacite, od nove brzine oduzmite udaljenost koju ste već prešli. Rezultat određuje koliko se dalje možete kretati. Ako je rezultat 0 ili manje, ne možete da koristite novu brzinu tokom trenutnog poteza.
+Ako imate više od jedne brzine, poput brzine hodanja i brzine letenja, tokom kretanja možete da se prebacujete između svojih brzina. Kad god prebacite, od nove brzine oduzmite udaljenost koju ste već prešli. Rezultat određuje koliko se dalje možete kretati. Ako je rezultat 0 ili manje, ne možete da koristite novu brzinu tokom trenutnog poteza.
 
-Na primer, ako imate brzinu od 30, a brzinu letenja od 60, jer je čarobnjak na vas bacio čaroliju muve, mogli biste da preletite 20 stopa, zatim hodate 10 stopa, a zatim skočite u vazduh da biste preleteli 30 stopa više.
+Na primer, ako imate brzinu od 30, a brzinu letenja od 60, jer je čarobnjak na vas bacio čaroliju letenja, mogli biste da preletite 20 stopa, zatim hodate 10 stopa, a zatim skočite u vazduh da biste preleteli još 30 stopa.
 
 
 ### Težak teren
 
-Borba se retko odvija u golim prostorijama ili na neviđenim ravnicama. Pećine posejane gromadama, šume zadavljene brijačem, izdajnička stepeništa - postavka tipična borba sadrži težak teren.
+Borba se retko odvija u golim prostorijama ili na neviđenim ravnicama. Pećine posejane gromadama, šume zarasle trnjem, opasna stepeništa - postavka tipične borba sadrži težak teren.
 
-Svaka noga kretanja na teškom terenu košta 1 dodatnu nogu. Ovo pravilo je tačno čak i ako se više stvari u prostoru smatra teškim terenom.
+Svaka stopa kretanja na teškom terenu košta 1 dodatnu stopu. Ovo pravilo je tačno čak i ako se više stvari u prostoru smatra teškim terenom.
 
-Niski nameštaj, ruševine, šipražje, strme stepenice, sneg i plitko močvare primeri su teškog terena. Prostor drugog stvorenja, bilo neprijateljskog ili ne, takođe se računa kao težak teren.
-
+Niski nameštaj, ruševine, šipražje, strme stepenice, sneg i plitke močvare primeri su teškog terena. Prostor drugog stvorenja, bilo neprijateljskog ili ne, takođe se računa kao težak teren.
 
 #### Ležati 
 
-Borci se često zateknu kako leže na zemlji, bilo zato što su srušeni, bilo zato što se bacaju. U igri su skloni, stanje opisano u dodatku A.
+Borci se često zateknu kako leže na zemlji, bilo zato što su srušeni, bilo zato što se bacaju.
 
-Možete pasti skloni bez upotrebe brzine. Ustajanje zahteva više napora; to čini količinu kretanja jednaku polovini vaše brzine. Na primer, ako je vaša brzina 30 stopa, morate da potrošite 15 stopa pokreta da biste ustali. Ne možete da ustanete ako vam nije ostalo dovoljno kretanja ili ako vam je brzina 0.
+Možete leći bez upotrebe brzine. Ustajanje zahteva više napora; to čini količinu kretanja jednaku polovini vaše brzine. Na primer, ako je vaša brzina 30 stopa, morate da potrošite 15 stopa pokreta da biste ustali. Ne možete da ustanete ako vam nije ostalo dovoljno kretanja ili ako vam je brzina 0.
 
-Da biste se kretali dok ste ležeći, morate puzati ili koristiti magiju poput teleportacije. Svaka noga pokreta tokom puzanja košta 1 dodatnu nogu. Zbog toga puzanje 1 stopalo po teškom terenu košta 3 metra kretanja.
+Da biste se kretali dok ste u ležećem položaju, morate puzati ili koristiti magiju poput teleportacije. Svaka stopa pokreta tokom puzanja košta 1 dodatnu stopu. Zbog toga puzanje 1 stope po teškom terenu košta 3 stope kretanja.
+
+
+>**Interakcija sa objektima oko vas**
+>
+>Evo nekoliko primera vrsta stvari koje možete raditi zajedno sa svojim kretanjem i akcijama:
+>
+>* izvući ili oštriti mač
+>* otvorite ili zatvorite vrata
+>* uzeti napitak iz ruksaka
+>* podignite ispuštenu sekiru
+>* uzmite sitnicu sa stola
+>* uklonite prsten sa prsta
+>* strpate malo hrane u usta
+>* posadite zastavu u zemlju
+>* izlovite nekoliko novčića iz torbe za pojas
+>* popijte svo pivo u flaši
+>* dohvatiti ručicu ili prekidač
+>* zapaliti baklju na svetiljki
+>* uzmete knjigu sa police do koje možete doći
+>* ugasiti mali plamen
+>* stavite masku
+>* povucite kapuljaču ogrtača gore i iznad glave
+>* prislonite uvo na vrata
+>* šutnite mali kamen
+>* okrenuti ključ u bravi
+>* lupnite po podu motkom od 10 stopa
+>* predajte predmet drugom liku
 
 
 ### Kretanje oko drugih stvorenja
 
-Možete se kretati kroz prostor neprijateljskog stvorenja. Nasuprot tome, kroz prostor neprijateljskog stvorenja možete se kretati samo ako je stvorenje najmanje dve veličine veće ili manje od vas. Zapamtite da vam je prostor drugog stvorenja težak teren.
+Možete se kretati kroz prostor prijateljskog stvorenja. Nasuprot tome, kroz prostor neprijateljskog stvorenja možete se kretati samo ako je stvorenje najmanje dve veličine veće ili manje od vas. Zapamtite da vam je prostor drugog stvorenja težak teren.
 
 Bez obzira da li je neko biće prijatelj ili neprijatelj, ne možete svojevoljno završiti svoj potez u njegovom prostoru.
 
-Ako tokom kretanja ostavite domet neprijateljskog stvorenja, izazvaćete napad na priliku, kao što je objašnjeno kasnije u poglavlju.
-
+Ako tokom kretanja ostavite domet neprijateljskog stvorenja, izazvaćete njegovu reakciju, kao što je objašnjeno kasnije u poglavlju.
 
 ### Leteći pokret
 
-Leteća stvorenja uživaju mnoge prednosti mobilnosti, ali moraju se suočiti i sa opasnošću od pada. Ako je leteće stvorenje sklono, njegova brzina je smanjena na 0 ili mu je na drugi način uskraćena sposobnost kretanja, stvorenje pada, osim ako ima sposobnost lebdenja ili ga uzdržava magija, kao što je muva čarolija.
-
+Leteća stvorenja uživaju mnoge prednosti mobilnosti, ali moraju se suočiti i sa opasnošću od pada. Ako je leteće stvorenje oboreno u ležeči položaj, njegova brzina je smanjena na 0 ili mu je na drugi način uskraćena sposobnost kretanja, stvorenje pada, osim ako ima sposobnost lebdenja ili ga uzdržava magija, kao što je muva čarolija.
 
 ### Veličina stvorenja
 
@@ -1246,100 +1207,114 @@ Svako stvorenje zauzima različitu količinu prostora. Tabela kategorija veliči
 <table>
    <tr>
       <td>
-         <strong>Size</strong>
+         <strong>Veličina</strong>
       </td>
       <td>
-         <strong>Space</strong>
+         <strong>Prosto</strong>
       </td>
       <td>
-         <strong>Example Monsters</strong>
-      </td>
-   </tr>
-   <tr>
-      <td>
-         Tiny
-      </td>
-      <td>
-         2½ by 2½ ft.
-      </td>
-      <td>
-         Imp, sprite
+         <strong>Primjer stvorenja</strong>
       </td>
    </tr>
    <tr>
       <td>
-         Small
+         Sitno
       </td>
       <td>
-         5 by 5 ft.
+         2½ sa 2½ stopa
       </td>
       <td>
-         Giant rat, goblin
-      </td>
-   </tr>
-   <tr>
-      <td>
-         Medium
-      </td>
-      <td>
-         5 by 5 ft.
-      </td>
-      <td>
-         Orc, werewolf
+         Bauk, duh
       </td>
    </tr>
    <tr>
       <td>
-         Large
+         Malo
       </td>
       <td>
-         10 by 10 ft.
+         5 sa 5 stopa
       </td>
       <td>
-         Hippogriff, ogre
-      </td>
-   </tr>
-   <tr>
-      <td>
-         Huge
-      </td>
-      <td>
-         15 by 15 ft.
-      </td>
-      <td>
-         Fire giant, treant
+         Ogroman pacov, goblin
       </td>
    </tr>
    <tr>
       <td>
-         Gargantuan
+         Srednje
       </td>
       <td>
-         20 by 20 ft. or larger
+         5 sa 5 stopa
       </td>
       <td>
-         Kraken, purple worm
+         Ork, Vukodlak
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Veliko
+      </td>
+      <td>
+         10 sa 10 stopa
+      </td>
+      <td>
+         Hipogrif, ogar
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Ogromno
+      </td>
+      <td>
+         15 sa 15 stopa
+      </td>
+      <td>
+         Vatreni div, treant
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Gigantsko
+      </td>
+      <td>
+         20 sa 20 stopa ili više
+      </td>
+      <td>
+         Kraken, ljubičasti crv
       </td>
    </tr>
 </table>
 
 
+#### Prostor
 
-#### Prostor 
+Prostor bića je područje u stopama koje ono efikasno kontroliše u borbi, a ne izraz njegovih fizičkih dimenzija. Na primer, tipično srednje biće nije široko 5 stopa, ali kontroliše tako širok prostor. Ako Srednji hobgoblin stoji na ulazu širokom 5 stopa, druga stvorenja ne mogu da prođu ako im hobgoblin to ne dopusti.
 
-Prostor bića je područje u stopalima koje ono efikasno kontroliše u borbi, a ne izraz njegovih fizičkih dimenzija. Na primer, tipično srednje biće nije široko 5 stopa, ali kontroliše tako širok prostor. Ako Srednji hobgoblin stoji na ulazu širokom 5 stopa, druga stvorenja ne mogu da prođu ako im hobgoblin to ne dopusti.
+Prostor stvorenja takođe odražava područje potrebno za efikasnu borbu. Iz tog razloga postoji ograničenje broja stvorenja koja mogu okružiti drugo stvorenje u borbi. Pod pretpostavkom da su srednji borci, osam stvorenja može da stane u radijusu od 5 stopa od drugog.
 
-Prostor stvorenja takođe odražava područje potrebno za efikasnu borbu. Iz tog razloga postoji ograničenje broja stvorenja koja mogu okružiti drugo stvorenje u borbi. Pod pretpostavkom da su srednji borci, osam stvorenja može da stane u radijusu od 5 stopa oko drugog.
-
-Budući da veća bića zauzimaju više prostora, manje ih može okružiti biće. Ako se četiri Velika stvorenja skupe oko Srednjeg ili manjeg, malo je
-
-soba za bilo koga drugog. Suprotno tome, čak dvadeset srednjih stvorenja može okružiti jedno Gargantuanovo.
-
+Budući da veća bića zauzimaju više prostora, manje ih može okružiti biće. Ako se četiri Velika stvorenja skupe oko Srednjeg ili manjeg, malo je prostora za bilo koga drugog. Suprotno tome, čak dvadeset srednjih stvorenja može okružiti jedno Gigantsko stvorenje.
 
 #### Stiskanje u manji prostor
 
-Stvorenje se može progurati kroz prostor koji je dovoljno velik za stvorenje veličine jedne manje od njega. Tako se Veliko stvorenje može progurati kroz prolaz širok samo 5 stopa. Dok se probija kroz prostor, stvorenje mora da potroši 1 dodatnu nogu za svako stopalo koje se tamo kreće, a ima nedostatak u rolama za napad i spretnim bacanjima spretnosti. Napadni valjci protiv stvorenja imaju prednost dok je u manjem prostoru.
+Stvorenje se može progurati kroz prostor koji je dovoljno velik za stvorenje veličine jedne manje od njega. Tako se Veliko stvorenje može progurati kroz prolaz širok samo 5 stopa. Dok se probija kroz prostor, stvorenje mora da potroši 1 dodatnu stopu za svaku stopu kojom se tamo kreće, a ima nedostatak u bacanjima za napad i spasilačka bacanje Spretnosti. Bacanja za napad protiv stvorenja imaju prednost dok je u manjem prostoru.
 
+
+>**Varijanta: igranje na mreži**
+>
+>Ako borbu igrate pomoću kvadratne mreže i minijatura ili drugih žetona, sledite ova pravila.
+>
+>**Kvadrati**. Svaki kvadrat na mreži predstavlja 5 stopa.
+>
+>**Brzina**. Umesto da se krećete nogu po nogu, pomerajte se kvadrat po kvadrat na mreži. To znači da brzinu koristite u segmentima od 5 stopa. Ovo je naročito lako ako svoju brzinu prevedete u kvadrate deleći brzinu sa 5. Na primer, brzina od 30 stopa prevodi se u brzinu od 6 kvadrata.
+>
+>Ako često koristite mrežu, razmislite o tome da na listi znakova zapišete brzinu u kvadratiće.
+>
+>**Ulazak u kvadrat**. Da biste ušli u kvadrat, morate imati najmanje 1 kvadrat kretanja, čak i ako je kvadrat dijagonalno uz kvadrat u kojem se nalazite. (Pravilo jer dijagonalno kretanje žrtvuje realizam zarad nesmetane igre. Vodič za Dungeon Master daje smernice za korišćenje realističnijeg pristupa.)
+>
+>Ako kvadrat košta dodatno kretanje, kao što je kvadrat teškog terena, mora vam ostati dovoljno kretanja da platite za ulazak u njega. Na primer, morate da imate najmanje 2 kvadrata kretanja da biste ušli na kvadrat teškog terena.
+>
+>**Uglovi**. Dijagonalno kretanje ne može da pređe ugao zida, velikog drveta ili neke druge karakteristike terena koja ispunjava njegov prostor.
+>
+>**Domet**. Da biste odredili domet na mreži između dve stvari - bilo da su to stvorenja ili predmeti - počnite da broj kvadrate od kvadrata susednog jednom od njih i zaustavite brojanje u prostoru druge. Broji najkraćom rutom.
 
 ## Akcije u borbi
 
@@ -1356,29 +1331,9 @@ Ovom akcijom napravite jedan mele ili napad u daljini. Pogledajte odeljak „Nap
 
 Određene karakteristike, poput karakteristike Ektra Attack borca, omogućavaju vam da izvršite više od jednog napada ovom akcijom.
 
-**Varijanta: igranje na mreži**
-
-Ako borbu igrate pomoću kvadratne mreže i minijatura ili drugih žetona, sledite ova pravila.
-
-**Kvadrati**. Svaki kvadrat na mreži predstavlja 5 stopa.
-
-**Brzina**. Umesto da se krećete nogu po nogu, pomerajte se kvadrat po kvadrat na mreži. To znači da brzinu koristite u segmentima od 5 stopa. Ovo je naročito lako ako svoju brzinu prevedete u kvadrate deleći brzinu sa 5. Na primer, brzina od 30 stopa prevodi se u brzinu od 6 kvadrata.
-
-Ako često koristite mrežu, razmislite o tome da na listi znakova zapišete brzinu u kvadratiće.
-
-**Ulazak u kvadrat**. Da biste ušli u kvadrat, morate imati najmanje 1 kvadrat kretanja, čak i ako je kvadrat dijagonalno uz kvadrat u kojem se nalazite. (Pravilo jer dijagonalno kretanje žrtvuje realizam zarad nesmetane igre. Vodič za Dungeon Master daje smernice za korišćenje realističnijeg pristupa.)
-
-Ako kvadrat košta dodatno kretanje, kao što je kvadrat teškog terena, mora vam ostati dovoljno kretanja da platite za ulazak u njega. Na primer, morate da imate najmanje 2 kvadrata kretanja da biste ušli na kvadrat teškog terena.
-
-**Uglovi**. Dijagonalno kretanje ne može da pređe ugao zida, velikog drveta ili neke druge karakteristike terena koja ispunjava njegov prostor.
-
-**Domet**. Da biste odredili domet na mreži između dve stvari - bilo da su to stvorenja ili predmeti - počnite da broj kvadrate od kvadrata susednog jednom od njih i zaustavite brojanje u prostoru druge. Broji najkraćom rutom.
-
-
 ### Baciti čini
 
 Progovarači čarolija poput čarobnjaka i sveštenika, kao i mnoga čudovišta, imaju pristup čarolijama i mogu ih koristiti sa velikim učinkom u borbi. Svaka čarolija ima vreme bačenja, koje određuje da li bacač mora da upotrebi akciju, reakciju, minute ili čak sate da bi bacio čaroliju. Bacanje uroka, prema tome, nije nužno radnja. Većina uroka ima vreme bačenja od 1 akcije, pa bacač čarolija često koristi svoju akciju u borbi da bi bacio takvu čaroliju. Pogledajte poglavlje 10 za pravila o izricanju pravopisa.
-
 
 ### Nalet 
 
@@ -1386,16 +1341,13 @@ Kada preduzmete akciju Dash, dobijate dodatni pokret za trenutni zavoj. Poveća
 
 Svako povećanje ili smanjenje vaše brzine menja ovo dodatno kretanje za isti iznos. Ako se, na primer, vaša brzina od 30 stopa smanji na 15 stopa, ovaj okret možete da premestite do 30 stopa ako trčite.
 
-
 ### Odvojiti se
 
 Ako preduzmete akciju Isključi, vaš pokret neće izazvati napade za priliku do kraja okreta.
 
-
-### izbeći
+### Izbeći
 
 Kada preduzmete Dodge akciju, fokusirate se u potpunosti na izbegavanje napada. Do početka vašeg sledećeg okreta, bilo koji napravljeni napad na vas ima nedostatak ako vidite napadača, a spretno bacanje spretnosti napravite sa prednošću. Ovu pogodnost gubite ako se onesposobite (kao što je objašnjeno u dodatku A) ili ako vam brzina padne na 0.
-
 
 ### Pomoć
 
