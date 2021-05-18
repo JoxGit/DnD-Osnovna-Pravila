@@ -15,7 +15,7 @@ Ovo poglavlje pruža pravila za bajanje čarolijama. Različite klase karaktera 
 
 Čarolija je diskretni magijski efekat, jedno oblikovanje magijskih energija koje multiverzum ulivaju u određeni, ograničeni izraz. Bacajući čaroliju, lik pažljivo čupa nevidljive niti sirove magije koja prožima svet, postavlja ih na svoje mesto u određenoj obrazac, postavlja ih da vibriraju na određeni način, a zatim ih pušta da bi oslobodili željeni efekat - u većini slučajeva, sve u rasponu od nekoliko sekundi.
 
-Čarolije mogu biti svestrani alat, oružje ili zaštitni čuvar. One mogu naneti štetu ili je poništiti, nametnuti ili ukloniti uslove (videti dodatak A), odvoditi životnu energiju i mrtvim vratiti život.
+Čarolije mogu biti svestrani alat, oružje ili zaštitni čuvar. One mogu naneti štetu ili je poništiti, nametnuti ili ukloniti uslove ~~(videti dodatak A)~~, odvoditi životnu energiju i mrtvim vratiti život.
 
 Nebrojene hiljade čarolija stvorene su tokom istorije multiverzuma, a mnoge od njih su odavno zaboravljene. Neke su možda joši zabeležene u raspadajućim knjigama čarolije skrivenim u drevnim ruševinama ili zarobljene u glavama mrtvih bogova. Ili će ih možda jednog dana izmisliti lik koji je skupio dovoljno snage i mudrosti da to učini.
 

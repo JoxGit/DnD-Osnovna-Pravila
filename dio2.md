@@ -127,7 +127,7 @@ Likovi imaju bonus za stručnost određen nivoom, kao što je detaljno opisano u
 
 Vaš bonus za stručnost se ne može dodati jednom bacanju kocke ili drugom broju više puta. Na primer, ako dva različita pravila kažu da možete dodati svoj bonus mudrosti sa bacanje spasa, ipak dodajete bonus samo jednom kada bacate za spas.
 
-Povremeno se vaš bonus za stručnost može umnožiti ili podeliti (na primer, udvostručiti ili prepoloviti) pre nego što ga primenite. Na primer, nevaljlčeva ekspertiza duplira bonus za stručnost za određene provere sposobnosti. Ako vam okolnost sugeriše da se bonus za stručnost primenjuje više puta na isto bacanje, i dalje ga dodajete samo jednom i množite ili delite samo jednom.
+Povremeno se vaš bonus za stručnost može umnožiti ili podeliti (na primer, udvostručiti ili prepoloviti) pre nego što ga primenite. Na primer, lopovska ekspertiza duplira bonus za stručnost za određene provere sposobnosti. Ako vam okolnost sugeriše da se bonus za stručnost primenjuje više puta na isto bacanje, i dalje ga dodajete samo jednom i množite ili delite samo jednom.
 
 Isto tako, ako vam osobina ili efekat omogućavaju da pomnožite svoj bonus za stručnost prilikom provere sposobnosti koja obično ne bi imala koristi od vašeg bonusa za stručnost, još uvek ne dodajete bonus proveri. Za tu proveru vaš bonus stručnosti je 0, s obzirom na činjenicu da je množenje 0 sa bilo kojim brojem i dalje 0. Na primer, ako vam nedostaje znanje veštine Istorija, nećete imati koristi od funkcije koja vam omogućava da udvostručite bonus za stručnost kada vršite provere inteligencije (istorija).
 
@@ -1298,149 +1298,139 @@ Budući da veća bića zauzimaju više prostora, manje ih može okružiti bic
 Stvorenje se može progurati kroz prostor koji je dovoljno velik za stvorenje veličine jedne manje od njega. Tako se Veliko stvorenje može progurati kroz prolaz širok samo 5 stopa. Dok se probija kroz prostor, stvorenje mora da potroši 1 dodatnu stopu za svaku stopu kojom se tamo kreće, a ima nedostatak u bacanjima za napad i spasilačka bacanje Spretnosti. Bacanja za napad protiv stvorenja imaju prednost dok je u manjem prostoru.
 
 
->**Varijanta: igranje na mreži**
+>**Varijanta: Igranje na mreži**
 >
 >Ako borbu igrate pomoću kvadratne mreže i minijatura ili drugih žetona, sledite ova pravila.
 >
 >**Kvadrati**. Svaki kvadrat na mreži predstavlja 5 stopa.
 >
->**Brzina**. Umesto da se krećete nogu po nogu, pomerajte se kvadrat po kvadrat na mreži. To znači da brzinu koristite u segmentima od 5 stopa. Ovo je naročito lako ako svoju brzinu prevedete u kvadrate deleći brzinu sa 5. Na primer, brzina od 30 stopa prevodi se u brzinu od 6 kvadrata.
+>**Brzina**. Umesto da se krećete stopu po stopu, pomerajte se kvadrat po kvadrat na mreži. To znači da brzinu koristite u segmentima od 5 stopa. Ovo je naročito lako ako svoju brzinu prevedete u kvadrate deleći brzinu sa 5. Na primer, brzina od 30 stopa prevodi se u brzinu od 6 kvadrata.
 >
->Ako često koristite mrežu, razmislite o tome da na listi znakova zapišete brzinu u kvadratiće.
+>Ako često koristite mrežu, razmislite o tome da na listi karaktera zapišete brzinu u kvadratima.
 >
->**Ulazak u kvadrat**. Da biste ušli u kvadrat, morate imati najmanje 1 kvadrat kretanja, čak i ako je kvadrat dijagonalno uz kvadrat u kojem se nalazite. (Pravilo jer dijagonalno kretanje žrtvuje realizam zarad nesmetane igre. Vodič za Dungeon Master daje smernice za korišćenje realističnijeg pristupa.)
+>**Ulazak u kvadrat**. Da biste ušli u kvadrat, morate imati najmanje 1 kvadrat kretanja, čak i ako je kvadrat dijagonalno uz kvadrat u kojem se nalazite. (Pravilo za dijagonalno kretanje žrtvuje realizam zarad nesmetane igre. Vodič za Gospodara Tamnice daje smernice za korišćenje realističnijeg pristupa.)
 >
 >Ako kvadrat košta dodatno kretanje, kao što je kvadrat teškog terena, mora vam ostati dovoljno kretanja da platite za ulazak u njega. Na primer, morate da imate najmanje 2 kvadrata kretanja da biste ušli na kvadrat teškog terena.
 >
 >**Uglovi**. Dijagonalno kretanje ne može da pređe ugao zida, velikog drveta ili neke druge karakteristike terena koja ispunjava njegov prostor.
 >
->**Domet**. Da biste odredili domet na mreži između dve stvari - bilo da su to stvorenja ili predmeti - počnite da broj kvadrate od kvadrata susednog jednom od njih i zaustavite brojanje u prostoru druge. Broji najkraćom rutom.
+>**Domet**. Da biste odredili domet na mreži između dve stvari - bilo da su to stvorenja ili predmeti - počnite da broj kvadrate od kvadrata susednog jednom od njih i zaustavite brojanje u kvadratu na kome je drug. Broji najkraćom rutom.
+
 
 ## Akcije u borbi
 
-Kada preduzmete svoju akciju na svom potezu, možete preduzeti jednu od ovde predstavljenih radnji, radnju koju ste stekli na času ili posebnu osobinu ili radnju koju imunitet predviđate. Mnoga čudovišta imaju svoje opcije akcije u svojim blokovima statista.
+Kada preduzmete svoju akciju na svom potezu, možete preduzeti jednu od ovde predstavljenih radnji, radnju koju ste stekli od klase ili posebnu osobinu ili radnju koju improvizujete. Mnoga čudovišta imaju svoje opcije akcije u svojim blokovima statista.
 
-Kada opisujete akciju koja nije detaljno navedena na drugim mestima u pravilima, DM vam govori da li je ta radnja moguća i kakvu vrstu postupka treba da napravite, ako postoji, da biste utvrdili uspeh ili neuspeh.
-
+Kada opisujete akciju koja nije detaljno navedena na drugim mestima u pravilima, DM vam govori da li je ta radnja moguća i kakvu vrstu bacanja treba da napravite, ako uopšte treba, da biste utvrdili uspeh ili neuspeh.
 
 ### Napad
 
-Najčešća akcija u borbi je akcija Napad, bilo da mahnete mačem, ispalite niz iz luka ili se borite pesnicama.
+Najčešća akcija u borbi je akcija Napad, bilo da mahnete mačem, ispalite strijelu iz luka ili se borite pesnicama.
 
-Ovom akcijom napravite jedan mele ili napad u daljini. Pogledajte odeljak „Napadanje“ za pravila koja upravljaju napadima.
+Ovom akcijom napravite jedan bliski napad ili napad u daljini. Pogledajte odeljak „Napadanje“ za pravila koja upravljaju napadima.
 
-Određene karakteristike, poput karakteristike Ektra Attack borca, omogućavaju vam da izvršite više od jednog napada ovom akcijom.
+Određene sposobnosti, poput sposobnosti Dodatni Napad borca, omogućavaju vam da izvršite više od jednog napada ovom akcijom.
 
 ### Baciti čini
 
-Progovarači čarolija poput čarobnjaka i sveštenika, kao i mnoga čudovišta, imaju pristup čarolijama i mogu ih koristiti sa velikim učinkom u borbi. Svaka čarolija ima vreme bačenja, koje određuje da li bacač mora da upotrebi akciju, reakciju, minute ili čak sate da bi bacio čaroliju. Bacanje uroka, prema tome, nije nužno radnja. Većina uroka ima vreme bačenja od 1 akcije, pa bacač čarolija često koristi svoju akciju u borbi da bi bacio takvu čaroliju. Pogledajte poglavlje 10 za pravila o izricanju pravopisa.
+Korisnici magije poput čarobnjaka i sveštenika, kao i mnoga čudovišta, imaju pristup čarolijama i mogu ih koristiti sa velikim učinkom u borbi. Svaka čarolija ima vreme bacanja, koje određuje da li bacač mora da upotrebi akciju, reakciju, minute ili čak sate da bi bacio čaroliju. Bacanje čarolija, prema tome, nije nužno radnja. Većina čarolija ima vreme bacanja od 1 akcije, pa bacač čarolija često koristi svoju akciju u borbi da bi bacio takvu čaroliju. Pogledajte poglavlje 10 za pravila o korištenju magije.
 
-### Nalet 
+### Juriš 
 
-Kada preduzmete akciju Dash, dobijate dodatni pokret za trenutni zavoj. Povećanje je jednako vašoj brzini nakon primene bilo kakvih modifikatora. Na primer, brzinom od 30 stopa, možete da se pomerite do 60 stopa u svom okretu ako trčite.
+Kada preduzmete akciju Juriš, dobijate dodatni pokret za trenutnu rundu. Povećanje je jednako vašoj brzini nakon primene bilo kakvih modifikatora. Na primer, brzinom od 30 stopa, možete da se pomerite do 60 stopa ako jurišate.
 
-Svako povećanje ili smanjenje vaše brzine menja ovo dodatno kretanje za isti iznos. Ako se, na primer, vaša brzina od 30 stopa smanji na 15 stopa, ovaj okret možete da premestite do 30 stopa ako trčite.
+Svako povećanje ili smanjenje vaše brzine menja ovo dodatno kretanje za isti iznos. Ako se, na primer, vaša brzina od 30 stopa smanji na 15 stopa, ovaj požete možete da pomjerite do 30 stopa ako jurišate.
 
-### Odvojiti se
+### Otkazivanje
 
-Ako preduzmete akciju Isključi, vaš pokret neće izazvati napade za priliku do kraja okreta.
+Ako preduzmete akciju Otkazivanje, vaš pokret neće izazvati napade za priliku do kraja poteza.
 
-### Izbeći
+### Izbijeći
 
-Kada preduzmete Dodge akciju, fokusirate se u potpunosti na izbegavanje napada. Do početka vašeg sledećeg okreta, bilo koji napravljeni napad na vas ima nedostatak ako vidite napadača, a spretno bacanje spretnosti napravite sa prednošću. Ovu pogodnost gubite ako se onesposobite (kao što je objašnjeno u dodatku A) ili ako vam brzina padne na 0.
+Kada preduzmete akciju Izbijeći, fokusirate se u potpunosti na izbijegavanje napada. Do početka vaše sledećeg poteza, bilo koji napravljeni napad na vas ima nedostatak ako vidite napadača, a spasilačka bacanja Spretnosti napravite sa prednošću. Ovu pogodnost gubite ako ste onesposobljeni ~~(kao što je objašnjeno u dodatku A)~~ ili ako vam brzina padne na 0.
 
 ### Pomoć
 
-Možete da pružite pomoć drugom stvorenju u izvršenju zadatka. Kada preduzmete akciju Pomoć, stvorenje kome pomažete stiče prednost pri sledećoj proveri sposobnosti koju obavlja za izvršavanje zadatka u kome pomažete, pod uslovom da izvrši proveru pre početka vašeg sledećeg skretanja.
+Možete da pružite pomoć drugom stvorenju u izvršenju zadatka. Kada preduzmete akciju Pomoć, stvorenje kome pomažete stiče prednost pri sledećoj proveri sposobnosti koju obavlja za izvršavanje zadatka u kome pomažete, pod uslovom da izvrši proveru pre početka vašeg sledećeg poteza.
 
-Alternativno, prijateljskim stvorenjima možete pomoći da napadnu stvorenje udaljeno 5 metara od vas. Vi fintirate, odvlačite pažnju ili se na neki drugi način udružujete da biste napravili svoje napad saveznika efikasniji. Ako vaš saveznik napadne metu pre vašeg sledećeg okreta, prvi udarac se pravi s prednošću.
-
-**Improvizacija akcije**
-
-Vaš lik može raditi stvari koje nisu obuhvaćene radnjama u ovom poglavlju, poput razbijanja vrata, zastrašivanja neprijatelja, osećanja slabosti u magičnoj odbrani ili pozivanja na parnicu sa neprijateljem. Jedina ograničenja akcija koje možete pokušati su mašta i rezultati vašeg karaktera. Pogledajte opise ocena sposobnosti u poglavlju 7 za inspiraciju tokom improvizacije.
-
-Kada opisujete akciju koja nije detaljno navedena na drugim mestima u pravilima, DM vam govori da li je ta radnja moguća i kakvu vrstu zahteva treba da napravite, ako postoji, da biste utvrdili uspeh ili neuspeh.
-
+Alternativno, prijateljskim stvorenjima možete pomoći da napadnu stvorenje udaljeno 5 metara od vas. Vi fintom, odvlačite pažnju ili se na neki drugi način udružujete da biste napravili napad svog saveznika efikasnijim. Ako vaš saveznik napadne metu pre vašeg sledećeg poteza, prvi udarac se pravi s prednošću.
 
 ### Sakriti se
 
-Kada preduzmete akciju Sakrij, vršite proveru spretnosti (Stealth) u pokušaju da se sakrijete, poštujući pravila u poglavlju 7 za skrivanje. Ako uspete, stičete određene pogodnosti, kao što je opisano u odeljku „Neviđeni napadači i ciljevi“ kasnije u ovom poglavlju.
-
+Kada preduzmete akciju Sakrij, vršite proveru Spretnosti (Skrivanje) u pokušaju da se sakrijete, poštujući pravila u poglavlju 7 za skrivanje. Ako uspete, stičete određene pogodnosti, kao što je opisano u odeljku „Neviđeni napadači i ciljevi“ kasnije u ovom poglavlju.
 
 ### Priptemiti se
 
-Ponekad želite da skočite na neprijatelja ili da sačekate određenu okolnost pre nego što počnete da delujete. Da biste to uradili, na svom skretanju možete preduzeti akciju Spreman, koja vam omogućava da odglumite reakciju pre početka vašeg sledećeg okreta.
+Ponekad želite da skočite na neprijatelja ili da sačekate određenu okolnost pre nego što počnete da delujete. Da biste to uradili, na svom potezu možete preduzeti akciju Spreman, koja vam omogućava da odglumite reakciju pre početka vašeg sledećeg okreta.
 
 Prvo odlučujete koja će uočljiva okolnost pokrenuti vašu reakciju. Zatim birate radnju koju ćete preduzeti kao odgovor na taj okidač ili ćete se odlučiti da se krećete do svoje brzine kao odgovor na njega. Primeri uključuju „Ako kultista zakorači na poklopac, povući ću polugu koja ga otvara“ i „Ako goblin zakorači pored mene, odmičem se“.
 
 Kada se okidač dogodi, možete preduzeti svoju reakciju odmah nakon što se okidač završi ili zanemariti okidač. Zapamtite da možete uzeti samo jednu reakciju po krugu.
 
-Kada pripremite čaroliju, bacate je kao normalno, ali zadržavate njenu energiju koju oslobađate reakcijom kada se aktivira okidač. Da bi čarolija bila pripremljena, vreme bačenja mora biti 1 radnja, a zadržavanje magije čarolije zahteva koncentraciju (objašnjeno u poglavlju 10). Ako vam je koncentracija slomljena, čarolija se rasipa bez dejstva. Na primer, ako se koncentrišete na veb-čaroliju i spremnu magičnu raketu, vaša veb-čarolija se završava i ako nanesete štetu pre nego što pustite magičnu raketu svojom reakcijom, koncentracija će vam možda biti slomljena.
-
+Kada pripremite čaroliju, bacate je kao normalnu, ali zadržavate njenu energiju koju oslobađate reakcijom kada se aktivira okidač. Da bi čarolija bila pripremljena, vreme bacanja mora biti 1 radnja, a zadržavanje magije čarolije zahteva koncentraciju (objašnjeno u poglavlju 10). Ako vam je koncentracija prekinuta, čarolija se rasipa bez dejstva. Na primer, ako se koncentrišete na čaroliju mreža i spremate magičnu raketu, vaša čarolija mreža se završava, i ako primite štetu pre nego što pustite magičnu raketu svojom reakcijom, koncentracija će vam možda biti prekinuta.
 
 ### Pretraga
 
-Kada preduzmete akciju pretraživanja, posvećujete pažnju pronalaženju nečega. U zavisnosti od prirode vašeg pretraživanja, DM vam može zatražiti proveru mudrosti (percepcije) ili proveru inteligencije (istraga).
-
+Kada preduzmete akciju pretraživanja, posvećujete pažnju pronalaženju nečega. U zavisnosti od prirode vašeg pretraživanja, DM vam može zatražiti proveru Mudrosti (Percepcije) ili proveru Inteligencije (Istraga).
 
 ### Koristite objekat
 
-Obično komunicirate sa objektom dok radite nešto drugo, na primer kada izvlačite mač kao deo napada. Kada objekat zahteva vašu radnju za njegovu upotrebu, poduzimate radnju Upotreba objekta. Ova radnja je korisna i kada želite da stupite u interakciju sa više objekata na svom potezu.
+Obično koristite objektom dok radite nešto drugo, na primer kada izvlačite mač kao deo napada. Kada objekat zahteva vašu radnju za njegovu upotrebu, poduzimate radnju Upotreba objekta. Ova radnja je korisna i kada želite da stupite u interakciju sa više objekata na svom potezu.
+
+>**Improvizacija akcije**
+
+>Vaš lik može raditi stvari koje nisu obuhvaćene radnjama u ovom poglavlju, poput razbijanja vrata, zastrašivanja neprijatelja, osećanja slabosti u magičnoj odbrani ili pozivanja na pregovore sa neprijateljem. Jedina ograničenja akcija koje možete pokušati su mašta i sposobnosti vašeg lika. Pogledajte opise ocena sposobnosti u poglavlju 7 za inspiraciju tokom improvizacije.
+>
+>Kada opisujete akciju koja nije detaljno navedena na drugim mestima u pravilima, DM vam govori da li je ta radnja moguća i kakvu vrstu bacanja treba da napravite, ako postoji, da biste utvrdili uspeh ili neuspeh.
 
 
 ## Napadanje
 
-Bez obzira da li udaraš ručnim oružjem, pucaš iz dometa ili praviš juriš u obliku čarolije, napad ima jednostavnu strukturu.
+Bez obzira da li udaraš oružijem za blisku borbu, pucaš iz daljine ili praviš napadaš u obliku čarolije, napad ima jednostavnu strukturu.
 
-1. **Izaberite metu** . Izaberite cilj u dometu napada: stvorenje, predmet ili lokaciju.
+1. **Izaberite metu**. Izaberite metu u dometu napada: stvorenje, predmet ili lokaciju.
 
-2. **Odrediti modifikatore**. DM određuje da li meta ima zaklon i da li imate prednost ili nedostatak u odnosu na metu. Pored toga, čarolije, posebne sposobnosti i drugi efekti mogu primeniti kazne ili bonuse na vaš rolni napada.
+2. **Odrediti modifikatore**. DM određuje da li meta ima zaklon i da li imate prednost ili nedostatak u odnosu na metu. Pored toga, čarolije, posebne sposobnosti i drugi efekti mogu primeniti kazne ili bonuse na vaše bacanje napada.
 
 3. **Rešite napad**. Vi pravite napad. Na pogotku ćete baciti štetu, osim ako određeni napad nema pravila koja drugačije određuju. Neki napadi uzrokuju posebne efekte pored ili umesto štete.
 
-Ako se ikad pojavi neko pitanje da li se nešto što radite računa kao napad, pravilo je jednostavno: ako pravite napad, izvršavate napad.
-
+Ako se ikad pojavi neko pitanje da li se nešto što radite računa kao napad, pravilo je jednostavno: ako bazate za napad, izvršavate napad.
 
 ### Bacanje za napad
 
-Kada izvršite napad, vaš roll napada određuje da li napad pogađa ili promašuje. Da biste izvršili napad, bacite d20 i dodajte odgovarajuće modifikatore. Ako je ukupan broj bacanja plus modifikatori jednak ili veći od ciljne klase oklopa (AC), napad pogađa. AC karakter karaktera određuje se prilikom stvaranja karaktera, dok je AC čudovišta u njegovom stat bloku.
-
+Kada izvršite napad, vaše bacanje napada određuje da li napad pogađa ili promašuje. Da biste izvršili napad, bacite d20 i dodajte odgovarajuće modifikatore. Ako je ukupan broj bacanja plus modifikatori jednak ili veći od ciljne klase oklopa (AC), napad pogađa. AC karakter određuje se prilikom stvaranja karaktera, dok je AC čudovišta u njegovom stat bloku.
 
 #### Modifikatori bacanja 
 
-Kada lik izvrši napad, dva najčešća modifikatora bacanja su modifikator sposobnosti i bonus za sposobnost. Kada čudovište izvrši napad, koristi bilo koji modifikator koji je naveden u njegovom stat bloku.
+Kada lik izvrši napad, dva najčešća modifikatora bacanja su modifikator sposobnosti i bonus za stručnost. Kada čudovište izvrši napad, koristi bilo koji modifikator koji je naveden u njegovom stat bloku.
 
-Modifikator sposobnosti. Modifikator sposobnosti koji se koristi za napad ručnim oružjem je Snaga, a modifikator sposobnosti koji se koristi za napad daljinskim oružjem je Spretnost. Oružje sa finoćom ili bačenom imovinom krši ovo pravilo.
+**Modifikator sposobnosti**. Modifikator sposobnosti koji se koristi za napad oružjem za blisku borbu je Snaga, a modifikator sposobnosti koji se koristi za napad oružjem za napade na daljinu je Spretnost. Oružje sa finesom ili svojstvom bačeno krši ovo pravilo.
 
 Neke čarolije takođe zahtevaju bacanje napada. Modifikator sposobnosti koji se koristi za napad čarolije zavisi od sposobnosti pravljenja čarolije, kako je objašnjeno u poglavlju 10.
 
-Bonus za stručnost. Bonus za veštinu dodajete na svoj napadački listić kada napadate koristeći oružje kojim imate znanje, kao i kada napadate čarolijom.
-
+**Bonus za stručnost**. Bonus za veštinu dodajete na svoj napadačko bacanje kada napadate koristeći oružje kojim imate znanje, kao i kada napadate čarolijom.
 
 #### Kotrljanje 1 ili 20
 
 Ponekad sudbina blagoslovi ili prokune borca, uzrokujući da početnik udari, a veteran promaši.
 
-Ako je d20 valjak za napad 20, napad pogađa bez obzira na bilo koji modifikator ili ciljni AC. Ovo se naziva kritičnim pogotkom, što je objašnjeno kasnije u ovom poglavlju.
+Ako je d20 bacanje za napad 20, napad pogađa bez obzira na bilo koji modifikator ili ciljni AC. Ovo se naziva kritičnim pogotkom, što je objašnjeno kasnije u ovom poglavlju.
 
-Ako je d20 valjak za napad 1, napad propušta bez obzira na bilo koji modifikator ili ciljni AC.
+Ako je d20 bacanje za napad 1, napad propušta bez obzira na bilo koji modifikator ili ciljni AC.
 
+### Nevidljivi napadači i mete
 
-### Neviđeni napadači i mete
+Borci često pokušavaju da izbegnu upozurenje svojih neprijatelja skrivajući se, bacajući čaroliju nevidljivosti ili vrebajući u mraku.
 
-Borci često pokušavaju da izbegnu obaveštenje svojih neprijatelja skrivajući se, bacajući čaroliju nevidljivosti ili vrebajući u mraku.
-
-Kada napadnete metu koju ne možete da vidite, imate poteškoće na kolu za napad. Ovo je tačno bez obzira da li pogađate lokaciju cilja ili ciljate stvorenje koje možete čuti, ali ne i videti. Ako se meta ne nalazi na lokaciji koju ste ciljali, automatski promašite, ali DM obično samo kaže da je napad promašen, a ne da li ste tačno pogodili lokaciju cilja.
+Kada napadnete metu koju ne možete da vidite, imate poteškoće u bacanju za napad. Ovo je tačno bez obzira da li pogađate lokaciju cilja ili ciljate stvorenje koje možete čuti, ali ne i videti. Ako se meta ne nalazi na lokaciji koju ste ciljali, automatski promašite, ali DM obično samo kaže da je napad promašen, a ne da li ste tačno pogodili lokaciju cilja.
 
 Kada vas stvorenje ne može videti, vi imate prednost u napadu na njega.
 
 Ako ste skriveni - i neviđeni i nečuveni - kada izvršite napad, odaćete svoju lokaciju kada napad pogodi ili promaši.
 
-
 ### Napadi na daljinu
 
-Kada izvršite napad iz daljine, ispalite luk ili samostrel, bacite handaks ili na drugi način pošaljite projektile da udaljite neprijatelja na daljinu. Čudovište može pucati kičmama sa repa. Mnoge čarolije takođe uključuju napad na daljinu.
-
+Kada izvršite napad iz daljine, ispalite luk ili samostrel, bacite ručnu sjekiru ili na drugi način pošaljite projektile da udaljite neprijatelja na daljinu. Čudovište može pucati bodljama sa repa. Mnoge čarolije takođe uključuju napad na daljinu.
 
 #### Domet
 
@@ -1448,107 +1438,95 @@ Daljinske napade možete vršiti samo prema ciljevima unutar određenog dometa.
 
 Ako napad na daljinu, kao što je onaj izveden čarolijom, ima jedan domet, ne možete napadati metu izvan ovog dometa.
 
-Neki napadi u daljini, poput onih izvedenih dugim ili kratkim lukom, imaju dva dometa. Manji broj je normalan opseg, a veći broj je dugački. Vaš valjak za napad ima nedostatak kada je vaša meta izvan normalnog dometa i ne možete napadati metu izvan velikog dometa.
-
+Neki napadi u daljini, poput onih izvedenih dugim ili kratkim lukom, imaju dva dometa. Manji broj je normalan opseg, a veći broj je dugački. Vaše bacanje za napad ima nedostatak kada je vaša meta izvan normalnog dometa i ne možete napadati metu izvan velikog dometa.
 
 #### Napadi na daljinu u bliskoj borbi
 
-Cilj nižeg napada je teže kada je neprijatelj pored vas. Kada izvršite napad u daljini pomoću a oružjem, čarolijom ili nekim drugim sredstvom, imate minus na kolu za napad ako ste u krugu od 5 stopa od neprijateljskog stvorenja koje vas može videti i koje nije onesposobljeno.
-
+Ciljanje napada na daljinu je teže kada je neprijatelj pored vas. Kada izvršite napad na daljinu pomoću a oružja, čarolijom ili nekim drugim sredstvom, imate minus na bacanje za napad ako ste u krugu od 5 stopa od neprijateljskog stvorenja koje vas može videti i koje nije onesposobljeno.
 
 ### Bliski napadi
 
-Korišćen u borbi prsa u prsa, ručni napad vam omogućava da napadnete neprijatelja koji vam je nadohvat ruke. U bombaškom napadu se obično koristi ručno oružje kao što je mač, ratni čekić ili sekira. Tipično čudovište vrši mele napad kada udara kandžama, rogovima, zubima, pipcima ili drugim delom tela. Nekoliko čarolija takođe uključuje napad mele.
+Korišćen u borbi prsa u prsa, napad na blizinu vam omogućava da napadnete neprijatelja koji vam je nadohvat ruke. U napadu na blizinu se obično koristi ručno oružje kao što je mač, ratni čekić ili sjekira. Tipično čudovište vrši napad na blizinu kada udara kandžama, rogovima, zubima, pipcima ili drugim delom tela. Nekoliko čarolija takođe uključuje napad na blizinu.
 
 Većina stvorenja ima domet od 5 stopa i tako može napasti ciljeve na rastojanju od 5 stopa od njih kada izvrši napad u ruci. Određena stvorenja (tipično ona veća od Srednjih) imaju napade ručnog oružja sa dosegom većim od 5 stopa, kako je navedeno u njihovim opisima.
 
 Umesto da koristite oružje za napad iz blizine, možete koristiti nenaoružani udarac: udarac, udarac, udarac glavom ili sličan snažan udarac (od kojih se nijedan ne računa kao oružje). U slučaju pogotka, nenaoružani udarac nanosi štetu koja je jednaka vašoj modifikaciji snage 1 +. Vi ste sposobni za svoje nenaoružane štrajkove.
 
+#### Prilika za napad
 
-#### Napadi na priliku
+U tuči svi neprestano gledaju da li će neprijatelji da se održe. Retko se možete nehajno kretati pored svojih neprijatelja, a da se ne izlažete opasnosti; to izaziva priliku za napad.
 
-U tuči svi neprestano gledaju da li će neprijatelji da se održe. Retko se možete nehajno kretati pored svojih neprijatelja, a da se ne izlažete opasnosti; to izaziva napad na priliku.
+Možete da napadnete priliku kada se neprijateljsko stvorenje koje možete videti odmakne od vašeg dohvata. Da biste iskoritili priliku za napad, koristite svoju reakciju da izvršite jedan napad na blizinu na stvorenje koje je izazvalo. Napad se događa neposredno pre nego što vam stvorenje napusti domet.
 
-Možete da napadnete priliku kada se neprijateljsko stvorenje koje možete videti odmakne od vašeg dohvata. Da biste izveli priliku za napad, koristite svoju reakciju da izvršite jedan melee napad na provokativnu kreaciju ture. Napad se događa neposredno pre nego što vam stvorenje napusti domet.
-
-Podsticanjem akcije Otkaživanje možete izbeći izazivanje napada. Takođe ne izazivate napad na priliku kada se teleportujete ili kada vas neko ili nešto pokreće bez korišćenja vašeg pokreta, akcije ili reakcije. Na primer, ne izazivate napadni slučaj ako vas eksplozija izbaci van dosega neprijatelja ili ako gravitacija prouzrokuje pad pored neprijatelja.
-
+Aktiviranjem akcije Otkazivanje možete izbeći izazivanje napada. Takođe ne izazivate priliku za napad kada se teleportujete ili kada vas neko ili nešto pokreće bez korišćenja vašeg pokreta, akcije ili reakcije. Na primer, ne izazivate priliku za napadn ako vas eksplozija izbaci van dosega neprijatelja ili ako gravitacija prouzrokuje pad pored neprijatelja.
 
 #### Borba sa dva oružja
 
-Kada preduzmete akciju Napad i napadnete laganim meleškim oružjem koje držite u jednoj ruci, možete iskoristiti bonus akciju za napad sa drugim lakim meleškim oružjem koje držite u drugoj ruci. Ne dodajete svoj modifikator sposobnosti na štetu bonus napada, osim ako je taj modifikator negativan.
+Kada preduzmete akciju Napad i napadnete laganim oružjem na blizinu koje držite u jednoj ruci, možete iskoristiti bonus akciju za napad sa drugim lakim oružjem za blizinu koje držite u drugoj ruci. Ne dodajete svoj modifikator sposobnosti na štetu bonus napada, osim ako je taj modifikator negativan.
 
-Ako bilo koje oružje ima bačeno svojstvo, možete ga baciti, umesto da napadnete njime ručno.
+Ako bilo koje oružje ima bačeno svojstvo, možete ga baciti, umesto da napadnete njime na blizinu.
 
+>**Takmičenja u borbi**
+>
+>Bitka često uključuje suprotstavljanje vašoj hrabrosti i snazi vašeg neprijatelja. Takav izazov predstavlja takmičenje. Ovaj odeljak uključuje najčešća takmičenja koja zahtevaju borbene akcije: hvatanje i guranje stvorenja. DM može koristiti ta takmičenja kao modele za improvizaciju drugih.
 
 #### Hvatanje 
 
-Kada želite da zgrabite neko stvorenje ili se hrvate s njim, možete da koristite akciju Napad da napravite poseban napad u ruci, hvatanje. Ako ste u mogućnosti da izvršite više napada pomoću akcije Napad, ovaj napad zamenjuje jedan od njih.
+Kada želite da zgrabite neko stvorenje ili se rvate s njim, možete da koristite akciju Napad da napravite poseban napad, hvatanje. Ako ste u mogućnosti da izvršite više napada pomoću akcije Napad, ovaj napad zamenjuje jedan od njih.
 
-Cilj vašeg hvatača ne sme biti veći za jednu veličinu od vas i mora vam biti nadohvat ruke. Koristeći bar jednu slobodnu ruku, pokušavate da prigrabite metu tako što ćete izvršiti proveru hvatanja, proveru Snaga (Atletika) osporenu proverom Snaga (Atletika) ili Spretnost (Akrobacija) na meti (Cilj bira sposobnost da koristi).
+Cilj vašeg hvatanja ne sme biti veći za jednu veličinu od vas i mora vam biti nadohvat ruke. Koristeći bar jednu slobodnu ruku, pokušavate da prigrabite metu tako što ćete izvršiti proveru hvatanja, proveru Snaga (Atletika) osporenu proverom Snaga (Atletika) ili Spretnost (Akrobacija) na meti (Cilj bira sposobnost da koristi). Uspećete automatski ako je meta onesposobljena. Ako uspete, metu podvrgavate stanju uhvvaćn ~~(videti dodatak A)~~. Uslov precizira stvari koje ga završavaju i možete pustiti metu kad god želite (nije potrebna radnja).
 
-Uspećete automatski ako je meta onesposobljena. Ako uspete, metu podvrgavate graptiranim uslovima (videti dodatak A). Uslov precizira stvari koje ga završavaju i možete pustiti cilj kad god želite (nije potrebna radnja).
+**Bekstvo iz hvataljke**. Stisnuto stvorenje može da iskoristi svoju akciju da pobegne. Da bi to uradio, mora uspeti na proveri Snaga (Atletika) ili Spretnost (Akrobacija) koju osporava vaša provera Snage (Atletika).
 
-Bekstvo iz hvataljke. Stisnuto stvorenje može da iskoristi svoju akciju da pobegne. Da bi to uradio, mora uspeti na proveri Snaga (Atletika) ili Spretnost (Akrobacija) koju osporava Vaša Provera snage (Atletika).
-
-Premeštanje zagrabljenog stvorenja. Kada se krećete, možete povući ili nositi zagrabljeno stvorenje sa sobom, ali brzina vam je prepolovljena, osim ako je stvorenje dve ili više veličina manje od vas.
-
+**Premeštanje zgrabljenog stvorenja**. Kada se krećete, možete povući ili nositi zagrabljeno stvorenje sa sobom, ali brzina vam je prepolovljena, osim ako je stvorenje dve ili više veličina manje od vas.
 
 #### Guranje stvorenja
 
 Korišćenjem akcije Napad možete da izvršite poseban napad iz blizine da biste stvorenje gurnuli, bilo da ga srušite ili odgurnete od sebe. Ako ste u mogućnosti da izvršite više napada pomoću akcije Napad, ovaj napad zamenjuje jedan od njih.
 
-Cilj vašeg naguravanja ne sme biti veći za jednu veličinu od vas i mora vam biti nadohvat ruke. Napravite proveru snage (Atletika) osporavanu proverom Snaga (Atletika) ili Spretnost (Akrotetika) cilja (meta bira sposobnost da koristi). Uspećete automatski ako je meta onesposobljena. Ako uspete, ili udarite metu sklonu ili je odgurnete na 5 stopa od sebe.
+Cilj vašeg guravanja ne sme biti veći za jednu veličinu od vas i mora vam biti nadohvat ruke. Napravite proveru Snage (Atletika) osporavanu proverom Snaga (Atletika) ili Spretnost (Akrotetika) mete (meta bira sposobnost da koristi). Uspećete automatski ako je meta onesposobljena. Ako uspete, ili obalite metu u ležeči položaj ili je odgurnete na 5 stopa od sebe.
 
 
 ## Zaklon 
 
-Zidovi, drveće, stvorenja i druge prepreke mogu pružiti zaklon tokom borbe, čineći metu težom
+Zidovi, drveće, stvorenja i druge prepreke mogu pružiti zaklon tokom borbe, čineći metu težom za povrijediti. Cilj može imati koristi od zaklona samo kada napad ili drugi efekat potiče na suprotnoj strani istog.
 
-da štete. Cilj može imati koristi od pokrivača samo kada napad ili drugi efekat potiče na suprotnoj strani poklopca.
+Postoje tri stepena zaklona. Ako se meta nalazi iza više izvora zaklona, primenjuje se samo onaj najočitiji stepen zaklona; stepeni se ne sabiraju. Na primer, ako je meta iza bića koje pokriva pola zaklona i stabla drveta koje pokriva tri četvrtine, meta ima pokriće od tri četvrtine.
 
-Postoje tri stepena pokrića. Ako se meta nalazi iza više izvora pokrića, primenjuje se samo onaj najočitiji stepen pokrića; stepeni se ne sabiraju. Na primer, ako je meta iza bića koje pokriva pola i stablo drveta koje pokriva tri četvrtine, meta ima pokriće od tri četvrtine.
+Cilj sa **pola zaklona** ima +2 bonusa za AC i spasilačka bacanja Spretnosti. Cilj ima polovinu zaklona ako prepreka blokira najmanje polovinu njenog tela. Prepreka može biti nizak zid, veliki komad nameštaja, usko stablo drveta ili stvorenje, bilo da je to stvorenje neprijatelj ili prijatelj.
 
-Cilj sa **pola zaklona** ima +2 bonusa za spasilačka bacanja AC i spretnosti. Cilj ima polovinu pokrivača ako prepreka blokira najmanje polovinu njenog tela. Prepreka može biti nizak zid, veliki komad nameštaja, usko stablo drveta ili stvorenje, bilo da je to stvorenje neprijatelj ili prijatelj.
-
-Cilj sa pokrivanjem od **tri četvrtine** ima +5 bonusa za spasilačka bacanja za AC i spretnost. Cilj ima tri četvrtine pokrivača ako je oko tri četvrtine pokrivena preprekom. Prepreka može biti lukavica, prorez strele ili debelo stablo drveta.
+Cilj sa pokrivanjem od **tri četvrtine** ima +5 bonusa za AC i spasilačka bacanja za Spretnost. Cilj ima tri četvrtine zaklona ako je oko tri četvrtine pokrivena preprekom. Prepreka može biti lukavica, prorez strele ili debelo stablo drveta.
 
 Cilj sa **potpunim zaklonom** ne može se direktno ciljati napadom ili čarolijom, iako neke čarolije mogu dostići takvu metu uključivanjem u područje efekta. Cilj ima potpuno pokriće ako je prepreka u potpunosti sakrila.
-
-**Takmičenja u borbi**
-
-Bitka često uključuje suprotstavljanje vašoj hrabrosti i snage vašeg neprijatelja. Takav izazov predstavlja takmičenje. Ovaj odeljak uključuje najčešća takmičenja koja zahtevaju borbene akcije: hvatanje i guranje stvorenja. DM može koristiti ta takmičenja kao modele za improvizaciju drugih.
 
 
 ## Šteta i isceljenje
 
-Povreda i rizik od smrti stalni su pratioci onih koji istražuju svet D&D. Potisak mača, dobro postavljene strelice ili eksplozija plamena iz sve čarolije vatrene kugle mogu da oštete, ili čak ubiju, najtvrđava bića.
+Povreda i rizik od smrti stalni su pratioci onih koji istražuju svet D&D.Ubd mača, dobro postavljene strelice ili eksplozija plamena iz čarolije vatrene kugle sve mogu da oštete, ili čak ubiju, najčvršća bića.
 
+### Životni bodovi
 
-### Hit Points
+Životni bodovi predstavljaju kombinaciju fizičke i mentalne trajnosti, volje za životom i sreće. Stvorenja sa više životnih bodova teže je ubiti. Oni koji imaju manje životnih bodova su krhkiji.
 
-Hit poeni predstavljaju kombinaciju fizičke i mentalne trajnosti, volje za životom i sreće. Stvorenja sa više pogodaka teže je ubiti. Oni koji imaju manje pogođenih poena su krhkiji.
+Trenutni životni bodovi bića (obično se nazivaju samo životni bodovi) mogu biti bilo koji brojevi od maksimalnix životnih bodova stvorenja do 0. Ovaj broj se često menja kako stvorenje prima štetu ili isceljenje.
 
-Trenutne pogođene tačke bića (obično se nazivaju samo pogođene tačke) mogu biti bilo koji brojevi od maksimalne tačke pogođenog stvorenja do 0. Ovaj broj se često menja kako stvorenje nanosi štetu ili prima isceljenje.
-
-Kad god neko biće napravi štetu, ta šteta se oduzima od njegovih pogodaka. Gubitak pogodaka nema uticaja na mogućnosti stvorenja sve dok stvorenje ne padne na 0 pogodaka.
-
+Kad god neko biće napravi štetu, ta šteta se oduzima od njegovih životnih bodova. Gubitak životni bodova nema uticaja na mogućnosti stvorenja sve dok stvorenje ne padne na 0 životnih bodova.
 
 ### Bacanja za štetu
 
-Svako oružje, čarolija i štetna sposobnost čudovišta navode štetu koju nanesu. Bacate matricu ili kocku za oštećenje, dodate modifikatore i primenite štetu na svoju metu. Magično oružje, posebne sposobnosti i drugi faktori mogu dodeliti bonus za štetu.
+Svako oružje, čarolija i štetna sposobnost čudovišta navode štetu koju nanesu. Bacate kockicz za oštećenje, dodate modifikatore i primenite štetu na svoju metu. Magično oružje, posebne sposobnosti i drugi faktori mogu dodeliti bonus za štetu.
 
-Kada napadate oružjem, oštećenju dodajete modifikator sposobnosti - isti modifikator koji se koristi za valjak za napad. Čarolija vam govori koje kockice treba baciti zbog oštećenja i da li treba dodati neke modifikatore.
+Sa kaznom, mogiće je nanijeti 0 štete, ali nikada nije moguće nanijeti negativnu štetu.
 
-Ako čarolija ili drugi efekat istodobno nanese štetu na više ciljeva, bacite štetu jednom za sve njih. Na primer, kada čarobnjak baca vatrenu kuglu ili a sveštenik baca plamen, oštećenje uroka se jednom namota za sva stvorenja uhvaćena u eksploziji.
+Kada napadate **oružjem**, oštećenju dodajete modifikator sposobnosti - isti modifikator koji se koristi za bacanje za napad. **Čarolija** vam govori koje kockice treba baciti za oštećenja i da li treba dodati neke modifikatore.
 
+Ako čarolija ili drugi efekat istovremeno nanese štetu **na više ciljeva**, bacite štetu jednom za sve njih. Na primer, kada čarobnjak baca vatrenu kuglu ili sveštenik baca plameni udarac, oštećenje čarolije se jednom baca za sva stvorenja uhvaćena u eksploziji.
 
-#### Kritički udarci 
+#### Kritični udarci 
 
-Kada postignete kritičan pogodak, bacite dodatne kockice za štetu koju napada napada na metu. Bacite sve kockice štete za napad dva puta i dodajte ih zajedno. Zatim dodajte sve relevantne modifikatore kao i obično. Da biste ubrzali igru, možete odjednom baciti sve kockice za štetu.
+Kada postignete kritičan pogodak, bacite dodatne kockice za štetu mete napada. Bacite sve kockice štete dva puta i dodajte ih zajedno. Zatim dodajte sve relevantne modifikatore kao i obično. Da biste ubrzali igru, možete odjednom baciti sve kockice za štetu.
 
-Na primer, ako bodom postignete kritičan pogodak, okrećite 2d4 za štetu, umesto 1d4, a zatim dodajte svoj odgovarajući modifikator sposobnosti. Ako napad uključuje druge kockice štete, kao na primer od nevaljale osobine Sneak Attack, te kockice bacite i dva puta.
-
+Na primer, ako bodežom postignete kritičan pogodak, okrećite 2d4 za štetu, umesto 1d4, a zatim dodajte svoj odgovarajući modifikator sposobnosti. Ako napad uključuje druge kockice štete, kao na primer od lopovske osobine Napad Prikradanjem,i te kockice bacite dva puta.
 
 #### Vrste oštećenja
 
@@ -1556,162 +1534,143 @@ Različiti napadi, štetne čarolije i drugi štetni efekti nanose različite vr
 
 Slede vrste oštećenja, sa primerima koji pomažu DM-u da dodeli vrstu štete novom efektu.
 
-**Kiselina**. Korozivni sprej daha crnog zmaja i rastvarajući enzimi koje luči crni puding nanose štetu kiselini.
+**Kiselina**. Korozivni sprej daha crnog zmaja i rastvarajući enzimi koje luči crni puding nanose štetu kiselinom.
 
-**Brušenje**. Napadi tupe sile - čekići, pad, stezanje i slično - nanose štetu oštećenjima.
+**Udaranje**. Napadi tupe sile - čekići, pad, stezanje i slično - nanose štetu udaranja.
 
 **Hladnoća**. Paklena hladnoća koja zrači iz ledenog đavoljeg koplja i hladan udarac daha belog zmaja nanose hladnu štetu.
 
-**Vatra**. Crveni zmajevi dišu vatru, a mnoge čarolije izazivaju plamen da nanesu štetu od požara.
+**Vatra**. Crveni zmajevi bljuju vatru, a mnoge čarolije izazivaju plamen da nanesu štetu od vatre.
 
-**Sila**. Sila je čista magična energija usmerena u štetni oblik. Većina efekata koji nanose štetu silom su uroci, uključujući magičnu raketu i duhovno oružje.
+**Sila**. Sila je čista magična energija usmerena u štetni oblik. Većina efekata koji nanose štetu silom su čini, uključujući magičnu raketu i duhovno oružje.
 
-**Munja**. Čarolija groma i dah plavog zmaja nanose štetu od groma.
+**Munja**. Čarolija groma i dah plavog zmaja nanose štetu od munje.
 
-**Nekrotično**. Nekrotična šteta koju su naneli određeni nemrti i neke uroke uvene materiju, pa čak i dušu.
+**Nekrotično**. Nekrotična šteta koju su naneli određeni nemrtvi i neke čini uvenu materiju, pa čak i dušu.
 
-**Probijanje**. Napadi na probijanje i nabijanje, uključujući koplja i ugrize čudovišta, nanose prodornu štetu.
+**Probadanje**. Napadi ubadanja i nabijanja, uključujući koplja i ugrize čudovišta, nanose štetu probadanjem.
 
-**Otrov**. Otrovni ubod i toksični gas daha zelenog zmaja nanose štetu otrovu.
+**Otrov**. Otrovni ubod i toksični gas daha zelenog zmaja nanose štetu otrovom.
 
-**Psihička**. Mentalne sposobnosti kao što je psiozna eksplozija umnog lekara nanose psihičku štetu.
+**Psihička**. Mentalne sposobnosti kao što je psihozna eksplozija nanose psihičku štetu.
 
-**Zračenje**. Zračna šteta, naneta čarolijom plamenom sveštenika ili anđelovim oružjem za udaranje, peče meso poput vatre i preopterećuje duh snagom.
+**Zračenje**. Zračna šteta, naneta čarolijom udarac plamenom sveštenika ili anđeovskim oružjem za udaranje, peče meso poput vatre i preopterećuje duh snagom.
 
-**Rezanje**. Mačevi, sekire i kandže čudovišta nanose veliku štetu.
+**Rezanje**. Mačevi, sekire i kandže čudovišta nanose štetu rezanjem.
 
-**Grom**. Potresni rafal zvuka, kao što je efekat čarolije grmljavine, nanosi štetu od groma
+**Grom**. Potresni rafal zvuka, kao što je efekat čarolije grmljavine, nanosi štetu od groma.
 
-Opisivanje efekata štete
+#### Opisivanje efekata štete
 
-Dungeon Masters opisuju gubitak pogodaka na različite načine. Kada je vaš trenutni ukupan pogodak na polovini ili više od vašeg maksimuma, obično ne pokazujete znake povrede. Kada padnete ispod polovine maksimalnog broja pogodaka, pokazujete znake habanja, poput posekotina i modrica. Napad koji vas smanji na 0 pogodaka pogodi vas direktno, ostavljajući povredu krvarenja ili drugu traumu ili vas jednostavno onesvesti.
+Gospodari Tamnice opisuju gubitak životnih bodova na različite načine. Kada je vaš trenutni ukupan pogodak na polovini ili više od vašeg maksimuma, obično ne pokazujete znake povrede. Kada padnete ispod polovine maksimalnog broja pogodaka, pokazujete znake povreda, poput posekotina i modrica. Napad koji vas smanji na 0 životnih bodova pogodi vas direktno, ostavljajući povredu krvarenja ili drugu traumu ili vas jednostavno onesvesti.
 
 
 ### Otpor i ranjivost na štetu
 
 Neka bića i predmete je izuzetno teško ili je neobično lako povrediti određenim vrstama oštećenja.
 
-Ako stvorenje ili predmet ima **otpor** prema vrsti oštećenja, šteta te vrste se prepolovljuje na njemu. Ako je neka tvar ili predmet **ranjiv** na vrstu oštećenja, šteta tog tipa se udvostručuje.
+Ako stvorenje ili predmet ima **otpor** prema vrsti oštećenja, šteta te vrste se prepolovljava na njemu. Ako je neko stvorenje ili predmet **ranjiv** na vrstu oštećenja, šteta tog tipa se udvostručuje.
 
-Otpor, a zatim ranjivost se primenjuju nakon oštećenja svih ostalih modifikatora. Na primer, stvorenje ima otpor oštećenju udaranjem i pogođen je napadom koji nanosi 25 oštećenja udaranjem. Stvorenje se takođe nalazi u magičnoj auri koja smanjuje svu štetu za 5. 25 šteta se prvo smanji za 5, a zatim prepolovi, pa stvorenje uzima 10 štete.
+Otpor, a zatim ranjivost se primenjuju nakon oštećenja svih ostalih modifikatora. Na primer, stvorenje ima otpor oštećenju udaranjem i pogođen je napadom koji nanosi 25 oštećenja udaranjem. Stvorenje se takođe nalazi u magičnoj auri koja smanjuje svu štetu za 5. 25 šteta se prvo smanji za 5, a zatim prepolovi, pa stvorenje prima štetu od 10.
 
 Višestruki slučajevi otpora ili ranjivosti koji utiču na isti tip oštećenja računaju se kao samo jedan slučaj. Na primer, ako stvorenje ima otpor prema oštećenjima od požara, kao i otpor prema svim nemagijskim oštećenjima, šteta nemagičnog požara smanjuje se za pola prema stvorenju, a ne za tri četvrtine.
 
 
 ### Isceljenje
 
-Ako ne rezultira smrću, šteta nije trajna. Čak je i smrt reverzibilna moćnom magijom. Odmor može da povrati pogodak stvorenja (kao što je objašnjeno u poglavlju 8), a magične metode kao što su izlečenje uroka ili napitak za lečenje mogu u trenutku ukloniti štetu.
+Ako ne rezultira smrću, šteta nije trajna. Čak je i smrt reverzibilna moćnom magijom. Odmor može da povrati životne bodove stvorenja (kao što je objašnjeno u poglavlju 8), a magične metode kao što su izlečenje rana ili napitak za lečenje mogu u trenutku ukloniti štetu.
 
-Kada stvorenje dobije bilo kakvo isceljenje, vraćeni poeni se dodaju trenutnim pogodacima. Poeni pogodaka stvorenja ne mogu premašiti maksimum pogodaka pogotka, pa se svi poeni povrati veći od ovog broja gube. Na primer, druid dodeljuje rendžeru 8 pogodaka zarastanja.
+Kada stvorenje dobije bilo kakvo isceljenje, vraćeni životni bodovi se dodaju trenutnim životnim bodovima. Životni bodovi stvorenja ne mogu premašiti maksimum životnih bodova, pa se svi životni bodovi veći od ovog broja gube. Na primer, druid dodeljuje rendžeru 8 Životnih bodova. Ako rendžer trenutno ima 14 životnih bodova i ima maksimum od 20, rendžer vraća 6 žeivotnih bodova od druida, a ne 8.
 
-Ako rendžer ima 14 trenutnih pogodaka i ima pogodak maksimum 20, rendžer vraća 6 pogodaka od druida, a ne 8.
+Umrlo stvorenje ne može da povrati poene dok ga magija poput čarolije oživljavanja ne oživi.
 
-Umrlo stvorenje ne može da povrati poene dok ga magija poput oživljene čarolije ne oživi.
-
-
-### Spuštanje na 0 poena udaraca 
+### Spuštanje na 0 životnih bodova
 
 Kada padnete na 0 poena udaraca, ili umirete potpuno ili padate u nesvest, kao što je objašnjeno u sledećim odeljcima.
 
-
 #### Trenutna smrt
 
-Ogromna šteta može vas odmah ubiti. Kada vas šteta smanji na 0 pogodaka i preostane štete, umirete ako je preostala šteta jednaka ili premašuje vaš maksimum.
+Ogromna šteta može vas odmah ubiti. Kada vas šteta smanji na 0 pogodaka i preostane štete, umirete ako je preostala šteta jednaka ili premašuje vaš maksimum životnih poena.
 
-Na primer, sveštenik sa najviše 12 pogodaka trenutno ima 6 pogodaka. Ako u napadu nanese 18 šteta, smanjuje se na 0 pogodaka, ali ostaje 12 oštećenja. Budući da je preostala šteta jednaka njenom maksimalnom broju pogodaka, sveštenik umire.
-
+Na primer, sveštenik sa najviše 12 životnih bodova trenutno ima 6 životnih bodova. Ako u napadu primi štetu od 18, smanjuje se na 0 životnih bodova, ali ostaje 12 oštećenja. Budući da je preostala šteta jednaka njenom maksimalnom broju pogodaka, sveštenik umire.
 
 #### Pad u nesvest
 
-Ako vas oštećenje smanji na 0 pogodaka i ne uspe da vas ubije, padnete u nesvest (pogledajte dodatak A). Ova nesvest prestaje ako povratite bilo koji pogodak.
+Ako vas oštećenje smanji na 0 pogodaka i ne uspe da vas ubije, padnete u nesvest ~~(pogledajte dodatak A)~~. Ova nesvest prestaje ako povratite bilo koji pogodak.
 
+#### Bacanja za spas od smrti
 
-#### Bacanja koja spašavaju smrt
+Kad god započnete svoj potez sa 0 životnoh bodova, morate izvršiti posebno spasilačko bacanje, koje se naziva bacanje za spas od smrti, da biste utvrdili da li se približavate smrti ili se držite života. Za razliku od ostalih spasilačkih bacanja, ovo nije povezano ni sa jednim rezultatom sposobnosti. Sada ste u rukama sudbine, potpomognute samo čarolijama i karakteristikama koje poboljšavaju vaše šanse za uspeh u spasilačkom bacanju.
 
-Kad god započnete svoj red sa 0 pogođenih poena, morate izvršiti posebno spasilačko bacanje, koje se naziva spasilačko bacanje, da biste utvrdili da li se približavate smrti ili se držite života. Za razliku od ostalih spasilačkih bacanja, ovo nije povezano ni sa jednim rezultatom sposobnosti. Sada ste u rukama sudbine, potpomognute samo čarolijama i karakteristikama koje poboljšavaju vaše šanse za uspeh u spasilačkom bacanju.
+Kotrljajte d20. Ako je rezultat 10 ili veća, uspećete. U suprotnom ne uspete. Uspeh ili neuspeh nemaju efekta sami po sebi. Kada postignete treći uspeh, postajete stabilni (pogledajte dole). Na trećem neuspehu, umirete. Uspesi i neuspesi ne moraju biti uzastopni; pratite oba dok ne sakupite tri. Broj oba se resetuju na nulu kada povratite bilo koji životni bod ili postanete stabilni.
 
-Kotrljajte d20. Ako je rola 10 ili veća, uspećete. U suprotnom ne uspete. Uspeh ili neuspeh nemaju efekta sami po sebi. Kada postignete treći uspeh, postajete stabilni (pogledajte dole). Na trećem neuspehu, ti umireš. Uspesi i neuspesi ne moraju biti uzastopni; pratite oba dok ne sakupite tri. Broj oba se resetuju na nulu kada povratite bilo koji pogodak ili postanete stabilni.
+**Kotrljanje 1 ili 20**. Kada izvršite spasilačko bacanje i bacite 1 na d20, to se računa kao dva neuspeha. Ako bacite 20 na d20, vraćate 1 životni bod.
 
-**Kotrljanje 1 ili 20**. Kada izvršite spasilačko bacanje i bacite 1 na d20, to se računa kao dva neuspeha. Ako bacite 20 na d20, vraćate 1 pogodak.
-
-**Šteta na 0 poena udaraca** . Ako napravite bilo kakvu štetu dok imate 0 pogodaka, pretrpećete neuspeh u bacanju smrti. Ako je šteta od kritičnog udarca, pretrpećete dva neuspeha. Ako je šteta jednaka ili premašuje vaš maksimum, pogodićete trenutnu smrt.
-
+**Šteta pri 0 životnoh bodova**. Ako primite bilo kakvu štetu dok imate 0 životnih bodova, pretrpećete neuspeh u bacanju za spas od smrti. Ako je šteta od kritičnog udarca, pretrpećete dva neuspeha. Ako je šteta jednaka ili premašuje vaš maksimum, pretrpjećete trenutnu smrt.
 
 #### Stabilizacija stvorenja
 
-Najbolji način da spasite stvorenje sa 0 pogođenih poena je da ga izlečite. Ako isceljenje nije dostupno, stvorenje se može bar stabilizovati tako da ga ne ubije neuspešno bacanje spasilačke smrti.
+Najbolji način da spasite stvorenje sa 0 životnih bodova je da ga izlečite. Ako isceljenje nije dostupno, stvorenje se može bar stabilizovati tako da ga ne ubije neuspešno bacanje za spas od smrti.
 
-Možete da upotrebite svoju akciju za pružanje prve pomoći nesvesnom stvorenju i pokušavate da je stabilizujete, što zahteva uspešnu proveru mudrosti (medicine) DC 10.
+Možete da upotrebite svoju akciju za pružanje prve pomoći nesvesnom stvorenju i pokušavate da ga stabilizujete, što zahteva uspešnu proveru Mudrosti (Medicine) DC 10.
 
-**Stabilno** stvorenje ne baca spasilačka bacanja, iako ima 0 pogodaka, ali ostaje nesvesno. Stvorenje prestaje da bude stabilno i mora ponovo započeti sa izbacivanjem smrti, ako nanese bilo kakvu štetu. Vraća se stabilno stvorenje koje nije izlečeno
-
-1 pogodak nakon 1d4 sata.
-
+**Stabilno** stvorenje ne baca spasilačka bacanja, iako ima 0 životnih bodova, ali ostaje nesvesno. Stvorenje prestaje da bude stabilno i mora ponovo započeti sa spašavanjem od smrti, ako primi bilo kakvu štetu. Stabilno stvorenje koje nije izlečeno dobija 1 životni bod nakon 1d4 sata.
 
 #### Čudovišta i smrt
 
-Većina DM-a ima čudovište koje umre čim padne na 0 poena udaraca, umesto da padne u nesvest i izvrši spasilačka bacanja.
+Većina DM-a ima čudovišta koja umru čim padnu na 0 životnoh bodova, umesto da padne u nesvest i izvrši spasilačka bacanja.
 
-Moćni zlikovci i posebni likovi koji nisu igrači su česti izuzeci; DM bi mogao da ih onesvesti i da se pridržavaju istih pravila kao i likovi igrača.
-
+Moćni zlikovci i posebni likovi koji nisu igrači su česti izuzeci; DM bi mogao da ih onesvesti i da se pridržava istih pravila kao i likovi igrača.
 
 ### Nokautiranje stvorenja
 
-Ponekad napadač želi da onesposobi neprijatelja, umesto da zada ubilački udarac. Kada napadač stvorenjem smanji bitku na 0 pogodaka ručnim napadom, napadač može stvoriti stvorenje. Napadač može napraviti ovaj izbor čim nanese štetu. Stvorenje pada u nesvest i stabilno je.
-
+Ponekad napadač želi da onesposobi neprijatelja, umesto da zada ubilački udarac. Kada napadač stvorenjem smanji životne bodove na 0 pogodaka napadom na blizinu, napadač može nokautirati stvorenje. Napadač može napraviti ovaj izbor čim nanese štetu. Stvorenje pada u nesvest i stabilno je.
 
 ### Privremeni poeni
 
-Neke čarolije i posebne sposobnosti dodeljuju privremene bodove pogodak stvorenju. Privremeni poeni nisu stvarni poeni; oni su tampon protiv oštećenja, skup pogodaka koji vas štite od povreda.
+Neke čarolije i posebne sposobnosti dodeljuju privremene životne bodove stvorenju. Privremeni bodovi nisu stvarni bodovi; oni su tampon protiv oštećenja, skup bodova života koji vas štite od povreda.
 
-Kada imate privremene pogođene poene i napravite štetu, privremeni pogodak se prvo gubi, a preostala šteta prenosi se na vaše uobičajene pogodake. Na primer, ako imate 5 privremenih pogodaka i uzmite
+Kada imate privremene životne bodove i primite štetu, privremeni životni bodovi se prvi gube, a preostala šteta prenosi se na vaše uobičajene životne bodove. Na primer, ako imate 5 privremenih životnih bodova i primite 7 štete, gubite privremene poene, a zatim primate 2 štete.
 
-7 štete, gubite privremene poene, a zatim preuzimate 2 štete.
+Budući da su privremeni životni bodovi odvojeni od stvarnih životnih bodova, oni mogu premašiti vaš maksimum. Stoga lik može biti na maksimumu životnih bodova i dobiti privremene životne bodove.
 
-Budući da su privremene pogodake odvojene od stvarnih pogodaka, one mogu premašiti vaš maksimum. Stoga lik može biti na punom broju pogodaka i dobiti privremene pogodake.
+Isceljenje ne može vratiti privremene životne bodove i ne može ih se sabirati. Ako imate privremene životne bodove i primite ih još, odlučujete da li ćete zadržati one koje imate ili ćete uzeti nove. Na primer, ako vam čarolija dodeli 12 privremenih pogodaka kada već imate 10, možete da imate 12 ili 10, a ne 22.
 
-Isceljenje ne može vratiti privremene pogodake i ne može ih se sabrati. Ako imate privremene poene i primite ih više, odlučujete da li ćete zadržati one koje imate ili ćete osvojiti nove. Na primer, ako vam čarolija dodeli 12 privremenih pogodaka kada već imate 10, možete da imate 12 ili 10, a ne 22.
+Ako imate 0 životnih bodova, primanje privremenih životnih bodova vam neće vratiti svest niti vas stabilizovati. Oni i dalje mogu da apsorbuju štetu usmerenu na vas dok ste u tom stanju, ali samo istinsko lečenje vas može spasiti.
 
-Ako imate 0 pogodaka, primanje privremenih pogodaka vam neće vratiti svest niti vas stabilizovati.
-
-Oni i dalje mogu da apsorbuju štetu usmerenu na vas dok ste u tom stanju, ali samo istinsko lečenje vas može spasiti.
-
-Ako funkcija koja vam dodeljuje privremene poene pogodnosti nema trajanje, one će trajati dok se ne iscrpe ili dok ne završite duži odmor.
-
+Ako funkcija koja vam dodeljuje privremene životne bodove nema trajanje, oni će trajati dok se ne iscrpe ili dok ne završite duži odmor.
 
 ## Borba jašući
 
-Vitez koji se upušta u bitku na ratnom konju, čarobnjak koji baca uroke sa leđa beloglavog sveštenika ili sveštenik koji se nadvija nebom na pegazu, svi uživaju u prednostima brzine i pokretljivosti koje nosač može pružiti.
+Vitez koji se upušta u bitku na ratnom konju, čarobnjak koji baca čini sa leđa grifona ili sveštenik koji se nadvija nebom na pegazu, svi uživaju u prednostima brzine i pokretljivosti koje nosač može pružiti.
 
-Spremno stvorenje koje je najmanje za jednu veličinu veće od vas i koje ima odgovarajuću anatomiju može poslužiti kao nosač, koristeći sledeća pravila.
-
+Voljno stvorenje koje je najmanje za jednu veličinu veće od vas i koje ima odgovarajuću anatomiju može poslužiti kao nosač, koristeći sledeća pravila.
 
 ### Uzjahati i sjahati
 
-Jednom tokom svog kretanja možete da uzjašete stvorenje koje je unutar 5 stopa od vas ili da sjašete. To čini količinu kretanja jednaku polovini vaše brzine. Na primer, ako je vaša brzina 30 stopa, morate da potrošite 15 stopa kretanja da biste uzjahali konja. Stoga ga ne možete montirati ako vam nije ostalo 15 stopa kretanja ili ako je vaša brzina 0.
+Jednom tokom svog kretanja možete da uzjašete stvorenje koje je unutar 5 stopa od vas ili da sjašete sa njega. To čini količinu kretanja jednaku polovini vaše brzine. Na primer, ako je vaša brzina 30 stopa, morate da potrošite 15 stopa kretanja da biste uzjahali konja. Stoga ga ne možete uzjahati ako vam nije ostalo 15 stopa kretanja ili ako je vaša brzina 0.
 
-Ako efekat pomeri vaš nosač protiv njegove volje dok ste na njemu, morate uspeti na štednom bacanju DC 10 spretnosti pri bacanju ili padu s nosača, sleteći skloni u prostor na udaljenosti od 5 stopa od njega. Ako ste skloni dok ste montirani, morate izvršiti isto spasilačko bacanje.
+Ako efekat pomeri vašeg nosača protiv njegove volje dok ste na njemu, morate uspeti na spasonosnom bacanju DC 10 Spretnosti pri bacanju ili padu s nosača, padajuću u ležeći položaj u prostor na udaljenosti od 5 stopa od njega. Ako ste pali ležeći dok ste jahali, morate izvršiti isto spasilačko bacanje.
 
-Ako je vaš nosač podložan, možete iskoristiti svoju reakciju da ga demontirate dok pada i pada na vaše noge. U suprotnom, sjašite s konja i padnete skloni u prostor u krugu od 5 stopa.
-
+Ako je vaš nosač oboren u ležeći položaj, možete iskoristiti svoju reakciju da ga sjašete dok pada i dočekate se na vaše noge. U suprotnom, sjašite s konja i padnete ležeći u prostor u krugu od 5 stopa.
 
 ### Kontrola uzjahane životinje 
 
-Dok ste montirani, imate dve mogućnosti. Možete da kontrolišete nosač ili da dozvolite da deluje nezavisno. Inteligentna stvorenja, poput zmajeva, deluju nezavisno.
+Dok jašete, imate dve mogućnosti. Možete da kontrolišete nosača ili da dozvolite da deluje nezavisno. Inteligentna stvorenja, poput zmajeva, deluju nezavisno.
 
-Nosačem možete upravljati samo ako je obučen za prihvatanje jahača. Pretpostavlja se da su pripitomljeni konji, magarci i slična bića imali takvu obuku. Inicijativa kontrolisanog montiranja menja se tako da se podudara sa vašom kada ga montirate. Pomiče se dok ga usmerite i ima samo tri opcije akcije: Dash, Disengage i Dodge. Kontrolisani nosač se može kretati i delovati čak i na zavoju na koji ga montirate.
+Nosačem možete upravljati samo ako je obučen za prihvatanje jahača. Pretpostavlja se da su pripitomljeni konji, magarci i slična bića imali takvu obuku. Inicijativa kontrolisanog nosača menja se tako da se podudara sa vašom kada ga uzjašete. Pomiče se dok ga usmerite i ima samo tri opcije akcije: Juriš, Otkazivanje i Izbijeći. Kontrolisani nosač se može kretati i delovati čak i na potezu na koji ga uzjašete.
 
-Nezavisni nosač zadržava svoje mesto u redosledu inicijativa. Držanje jahača ne ograničava radnje koje nosač može preduzeti i kreće se i ponaša se kako želi. Možda pobegne iz borbe, požuri da napadne i proždere teško povređenog neprijatelja ili na neki drugi način deluje protiv vaše želje.
+Nezavisni nosač zadržava svoje mesto u redosledu inicijativa. Držanje jahača ne ograničava radnje koje nosač može preduzeti i kreće se i ponaša se kako želi. Možda pobijegne iz borbe, požuri da napadne i proždere teško povređenog neprijatelja ili na neki drugi način deluje protiv vaše želje.
 
-U oba slučaja, ako montiranje izazove napad na priliku dok ste na njemu, napadač može ciljati vas ili nosača.
+U oba slučaja, ako nosač izazove priliku za napad dok ste na njemu, napadač može ciljati vas ili nosača.
 
 
 ## Podvodna borba
 
-Kada avanturisti progone sahuagin u svoje podmorske domove, odbrane morske pse u drevnom brodolomu ili se nađu u poplavljenoj tamnici, moraju se boriti u izazovnom okruženju. Pod vodom važe sledeća pravila.
+Kada avanturisti progone sahuagin u nazad u svoje podmorske domove, odbijaju morske pse u drevnoj brodskoj olupini ili se nađu u poplavljenoj prostoriji katakombi, moraju se boriti u izazovnom okruženju. Pod vodom važe sledeća pravila.
 
-Prilikom izvođenja **napada ručnim oružjem**, stvorenje koje nema brzinu plivanja (bilo prirodno ili magično) ima nedostatak na kolu za napad, osim ako je oružje bodež, koplje, kratka mač, koplje ili trozubac.
+Prilikom izvođenja **napada ručnim oružjem**, stvorenje koje nema brzinu plivanja (bilo prirodno ili magično) ima nedostatak na bacanju za napad, osim ako je oružje bodež, koplje (javelin), kratki mač, koplje (spear) ili trozubac.
 
-**Daljinski napad** oružjem automatski promašuje metu izvan normalnog dometa oružja. Čak i protiv mete unutar normalnog dometa, napadački kolut ima nedostatak, osim ako je oružje samostrel, mreža ili oružje bačeno poput koplja (uključujući koplje, trozubac ili strelicu).
+**Napad na daljinu** automatski promašuje metu izvan normalnog dometa oružja. Čak i protiv mete unutar normalnog dometa, napadačko bacanje ima nedostatak, osim ako je oružje samostrel, mreža ili oružje za bacanje poput koplja (uključujući koplje, trozubac ili strelicu).
 
-Bića i predmeti koji su u potpunosti uronjeni u vodu otporni su na oštećenja od požara.
+Bića i predmeti koji su u potpunosti uronjeni u vodu otporni su na oštećenja od vatre.

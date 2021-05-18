@@ -286,7 +286,7 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
       </td>
    </tr>
    <tr>
-      <td><em>Važno za: Nevaljalac</em>
+      <td><em>Važno za: Lopov</em>
       </td>
    </tr>
    <tr>
@@ -933,7 +933,7 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
       </td>
    </tr>
    <tr>
-      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Rogue">Nevaljalac</a></strong>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Rogue">Lopov</a></strong>
       </td>
       <td>Podlac koji koristi šunjanje i prevare da bi savladao prepreke i neprijatelje
       </td>
@@ -1023,7 +1023,7 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
 [Ranger](https://www.dndbeyond.com/sources/basic-rules/classes#Ranger)
 
 
-## Nevaljalac
+## Lopov
 [Rogue](https://www.dndbeyond.com/sources/basic-rules/classes#Rogue)
 
 
@@ -1650,7 +1650,7 @@ Bogatstvo se pojavljuje u mnogim oblicima u svetu D&D. Novčići, drago kamenje
       </td>
    </tr>
    <tr>
-      <td>Nevaljalac
+      <td>Lopov
       </td>
       <td>4d4 x 10gp
       </td>
@@ -5744,7 +5744,7 @@ Da biste se kvalifikovali za novu klasu, morate da ispunite bodove sposobnosti k
       </td>
    </tr>
    <tr>
-      <td>Nevaljalac
+      <td>Lopov
       </td>
       <td>Spremnost 13
       </td>
@@ -5851,7 +5851,7 @@ Kada steknete nivo u klasi koji nije vaša po;etna, vi steknite samo neka počet
       </td>
    </tr>
    <tr>
-      <td>Nevaljalac
+      <td>Lopov
       </td>
       <td>Lagani oklop, jedna veština sa spiska veština klase, alati za lopove
       </td>
