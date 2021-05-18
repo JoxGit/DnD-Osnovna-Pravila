@@ -85,3 +85,4 @@
 * Mounts - Nosači
 * Multiclassing - Višeklasiranje
 * Feats - Podvizi
+* Non Player Character (NPC) - Ne-Igrački lik (NPC)

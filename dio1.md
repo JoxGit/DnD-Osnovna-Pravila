@@ -2210,7 +2210,7 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
       </td>
       <td>1 sp
       </td>
-      <td>1d4 batinanje
+      <td>1d4 udaranje
       </td>
       <td>2 lb.
       </td>
@@ -2234,7 +2234,7 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
       </td>
       <td>2 sp
       </td>
-      <td>1d8 batinanje
+      <td>1d8 udaranje
       </td>
       <td>10 lb.
       </td>
@@ -2270,7 +2270,7 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
       </td>
       <td>2 gp
       </td>
-      <td>1d4 batinanje
+      <td>1d4 udaranje
       </td>
       <td>2 lb.
       </td>
@@ -2282,7 +2282,7 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
       </td>
       <td>5 gp
       </td>
-      <td>1d6 batinanje
+      <td>1d6 udaranje
       </td>
       <td>4 lb.
       </td>
@@ -2294,7 +2294,7 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
       </td>
       <td>2 sp
       </td>
-      <td>1d6 batinanje
+      <td>1d6 udaranje
       </td>
       <td>4 lb.
       </td>
@@ -2385,7 +2385,7 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
       </td>
       <td>1 sp
       </td>
-      <td>1d4 batinanje
+      <td>1d4 udaranje
       </td>
       <td>-
       </td>
@@ -2427,7 +2427,7 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
       </td>
       <td>10 gp
       </td>
-      <td>1d8 batinanje
+      <td>1d8 udaranje
       </td>
       <td>2 lb.
       </td>
@@ -2511,7 +2511,7 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
       </td>
       <td>10 gp
       </td>
-      <td>2d6 batinanje
+      <td>2d6 udaranje
       </td>
       <td>10 lb.
       </td>
@@ -2607,7 +2607,7 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
       </td>
       <td>15 gp
       </td>
-      <td>1d8 batinanje
+      <td>1d8 udaranje
       </td>
       <td>2 lb.
       </td>

@@ -127,9 +127,9 @@ Likovi imaju bonus za stručnost određen nivoom, kao što je detaljno opisano u
 
 Vaš bonus za stručnost se ne može dodati jednom bacanju kocke ili drugom broju više puta. Na primer, ako dva različita pravila kažu da možete dodati svoj bonus mudrosti sa bacanje spasa, ipak dodajete bonus samo jednom kada bacate za spas.
 
-Povremeno se vaš bonus za stručnost može umnožiti ili podeliti (na primer, udvostručiti ili prepoloviti) pre nego što ga primenite. Na primer, nevaljala ekspertiza duplira bonus za stručnost za određene provere sposobnosti. Ako vam okolnost sugeriše da imate bonus za stručnost primenjuje se više puta na isti bacanje, i dalje ga dodajete samo jednom i množite ili delite samo jednom.
+Povremeno se vaš bonus za stručnost može umnožiti ili podeliti (na primer, udvostručiti ili prepoloviti) pre nego što ga primenite. Na primer, nevaljlčeva ekspertiza duplira bonus za stručnost za određene provere sposobnosti. Ako vam okolnost sugeriše da se bonus za stručnost primenjuje više puta na isto bacanje, i dalje ga dodajete samo jednom i množite ili delite samo jednom.
 
-Isto tako, ako vam osobina ili efekat omogućavaju da pomnožite svoj bonus za stručnost prilikom provere sposobnosti koja obično ne bi imala koristi od vašeg bonusa za profitabilnost, još uvek ne dodajete bonus proveri. Za tu proveru vaš profesionalni bonus je 0, s obzirom na činjenicu da je množenje 0 sa bilo kojim brojem i dalje 0. Na primer, ako vam nedostaje znanje veštine Istorija, nećete imati koristi od funkcije koja vam omogućava da udvostručite bonus za stručnost kada vršite provere inteligencije (istorije).
+Isto tako, ako vam osobina ili efekat omogućavaju da pomnožite svoj bonus za stručnost prilikom provere sposobnosti koja obično ne bi imala koristi od vašeg bonusa za stručnost, još uvek ne dodajete bonus proveri. Za tu proveru vaš bonus stručnosti je 0, s obzirom na činjenicu da je množenje 0 sa bilo kojim brojem i dalje 0. Na primer, ako vam nedostaje znanje veštine Istorija, nećete imati koristi od funkcije koja vam omogućava da udvostručite bonus za stručnost kada vršite provere inteligencije (istorija).
 
 Generalno, ne množite bonus za stručnost za bacanje napada ili spasilačka bacanja. Ako vam funkcija ili efekat to omogućavaju, primenjuju se ista pravila.
 
@@ -138,10 +138,9 @@ Generalno, ne množite bonus za stručnost za bacanje napada ili spasilačka bac
 
 Provera sposobnosti testira urođeni talenat i trening lika ili čudovišta u nastojanju da prevaziđe izazov. DM zahteva proveru sposobnosti kada lik ili čudovište pokuša akciju (osim napada) koja ima šanse za neuspeh. Kada je ishod neizvestan, kockice određuju rezultate.
 
-Za svaku proveru sposobnosti, DM odlučuje koja je od šest sposobnosti relevantna za zadati zadatak i poteškoću zadatka, predstavljen klasi težine. Što je zadatak teži, njegov DC je veći. Tabela tipičnih klasa teškoća prikazuje najčešće DC.
+Za svaku proveru sposobnosti, DM odlučuje koja je od šest sposobnosti relevantna za zadati zadatak i poteškoću zadatka, predstavljen klasom težine (DC). Što je zadatak teži, njegov DC je veći. Tabela tipičnih klasa teškoća prikazuje najčešće DC.
 
 **Tipične klase težine**
-
 
 <table>
    <tr>
@@ -189,9 +188,7 @@ Za svaku proveru sposobnosti, DM odlučuje koja je od šest sposobnosti relevant
 </table>
 
 
-Da biste izvršili proveru sposobnosti, kotrljajte d20 i dodajte odgovarajući modifikator sposobnosti. Kao i kod ostalih d20 bacanja, primenite bonuse i kazne i uporedite ukupan iznos sa DC.
-
-Ako je ukupan iznos jednak ili veći od DC, provera sposobnosti je uspešna - stvorenje prevazilazi izazov koji mu je dat. U suprotnom, to je neuspeh, što znači da lik ili čudovište ne napreduje ka cilju ili napreduje u kombinaciji sa neuspehom koji je utvrdio DM.
+Da biste izvršili proveru sposobnosti, kotrljajte d20 i dodajte odgovarajući modifikator sposobnosti. Kao i kod ostalih d20 bacanja, primenite bonuse i kazne i uporedite ukupan iznos sa DC. Ako je ukupan iznos jednak ili veći od DC, provera sposobnosti je uspešna - stvorenje prevazilazi izazov koji mu je dat. U suprotnom, to je neuspeh, što znači da lik ili čudovište ne napreduje ka cilju ili napreduje u kombinaciji sa neuspehom koji je utvrdio DM.
 
 
 ### Takmičenja
@@ -207,9 +204,9 @@ Ako takmičenje rezultira nerešenim rezultatom, situacija ostaje ista kao i pre
 
 Svaka sposobnost pokriva širok spektar mogućnosti, uključujući veštine u kojima lik ili čudovište mogu biti vešti. Veština predstavlja specifični aspekt ocene sposobnosti, a veština pojedinca u veštini pokazuje fokus na taj aspekt. (Stručnosti početnih veština lika utvrđuju se prilikom stvaranja likova, a veštine čudovišta pojavljuju se u informacijama čudovišta.)
 
-Na primer, provera spretnosti može odražavati pokušaj lika da izvede akrobatski trik, da uzme neki predmet ili ostane skriven. Svaki od ovih aspekata Spretnosti ima povezane veštine: akrobatiku, sposobnost rukovanja i skrivanja. Dakle, lik koji ima profesionalnost u veštini Skivanja posebno je dobar u spretnosti u vezi sa šunjanjem i skrivanjem.
+Na primer, provera spretnosti može odražavati pokušaj lika da izvede akrobatski trik, da uzme neki predmet ili ostane skriven. Svaki od ovih aspekata Spretnosti ima povezane veštine: akrobatiku, vješte ruke i skrivanje. Dakle, lik koji ima stručnost u veštini Skivanja posebno je dobar u provjeri Spretnosti u vezi sa šunjanjem i skrivanjem.
 
-Veštine povezane sa svakom ocenom sposobnosti prikazane su na sledećoj listi. (Nijedna veština nije povezana sa građom.) Pogledajte opis sposobnosti u kasnijim odeljcima ovog poglavlja za primere kako se koristi veština povezana sa sposobnošću.
+Veštine povezane sa svakom ocenom sposobnosti prikazane su na sledećoj listi. (Nijedna veština nije povezana sa Građom.) Pogledajte opis sposobnosti u kasnijim odeljcima ovog poglavlja za primere kako se koristi veština povezana sa sposobnošću.
 
 
 <table>
@@ -360,14 +357,14 @@ Veštine povezane sa svakom ocenom sposobnosti prikazane su na sledećoj listi.
 </table>
 
 
-Ponekad DM može zatražiti proveru sposobnosti koristeći određenu veštinu - na primer, „Napravite proveru mudrosti (percepcije)“. U drugim slučajevima, igrač može pitati DM da li se znanje određene veštine odnosi na provjeru. U oba slučaja, stručnost u veštini znači da pojedinac može dodati svoj bonus za stručnost proverama sposobnosti koje uključuju tu veštinu. Bez stručnosti u veštini, pojedinac vrši normalnu proveru sposobnosti.
+Ponekad DM može zatražiti proveru sposobnosti koristeći određenu veštinu - na primer, „Napravite proveru Mudrosti (Percepcije)“. U drugim slučajevima, igrač može pitati DM da li se znanje određene veštine odnosi na provjeru. U oba slučaja, stručnost u veštini znači da pojedinac može dodati svoj bonus za stručnost proverama sposobnosti koje uključuju tu veštinu. Bez stručnosti u veštini, pojedinac vrši normalnu proveru sposobnosti.
 
-Na primer, ako lik pokušava da se popne na opasnu liticu, Gospodar tamnice može zatražiti proveru snage (Atletika). Ako je lik vešt u atletici, bonus za osposobljenost lika dodaje se proveri Snaga. Ako liku nedostaje ta spretnost, on ili ona samo vrši proveru snage.
+Na primer, ako lik pokušava da se popne na opasnu liticu, Gospodar tamnice može zatražiti proveru Snage (Atletika). Ako je lik vešt u atletici, bonus za stručnost lika dodaje se proveri Snage. Ako liku nedostaje ta spretnost, on ili ona samo vrši proveru Snage.
 
 
 #### Varijanta: Veštine različitih sposobnosti
 
-Obično se vaša stručnost veštine odnosi samo na određenu vrstu provere sposobnosti. Na primer, stručnost u atletici obično se odnosi na provere snage. Međutim, u nekim se situacijama vaša stručnost može opravdano primeniti na drugu vrstu provere. U takvim slučajevima, DM može zatražiti provjeru koristeći neobičnu kombinaciju sposobnosti i veštine, ili možete zatražiti od svog DM-a da li možete primeniti znanje na drugoj provjeri. Na primer, ako morate da preplivate sa ostrva do kopna, vaš DM će možda zatražiti proveru Građe da biste videli da li imate izdržljivosti da biste stigli toliko daleko. U ovom slučaju, vaš DM vam može omogućiti da primenite svoje znanje iz atletike i zatražite proveru Građe (atletika). Dakle, ako ste stručnjak za atletiku, svoj bonus za stručnost primenite na proveru Građe baš kao što biste to obično uradili za proveru snage (atletika). Slično tome, kada vaš patuljasti borac koristi prikaz sirove snage za zastrašivanje neprijatelja, vaš DM može zatražiti proveru Snage (zastrašivanja), iako je zastrašivanje obično povezano sa Harizmom.
+Obično se vaša stručnost veštine odnosi samo na određenu vrstu provere sposobnosti. Na primer, stručnost u atletici obično se odnosi na provere snage. Međutim, u nekim se situacijama vaša stručnost može opravdano primeniti na drugu vrstu provere. U takvim slučajevima, DM može zatražiti provjeru koristeći neobičnu kombinaciju sposobnosti i veštine, ili možete zatražiti od svog DM-a da li možete primeniti znanje na drugoj provjeri. Na primer, ako morate da preplivate sa ostrva do kopna, vaš DM će možda zatražiti proveru Građe da biste videli da li imate izdržljivosti da biste stigli toliko daleko. U ovom slučaju, vaš DM vam može omogućiti da primenite svoje znanje iz atletike i zatražite proveru Građe (Atletika). Dakle, ako ste stručnjak za atletiku, svoj bonus za stručnost primenite na proveru Građe baš kao što biste to obično uradili za proveru snage (Atletika). Slično tome, kada vaš patuljasti borac koristi prikaz sirove snage za zastrašivanje neprijatelja, vaš DM može zatražiti proveru Snage (Zastrašivanja), iako je zastrašivanje obično povezano sa Harizmom.
 
 
 ### Pasivne provere
@@ -376,7 +373,7 @@ Pasivna provera je posebna vrsta provere sposobnosti koja ne uključuje bacanje 
 
 Evo kako odrediti likov ukupan broj za pasivnu proveru:
 
-10 + svi modifikatori koji se obično primenjuju na provjeru
+**10 + svi modifikatori koji se obično primenjuju na provjeru**
 
 Ako lik ima prednost na provjeri, dodajte 5. Za nedostatak oduzmite 5. Igra se odnosi na pasivni ukupan broj kao rezultat.
 
@@ -398,10 +395,8 @@ Kada određeni broj pojedinaca pokušava nešto da postigne kao grupa, DM može 
 
 Da bi izvršili grupnu proveru sposobnosti, svi u grupi vrše proveru sposobnosti. Ako bar polovina grupe uspe, uspe cela grupa. U suprotnom, grupa ne uspeva.
 
-Grupne provere se ne pojavljuju često, a najkorisnije su kada svi likovi uspeju ili ne uspeju kao grupa. Na primer, kada avanturisti plove močvarom, DM može zatražiti grupnu proveru mudrosti (preživljavanja) da li likovi mogu izbeći živi pesak, vrtače i druge prirodne opasnosti po životnu sredinu. Ako barem polovina grupe uspe, uspešni likovi mogu da izvedu svoje saputnike iz opasnosti. Inače, grupa naleti na jednu od ovih opasnosti.
+Grupne provere se ne pojavljuju često, a najkorisnije su kada svi likovi uspeju ili ne uspeju kao grupa. Na primer, kada avanturisti plove močvarom, DM može zatražiti grupnu proveru mudrosti (preživljavanja) da li likovi mogu izbeći živi pesak, vrtače i druge prirodne opasnosti okoline. Ako barem polovina grupe uspe, uspešni likovi mogu da izvedu svoje saputnike iz opasnosti. Inače, grupa naleti na jednu od ovih opasnosti.
 
-
-# TODO: Sredi tekst nakon ovog dijela
 
 ## Korišćenje svake sposobnosti
 
@@ -412,104 +407,85 @@ Svaki zadatak koji bi lik ili čudovište mogao pokušati u igri pokriven je jed
 
 Snaga meri telesnu snagu, atletski trening i stepen do kojeg možete da primenite sirovu fizičku silu.
 
-
 #### Provera snage
 
-Provera snage može modelirati svaki pokušaj da se nešto podigne, pogura, povuče ili polomi, da se telo natera kroz prostor ili da se na neku drugu situaciju primeni gruba sila. Atletska veština odražava sposobnost u određenim vrstama provere snage.
+Provera snage može predstavljati svaki pokušaj da se nešto podigne, pogura, povuče ili polomi, da se telo natera kroz prostor ili da se na neku drugu situaciju primeni gruba sila. Atletska veština odražava sposobnost u određenim vrstama provere Snage.
 
-**Atletika**. Provera vaše snage (Atletika) pokriva teške situacije sa kojima se susrećete tokom penjanja, skakanja ili plivanja. Primeri uključuju sledeće aktivnosti:
+**Atletika**. Provera vaše Ssnage (Atletika) pokriva teške situacije sa kojima se susrećete tokom penjanja, skakanja ili plivanja. Primeri uključuju sledeće aktivnosti:
 
-• Pokušavate da se popnete na strmu ili klizavu liticu, izbegavate opasnosti prilikom skaliranja zida ili se držite za površinu dok vas nešto pokušava oboriti.
-
-• Pokušavate da preskočite neobično veliku udaljenost ili izvučete vratolomni trik.
-
-• Mučite se da plivate ili ostanete na površini u izdajničkoj rizici, talasima olujnim olujama ili područjima gustih morskih algi. Ili vas neko drugo stvorenje pokušava potisnuti ili povući pod vodom ili na drugi način ometati vaše plivanje.
+* Pokušavate da se popnete na strmu ili klizavu liticu, izbegavate opasnosti prilikom penjanja na zid ili se držite za površinu dok vas nešto pokušava oboriti.
+* Pokušavate da preskočite neobično veliku udaljenost ili izvučete vratolomni trik.
+* Mučite se da plivate ili ostanete na površini u opasnim brzacima, olujnim talasima ili područjima gustih morskih algi. Ili vas neko drugo stvorenje pokušava potisnuti ili povući pod vodu ili na drugi način ometati vaše plivanje.
 
 **Ostale provere snage**. DM takođe može zatražiti proveru snage kada pokušate da izvršite zadatke poput sledećih:
 
-• Na silu otvorite zaglavljena, zaključana ili zabranjena vrata
-
-• Oslobodite se obveznica
-
-• Progurati se kroz premali tunel
-
-• Prikačite se za vagon dok ga vučete za njim
-
-• Prevrtanje statue
-
-• Spriječite balvan da se kotrlja
+* Na silu otvorite zaglavljena, zaključana ili zabranjena vrata
+* Oslobodite se okova
+* Progurati se kroz premali tunel
+* Držati se kola koja vas vuku
+* Prevrtanje statue
+* Spriječite balvan da se kotrlja
 
 
-#### Napadi i oštećenja
+#### Napadi i oštećenja snagom
 
-Dodajete svoj modifikator jačine u vaš valjak za napad i vaš oslonac za oštećenje kada napadate ručnim oružjem kao što je buzdovan, bojni sekira ili koplje. Koristite oružje iz mele da biste izvršili bombaške napade u borbi prsa u prsa, a neka od njih možete baciti za napad na daljinu.
+Dodajete svoj modifikator Snage na vaše bacanje za napad i vaše bacanje za oštećenje kada napadate oružjem za blisku borbu kao što je buzdovan, bojna sekira ili koplje. Koristite oružje za borbu na blizinu da biste izvršili napade u borbi prsa u prsa, a neka od njih možete baciti za napad na daljinu.
 
 
 #### Podizanje i nošenje
 
-Ocena snage određuje količinu težine koju možete podneti. Sledeći izrazi definišu šta možete podići ili nositi.
+Ocena snage određuje količinu težine koju možete poneti. Sledeći izrazi definišu šta možete podići ili nositi.
 
-**Nivo zasićenosti**. Vaša nosivost je vaša ocena snage pomnožena sa 15. Ovo je težina (u kilogramima) koju možete da nosite, koja je dovoljno velika da većina likova obično ne mora da brine zbog toga.
+**Nivo zasićenosti**. Vaša nosivost je vaša ocena snage pomnožena sa 15. Ovo je težina (u funtama) koju možete da nosite, koja je dovoljno velika da većina likova obično ne mora da brine zbog toga.
 
-**Pritisnite, povucite ili podignite**. Možete da gurnete, povučete ili podignete teg u kilogramima do dva puta veće od vaše nosivosti (ili 30 puta veće od vašeg rezultata snage). Dok gurate ili vučete težinu veću od vaše nosivosti, brzina pada do 5 stopa.
+**Gutnete, povucite ili podignite**. Možete da gurnete, povučete ili podignete teg u funtama do dva puta veće od vaše nosivosti (ili 30 puta veće od vašeg rezultata snage). Dok gurate ili vučete težinu veću od vaše nosivosti, brzina pada na 5 stopa.
 
-**Veličina i snaga**. Veća stvorenja mogu imati veću težinu, dok sitna stvorenja mogu nositi manje. Za svaku kategoriju veličine iznad Srednje, udvostručite nosivost stvorenja i količinu koju ono može potisnuti, povući ili podići. Za Sićušno stvorenje prepolovite ove težine.
+**Veličina i snaga**. Veća stvorenja mogu nositi veću težinu, dok sitna stvorenja mogu nositi manje. Za svaku kategoriju veličine iznad Srednje, udvostručite nosivost stvorenja i količinu koju ono može potisnuti, povući ili podići. Za Sićušno stvorenje prepolovite ove težine.
 
 
 #### Varijanta: Opterećenje
 
-Pravila za dizanje i nošenje su namerno jednostavna. Evo varijante ako tražite detaljnija pravila za određivanje načina na koji lik ometa težina opreme. Kada koristite ovu varijantu, zanemarite stupac Snaga tabele Armor u poglavlju 5.
+Pravila za dizanje i nošenje su namerno jednostavna. Evo varijante ako tražite detaljnija pravila za određivanje načina na koji lik ometa težina opreme. Kada koristite ovu varijantu, zanemarite kolonu Snaga tabele Okllopa u poglavlju 5.
 
 Ako nosite težinu veću od 5 puta vaše ocene snage, **opterećeni** ste, što znači da vam brzina pada za 10 stopa.
 
-Ako nosite težinu veću od 10 puta vaše ocene snage, do vaše maksimalne nosivosti, umesto toga ste **opterećeni**, što znači da vaša brzina pada za 20 stopa i imate nedostatak u proveri sposobnosti, napadačkim rolama i spasilačkim bacanjima koja koriste Snaga, spretnost ili garđa.
+Ako nosite težinu veću od 10 puta vaše ocene snage, do vaše maksimalne nosivosti, vi ste **teško opterećeni**, što znači da vaša brzina pada za 20 stopa i imate nedostatak u proveri sposobnosti, napadačkim bacanjima i spasilačkim bacanjima koja koriste Snagu, Spretnost ili Garđu.
 
 
 ### Spretnost
 
 Spretnost meri okretnost, reflekse i ravnotežu.
 
-
 #### Spretnost provere
 
-Provera spretnosti može da modelira svaki pokušaj kretanja okretno, brzo ili tiho ili da ne padne na nezgodno stopalo. Veštine akrobacije, spretnosti ruke i stelta odražavaju sposobnost u određenim vrstama spretnosti.
+Provera spretnosti može da modelira svaki pokušaj kretanja okretno, brzo ili tiho ili da ne padne na nezgodnm terenu. Veštine akrobacije, spretnosti ruke i ne;ujnosti odražavaju sposobnost u određenim vrstama spretnosti.
 
-**Akrobacije**. Provera spretnosti (akrobacije) pokriva vaš pokušaj da ostanete na nogama u škakljivoj situaciji, na primer kada pokušavate da pregazite list leda, izbalansirate kanap ili ostanete uspravni na palubi broda koji se ljulja.
+**Akrobacije**. Provera Spretnosti (Akrobacije) pokriva vaš pokušaj da ostanete na nogama u škakljivoj situaciji, na primer kada pokušavate da pregazite preko leda, izbalansirate kanap ili ostanete uspravni na palubi broda koji se ljulja.
 
-DM može takođe zatražiti proveru spretnosti (akrobacije) da biste videli da li možete da izvodite akrobatske vratolomije, uključujući ronjenje, rolne, salta i okretanje.
+DM može takođe zatražiti proveru Spretnosti (Akrobacije) da biste videli da li možete da izvodite akrobatske vratolomije, uključujući ronjenje, kolute, salta i okretanje.
 
-**Spretnost ruku** . Kad god pokušate čin leger-demaina ili ručno podmetanje, kao što je podmetanje nečega drugom ili skrivanje predmeta na vašoj osobi, izvršite proveru spretnosti. DM bi takođe mogao da zatraži proveru spretnosti (lakomislenosti) kako bi utvrdio da li možete podići novčanik sa druge osobe ili izvući nešto iz druge džep osobe.
+**Spretnost ruku**. Kad god pokušatetrik rukom ili ručno podmetanje, kao što je podmetanje nečega drugom ili skrivanje predmeta kod vaše osobe, izvršite proveru spretnosti. DM bi takođe mogao da zatraži proveru Spretnosti (Spretnih ruku) kako bi utvrdio da li možete ukrasti novčanik sa druge osobe ili izvući nešto iz džepa druge osobe.
 
-**Skrivanje**. Napravite proveru spretnosti (potajnosti) kada pokušavate da se sakrijete od neprijatelja, provučete se pored stražara, izmaknete se neprimećenom ili se prikradete nekome a da vas niko ne vidi i ne čuje.
+**Skrivanje**. Napravite proveru Spretnosti (Skrivanje) kada pokušavate da se sakrijete od neprijatelja, provučete se pored stražara, izmaknete se neprimećeno ili se prikradete nekome a da vas niko ne vidi i ne čuje.
 
-Ostale provere spretnosti. DM može zatražiti proveru spretnosti kada pokušate da izvršite zadatke poput sledećih:
+**Ostale provere spretnosti**. DM može zatražiti proveru spretnosti kada pokušate da izvršite zadatke poput sledećih:
 
-• Upravljajte teško natovarenim kolima na strmom spustu
-
-• Vozite kočija oko uskog zavoja
-
-• Izaberite bravu
-
-• Onemogućite zamku
-
-• Sigurno zavežite zatvorenika
-
-• Izmičite se bez obveznica
-
-• Svirajte na žičanom instrumentu
-
-• Napravite mali ili detaljan predmet
-
+* Upravljajte teško natovarenim kolima na strmom spustu
+* Vozite kočija oko uskog zavoja
+* obijete bravu
+* Onemogućite zamku
+* Sigurno zavežete zatvorenika
+* Izmigoljite se iz lisica
+* Sviraete na žičanom instrumentu
+* Napravite mali ili detaljan predmet
 
 #### Napadi i oštećenja
 
-Dodajete svoj modifikator spretnosti u svoj valjak za napad i u svoj oštećeni kolac kada napadate oružjem daljinskog dometa, poput praćke ili dugačkog luka. Takođe možete dodati svoj modifikator spretnosti u svoj valjak za napad i u svoj oštećeni rolni kada napadate ručnim oružjem koje ima fino svojstvo, poput bodeža ili rapire.
-
+Dodajete svoj modifikator spretnosti u svoje bacanje za napad i u svoje bacanje za štetu kada napadate oružjem za daljinu, poput praćke ili dugačkog luka. Takođe možete dodati svoj modifikator spretnosti u svoje bacanje za napad i u svoje bacenje za štetu kada napadate ručnim oružjem koje ima svojstvo finese, poput bodeža ili rapira.
 
 #### Klasa oklopa
 
 U zavisnosti od oklopa koji nosite, možete dodati neki ili sve svoje modifikatore spretnosti u svoju klasu oklopa, kao što je opisano u poglavlju 5.
-
 
 #### Inicijativa
 
@@ -517,15 +493,15 @@ Na početku svake borbe pokrećete inicijativu proverom spretnosti. Inicijativa
 
 >**Sakrivanje**
 >
->DM odlučuje kada su okolnosti pogodne za skrivanje. Kada pokušate da se sakrijete, izvršite proveru spretnosti (nevidljivosti). Dok vas ne otkriju ili ne prestanete da se krijete, ukupan iznos ove provere osporava se proverom mudrosti (percepcije) bilo kog stvorenja koje aktivno traži znakove vašeg prisustva.
+>DM odlučuje kada su okolnosti pogodne za skrivanje. Kada pokušate da se sakrijete, izvršite proveru Spretnosti (Skrivanja). Dok vas ne otkriju ili ne prestanete da se krijete, ukupan iznos ove provere osporava se proverom Mudrosti (Percepcije) bilo kog stvorenja koje aktivno traži znakove vašeg prisustva.
 >
 >Ne možete se sakriti od bića koje vas jasno vidi, a svoj položaj odajete ako pravite buku, poput uzvika upozorenja ili obaranja vaze. Nevidljivo stvorenje se ne može videti, pa uvek može pokušati da se sakrije. Znakovi njegovog prolaska ipak bi se mogli primetiti, i dalje mora ostati tiho.
 >
->U borbi, većina stvorenja pazi na znakove opasnosti svuda oko sebe, pa ako izađete iz skrivanja i priđete stvorenje, obično te vidi. Međutim, pod određenim okolnostima, Gospodar tamnice vam može dozvoliti da ostanete skriveni dok se približavate stvorenju koje je ometeno, što vam omogućava da steknete prednost u napadu pre viđeni ste.
+>U borbi, većina stvorenja pazi na znakove opasnosti svuda oko sebe, pa ako izađete iz skrivanja i priđete stvorenju, obično te vidi. Međutim, pod određenim okolnostima, DM vam može dozvoliti da ostanete skriveni dok se približavate stvorenju koje je ometeno, što vam omogućava da steknete prednost u napadu pre nogo što ste viđeni.
 >
->**Pasivna percepcija.** Kada se sakrijete, postoji šansa da vas neko primeti čak i ako ne pretražuje. Da bi utvrdio da li vas takvo stvorenje primećuje, DM upoređuje vašu spretnost >(Stealth) proveru sa pasivnom ocenom mudrosti (percepcije) tog stvorenja, koja je jednaka 10 + modifikatoru mudrosti bića, kao i bilo kojim drugim bonusima ili kaznama. Ako stvorenje ima prednost, dodajte 5. Za nedostatak oduzmite 5.
+>**Pasivna percepcija.** Kada se sakrijete, postoji šansa da vas neko primeti čak i ako ne pretražuje. Da bi utvrdio da li vas takvo stvorenje primećuje, DM upoređuje vašu Spretnost (Skrivanje) proveru sa pasivnom ocenom Mudrosti (Percepcije) tog stvorenja, koja je jednaka 10 + modifikatoru Mudrosti bića, kao i bilo kojim drugim bonusima ili kaznama. Ako stvorenje ima prednost, dodajte 5. Za nedostatak oduzmite 5.
 >
->Na primer, ako lik prvog nivoa (sa bonusom za sposobnost +2) ima Mudrost 15 (modifikator +2) i znanje Percepcije, on ili ona ima pasivnu Mudrost (Percepciju) 14.
+>Na primer, ako lik prvog nivoa (sa bonusom za Sposobnost +2) ima Mudrost 15 (modifikator +2) i znanje Percepcije, on ili ona ima pasivnu Mudrost (Percepciju) 14.
 >
 >**Šta možeš da vidiš?** Jedan od glavnih faktora pri utvrđivanju da li možete pronaći skriveno biće ili predmet jeste koliko dobro vidite u području koje može biti lagano ili jako zaklonjeno, kao što je objašnjeno u poglavlju 8.
 
@@ -534,64 +510,51 @@ Na početku svake borbe pokrećete inicijativu proverom spretnosti. Inicijativa
 
 Građa meri zdravlje, izdržljivost i vitalnu snagu.
 
-
 #### Provere građe
 
 Provera građe je neuobičajena i nijedna veština se ne primenjuje na proveru građe, jer je izdržljivost koju ova sposobnost predstavlja uglavnom pasivna, a ne podrazumeva određeni napor lika ili čudovišta. Provera građe, međutim, može modelirati vaš pokušaj da pređete normalne granice.
 
 DM može zatražiti proveru građe kada pokušate da izvršite zadatke poput sledećih:
 
-• Zadržite dah
+* Zadržite dah
+* Marš ili rad satima bez odmora
+* Idite bez spavanja
+* Preživjeti bez hrane i vode
+* Jednim potezom ispijete cijeli bokal piva
 
-• Mart ili trudovi satima bez odmora
+#### Životni bodovi
 
-• Idite bez spavanja
+Vaš modifikator Građe doprinosi vašim životnim bodovima. Tipično dodajete svoj modifikator Građe u za svalo kockicu života koji bacite za svoje životne bodove.
 
-• Preživjeti bez hrane i vode
-
-• Jednim potezom ispraznite celu steinu ale
-
-
-#### Hit Points
-
-Vaš modifikator Građe doprinosi vašim pogodacima. Tipično dodajete svoj modifikator Građe u svaki udarac koji ubacite za svoje pogotke.
-
-Ako se vaš modifikator Građe promeni, maksimalni broj pogodaka se takođe menja, kao da ste novi modifikator imali sa prvog nivoa. Na primer, ako povisite ocenu građe kada dostignete 4. nivo, a vaš modifikator građe se poveća sa +1 na +2, prilagođavate maksimum svoje pogođene tačke kao da je modifikator uvek bio +2. Dakle, dodajete 3 pogodaka za prva tri nivoa, a zatim kotrljate pogođene poene za 4. nivo pomoću novog modifikatora. Ili ako ste sedmi nivo i neki efekat smanjuje ocenu građe tako da modifikator građe smanji za 1, maksimalan broj pogodaka smanjuje se za 7.
+Ako se vaš modifikator Građe promeni, maksimalni broj životnih bodova se takođe menja, kao da ste novi modifikator imali sa prvog nivoa. Na primer, ako povisite ocenu građe kada dostignete 4. nivo, a vaš modifikator građe se poveća sa +1 na +2, prilagođavate maksimum svojih životnih bodova kao da je modifikator uvek bio +2. Dakle, dodajete 3 pogodaka za prva tri nivoa, a zatim kotrljate kockicu za život za 4. nivo pomoću novog modifikatora. Ili ako ste sedmi nivo i neki efekat smanjuje ocenu građe tako da modifikator građe smanji za 1, maksimalan broj životnih bodova smanjuje se za 7.
 
 
 ### Inteligencija
 
 Inteligencija meri mentalnu oštrinu, tačnost opoziva i sposobnost rasuđivanja.
 
-
 #### Provera inteligencije
 
 Provera inteligencije dolazi u obzir kada trebate da se oslonite na logiku, obrazovanje, pamćenje ili deduktivno rezonovanje. Arcana, Istorija, Istraga, Priroda i Religijske veštine odražavaju sposobnost u određenim vrstama provere inteligencije.
 
-**Arcana**. Vaša provera inteligencije (Arcana) meri vašu sposobnost da se setite uroka o čarolijama, magičnim predmetima, simbolima eldriča, magijskim tradicijama, nivoima postojanja i stanovnicima tih ravni.
+**Arkana**. Vaša provera Inteligencije (Arkana) meri vašu sposobnost da se setite činima, magičnim predmetima, tajanstvenim simbolima, magijskim tradicijama, ravnima postojanja i stanovnicima tih ravni.
 
-**Istorija**. Vaša provera inteligencije (istorije) meri vašu sposobnost da se prisećate istorijskih događaja, legendarni ljudi, drevna kraljevstva, prošli sporovi, nedavni ratovi i izgubljene civilizacije.
+**Istorija**. Vaša provera Inteligencije (Istorije) meri vašu sposobnost da se prisećate istorijskih događaja, legendarnih ljudi, drevnih kraljevstva, prošlih sporova, nedavnih ratova i izgubljene civilizacije.
 
-**Istraga**. Kada pogledate oko sebe tragove i napravite odbitke na osnovu tih tragova, vršite proveru inteligencije (istrage). Možete utvrditi lokaciju skrivenog predmeta, po izgledu rane razabrati kakvo oružje ga je nanelo ili odrediti najslabiju tačku u tunelu zbog koje bi mogao da se sruši. Pregledavanje drevnih svitaka u potrazi za skrivenim fragmentom znanja takođe može zahtevati proveru inteligencije (istrage).
+**Istraga**. Kada pogledate oko sebe tragove i napravite zaključke na osnovu tih tragova, vršite proveru Inteligencije (Istrage). Možete utvrditi lokaciju skrivenog predmeta, po izgledu rane odrediti kakvo oružje ju je nanelo ili odrediti najslabiju tačku u tunelu zbog koje bi mogao da se sruši. Pregledavanje drevnih svitaka u potrazi za skrivenim djelićem znanja takođe može zahtevati proveru Inteligencije (Istrage).
 
-**Priroda**. Vaša provera inteligencije (prirode) meri vašu sposobnost da se prisećate terena, biljaka i životinja, vremena i prirodnih ciklusa.
+**Priroda**. Vaša provera Inteligencije (Prirode) meri vašu sposobnost da se prisećate terena, biljaka i životinja, vremena i prirodnih ciklusa.
 
-**Religija**. Vaša provera inteligencije (religije) meri vašu sposobnost da se setite predavanja o božanstvima, obredima i molitvama, verskim hijerarhijama, svetim simbolima i praksama tajnih kultova.
+**Religija**. Vaša provera Inteligencije (Religije) meri vašu sposobnost da se setite predavanja o božanstvima, obredima i molitvama, verskim hijerarhijama, svetim simbolima i običajima tajnih kultova.
 
-**Ostale provere inteligencije**. DM može zatražiti obaveštajnu proveru kada pokušate da izvršite zadatke poput sledećih:
+**Ostale provere inteligencije**. DM može zatražiti proveru inteligencije kada pokušate da izvršite zadatke poput sledećih:
 
-• Komunicirajte sa bićem bez upotrebe reči
-
-• Procenite vrednost dragocenog predmeta
-
-• Sakupite masku da biste prošli mesto gradskog čuvara
-
-• Falsifikovanje dokumenta
-
-• Prisjetite se nauka o zanatu ili trgovini
-
-• Osvojite igru veštine
-
+* Komunicirajte sa bićem bez upotrebe reči
+* Procenite vrednost dragocenog predmeta
+* Sakupite masku da biste prošli mesto gradskog čuvara
+* Falsifikovanje dokumenta
+* Prisjetite se nauka o zanatu ili trgovini
+* Pobjedite u igri veštine
 
 #### Sposobnost bacanja čarolija 
 
@@ -602,40 +565,30 @@ Provera inteligencije dolazi u obzir kada trebate da se oslonite na logiku, obra
 
 Mudrost odražava koliko ste prilagođeni svetu oko sebe i predstavlja pronicljivost i intuiciju.
 
-
 #### Provera mudrosti
 
 Provera mudrosti može odražavati napor da se pročita jezik tela, razumeju nečija osećanja, primete stvari u okolini ili briga za povređenu osobu. Veštine rukovanja životinjama, uvida, medicine, percepcije i preživljavanja odražavaju sposobnost u određenim vrstama provere mudrosti
 
-**Pronalaženje skrivenog predmeta**
+**Rukovanje životinjama**. Kada postoji neko pitanje da li možete smiriti pripitomljenu životinju, sprečiti nosača da se uplaši ili imTI intuicuju za namjere životinje, DM može zatražiti proveru Mudrosti (Rukovanje životinjama). Takođe vršite proveru Mudrosti (Rukovanje životinjama) da biste kontrolisali nosača kada pokušate rizičan manevar.
 
-Kada vaš lik traži skriveni predmet kao što su tajna vrata ili zamka, DM obično traži da izvršite proveru mudrosti (percepcije). Takva provjera može se koristiti za pronalaženje skrivenih detalja ili drugih informacija i tragova koje biste inače mogli previdjeti.
+**Uvid**. Provera vaše Mudrosti (Uvida) odlučuje da li možete da utvrdite prave namere bića, na primer kada tražite laž ili predviđate nečiji sledeći potez. To čini izvlačenje tragova iz jezika tela, govornih navika i promena u manirima.
 
-U većini slučajeva morate da opišete gde tražite da bi DM utvrdio vaše šanse za uspeh.
+**Medicina**. Provera Mudrosti (Medicine) vam omogućava da pokušate da stabilizujete saputnika koji umire ili da dijagnostikujete bolest.
 
-Na primer, ključ je skriven ispod sklopljene odeće u gornjoj fioci biroa. Ako kažete DM-u da koračate po sobi, gledajući zidove i nameštaj u potrazi za tragovima, nema šanse da pronađete ključ, bez obzira na rezultat provere mudrosti (percepcije). Morali biste navesti da otvarate fioke ili pretražujete biro kako biste imali bilo kakve šanse za uspeh.
+**Percepcija**. Provera Mudrosti (Percepcije) omogućava vam da uočite, čujete ili na drugi način detektujete prisustvo nečega. Meri vašu opštu svest o svojoj okolini i oštrinu svojih čula. Na primer, možete pokušati da čujete razgovor kroz zatvorena vrata, prisluškujete ispod otvorenog prozora ili čujete čudovišta koja se kriju u šumi. Ili biste mogli pokušati da uočite stvari koje su prikrivene ili ih je lako propustiti, bilo da su to orci koji leže u zasedi na putu, nasilnici koji se kriju u senci uličice ili svetlost sveća ispod zatvorenih tajnih vrata.
 
-**Rukovanje životinjama**. Kada postoji neko pitanje da li možete smiriti pripitomljenu životinju, sprečiti nosača da se uplaši ili intuitivno nameravati životinju, DM može zatražiti proveru mudrosti (rukovanje životinjama).
 
-Takođe vršite proveru mudrosti (rukovanje životinjama) da biste kontrolisali nosač kada pokušate rizičan manevar.
+>**Pronalaženje skrivenog predmeta**
+>
+>Kada vaš lik traži skriveni predmet kao što su tajna vrata ili zamka, DM obično traži da izvršite proveru Mudrosti (Percepcije). Takva provjera može se koristiti za pronalaženje skrivenih detalja ili drugih informacija i tragova koje biste inače mogli previdjeti.
+>U većini slučajeva morate da opišete gde tražite da bi DM utvrdio vaše šanse za uspeh. Na primer, ključ je skriven ispod sklopljene odeće u gornjoj fioci stola. Ako kažete DM-u da koračate po sobi, gledajući zidove i nameštaj u potrazi za tragovima, nema šanse da pronađete ključ, bez obzira na rezultat provere Mudrosti (Percepcije). Morali biste navesti da otvarate fioke ili pretražujete sto kako biste imali bilo kakve šanse za uspeh.
 
-**Uvid**. Provera vaše mudrosti (uvida) odlučuje da li možete da utvrdite prave namere bića, na primer kada tražite laž ili predviđate nečiji sledeći potez. To čini izvlačenje tragova iz jezika tela, govornih navika i promena u manirima.
+**Preživljavanje**. DM može tražiti od vas da izvršite proveru Mudrosti (Preživljavanja) kako biste pratili staze, lovili divljač, vodili svoju grupu kroz smrznute pustare, identifikovali znakove da sove žive u blizini, predvideli vremenske prilikr ili izbegli brzi pesak i druge prirodne opasnosti.
 
-**Medicina**. Provera mudrosti (medicine) vam omogućava da pokušate da stabilizujete saputnika koji umire ili da dijagnostikujete bolest.
+**Ostale provere mudrosti**. DM može zatražiti proveru Mudrosti kada pokušate da izvršite zadatke poput sledećih:
 
-**Percepcija**. Provera mudrosti (percepcije) omogućava vam da uočite, čujete ili na drugi način detektujete prisustvo nečega.
-
-Meri vašu opštu svest osvoju okolinu i oštrinu svojih čula.
-
-Na primer, možete pokušati da čujete razgovor kroz zatvorena vrata, prisluškujete ispod otvorenog prozora ili čujete čudovišta koja se kradom kriju u šumi. Ili biste mogli pokušati da uočite stvari koje su prikrivene ili ih je lako propustiti, bilo da su to orci koji leže u zasedi na putu, nasilnici koji se kriju u senci uličice ili svetlost sveća ispod zatvorenih tajnih vrata.
-
-**Preživljavanje**. DM može tražiti od vas da izvršite proveru mudrosti (preživljavanja) kako biste pratili staze, lovili divljač, vodili svoju grupu kroz smrznute pustare, identifikovali znakove da sove žive u blizini, predvideli vreme ili izbegli brzi pesak i druge prirodne opasnosti.
-
-**Ostale provere mudrost**i. DM može zatražiti proveru mudrosti kada pokušate da izvršite zadatke poput sledećih:
-
-• Steknite osećaj o tome koji tok akcije treba slediti
-
-• Utvrdite da li naizgled mrtva ili živa tvorevina nije mrtva
+* Steknite osećaj o tome koji tok akcije treba slediti
+* Utvrdite da li naizgled mrtva ili živa tvorevina nije mrtva
 
 
 #### Sposobnost bacanja čarolija 
@@ -647,52 +600,49 @@ Sveštenici koriste Mudrost kao svoju sposobnost pravljenja čarolija, što poma
 
 Harizma meri vašu sposobnost efikasne interakcije sa drugima. Uključuje faktore kao što su samopouzdanje i rečitost, a može predstavljati šarmantnu ili zapovedničku ličnost.
 
-
 #### Provera harizme
 
-Provera harizme može nastati kada pokušavate da utičete na druge ili da ih zabavite, kada pokušavate da napravite utisak ili izgovorite uverljivu laž ili kada se krećete u zapetljanoj socijalnoj situaciji. Veštine obmanjivanja, zastrašivanja, performansi i ubeđivanja odražavaju sposobnost u određenim vrstama provera harizme.
+Provera harizme može nastati kada pokušavate da utičete na druge ili da ih zabavite, kada pokušavate da napravite utisak ili izgovorite uverljivu laž ili kada se provlačite kroz zapetljanu socijalnu situaciju. Veštine obmanjivanja, zastrašivanja, performansi i ubeđivanja odražavaju sposobnost u određenim vrstama provera Harizme.
 
-**Obmana**. Vaša provera harizme (obmana) određuje da li možete uverljivo sakriti istinu, bilo verbalno ili svojim postupcima. Ova obmana može obuhvatiti sve, od zavaravanja drugih preko dvosmislenosti do izricanja otvorenih laži. Tipične situacije uključuju pokušaj brzog razgovora sa čuvarom, prevarom trgovca, zarađivanjem novca putem kockanja, izdavanjem sebe pod krinkom, otupljivanjem nečijih sumnji lažnim uveravanjima ili održavanjem pravog lica dok izričite očitu laž.
+**Obmana**. Vaša provera Harizme (Obmana) određuje da li možete uverljivo sakriti istinu, bilo verbalno ili svojim postupcima. Ova obmana može obuhvatiti sve, od zavaravanja drugih preko dvosmislenosti do izricanja otvorenih laži. Tipične situacije uključuju pokušaj brzog razgovora sa čuvarom, prevarom trgovca, zarađivanjem novca putem kockanja,provići se prerušen, otupljivanjem nečijih sumnji lažnim uveravanjima ili bez promjena na licu dok izričite očitu laž.
 
-**Zastrašivanje**. Kada na nekoga pokušate da utičete putem otvorenih pretnji, neprijateljskih radnji i fizičkog delovanja nasilja, DM može tražiti od vas da izvršite proveru harizme (zastrašivanja). Primeri uključuju pokušaj izvlačenja informacija iz zatvorenika, ubeđivanje uličnih siledžija da se povuku iz sukoba ili da ivicom slomljene boce ubede podrugljivog vezira da preispita odluku.
+**Zastrašivanje**. Kada na nekoga pokušate da utičete putem otvorenih pretnji, neprijateljskih radnji i fizičkog delovanja nasilja, DM može tražiti od vas da izvršite proveru Harizme (Zastrašivanja). Primeri uključuju pokušaj izvlačenja informacija iz zatvorenika, ubeđivanje uličnih siledžija da se povuku iz sukoba ili da ivicom slomljene boce ubede podrugljivog vezira da preispita odluku.
 
-**Performanse**. Vaša provera harizme (performansa) određuje koliko dobro možete da obradujete publiku muzikom, plesom, glumom, pričanjem priča ili nekim drugim oblikom zabave.
+**Nastup**. Vaša provera Harizme (Nastupa) određuje koliko dobro možete da obradujete publiku muzikom, plesom, glumom, pričanjem priča ili nekim drugim oblikom zabave.
 
-**Ubeđivanje**. Kada pokušate da taktom, socijalnom milošću ili dobrom prirodom utičete na nekoga ili na grupu ljudi, DM može zatražiti da izvršite proveru harizme (ubeđivanja). Tipično koristite ubeđivanje kada delujete u dobroj nameri, negujete prijateljstva, upućujete srdačne zahteve ili pokazujete odgovarajuće etikete. Primeri nagovaranja drugih uključuju ubeđivanje komornika da dozvoli vašoj partiji da vidi kralja, pregovaranje o miru između zaraćenih plemena ili nadahnuće gomile meštana.
+**Ubeđivanje**. Kada pokušate da taktom, socijalnom milošću ili dobrom prirodom utičete na nekoga ili na grupu ljudi, DM može zatražiti da izvršite proveru Harizme (Ubeđivanja). Tipično koristite ubeđivanje kada delujete u dobroj nameri, negujete prijateljstva, upućujete srdačne zahteve ili pokazujete odgovarajuće etikete. Primeri nagovaranja drugih uključuju ubeđivanje komornika da dozvoli vašoj družini da vidi kralja, pregovaranje o miru između zaraćenih plemena ili nadahnuće gomile meštana.
 
-Ostale provere harizme. DM može zatražiti proveru harizme kada pokušate da izvršite zadatke poput sledećih:
+**Ostale provere Harizme**. DM može zatražiti proveru Harizme kada pokušate da izvršite zadatke poput sledećih:
 
-• Pronađite najbolju osobu za razgovor za vesti, glasine i tračeve
-
-• Spojite se u gomilu da biste stekli osećaj ključnih tema razgovora
-
+* Pronađite najbolju osobu za razgovor za vesti, glasine i tračeve
+* Stopite se u gomilu da biste stekli osećaj ključnih tema razgovora
 
 #### Sposobnost bacanje čarolija 
 
-Bardovi, paladini, vračevi i veštaci koriste Harizmu kao svoju sposobnost čaranja, što pomaže u određivanju spasilačkih bacanja čarolija koje su bacili.
+Bardovi, paladini, vračevi i veštaci koriste Harizmu kao svoju sposobnost pravljenja čarolija, što pomaže u određivanju spasilačkih bacanja čarolija koje su bacili.
 
 
 ### Bacanja spasa
 
-Spasonosno bacanje - koje se naziva i spremanjem - predstavlja pokušaj odolevanja uroku, zamci, otrovu, bolesti ili sličnoj pretnji. Obično se ne odlučujete da napravite spasilačko bacanje; primorani ste da je napravite jer vaš lik ili čudovište rizikuje da naudi.
+Spasonosno bacanje - koje se naziva i čuvanjem - predstavlja pokušaj odolevanja čaroliji, zamci, otrovu, bolesti ili sličnoj pretnji. Obično se ne odlučujete da napravite spasilačko bacanje; primorani ste da je napravite jer vaš lik ili čudovište rizikuje da mu se naudi.
 
-Da biste izveli spasonosno bacanje, zakotrljajte d20 i dodajte odgovarajući modifikator sposobnosti. Na primer, za prilagođavanje spretnosti koristite svoj modifikator spretnosti.
+Da biste izveli spasonosno bacanje, zakotrljajte d20 i dodajte odgovarajući modifikator sposobnosti. Na primer, za spasonosno bacanje spretnosti koristite svoj modifikator spretnosti.
 
-Štedno bacanje može se izmeniti situacionim bonusom ili kaznom, a na njega mogu uticati prednosti i nedostaci, kako je utvrđeno DM.
+Bacanje spasa može se izmeniti situacionim bonusom ili kaznom, a na njega mogu uticati prednosti i nedostaci, kako je utvrđeno od strane DM-a.
 
-Svaka klasa daje znanje u najmanje dva spasilačka bacanja. Čarobnjak je, na primer, vešt u spremanju inteligencije. Kao i kod poznavanja veština, veština u spasilačkom bacanju omogućava liku da doda svoj nivo znanja spremanjima za bacanje izvedenim pomoću određenog rezultata sposobnosti. Neka čudovišta takođe imaju znanje štednih bacanja.
+Svaka klasa daje znanje u najmanje dva spasilačka bacanja. Čarobnjak je, na primer, vešt u spasavanju inteligencije. Kao i kod poznavanja veština, veština u spasilačkom bacanju omogućava liku da doda svoj nivo znanja bacanju za spas  izvedenim pomoću određenog rezultata sposobnosti. Neka čudovišta takođe imaju znanje bacanja spasa.
 
-Klasa težine za spasilačko bacanje određuje se efektom koji ga izaziva. Na primer, DC za spasonosno bacanje dozvoljeno čarolijom određuje se izbacivačkom sposobnošću za čaroliju i bonusom veštine.
+Klasa težine (DC) za spasilačko bacanje određuje se efektom koji ga izaziva. Na primer, DC za spasonosno bacanje dozvoljeno čarolijom određuje se bacačevom sposobnošću za čaroliju i bonusom veštine.
 
-Rezultat uspešnog ili neuspešnog bacanja je takođe detaljno opisan u efektu koji omogućava spremanje. Obično, uspešno spasavanje znači da stvorenje ne trpi štetu ili smanjuje štetu od efekta.
+Rezultat uspešnog ili neuspešnog bacanja je takođe detaljno opisan u efektu koji omogućava spasonosno bacanje. Obično, uspešno spasavanje znači da stvorenje ne trpi štetu ili smanjuje štetu od efekta.
 
 
 # Poglavlje 8: Avantura
 [D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/adventuring)
 
-Udubljujući se u drevnu Grobnicu užasa, provlačeći se kroz uličice Vaterdeep-a, probijajući svež put kroz guste džungle na ostrvu Dread - od ovih stvari su napravljene avanture Dungeons & Dragons. Vaš lik u igri mogao bi istražiti zaboravljene ruševine i neistražene zemlje, otkriti tamne tajne i zlokobne zavere i ubiti gnusna čudovišta. A ako sve ide u redu, vaš lik će preživeti i zahtevati bogate nagrade pre nego što  krene u novu avanturu.
+Udubljujući se u drevnu Grobnicu užasa, provlačeći se kroz uličice Voterdipa, probijajući svež put kroz guste džungle na ostrvu Dred - od ovih stvari su napravljene avanture Dungeons & Dragons. Vaš lik u igri mogao bi istražiti zaboravljene ruševine i neistražene zemlje, otkriti tamne tajne i zlokobne zavere i ubiti gnusna čudovišta. A ako sve ide u redu, vaš lik će preživeti i dobiti bogate nagrade pre nego što krene u novu avanturu.
 
-Ovo poglavlje pokriva osnove avanturističkog života, od mehanike kretanja do složenosti socijalne interakcije. Pravila za odmor su takođe u ovom poglavlju, zajedno sa raspravom o aktivnostima koje bi vaš lik mogao da vodi između avantura.
+Ovo poglavlje pokriva osnove avanturističkog života, od mehanike kretanja do složenosti socijalne interakcije. Pravila za odmor su takođe u ovom poglavlju, zajedno sa raspravom o aktivnostima koje bi vaš lik mogao da ima između avantura.
 
 Bez obzira da li avanturisti istražuju prašnjavu tamnicu ili složene odnose kraljevskog dvora, igra prati prirodni ritam, kako je navedeno u uvodu knjige:
 
@@ -707,23 +657,22 @@ Tipično, DM koristi mapu kao obris avanture, prateći napredak likova dok istr
 
 ## Vreme
 
-U situacijama kada je praćenje protoka vremena važno, DM određuje vreme koje zadatak zahteva. DM može koristiti drugu vremensku skalu u zavisnosti od konteksta trenutne situacije. U tamnici se kretanje avanturista dešava u razmeri od nekoliko **minuta**. Treba im otprilike minut da se spuze dugačak hodnik, još minut da proverim da li ima zamki na vratima na kraju hodnika i dobrih deset minuta da u komori potražimo bilo šta zanimljivo ili vredno.
+U situacijama kada je praćenje protoka vremena važno, DM određuje vreme koje zadatak zahteva. DM može koristiti drugu vremensku skalu u zavisnosti od konteksta trenutne situacije. U tamnici se kretanje avanturista dešava u razmeri od nekoliko **minuta**. Treba im otprilike minut da se izpuze dugačak hodnik, još minut da proverim da li ima zamki na vratima na kraju hodnika i dobrih deset minuta da u dvorani potražime bilo šta zanimljivo ili vredno.
 
 U gradu ili divljini često je primerenija skala **sati**. Avanturisti željni da dođu do usamljenog tornja u srcu šume žure preko tih petnaest milja za nešto manje od četiri sata.
 
-Za duga putovanja, skala **dana** najbolje funkcioniše. Prateći put od Baldurovih kapija do Vaterdeep-a, avanturisti provode četiri neprekidna dana pre nego što im zaseda goblina prekine put.
+Za duga putovanja, skala **dana** najbolje funkcioniše. Prateći put od Baldurovih kapija do Voterdipa, avanturisti provode četiri neprekidna dana pre nego što im zaseda goblina prekine put.
 
 U borbenim i drugim ubrzanim situacijama, igra se oslanja na runde, raspon od 6 sekundi opisan u poglavlju 9.
 
 
 ## Kretanje 
 
-Plivanje preko nabujale reke, šuljanje podzemnim hodnikom, skaliranje izdajničke padine planine - sve vrste pokreta igraju ključnu ulogu u D&D avanturama.
+Plivanje preko nabujale reke, šunjanje podzemnim hodnikom, penjanje opasnom padinom planine - sve vrste pokreta igraju ključnu ulogu u D&D avanturama.
 
-DM može da rezimira kretanje avanturista bez izračunavanja tačne udaljenosti ili vremena putovanja: „Putujete kroz šumu i ulaz u tamnicu pronalazite kasno uveče trećeg dana.“ Čak i u tamnici, posebno u velikoj tamnici ili u pećinskoj mreži, DM može rezimirati kretanje između susreta: „Nakon što ubijete čuvara na ulazu u drevno utvrđenje patuljaka, potražite svoju mapu koja vas vodi kroz milje odjeka hodnike do ponora premošćenog uskim kamenim lukom “.
+DM može da rezimira kretanje avanturista bez izračunavanja tačne udaljenosti ili vremena putovanja: „Putujete kroz šumu i ulaz u tamnicu pronalazite kasno uveče trećeg dana.“ Čak i u tamnici, posebno u velikoj tamnici ili u pećinskoj mreži, DM može rezimirati kretanje između susreta: „Nakon što ubijete čuvara na ulazu u drevno utvrđenje patuljaka, provjeravate svoju mapu koja vas vodi kroz milje odjekujućih hodnika do ponora premošćenog uskim kamenim lukom“.
 
 Ponekad je, međutim, važno znati koliko je vremena potrebno za prelazak sa jednog mesta na drugo, bez obzira da li je odgovor u danima, satima ili minutima. Pravila za određivanje vremena putovanja zavise od dva faktora: brzine i tempa putovanja stvorenja koja se kreću i terena kojim se kreću.
-
 
 ### Brzina
 
@@ -731,22 +680,19 @@ Svaki lik i čudovište ima brzinu, što je udaljenost u stopama koju lik ili č
 
 Sledeća pravila određuju dokle se lik ili čudovište mogu pomeriti za minut, sat ili dan.
 
-
 #### Tempo putovanja
 
-Tokom putovanja, grupa avanturista može da se kreće normalnim, brzim ili sporim tempom, kao što je prikazano na tabeli Travel Pace. Tabela navodi koliko se stranka može pomeriti u određenom vremenskom periodu i da li tempo ima bilo kakvog efekta. Brzi tempo čini likove manje uočljivim, dok polagani tempo omogućava prikradanje i pažljivije pretraživanje područja (za više informacija pogledajte odeljak „Aktivnost tokom putovanja“ kasnije u ovom poglavlju).
+Tokom putovanja, grupa avanturista može da se kreće normalnim, brzim ili sporim tempom, kao što je prikazano u tabeli Tempo putovanja. Tabela navodi koliko se družina može pomeriti u određenom vremenskom periodu i da li tempo ima bilo kakvog efekta. Brzi tempo čini likove manje opažljivim, dok polagani tempo omogućava prikradanje i pažljivije pretraživanje područja (za više informacija pogledajte odeljak „Aktivnost tokom putovanja“ kasnije u ovom poglavlju).
 
-**Prinudni marš**. Tabela Travel Pace pretpostavlja da likovi putuju 8 sati dnevno. Oni mogu nastaviti dalje od te granice, rizikujući iscrpljenost.
+**Prinudni marš**. Tabela Tempo putovanja pretpostavlja da likovi putuju 8 sati dnevno. Oni mogu nastaviti dalje od te granice, rizikujući iscrpljenost.
 
-Za svaki dodatni sat putovanja duže od 8 sati, likovi prelaze udaljenost prikazanu u koloni Sat za svoj tempo, a svaki lik mora da napravi
+Za svaki dodatni sat putovanja duže od 8 sati, likovi prelaze udaljenost prikazanu u koloni Sat za svoj tempo, a svaki lik mora da napravi spasonosno bacanje na kraju sata. DC je 10 + 1 za svaki sat u poslednjih 8 sati. Pri neuspelom spasilačkom bacanju, lik je iscrpljen za jedan nivo ~~(vidi dodatak A)~~.
 
-Spasonosno bacanje na kraju sata. DC je 10 + 1 za svaki sat u poslednjih 8 sati. Pri neuspelom spasilačkom bacanju, lik je iscrpljen za jedan nivo (vidi dodatak A).
+**Nosači i vozila**. Kratko vreme (do sat vremena), mnoge životinje se kreću mnogo brže od humanoida. Lik koji jaše može da galopira oko sat vremena, prelazeći dvostruko više od uobičajene udaljenosti za brzi tempo. Ako su sveži nosači dostupni na svakih 8 do 10 milja, likovi mogu preći veće razdaljine ovim tempom, ali to je vrlo retko, osim u gusto naseljenim oblastima.
 
-**Nosači i vozila**. Kratko vreme (do sat vremena), mnoge životinje se kreću mnogo brže od humanoida. Montirani lik može da vozi u galopu oko sat vremena, prelazeći dvostruko više od uobičajene udaljenosti za brzi tempo. Ako su sveži nosači dostupni na svakih 8 do 10 milja, znakovi mogu preći veće razdaljine ovim tempom, ali to je vrlo retko, osim u gusto naseljenim oblastima.
+Likovi u vagonima, kočijama ili drugim kopnenim vozilima odabiru tempo kao normalan. Likovi u brodu koji se prevozi vodom ograničeni su na brzinu plovila (vidi poglavlje 5) i ne trpe kazne za brzi tempo niti ostvaruju korist od sporog tempa. U zavisnosti od plovila i veličine posade, brodovi bi mogli da putuju do 24 sata dnevno.
 
-Likovi u vagonima, kočijama ili drugim kopnenim vozilima odabiru tempo kao i obično. Znakovi u brodu koji se prevozi vodom ograničeni su na brzinu plovila (vidi poglavlje 5) i ne trpe kazne za brzi tempo niti ostvaruju korist od sporog tempa. U zavisnosti od plovila i veličine posade, brodovi bi mogli da putuju do 24 sata dnevno.
-
-Određeni specijalni nosači, kao što su pegaz ili beloglavi kamen, ili posebna vozila, poput letećeg tepiha, omogućavaju vam brže putovanje. Vodič za tamnice sadrži više informacija o posebnim metodama putovanja.
+Određeni specijalni nosači, kao što su pegaz ili grifon, ili posebna vozila, poput letećeg tepiha, omogućavaju vam brže putovanje. Vodič za gospodare tamnica sadrži više informacija o posebnim metodama putovanja.
 
 **Tempo putovanja**
 
@@ -774,7 +720,19 @@ Distanca pređena za...
       </td>
       <td>30 milja
       </td>
-      <td>−5 kazna za pasivne mudrosti (percepcije)
+      <td>−5 kazna za pasivne Mudrosti (Percepcije)
+      </td>
+   </tr>
+    <tr>
+      <td>Normalan
+      </td>
+      <td>300 stopa
+      </td>
+      <td>3 milje
+      </td>
+      <td>24 milje
+      </td>
+      <td>−
       </td>
    </tr>
    <tr>
@@ -791,158 +749,139 @@ Distanca pređena za...
    </tr>
 </table>
 
-
-
 #### Težak teren
 
-Brzine putovanja date u tabeli Travel Pace pretpostavljaju relativno jednostavan teren: putevi, otvorene ravnice ili čisti džonski hodnici. Ali avanturisti se često suočavaju sa gustim šumama, dubokim močvarama, ruševinama ispunjenim ruševinama, strmim planinama i tlom prekrivenim ledom - što se smatra teškim terenom.
+Brzine putovanja date u tabeli Tempo putovnja pretpostavljaju relativno jednostavan teren: putevi, otvorene ravnice ili čisti hodnici katakombi. Ali avanturisti se često suočavaju sa gustim šumama, dubokim močvarama, ruševinama ispunjenim šutom, strmim planinama i tlom prekrivenim ledom - što se smatra teškim terenom.
 
-Krećete se sa pola brzine po teškom terenu - pomeranje jedne noge po teškom terenu košta 2 metra brzine - tako da za minut, sat ili dan možete preći samo polovinu normalne udaljenosti.
+Krećete se sa pola brzine po teškom terenu - pomeranje jedne stope po teškom terenu košta 2 stope brzine - tako da za minut, sat ili dan možete preći samo polovinu normalne udaljenosti.
 
 
 ### Posebne vrste kretanja
 
-Kretanje kroz opasne tamnice ili područja divljine često podrazumeva više od pukog hodanja. Prevoznici će možda morati da se penju, puze, plivaju ili skaču kako bi stigli tamo gde trebaju.
-
+Kretanje kroz opasne tamnice ili područja divljine često podrazumeva više od pukog hodanja. Avanturisti će možda morati da se penju, puze, plivaju ili skaču kako bi stigli tamo gde trebaju.
 
 #### Penjanje, plivanje i puzanje
 
-Svaka noga pokreta košta 1 dodatnu nogu (2 dodatne noge na teškom terenu) kada se penjete, plivate ili puzeći. Ovaj dodatni trošak zanemarujete ako imate brzinu penjanja i koristite je za penjanje ili brzinu plivanja i koristite je za plivanje. Prema opciji DM-a, penjanje na klizavu vertikalnu površinu ili onu sa nekoliko rukohvata zahteva uspešnu proveru snage (atletika). Slično tome, postizanje bilo kakvog distanciranja u surovoj vodi moglo bi zahtevati uspešnu proveru snage (atletika).
-
+Svaka stopa pokreta košta 1 dodatnu stopu (2 dodatne stope na teškom terenu) kada se penjete, plivate ili puzite. Ovaj dodatni trošak zanemarujete ako imate brzinu penjanja i koristite je za penjanje ili brzinu plivanja i koristite je za plivanje. Prema opciji DM-a, penjanje na klizavu vertikalnu površinu ili onu sa nekoliko rukohvata zahteva uspešnu proveru Snage (Atletika). Slično tome, postizanje bilo kakve distance u bujaloj vodi moglo bi zahtevati uspešnu proveru Snage (Atletika).
 
 #### Skakanje
 
 Vaša snaga određuje koliko daleko možete da skočite.
 
-**Skok u dal**j. Kada napravite skok u dalj, pokrivate određeni broj stopa do vašeg rezultata snage ako se neposredno pre skoka pomerite najmanje 10 stopa pešice. Kada skočite u dalj iz mesta, možete preskočiti samo polovinu te udaljenosti. U svakom slučaju, svaka noga koju raščistite na skoku košta nogu pokreta.
+**Skok u dalj**. Kada napravite skok u dalj, prelazite broj stopa do koji je jednak vašoj ocijeni snage ako se neposredno pre skoka pomerite najmanje 10 stopa pešice. Kada skočite u dalj iz mesta, možete preskočiti samo polovinu te udaljenosti. U svakom slučaju, svaka stopa koju pređete skokom košta stopu pokreta.
 
-Ovo pravilo pretpostavlja da visina vašeg skoka nije bitna, na primer skok preko potoka ili provalije. Po izboru DM-a morate uspeti na proveri snage 10 DC (atletika) da biste uklonili nisku prepreku (ne veću od četvrtine udaljenosti skoka), poput žive ograde ili niskog zida. U suprotnom, pogađaš.
+Ovo pravilo pretpostavlja da visina vašeg skoka nije bitna, na primer skok preko potoka ili provalije. Po izboru DM-a morate uspeti na proveri snage 10 DC (atletika) da biste uklonili nisku prepreku (ne veću od četvrtine udaljenosti skoka), poput žive ograde ili niskog zida. U suprotnom, udaraš u istu.
 
-Kada sletite na težak teren, morate uspeti na proveri spretnosti DC 10 (akrobacije) da biste sleteli na noge. U suprotnom, sletećete skloni.
+Kada se dočekujete na težak teren, morate uspeti na proveri spretnosti DC 10 (akrobacije) da biste se dočekali na noge. U suprotnom, pašćete u ležeći položaj.
 
-**Skok uvis**. Kada skočite u vis, skočite u vazduh broj stopa jednak 3 + vaš modifikator snage (najmanje 0 stopa) ako se neposredno pre skoka pomerite najmanje 10 stopa pešice. Kada napravite skok u vis stojeći, možete preskočiti samo pola te udaljenosti. U svakom slučaju, svaka noga koju raščistite na skoku košta nogu pokreta. U nekim okolnostima vam DM može dozvoliti da izvršite proveru snage (Atletika) da biste skočili više nego što to obično možete.
+**Skok uvis**. Kada skočite u vis, skočite u vazduh broj stopa jednak 3 + vaš modifikator snage (najmanje 0 stopa) ako se neposredno pre skoka pomerite najmanje 10 stopa pešice. Kada napravite skok u vis stojeći, možete preskočiti samo pola te udaljenosti. U svakom slučaju, svaka stopa koju pređete na skoku košta stopu pokreta. U nekim okolnostima vam DM može dozvoliti da izvršite proveru Snage (Atletika) da biste skočili više nego što to obično možete.
 
 Tokom skoka možete ispružiti ruke za pola visine iznad sebe. Dakle, iznad sebe možete dostići udaljenost jednaku visini skoka plus 1½ puta veću od vaše visine.
 
 
 ### Aktivnost tokom putovanja
 
-Dok avanturisti putuju kroz tamnicu ili divljinu, oni moraju da budu oprezni zbog opasnosti, a neki likovi mogu obavljati druge zadatke kako bi pomogli putovanju grupe.
+Dok avanturisti putuju kroz katakombe ili divljinu, oni moraju da budu oprezni zbog opasnosti, a neki likovi mogu obavljati druge zadatke kako bi pomogli putovanju grupe.
 
+#### Redosled Kretanja
 
-#### Marširanje
+Avanturisti treba da uspostave redosled kretanja. Redosled kretanja olakšava utvrđivanje na koje likove zamke utiču, koji mogu uočiti skrivene neprijatelje i koji su najbliži tim neprijateljima kada izbije borba.
 
-Avanturisti treba da uspostave red za marširanje. Naredba za marširanje olakšava utvrđivanje na koje likove zamke utiču, koji mogu uočiti skrivene neprijatelje i koji su najbliži tim neprijateljima kada izbije borba.
+Lik može zauzeti prednji, jedan ili više srednjih ili zadnji red. Likovima u prednjem i zadnjem redu treba dovoljno prostora da putuju rame uz rame sa drugima u njihovom redu. Kada je prostora suviše malo, redosled kretanja mora se promeniti, obično pomeranjem likova u srednji red.
 
-Lik može zauzeti prednji, jedan ili više srednjih ili zadnji nivo. Likovima u prednjem i zadnjem redu treba dovoljno prostora da putuju rame uz rame sa drugima u njihovom rangu. Kada je prostora suviše malo, redosled marširanja mora se promeniti, obično pomeranjem karaktera u srednji rang.
-
-Manje od tri ranga. Ako avanturistička stranka svoj marš poredak rasporedi sa samo dva ranga, to su prednji i zadnji čin. Ako postoji samo jedan čin, smatra se prednjim činom.
-
+**Manje od tri reda**. Ako avanturistička družina svoj poredak kretanja rasporedi sa samo dva reda, to su prednji i zadnji red. Ako postoji samo jedan red, smatra se prednjim redom.
 
 #### Šunjanje 
 
-Dok putuju laganim tempom, likovi se mogu kradom kretati. Sve dok nisu na otvorenom, mogu da pokušaju da iznenade ili se prikradu drugim bićima s kojima se susreću. Pogledajte pravila za skrivanje u poglavlju 7.
+Dok putuju laganim tempom, likovi se mogu kretati kradom. Sve dok nisu na otvorenom, mogu da pokušaju da iznenade ili se prikradu drugim bićima s kojima se susreću. Pogledajte pravila za skrivanje u poglavlju 7.
 
-**Razdvajanje stranke**
-
-Ponekad ima smisla razdvojiti avanturističku zabavu, posebno ako želite da jedan ili više likova izviđaju unapred. Možete da formirate više stranaka, svaka se kreće različitom brzinom. Svaka grupa ima svoje prednje, srednje i zadnje redove.
-
-Nedostatak ovog pristupa je taj što će stranka biti podeljena na nekoliko manjih grupa u slučaju napada. Prednost je u tome što bi mala grupa prikrivenih likova koji se polako kreću možda mogla da se provuče pored neprijatelja na koje bi nezgrapniji likovi upozorili. Par lupeža koji se kreću usporenim tempom mnogo je teže otkriti kada za sobom ostave svog prijatelja patuljka borca.
-
+>**Razdvajanje družine**
+>
+>Ponekad ima smisla razdvojiti avanturističku družinu, posebno ako želite da jedan ili više likova izviđaju unapred. Možete da formirate više gtupa, svaka se kreće različitom brzinom. Svaka grupa ima svoje prednje, srednje i zadnje redove.
+>
+>Nedostatak ovog pristupa je taj što će družina biti podeljena na nekoliko manjih grupa u slučaju napada. Prednost je u tome što bi mala grupa prikrivenih likova koji se polako kreću možda mogla da se provuče pored neprijatelja na koje bi nezgrapniji likovi upozorili. Par lupeža koji se kreću usporenim tempom mnogo je teže otkriti kada za sobom ostave svog prijatelja patuljka borca.
 
 #### Primećivanje pretnji
 
-Koristite rezultate pasivne mudrosti (percepcije) da biste utvrdili da li neko iz grupe primećuje skrivenu pretnju. DM može odlučiti da prijetnju mogu primijetiti samo likovi određenog ranga. Na primer, dok likovi istražuju lavirint tunela, DM može odlučiti da samo oni likovi u zadnjem rangu imaju priliku da čuju ili uoče nevidljivu tvorevinu koja prati grupu, dok likovi ispred i u sredini činovi ne mogu.
+Koristite rezultate pasivne Mudrosti (Percepcije) da biste utvrdili da li neko iz grupe primećuje skrivenu pretnju. DM može odlučiti da prijetnju mogu primijetiti samo likovi određenog reda. Na primer, dok likovi istražuju lavirint tunela, DM može odlučiti da samo oni likovi u zadnjem redu imaju priliku da čuju ili uoče nevidljivo stvorenje koja prati grupu, dok likovi u prvom i srednjem redu ne mogu.
 
-Dok putuju brzim tempom, likovi izvode kaznu –5 ka pasivnim rezultatima Mudrosti (Percepcije) da bi primetili skrivene pretnje.
+Dok putuju brzim tempom, likovi imaju kaznu –5 ka pasivnim rezultatima Mudrosti (Percepcije) da bi primetili skrivene pretnje.
 
-Susret sa stvorenjima. Ako DM utvrdi da avanturisti nailaze na druga stvorenja dok putuju, na obe grupe je da odluče šta će se dalje dogoditi. Svaka grupa može odlučiti da napadne, započne razgovor, pobegne ili sačeka da vidi šta druga grupa radi.
+**Susret sa stvorenjima**. Ako DM utvrdi da avanturisti nailaze na druga stvorenja dok putuju, na obe grupe je da odluče šta će se dalje dogoditi. Svaka grupa može odlučiti da napadne, započne razgovor, pobegne ili sačeka da vidi šta druga grupa radi.
 
-Iznenađujući neprijatelji. Ako avanturisti naiđu na neprijateljsko stvorenje ili grupu, DM utvrđuje da li bi adverner ili njihovi neprijatelji mogli biti iznenađeni kada izbije borba. Pogledajte poglavlje 9 za više informacija o iznenađenju.
-
+**Iznenađujući neprijatelji**. Ako avanturisti naiđu na neprijateljsko stvorenje ili grupu, DM utvrđuje da li bi avanturisti ili njihovi neprijatelji mogli biti iznenađeni kada izbije borba. Pogledajte poglavlje 9 za više informacija o iznenađenju.
 
 #### Ostale aktivnosti
 
-Likovi koji svoju pažnju usmeravaju na druge zadatke tokom grupnog putovanja nisu usredsređeni na posmatranje opasnosti.
+Likovi koji svoju pažnju usmeravaju na druge zadatke tokom grupnog putovanja nisu usredsređeni na posmatranje opasnosti. Ovi likovi ne doprinose svojim pasivnim rezultatima Mudrosti (Percepcije) šansi grupe da primeti skrivene pretnje. Međutim, lik koji ne pazi na opasnost umesto toga može da obavlja jednu od sledećih aktivnosti ili neku drugu aktivnost uz dozvolu DM-a.
 
-Ovi likovi ne doprinose svojim pasivnim rezultatima Mudrosti (Percepcije) šansi grupe da primeti skrivene pretnje. Međutim, lik koji ne pazi na opasnost umesto toga može da obavlja jednu od sledećih aktivnosti ili neku drugu aktivnost uz dozvolu DM-a.
+**Navigacija**. Lik može pokušati da spreči da se grupa izgubi, provodeći proveru Mudrosti (Preživljavanja) kada je DM zahteva. (Vodič za Gospodare Tamnice sadrži pravila koja određuju da li će se grupa izgubiti.)
 
-**Navigacija**. Lik može pokušati da spreči da se grupa izgubi, provodeći proveru mudrosti (preživljavanja) kada je DM zahteva. (Vodič za majstore tamnica sadrži pravila koja određuju da li će se grupa izgubiti.)
+**Crtanje mape**. Lik može da crta mapu koja beleži napredak grupe i pomaže likovima da se vrate na pravi put ako se izgube. Nije potrebna provjera sposobnosti.
 
-**Nacrtajte mapu**. Lik može da nacrta mapu koja beleži napredak grupe i pomaže likovima da se vrate na kurs ako se izgube. Nema provere sposobnosti je potrebno.
+**Prati**. Lik može pratiti tragove drugog stvorenja, praveći Mudrost (Preživljavanje) provjeru kada DM to zatraži. (Vodič za Gospodara Tamnice ima pravila za praćenje.)
 
-**Prati**. Lik može pratiti tragove drugog stvorenja, praveći mudrost (preživljavanje) kada DM traži to. (Vodič za Dungeon Master ima pravila za praćenje.)
+**Traganje za hranom**. Lik može motriti za gotove izvore hrane i vode, praveći Mudrost (Preživljavanje) kada DM traži to. (Vodič za Gospodara Tamnice sadrži pravila za ishranu.)
 
-**Traganje za hranom**. Lik može pripaziti na gotove izvore hrane i vode, praveći Mudrost (Preživljavanje) kada DM traži to. (Vodič za majstore tamnica sadrži pravila za ishranu.)
 
+## Okruženje
+
+Po svojoj prirodi avantura podrazumeva zalaženje u mesta koja su mračna, opasna i puna misterija koje treba istražiti. Pravila u ovom odeljku pokrivaju neke od najvažnijih načina na koje avanturisti komuniciraju sa okolinom na takvim mestima.
 
 ### Padanje
 
-Pad sa velike visine jedna je od najčešćih opasnosti suočenih sa avanturistom.
-
-Na kraju pada, stvorenje nanosi 1d6 oštećenja udaranjem za svakih 10 stopa koje je palo, do maksimalno 20d6.
-
-Stvorenje sleti sklono, osim ako ne izbegne da pretrpi štetu od pada.
-
+Pad sa velike visine jedna je od najčešćih opasnosti sa kojom se avanturisti sreću. Na kraju pada, stvorenje prima 1d6 oštećenja udaranjem za svakih 10 stopa koje je palo, do maksimalno 20d6. Stvorenje sleti sklono, osim ako ne izbegne da pretrpi štetu od pada.
 
 ### Gušenje
 
 Stvorenje može da zadrži dah nekoliko minuta jednako 1 + njegovom modifikatoru Građe (najmanje 30 sekundi).
 
-Kada stvorenju ostane bez daha ili se guši, može preživeti nekoliko rundi jednakih njegovom modifikatoru konstitucije (najmanje 1 runda). Na početku svog sledećeg zavoja pada na 0 pogodaka i umire i ne može ponovo da osvoji poene ili da se stabilizuje dok ponovo ne može da diše.
+Kada stvorenje ostane bez daha ili se guši, može preživeti onoliko rundi koliko je njegov modifikator građe (najmanje 1 runda). Na početku svog sledećeg kruga pada na 0 pogodaka i umire i ne može ponovo da osvoji životne bodove ili da se stabilizuje dok ponovo ne može da diše.
 
-Na primer, stvorenje sa Građom od 14 može da zadrži dah 3 minuta. Ako počne da se guši, ima 2 runde da dostigne vazduh pre nego što padne na 0 pogodaka.
-
+Na primer, stvorenje sa Građom od 14 može da zadrži dah 3 minuta. Ako počne da se guši, ima 2 runde da dođe do vazduha pre nego što padne na 0 pogodaka.
 
 ### Vid i Svetlost
 
-Najosnovniji zadaci avanture - uočavanje opasnosti, pronalaženje skrivenih predmeta, udaranje neprijatelja u borbi i ciljanje uroka, da nabrojimo samo neke - u velikoj meri se oslanjaju na sposobnost lika da vidi. Tama i drugi efekti koji prikrivaju vid mogu biti značajna smetnja.
+Najosnovniji zadaci avanture - uočavanje opasnosti, pronalaženje skrivenih predmeta, udaranje neprijatelja u borbi i ciljanje čarolija, da nabrojimo samo neke - u velikoj meri se oslanjaju na sposobnost lika da vidi. Tama i drugi efekti koji prikrivaju vid mogu biti značajna smetnja.
 
-Dano područje može biti lagano ili jako zaklonjeno. U **slabo zatamnjenom** području, poput prigušenog svetla, mestimične magle ili umerenog lišća, stvorenja imaju nedostatak u proverama mudrosti (percepcije) koje se oslanjaju na vid.
+Dato područje može biti slabo ili jako zatamljeno. U **slabo zatamljenom** području, poput prigušenog svetla, mestimične magle ili umerenog lišća, stvorenja imaju nedostatak u proverama Mudrosti (Percepcije) koje se oslanjaju na vid.
 
-**Jako zaklonjeno područje** - poput mraka, neprozirne magle ili gustog lišća - u potpunosti blokira vid. Stvorenje efektivno pati od zaslepljenog stanja (vidi dodatak A) kada pokušavate da vidite nešto u tom području.
+**Jako zaklonjeno** područje - poput mraka, neprozirne magle ili gustog lišća - u potpunosti blokira vid. Stvorenje efektivno pati od zaslepljenog stanja ~~(vidi dodatak A)~~ kada pokušavate da vidite nešto u tom području.
 
 Prisustvo ili odsustvo svetlosti u okruženju stvara tri kategorije osvetljenosti: jako svetlo, prigušeno svetlo i mrak.
 
 **Jaka svetlost** omogućava većini stvorenja da normalno vide. Čak i tmurni dani pružaju jarku svetlost, kao i baklje, lampioni, vatre i drugi izvori osvetljenja u određenom radijusu.
 
-**Prigušena svetlost**, koja se naziva i senkom, stvara slabo zaklonjeno područje. Oblast prigušenog svetla obično je granica između izvora jake svetlosti, poput baklje, i okoline tame. Meko svetlo sumraka i zore takođe se računa kao prigušeno svetlo. Naročito sjajan pun mesec mogao bi zemlju okupati pri slabom svetlu.
+**Prigušena svetlost**, koja se naziva i senkom, stvara slabo zaklonjeno područje. Oblast prigušenog svetla obično je granica između izvora jake svetlosti, poput baklje, i okolne tame. Meko svetlo sumraka i zore takođe se računa kao prigušeno svetlo. Naročito sjajan pun mesec mogao bi zemlju okupati slabim svetlom.
 
 **Tama** stvara jako zatamnjeno područje. Likovi se noću suočavaju s mrakom na otvorenom (čak i sa većinom mesečevih noći), u granicama neosvetljene tamnice ili podzemnog svoda, ili u području magične tame.
 
-
 #### Slijepilo 
 
-Biće sa slepim vidom može da opazi svoju okolinu bez oslanjanja na vid, u određenom radijusu. Stvorenja bez očiju, kao što su curenja, i bića sa eholokacijom ili pojačanim čulima, poput slepih miševa i pravih zmajeva, imaju taj osećaj.
-
+Biće sa slepim vidom može da opazi svoju okolinu bez oslanjanja na vid, u određenom radijusu. Stvorenja bez očiju, kao što su izlučevine, i bića sa eholokacijom ili pojačanim čulima, poput slepih miševa i pravih zmajeva, imaju taj osećaj.
 
 #### Gledanje u mraku 
 
-Mnoga stvorenja u svetu D&D-a, posebno ona koja žive pod zemljom, imaju tamni vid. Unutar određenog opsega, stvorenje sa tamnim vidom može videti pri slaboj svetlosti kao da je jarka svetlost, a u tami kao da je prigušena svetlost, tako da su područja tame samo blago zaklonjena što se tiče tog stvorenja. Međutim, stvorenje ne može da razazna boju u mraku, već samo sive nijanse.
-
+Mnoga stvorenja u svetu D&D-a, posebno ona koja žive pod zemljom, imaju noćni vid. Unutar određenog opsega, stvorenje sa noćnim vidom može videti pri slaboj svetlosti kao da je jarka svetlost, a u tami kao da je prigušena svetlost, tako da su područja tame samo blago zaklonjena što se tiče tog stvorenja. Međutim, stvorenje ne može da razazna boju u mraku, već samo sive nijanse.
 
 #### Istinski vid
 
-Biće sa istinskim vidom može, u određenom opsegu, da vidi u normalnom i magičnom mraku, vidi nevidljiva bića i predmete, automatski detektuje vizuelne iluzije i uspeva u spašavanju bacanja protiv njih, i uoči originalni oblik promenjivača oblika ili bića koja se preobražava magijom. Dalje, stvorenje može videti u Eteričnu ravan.
+Biće sa istinskim vidom može, u određenom opsegu, da vidi u normalnom i magičnom mraku, vidi nevidljiva bića i predmete, automatski detektuje vizuelne iluzije i uspeva u bacanju spasa protiv njih, i uoči originalni oblik promenjivača oblika ili bića koja se preobražavaju magijom. Dalje, stvorenje može videti u Eteričnu ravan.
 
 
 ### Hrana i voda
 
-Likovi koji ne jedu i ne piju trpe posledice iscrpljenosti (vidi dodatak A). Iscrpljenost uzrokovana nedostatkom hrane ili vode ne može se ukloniti dok lik ne pojede i popije punu potrebnu količinu.
-
+Likovi koji ne jedu i ne piju trpe posledice iscrpljenosti ~~(vidi dodatak A)~~. Iscrpljenost uzrokovana nedostatkom hrane ili vode ne može se ukloniti dok lik ne pojede i popije punu potrebnu količinu.
 
 #### Hrana
 
-Liku je potreban jedan kilogram hrane dnevno i može učiniti da hrana duže traje izdržavanjem na pola obroka. Jedenje pola kilograma hrane dnevno računa se kao pola dana bez hrane.
+Liku je potreban jedan kilogram hrane dnevno i može učiniti da hrana duže traje izdržavanjem na pola obroka. Jedenje pola funte hrane dnevno računa se kao pola dana bez hrane.
 
-Lik može ostati bez hrane tokom nekoliko dana jednakih 3 + njegovog ili njenog modifikatora građe (najmanje 1). Na kraju svakog dana preko te granice, lik automatski pati od jednog nivoa iscrpljenosti.
-
-Uobičajeni dan jedenja resetuje broj dana bez hrane na nulu.
-
+Lik može ostati bez hrane tokom nekoliko dana jednakih 3 + njegovog ili njenog modifikatora Građe (najmanje 1). Na kraju svakog dana preko te granice, lik automatski pati od jednog nivoa iscrpljenosti. Uobičajeni dan jedenja resetuje broj dana bez hrane na nulu.
 
 #### Voda
 
-Liku je potreban jedan galon vode dnevno ili dva galona dnevno ako je vruće vreme. Lik koji popije samo upola manje vode mora uspeti na uštedi građe DC 15 ili pretrpeti jedan nivo iscrpljenosti na kraju dana. Lik sa pristupom još manje vode automatski pati od jednog nivoa iscrpljenosti na kraju dana.
+Liku je potreban jedan galon vode dnevno ili dva galona dnevno ako je vruće vreme. Lik koji popije samo upola manje vode mora uspeti na spasonosnom bacanju građe DC 15 ili pretrpeti jedan nivo iscrpljenosti na kraju dana. Lik sa pristupom još manje vode automatski pati od jednog nivoa iscrpljenosti na kraju dana.
 
 Ako lik već ima jedan ili više nivoa iscrpljenosti, lik zauzima dva nivoa u oba slučaja.
 
@@ -951,9 +890,9 @@ Ako lik već ima jedan ili više nivoa iscrpljenosti, lik zauzima dva nivoa u o
 
 Interakciju lika sa objektima u okruženju često je jednostavno rešiti u igri. Igrač kaže DM-u da njegov ili njen lik nešto takvo radi kao pomeranje ručice, a DM opisuje šta se, ako išta, dešava.
 
-Na primer, lik može odlučiti da povuče polugu, koja bi zauzvrat mogla podići luku, izazvati poplavu sobe vodom ili otvoriti tajna vrata u obližnjem zidu. Ako je poluga zarđala u položaju, možda će neki lik morati da je prisili. U takvoj situaciji, DM može nazvati za proveru Snage da biste videli da li lik može da zavrne polugu na svoje mesto. DM postavlja DC za bilo koju takvu proveru na osnovu težine zadatka.
+Na primer, lik može odlučiti da povuče polugu, koja bi zauzvrat mogla podići rešetku, izazvati poplavu sobe vodom ili otvoriti tajna vrata u obližnjem zidu. Ako je poluga zarđala u položaju, možda će neki lik morati da je prisili. U takvoj situaciji, DM može tražiti proveru Snage da biste videli da li lik može da pomjeri polugu na svoje mesto. DM postavlja DC za bilo koju takvu proveru na osnovu težine zadatka.
 
-Likovi takođe mogu oštetiti predmete svojim naoružanjem i čarolijama. Predmeti su imuni na otrov i psihičku štetu, ali u suprotnom na njih mogu uticati fizički i magični napadi poput bića. DM određuje klasu oklopa objekta i pogodake i može odlučiti da određeni objekti imaju otpor ili imunitet na određene vrste napada. (Na primer, teško je preseći konop palicom.) Predmeti uvek ne uspevaju Ubacivanje snage i spretnosti, a oni su imun na efekte koji zahtevaju druge uštede. Kada objekat padne na 0 pogodaka, on se lomi.
+Likovi takođe mogu oštetiti predmete svojim oružijem i čarolijama. Predmeti su imuni na otrov i psihičku štetu, ali u suprotnom na njih mogu uticati fizički i magični napadi poput bića. DM određuje klasu oklopa objekta i pogodake i može odlučiti da određeni objekti imaju otpor ili imunitet na određene vrste napada. (Na primer, teško je preseći konop palicom.) Predmeti uvek ne uspevaju u bacanju spasa snage i spretnosti, a oni su imuni na efekte koji zahtevaju druga spasavanja. Kada objekat padne na 0 pogodaka, on se lomi.
 
 Lik takođe može da pokuša proveru snage da slomi objekat. DM postavlja DC za bilo koju takvu proveru.
 
@@ -962,12 +901,11 @@ Lik takođe može da pokuša proveru snage da slomi objekat. DM postavlja DC za 
 
 Istraživanje tamnica, prevazilaženje prepreka i ubijanje čudovišta su ključni delovi D&D avantura. Ništa manje važne su, međutim, socijalne interakcije koje avanturisti imaju sa drugim stanovnicima sveta.
 
-Interakcija ima mnogo oblika. Možda ćete trebati da ubedite beskrupuloznog lopova da prizna neku zloupotrebu ili ćete pokušati da dodvorite zmaju tako da vam poštedi život. DM preuzima uloge bilo kojih likova koji učestvuju u interakciji koji ne pripadaju drugom igraču za stolom. Bilo koji takav karakter naziva se ne-igračkim likom (NPC).
+Interakcija ima mnogo oblika. Možda ćete trebati da ubedite beskrupuloznog lopova da prizna neku zloupotrebu ili ćete pokušati da se dodvorite zmaju tako da vam poštedi život. DM preuzima uloge bilo kojih likova koji učestvuju u interakciji koji ne pripadaju drugom igraču za stolom. Bilo koji takav karakter naziva se ne-igračkim likom (NPC).
 
 Generalno, odnos NPC-a prema vama opisan je kao prijateljski, ravnodušan ili neprijateljski raspoložen. Prijateljski NPC su predisponirani da vam pomognu, a neprijateljski nastrojeni da vam stanu na put. Lakše je dobiti ono što želite od prijateljskog NPC-a, naravno.
 
 Socijalne interakcije imaju dva primarna aspekta: igranje uloga i proveru sposobnosti.
-
 
 ### Igranje uloge
 
@@ -977,26 +915,22 @@ Igranje uloga deo je svakog aspekta igre, a dolazi do izražaja tokom socijalnih
 
 Postoje dva stila koja možete koristiti prilikom igranja uloga vašeg lika: opisni pristup i aktivni pristup. Većina igrača koristi kombinaciju dva stila. Koristite onu kombinaciju koja vam najbolje odgovara.
 
-
 #### Opisni pristup igranju uloga
 
 Ovim pristupom opisujete reči i postupke svog lika DM-u i ostalim igračima. Oslanjajući se na svoju mentalnu sliku svog karaktera, svima govorite šta vaš lik radi i kako to radi.
 
-Na primer, Chris glumi patuljka Tordeka. Tordek je brzog karaktera i za patnju svoje porodice krivi vilenjake Cloakvood. U kafani, neprijatni vilenjak minstrel sedi za Tordekovim stolom i pokušava da započne razgovor sa patuljem.
+Na primer, Kris glumi patuljka Tordeka. Tordek je brzog karaktera i za patnju svoje porodice krivi vilenjake Clokvud. U kafani, neprijatni vilenjak guslar sedi za Tordekovim stolom i pokušava da započne razgovor sa patuljkom.
 
-Chris kaže, „Tordek pljune na pod, zareži uvredu na barda i odgazi do šanka. On sedi na stolici i mrko gleda ministra pre nego što naruči još jedno piće. “
+Kris kaže, „Tordek pljune na pod, zareži uvredu na barda i jako zakorača do šanka. On sedi na stolici i mrko gleda guslara pre nego što naruči još jedno piće.“
 
-U ovom primeru, Chris je preneo Tordekovo raspoloženje i dao DM-u jasnu predstavu o stavu i postupcima svog lika.
+U ovom primeru, Kris je preneo Tordekovo raspoloženje i dao DM-u jasnu predstavu o stavu i postupcima svog lika.
 
 Kada koristite opisno igranje uloga, imajte na umu sledeće stvari:
+* Opišite emocije i stav svog lika.
+* Usredsredite se na nameru vašeg lika i na to kako ga drugi mogu videti.
+* Dajte onoliko ukrasa koliko vam odgovara.
 
-• Opišite emocije i stav svog lika.
-
-• Usredsredite se na nameru vašeg lika i na to kako ga drugi mogu videti.
-
-• Osigurajte onoliko ukrasa koliko vam je ugodno.
-
-Ne brinite da li ćete sve ispraviti. Samo se fokusirajte na razmišljanje o tome šta bi vaš lik radio i opisivanje onoga što vidite u svom umu.
+Ne brinite da li ćete sve biti poptuno tačno. Samo se fokusirajte na razmišljanje o tome šta bi vaš lik radio i opisivanje onoga što vidite u svom umu.
 
 
 #### Aktivni pristup igranju uloga
@@ -1005,58 +939,54 @@ Ako opisno igranje uloga kaže vašem DM-u i ostalim igračima šta vaš lik mis
 
 Kada koristite aktivno igranje uloga, govorite glasom svog lika, poput glumca koji preuzima ulogu. Možda čak ponovite pokrete i govor tela vašeg lika. Ovaj pristup je imerzivniji od opisnog igranja uloga, mada i dalje treba da opišete stvari koje se ne mogu razumno odglumiti.
 
-Vraćajući se na primer Chris-ovog igranja uloga Tordeka gore, evo kako bi se mogla odigrati scena ako bi Chris koristio aktivno igranje uloga:
+Vraćajući se na primer Kris-ovog igranja uloga Tordeka gore, evo kako bi se mogla odigrati scena ako bi Chris koristio aktivno igranje uloga:
 
-Govoreći kao Tordek, Chris osornim, dubokim glasom kaže: „Pitao sam se zašto je odjednom ovde odvratno smrdelo. Ako bih želeo da čujem bilo šta od vas, puknuo bih vam po ruci i uživao u vašim vriskovima. " Normalnim glasom, Chris zatim dodaje, „Ustajem, zurim u vilenjaka i krećem prema šanku.“
+Govoreći kao Tordek, Kris grubim, dubokim glasom kaže: „Pitao sam se zašto je odjednom ovde odvratno smrdelo. Ako bih želeo da čujem bilo šta od vas, puknuo bih vam po ruci i uživao u vašim vriskovima." Normalnim glasom, Kris zatim dodaje, „Ustajem, zurim u vilenjaka i krećem prema šanku.“
 
 
 #### Rezultati igranja uloga
 
-DM koristi radnje i stavove vašeg lika da odredi kako NPC reaguje. Kukavni NPC se zakopčava pod pretnjama nasiljem. Tvrdoglavi patuljak odbija da dozvoli bilo kome da je jazava. Tašt zmaj laska lasku.
+DM koristi radnje i stavove vašeg lika da odredi kako NPC reaguje. Kukavni NPC se zakopčava pod pretnjama nasiljem. Tvrdoglavi patuljak odbija da dozvoli bilo kome da ga gnjavi.
 
-Kada komunicirate sa NPC-om, obratite veliku pažnju na prikaz DM-a raspoloženja, dijaloga i ličnosti NPC-a. Možda ćete moći da utvrdite osobine ličnosti, ideale, mane i veze NPC-a, a zatim se poigrajte njima da biste uticali na stav NPC-a.
+Kada komunicirate sa NPC-om, obratite veliku pažnju na prikaz DM-a raspoloženja, dijaloga i ličnosti NPC-a. Možda ćete moći da utvrdite osobine ličnosti, ideale, mane i veze NPC-a, a zatim se poigrate njima da biste uticali na stav NPC-a.
 
-Interakcije u razvoju i razvoju slične su interakcijama u stvarnom životu. Ako NPC-ima možete ponuditi nešto što žele, zapretiti im nečim čega se plaše ili se poigrati njihovim simpatijama i ciljevima, pomoću reči možete dobiti gotovo sve što želite. S druge strane, ako vređate ponosnog ratnika ili loše govorite o plemićkim saveznicima, vaši napori da ubedite ili prevarite neće uspeti.
-
+Interakcije u D&D je sličan razvoju interakcija u stvarnom životu. Ako NPC-ima možete ponuditi nešto što žele, zapretiti im nečim čega se plaše ili se poigrati njihovim simpatijama i ciljevima, pomoću reči možete dobiti gotovo sve što želite. S druge strane, ako vređate ponosnog ratnika ili loše govorite o plemićkim saveznicima, vaši napori da ubedite ili prevarite neće uspeti.
 
 ### Provera sposobnosti
 
-Pored igranja uloga, provere sposobnosti su ključne za određivanje ishoda interakcije.
+Pored igranja uloga, provere sposobnosti su ključne za određivanje ishoda interakcija.
 
 Vaši napori u igranju uloga mogu promeniti stav NPC-a, ali u situaciji ipak može postojati element slučajnosti. Na primer, vaš DM može da pozove na proveru harizme u bilo kom trenutku tokom interakcije ako želi da kockice igraju ulogu u određivanju NPC-ovih reakcija. Druge provere mogu biti prikladne u određenim situacijama, po vašem nahođenju.
 
-Obratite pažnju na svoje veštine kada razmišljate o tome kako želite da komunicirate sa NPC-om i složite špil u svoju korist koristeći pristup koji se oslanja na vaše najbolje bonuse i veštine. Ako grupa treba da prevari stražara da ih pusti u zamak, najbolja opklada da vodi raspravu je lupež koji je vešt u prevari. Kada pregovara o oslobađanju taoca, sveštenik sa Persuasionom treba da održi veći deo razgovora.
+Obratite pažnju na svoje veštine kada razmišljate o tome kako želite da komunicirate sa NPC-om i složite špil u svoju korist koristeći pristup koji se oslanja na vaše najbolje bonuse i veštine. Ako grupa treba da prevari stražara da ih pusti u zamak, najbolja opklada da vodi raspravu je lupež koji je vešt u obmani. Kada pregovara o oslobađanju taoca, sveštenik sa unjeđivanjem treba da održi veći deo razgovora.
 
 
 ## Odmarati se
 
 Iako herojski mogu biti, avanturisti ne mogu provoditi svaki sat u danu u gužvi istraživanja, socijalne interakcije i borbe. Potreban im je odmor - vreme za spavanje i jelo, negovanje rana, osvežavanje uma i duha za čaroliju i priprema za dalju avanturu.
 
-Avanturisti, kao i druga stvorenja, mogu da se odmore usred dana i da se dugo odmore kako bi ga završili.
-
+Avanturisti, kao i druga stvorenja, mogu da se na kratko odmore usred dana i da se dugo odmore kako bi ga završili.
 
 ### Kratak odmor
 
 Kratki odmor je period zastoja, dug najmanje 1 sat, tokom kojeg lik ne radi ništa napornije od jedenja, pijenja, čitanja i nege rana.
 
-Lik može da potroši jednu ili više Hit Dice na kraju kratkog odmora, do maksimalnog broja Hit Dice lika, koji je jednak nivou lika. Za svaki Hit Die utrošen na ovaj način, igrač baca kockicu i dodaje joj modifikator građe lika. Lik vraća pogođene poene jednake ukupnom (najmanje 0). Igrač može da odluči da potroši dodatni Hit Die nakon svakog bacanja. Lik vraća neke potrošene Hit Dice nakon završetka dugog odmora, kao što je objašnjeno u nastavku.
-
+Lik može da potroši jednu ili više Kockica životaS na kraju kratkog odmora, do maksimalnog broja kockica života lika, koji je jednak nivou lika. Za svaku kockicu života utrošenu na ovaj način, igrač baca kockicu i dodaje joj modifikator građe lika. Lik vraća životne bodoves jednake ukupnom zbiru(najmanje 0). Igrač može da odluči da potroši dodatnu kockicu života nakon svakog bacanja. Lik vraća neke potrošene kockice života nakon završetka dugog odmora, kao što je objašnjeno u nastavku.
 
 ### Dug odmor
 
-Dugo odmaranje je period produženog zastoja, dug najmanje 8 sati, tokom kojeg lik spava najmanje 6 sati i izvodi ne više od 2 sata svetlosnog delovanja. kao što su čitanje, razgovor, jelo ili stajanje na satu. Ako je odmor prekinut periodom naporne aktivnosti - najmanje 1 sat hoda, borbe, bačenja ili sličnih avanturističkih aktivnosti - likovi moraju ponovo započeti odmor kako bi od toga stekli bilo kakvu korist.
+Dugo odmaranje je period produženog zastoja, dug najmanje 8 sati, tokom kojeg lik spava najmanje 6 sati i izvodi ne više od 2 sata laganog delovanja. kao što su čitanje, razgovor, jelo ili stajanje na straži. Ako je odmor prekinut periodom naporne aktivnosti - najmanje 1 sat hoda, borbe, bacenja čarolija ili sličnih avanturističkih aktivnosti - likovi moraju ponovo započeti odmor kako bi od toga stekli bilo kakvu korist.
 
-Na kraju dugog odmora, lik vraća sve izgubljene poene. Lik takođe vraća potrošene hit kocke, do broja kockica jednakih polovini ukupnog broja likova (najmanje jedna kocka). Na primer, ako lik ima osam Hit Dice, on ili ona može povratiti četiri potrošene Hit Dice po završetku dugog odmora.
+Na kraju dugog odmora, lik vraća sve izgubljene životne bodove. Lik takođe vraća potrošene kockice života, do broja kockica jednakih polovini ukupnog broja istih (najmanje jedna kocka). Na primer, ako lik ima osam kockica života, on ili ona može povratiti četiri potrošene kockice života po završetku dugog odmora.
 
-Lik ne može imati koristi od više od jednog dužeg odmora u periodu od 24 sata, a lik mora imati najmanje 1 pogodak na početku odmora da bi stekao svoje prednosti.
+Lik ne može imati koristi od više od jednog dužeg odmora u periodu od 24 sata, a lik mora imati najmanje 1 životni bod na početku odmora da bi stekao svoje prednosti.
 
 
 ## Između avantura
 
-Između putovanja u tamnice i borbi protiv drevnih zala, avanturistima treba vremena da se odmore, oporave i pripreme za sledeću avanturu. Mnogi avanturisti ovo vreme koriste i za obavljanje drugih zadataka, poput izrade oružja i oklopa, obavljanja istraživanja ili trošenja svog teško stečenog zlata.
+Između putovanja u tamnice i borbi protiv drevnih zla, avanturistima treba vremena da se odmore, oporave i pripreme za sledeću avanturu. Mnogi avanturisti ovo vreme koriste i za obavljanje drugih zadataka, poput izrade oružja i oklopa, obavljanja istraživanja ili trošenja svog teško stečenog zlata.
 
-U nekim slučajevima, protok vremena je nešto što se dešava sa malo pompe ili opisa. Kada započinje novu avanturu, DM može jednostavno izjaviti da je proteklo određeno vreme i omogućiti vam da opšte opišite šta vaš lik ima radili. U drugim slučajevima, DM možda želi da evidentira koliko vremena prolazi dok događaji izvan vaše percepcije ostaju u pokretu.
-
+U nekim slučajevima, protok vremena je nešto što se dešava sa malo pompe ili opisa. Kada započinje novu avanturu, DM može jednostavno izjaviti da je proteklo određeno vreme i omogućiti vam da opšte opišite šta vaš lik radio. U drugim slučajevima, DM možda želi da evidentira koliko vremena prolazi dok događaji izvan vaše percepcije ostaju u pokretu.
 
 ### Troškovi životnog stila
 
@@ -1064,53 +994,46 @@ Između avantura vi birate određeni kvalitet života i plaćate troškove odr�
 
 Živeti određenim životnim stilom nema velikog uticaja na vaš karakter, ali vaš način života može uticati na način na koji drugi pojedinci i grupe reaguju na vas. Na primer, kada vodite aristokratski način života, možda će vam biti lakše da utičete na gradske plemiće nego ako živite u siromaštvu.
 
+### Aktivnosti u toku zastoja
 
-### Aktivnosti zastoja
-
-Između avantura, DM vas može pitati šta vaš lik radi tokom svog zastoja. Periodi zastoja mogu se razlikovati u trajanju, ali svaka aktivnost zastoja zahteva određeni broj dana da bi se završilo pre nego što steknete bilo kakvu korist, a najmanje 8 sati svakog dana mora se potrošiti na aktivnost zastoja da bi se taj dan računao. Dani ne trebaju biti uzastopni. Ako imate više dana od minimalne količine dana, možete da nastavite da radite istu stvar duži vremenski period ili da pređete na novu aktivnost zastoja.
+Između avantura, DM vas može pitati šta vaš lik radi tokom svog zastoja. Periodi zastoja mogu se razlikovati u trajanju, ali svaka aktivnost u toku zastoja zahteva određeni broj dana da bi se završilo pre nego što steknete bilo kakvu korist, a najmanje 8 sati svakog dana mora se potrošiti na aktivnost u toku zastoja da bi se taj dan računao. Dani ne trebaju biti uzastopni. Ako imate više dana od minimalne količine dana, možete da nastavite da radite istu stvar duži vremenski period ili da pređete na novu aktivnost u toku zastoja.
 
 Moguće su i aktivnosti prekida rada koje nisu predstavljene niže. Ako želite da vaš lik provede svoj zastoj obavljajući neku aktivnost koja ovde nije obrađena, razgovarajte o tome sa svojim DM-om.
 
+#### Izrada
 
-#### Crafting
+Možete praviti nemagične predmete, uključujući avanturističku opremu i umetnička dela. Morate biti vešti sa alatima povezanim sa objektom koji pokušavate da napravite (obično zanatski alati). Možda će vam trebati pristup posebnim materijalima ili lokacijama neophodnim za njegovo stvaranje. Na primer, nekome ko ume sa Kovačevim alatom treba kovačnica da bi izradio mač ili oklop.
 
-Možete praviti nemagične predmete, uključujući avanturističku opremu i umetnička dela. Morate biti vešti sa alatima povezanim sa objektom koji pokušavate da napravite (obično zanatski alati). Možda će vam trebati pristup posebnim materijalima ili lokacijama neophodnim za njegovo stvaranje. Na primer, nekome ko ume sa Smith-ovim alatom treba kovačnica da bi izradio mač ili oklop.
+Za svaki dan zastoja koji provedete u zanatskom radu možete da napravite jedan ili više predmeta čija ukupna tržišna vrednost ne prelazi 5 gp, a morate da potrošite sirovine u vrednosti od polovine ukupne tržišne vrednosti. Ako nešto što želite da napravite ima tržišnu vrednost veću od 5 gp, svakodnevno napredujete u koracima od 5 gp dok ne dostignete tržišnu vrednost predmeta. Na primer, odjelo od tanjir oklopa (tržišna vrednost 1.500 gp) treba 300 dana da biste sami izradili.
 
-Za svaki dan zastoja koji provedete u zanatskom radu možete da napravite jedan ili više predmeta čija ukupna tržišna vrednost ne prelazi 5 gp, a morate da potrošite sirovine u vrednosti od polovine ukupne tržišne vrednosti. Ako nešto što želite da napravite ima tržišnu vrednost veću od 5 gp, svakodnevno napredujete u koracima od 5 gp dok ne dostignete tržišnu vrednost predmeta. Na primer, odeći od tanjir oklopa (tržišna vrednost 1.500 gp) treba 300 dana da biste sami izradili.
-
-Višestruki likovi mogu da kombinuju svoje napore u pravljenju jednog predmeta, pod uslovom da svi karakteri budu vešti sa potrebnim alatima i da rade zajedno na istom mestu. Svaki lik daje napor u vrednosti od 5 gp za svaki dan proveden u pomaganju u izradi predmeta. Na primer, tri lika sa potrebnim znanjem alata i odgovarajućim objektima mogu da naprave oklop od ploča za 100 dana, po ukupnoj ceni od 750 gp.
+Višestruki likovi mogu da kombinuju svoje napore u pravljenju jednog predmeta, pod uslovom da svi likovi budu vešti sa potrebnim alatima i da rade zajedno na istom mestu. Svaki lik daje napor u vrednosti od 5 gp za svaki dan proveden u pomaganju u izradi predmeta. Na primer, tri lika sa potrebnim znanjem alata i odgovarajućim objektima mogu da naprave oklop od ploča za 100 dana, po ukupnoj ceni od 750 gp.
 
 Dok izrađujete, možete održavati skroman način života bez potrebe da plaćate 1 gp dnevno ili udoban način života uz upola manju cenu (pogledajte poglavlje 5 za više informacija o troškovima načina života).
-
 
 #### Bavljenje profesijom
 
 Možete raditi između avantura, omogućavajući vam da održavate skroman način života, a da ne morate da plaćate 1 gp dnevno (pogledajte poglavlje 5 za više informacija o troškovima životnog stila). Ova pogodnost traje sve dok nastavite da se bavite svojom profesijom.
 
-Ako ste član organizacije koja može da obezbedi plaćeno zaposlenje, kao što je hram ili lopovski ceh, umesto toga zaradite dovoljno.
+Ako ste član organizacije koja može da obezbedi plaćeno zaposlenje, kao što je hram ili lopovsko udruženje, zaradite dovoljno da podržite ugodan životni stil.
 
-Ako imate znanje iz veštine performansi i ako je koristite tokom vežbanja, zaradite dovoljno da umesto toga podržavate bogat životni stil.
-
+Ako imate znanje iz veštine Nastupa i ako je koristite tokom zastoja, zaradite dovoljno da umesto toga podržavate bogat životni stil.
 
 #### Oporavak
 
 Možete koristiti zastoje između avantura da biste se oporavili od iscrpljujuće povrede, bolesti ili otrova.
 
-Posle tri dana zastoja provedenog na oporavku, možete da napravite spasilačko bacanje DC 15. Ako uspešno sačuvate, možete da izaberete jedan od sledećih rezultata:
+Posle tri dana zastoja provedenog na oporavku, možete da napravite spasilačko bacanje DC 15. Ako uspešno bacate, možete da izaberete jedan od sledećih rezultata:
 
-• Završite jedan efekat na vas koji sprečava povraćaj pogodaka.
-
-• Tokom naredna 24 sata ostvarite prednost u trenutnom spremanju bacanja protiv jedne bolesti ili otrova koji utiču na vas.
-
+* Završite jedan efekat na koji spriječava povraćaj životnih podova.
+* Tokom naredna 24 sata ostvarite prednost u bacanjima spasa protiv jedne bolesti ili otrova koji utiču na vas.
 
 #### Istraživanje
 
-Vreme između avantura velika je šansa za istraživanje, sticanje uvida u misterije koje su se raširile tokom kampanje. Istraživanje može obuhvatiti razbijanje prašnjavih tomova i raspadnutih svitaka u biblioteci ili kupovinu pića za lokalno stanovništvo da bi glasine i tračeve izbacili s njihovih usana.
+Vreme između avantura velika je šansa za istraživanje, sticanje uvida u misterije koje su se raširile tokom kampanje. Istraživanje može obuhvatiti razbijanje prašnjavih tomova i raspadnutih svitaka u biblioteci ili kupovinu pića za lokalno stanovništvo da bi glasine i tračeve izbacili iz njihovih usta.
 
-Kada započnete sa istraživanjem, DM utvrđuje da li su informacije dostupne, koliko dana zastoja će biti potrebno za njihovo pronalaženje i postoje li ograničenja u vašem istraživanju (kao što je potreba za traženjem određene osobe, tome ili lokacija). DM može takođe zahtevati da izvršite jednu ili više provera sposobnosti, poput provere obaveštajne službe (istrage) da biste pronašli tragove koji upućuju na informacije koje tražite ili provera harizme (ubeđivanja) da biste obezbedili nečiju pomoć. Kada se ti uslovi ispune, saznaćete informacije ako su dostupne.
+Kada započnete sa istraživanjem, DM utvrđuje da li su informacije dostupne, koliko dana zastoja će biti potrebno za njihovo pronalaženje i postoje li ograničenja u vašem istraživanju (kao što je potreba za traženjem određene osobe, tome ili lokacija). DM može takođe zahtevati da izvršite jednu ili više provera sposobnosti, poput provere Inteligencije (Istrage) da biste pronašli tragove koji upućuju na informacije koje tražite ili provera Harizme (Ubeđivanja) da biste obezbedili nečiju pomoć. Kada se ti uslovi ispune, saznaćete informacije ako su dostupne.
 
 Za svaki dan istraživanja morate potrošiti 1 gp da biste pokrili svoje troškove. Ovaj trošak je dodatak vašim uobičajenim životnim troškovima (kao što je objašnjeno u poglavlju 5).
-
 
 #### Obuka
 
@@ -1118,7 +1041,7 @@ Možete provesti vreme između avantura učeći novi jezik ili trenirajući sa
 
 Prvo, morate pronaći instruktora spremnog da vas podučava. DM određuje koliko je vremena potrebno i da li je potrebna jedna ili više provera sposobnosti.
 
-Obuka traje 250 dana i košta 1 gp dnevno. Nakon što potrošite potrebnu količinu vremena i novca, naučite novi jezik ili steknete znanje novi alat.
+Obuka traje 250 dana i košta 1 gp dnevno. Nakon što potrošite potrebnu količinu vremena i novca, naučite novi jezik ili steknete znanje za novi alat.
 
 
 # Poglavlje 9: Borba
@@ -1216,47 +1139,47 @@ U borbi su likovi i čudovišta u neprekidnom pokretu, često koristeći pokret
 
 Evo nekoliko primera vrsta stvari koje možete raditi zajedno sa svojim kretanjem i delovanjem:
 
-• izvući ili oštriti mač
+* izvući ili oštriti mač
 
-• otvorite ili zatvorite vrata
+* otvorite ili zatvorite vrata
 
-• povucite napitak iz ruksaka
+* povucite napitak iz ruksaka
 
-• podignite ispuštenu sekiru
+* podignite ispuštenu sekiru
 
-• uzmite baner sa stola
+* uzmite baner sa stola
 
-• uklonite prsten sa prsta
+* uklonite prsten sa prsta
 
-• trpite malo hrane u usta
+* trpite malo hrane u usta
 
-• posadite transparent u zemlju
+* posadite transparent u zemlju
 
-• izlovite nekoliko novčića iz torbe za pojas
+* izlovite nekoliko novčića iz torbe za pojas
 
-• popijte sve pivo u flaši
+* popijte sve pivo u flaši
 
-• baci ručicu ili prekidač
+* baci ručicu ili prekidač
 
-• izvući baklju iz svetiljke
+* izvući baklju iz svetiljke
 
-• uzmite knjigu sa police do koje možete doći
+* uzmite knjigu sa police do koje možete doći
 
-• ugasiti mali plamen
+* ugasiti mali plamen
 
-• stavite masku
+* stavite masku
 
-• povucite kapuljaču ogrtača gore i iznad glave
+* povucite kapuljaču ogrtača gore i iznad glave
 
-• prislonite uvo na vrata
+* prislonite uvo na vrata
 
-• šutnite mali kamen
+* šutnite mali kamen
 
-• okrenuti ključ u bravi
+* okrenuti ključ u bravi
 
-• lupnite po podu motkom od 10 stopa
+* lupnite po podu motkom od 10 stopa
 
-• predajte predmet drugom liku
+* predajte predmet drugom liku
 
 Zauzvrat možete da pređete udaljenost do vaše brzine. Možete koristiti svoju brzinu koliko god želite ili malo, na svom redu, poštujući ovde navedena pravila.
 
