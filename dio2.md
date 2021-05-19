@@ -1526,7 +1526,7 @@ Ako čarolija ili drugi efekat istovremeno nanese štetu **na više ciljeva**, b
 
 Kada postignete kritičan pogodak, bacite dodatne kockice za štetu mete napada. Bacite sve kockice štete dva puta i dodajte ih zajedno. Zatim dodajte sve relevantne modifikatore kao i obično. Da biste ubrzali igru, možete odjednom baciti sve kockice za štetu.
 
-Na primer, ako bodežom postignete kritičan pogodak, okrećite 2d4 za štetu, umesto 1d4, a zatim dodajte svoj odgovarajući modifikator sposobnosti. Ako napad uključuje druge kockice štete, kao na primer od lopovske osobine Napad Prikradanjem,i te kockice bacite dva puta.
+Na primer, ako bodežom postignete kritičan pogodak, okrećite 2d4 za štetu, umesto 1d4, a zatim dodajte svoj odgovarajući modifikator sposobnosti. Ako napad uključuje druge kockice štete, kao na primer od osobine odmetnika Napad Prikradanjem,i te kockice bacite dva puta.
 
 #### Vrste oštećenja
 

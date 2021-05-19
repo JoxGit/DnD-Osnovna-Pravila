@@ -286,7 +286,7 @@ Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake oc
       </td>
    </tr>
    <tr>
-      <td><em>Važno za: Lopov</em>
+      <td><em>Važno za: Odmetnik</em>
       </td>
    </tr>
    <tr>
@@ -933,7 +933,7 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
       </td>
    </tr>
    <tr>
-      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Rogue">Lopov</a></strong>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Rogue">Odmetnik</a></strong>
       </td>
       <td>Podlac koji koristi šunjanje i prevare da bi savladao prepreke i neprijatelje
       </td>
@@ -1023,7 +1023,7 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
 [Ranger](https://www.dndbeyond.com/sources/basic-rules/classes#Ranger)
 
 
-## Lopov
+## Odmetnik
 [Rogue](https://www.dndbeyond.com/sources/basic-rules/classes#Rogue)
 
 
@@ -1540,7 +1540,7 @@ Ako imate inspiraciju, možete je potrošiti kada napravite napad, spasilačko b
 
 ## Pozadine
 
-Svaka priča ima svoj početak. Pozadina vašeg lika otkriva odakle ste došli, kako ste postali avanturista i vaše mesto u svetu. Vaš borac je možda bio hrabri vitez ili oštar vojnik. Vaš čarobnjak je mogao biti mudrac ili zanatlija. Vaš prevarant je možda prošao kao lopov udruženja ili kao zabavljanje publike kao luda.
+Svaka priča ima svoj početak. Pozadina vašeg lika otkriva odakle ste došli, kako ste postali avanturista i vaše mesto u svetu. Vaš borac je možda bio hrabri vitez ili oštar vojnik. Vaš čarobnjak je mogao biti mudrac ili zanatlija. Vaš odmetnik je možda prošao kao lopov udruženja ili kao zabavljanje publike kao luda.
 
 Izbor pozadine pruža vam važne nagoveštaje o identitetu vašeg lika. Najvažnije pitanje koje se postavlja o vašoj prošlosti je šta se promenilo? Zašto ste prestali da radite šta god opisujete i započeli avanturu? Odakle vam novac za kupovinu početne opreme, ili ako imate bogato poreklo, zašto nemate više novca? Kako ste naučili veštine svoje klase? Šta vas izdvaja od običnih ljudi koji dele vaše poreklo?
 
@@ -1650,7 +1650,7 @@ Bogatstvo se pojavljuje u mnogim oblicima u svetu D&D. Novčići, drago kamenje
       </td>
    </tr>
    <tr>
-      <td>Lopov
+      <td>Odmetnik
       </td>
       <td>4d4 x 10gp
       </td>
@@ -4657,7 +4657,7 @@ Troškovi životnog stila pružaju vam jednostavan način da računate troškove
 
 Na početku svake nedelje ili meseca (po vašem izboru) odaberite način života iz tabele Troškovi i platite cenu da biste održali taj način života. Navedene cene su dnevne, pa ako želite izračunati troškove odabranog načina života tokom perioda od trideset dana, pomnožite navedenu cenu sa 30. Vaš način života može se menjati iz jednog u drugi period na osnovu sredstava koja imate na raspolaganju, ili biste mogli održavati isti stil života tokom svoje karijere lika.
 
-Vaš izbor načina života može imati posledice. Održavanje bogatog načina života može vam pomoći da uspostavite kontakt sa bogatima i moćnima, mada rizikujete da privučete lopove. Isto tako, štedljiv život može vam pomoći da izbegnete kriminalce, ali malo je verovatno da ćete uspostaviti moćne veze.
+Vaš izbor načina života može imati posledice. Održavanje bogatog načina života može vam pomoći da uspostavite kontakt sa bogatima i moćnima, mada rizikujete da privučete odmetnike. Isto tako, štedljiv život može vam pomoći da izbegnete kriminalce, ali malo je verovatno da ćete uspostaviti moćne veze.
 
 
 <table>
@@ -5744,7 +5744,7 @@ Da biste se kvalifikovali za novu klasu, morate da ispunite bodove sposobnosti k
       </td>
    </tr>
    <tr>
-      <td>Lopov
+      <td>Odmetnik
       </td>
       <td>Spremnost 13
       </td>
@@ -5851,7 +5851,7 @@ Kada steknete nivo u klasi koji nije vaša po;etna, vi steknite samo neka počet
       </td>
    </tr>
    <tr>
-      <td>Lopov
+      <td>Odmetnik
       </td>
       <td>Lagani oklop, jedna veština sa spiska veština klase, alati za lopove
       </td>
