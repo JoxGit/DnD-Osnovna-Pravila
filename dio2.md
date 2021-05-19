@@ -1378,7 +1378,7 @@ Kada preduzmete akciju pretraživanja, posvećujete pažnju pronalaženju neče
 Obično koristite objektom dok radite nešto drugo, na primer kada izvlačite mač kao deo napada. Kada objekat zahteva vašu radnju za njegovu upotrebu, poduzimate radnju Upotreba objekta. Ova radnja je korisna i kada želite da stupite u interakciju sa više objekata na svom potezu.
 
 >**Improvizacija akcije**
-
+>
 >Vaš lik može raditi stvari koje nisu obuhvaćene radnjama u ovom poglavlju, poput razbijanja vrata, zastrašivanja neprijatelja, osećanja slabosti u magičnoj odbrani ili pozivanja na pregovore sa neprijateljem. Jedina ograničenja akcija koje možete pokušati su mašta i sposobnosti vašeg lika. Pogledajte opise ocena sposobnosti u poglavlju 7 za inspiraciju tokom improvizacije.
 >
 >Kada opisujete akciju koja nije detaljno navedena na drugim mestima u pravilima, DM vam govori da li je ta radnja moguća i kakvu vrstu bacanja treba da napravite, ako postoji, da biste utvrdili uspeh ili neuspeh.
