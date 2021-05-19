@@ -1669,7 +1669,7 @@ U oba slučaja, ako nosač izazove priliku za napad dok ste na njemu, napadač m
 
 Kada avanturisti progone sahuagin u nazad u svoje podmorske domove, odbijaju morske pse u drevnoj brodskoj olupini ili se nađu u poplavljenoj prostoriji katakombi, moraju se boriti u izazovnom okruženju. Pod vodom važe sledeća pravila.
 
-Prilikom izvođenja **napada ručnim oružjem**, stvorenje koje nema brzinu plivanja (bilo prirodno ili magično) ima nedostatak na bacanju za napad, osim ako je oružje bodež, koplje (javelin), kratki mač, koplje (spear) ili trozubac.
+Prilikom izvođenja **napada oružjem za bliku bornu**, stvorenje koje nema brzinu plivanja (bilo prirodno ili magično) ima nedostatak na bacanju za napad, osim ako je oružje bodež, koplje (javelin), kratki mač, koplje (spear) ili trozubac.
 
 **Napad na daljinu** automatski promašuje metu izvan normalnog dometa oružja. Čak i protiv mete unutar normalnog dometa, napadačko bacanje ima nedostatak, osim ako je oružje samostrel, mreža ili oružje za bacanje poput koplja (uključujući koplje, trozubac ili strelicu).
 
