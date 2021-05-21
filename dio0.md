@@ -4,13 +4,13 @@
 
 Igra uloga Dungeons & Dragons govori o pripovedanju u svetovima mačeva i čaranja. Deli elemente sa igrama izmišljanja iz detinjstva. Kao i te igre, D&D pokreće mašta. Radi se o opisivanju visokog zamka ispod olujnog noćnog neba i zamišljanju kako fantazijski avanturista može reagovati na izazove koje scena predstavlja.
 
-> **Gospodar Tamnice (DM)**: Nakon prolaska kroz krševite vrhove, put naglo skreće na istok i kule zamka Ravenloft ispred vas. Urušene kamene kule nečujno paze na prilaz. Izgledaju kao napuštene stražarnice. Iza njih zjapi široka ponor koji nestaje u dubokoj magli ispod. Spušteni pokretni most obuhvacta ponor, vodeći do zasvođenog ulaza u dvorište zamka. Lanci pokretnog mosta škripe na vetru, njihovo rđavo gvožđe napreže se pod težinom. S vrha visokih čvrstih zidova kamene gargule bulje u vas iz šupljih ležišta i grozno se cerekaju. U ulaznom tunelu visi truli drveni rešetka, zelena od rastinija. Iza toga, glavna vrata zamka Ravenloft stoje otvorena, bogata topla svetlost prosipala se u dvorište.
+> **Gospodar Tamnice (DM)**: Nakon prolaska kroz krševite vrhove, put naglo skreće na istok i kule zamka Ravenloft se pojavljuju  ispred vas. Urušene kamene kule nečujno paze na prilaz. Izgledaju kao napuštene stražarnice. Iza njih zjapi široka ponor koja nestaje u dubokoj magli ispod. Spušteni pokretni most obuhvacta ponor, vodeći do zasvođenog ulaza u dvorište zamka. Lanci pokretnog mosta škripe na vetru, njihovo rđavo gvožđe napreže se pod težinom. S vrha visokih čvrstih zidova kamene gargule bulje u vas iz šupljih ležišta i grozno se cerekaju. U ulaznom tunelu visi trula drvena rešetka, zelena od rastinja. Iza toga, glavna vrata zamka Ravenloft stoje otvorena, bogata topla svetlost prosipala se u dvorište.
 >
 > **Phillip (glumi Garetha)**: Želim da pogledam gargojle. Imam osećaj da to nisu samo statue.
 >
-> **Ami (glumi Rivu)**: Pokretni most izgleda nesigurno? Želim da vidim koliko je čvrst. Da li mislim da ga možemo preći ili će se srušiti pod našom težinom?
+> **Ami (glumi Rivu)**: Pokretni most izgleda nesigurno? Želim da vidim koliko je čvrst. Da li misliš da ga možemo preći ili će se srušiti pod našom težinom?
 
-Za razliku od igre izmišljanja, D&D daje strukturu pričama, način utvrđivanja posledica akcije avanturista. Igrači bacaju kockice da bi rešili da li njihovi napadi pogađaju ili promašuju ili mogu li njihovi avanturisti popeti se na liticu, odkotrljati se od udara magične munje ili izvesti neki drugi opasan zadatak. Sve je moguće, ali kockice čine neke ishode verovatnijim od drugih.
+Za razliku od igre izmišljanja, D&D daje strukturu pričama, način utvrđivanja posledica akcije avanturista. Igrači bacaju kockice da bi rešili da li njihovi napadi pogađaju ili promašuju ili mogu li njihovi avanturisti popeti se na liticu, otkotrljati se od udara magične munje ili izvesti neki drugi opasan zadatak. Sve je moguće, ali kockice čine neke ishode verovatnijim od drugih.
 
 > **Gospodar tamnice (DM)**: U redu, jedan po jedan. Phillip, gledaš li gargojle?
 > 
@@ -28,7 +28,7 @@ Za razliku od igre izmišljanja, D&D daje strukturu pričama, način utvrđivanj
 
 U igri Dungeons & Dragons, svaki igrač stvara avanturistu (koji se naziva i lik) i udružuje se sa drugim avanturistima (koje igraju prijatelji). Radeći zajedno, grupa bi mogla istražiti mračnu tamnicu, porušeni grad, uklet zamak, izgubljeni hram duboko u džungli ili pećinu ispunjenu lavom ispod misteriozne planine. Avanturisti mogu da rešavaju zagonetke, razgovaraju sa drugim likovima, bore se sa fantastičnim čudovištima i otkrivaju čudesne magične predmete i drugo blago.
 
-Međutim, jedan igrač preuzima ulogu Gospodara Tamnice (DM), glavnog pripovedača i sudije igre. DM stvara avanture za likove koji se kreću kroz njegove opasnosti i odlučuju koje puteve će istražiti. DM može opisati ulaz u Castle Ravenloft, a igrači odlučuju šta žele da rade njihovi avanturisti.
+Međutim, jedan igrač preuzima ulogu Gospodara Tamnice (DM), glavnog pripovedača i sudije igre. DM stvara avanture za likove koji se kreću kroz njegove opasnosti i odlučuju koje puteve će istražiti. DM može opisati ulaz u zamak Ravenloft, a igrači odlučuju šta žele da rade njihovi avanturisti.
 
 Da li će hodati preko opasno oronulog mosta? Vezati se konopcem kako bi se smanjila šansa da neko padne ako pokretni most popusti? Ili bacti čaroliju da ih nosi preko provalije?
 
@@ -36,7 +36,7 @@ Tada DM utvrđuje rezultate akcija avanturista i pripoveda šta doživljavaju. B
 
 Igra nema pravi kraj; kada se jedna priča ili potraga završi, druga može početi, stvarajući trajnu priču koja se naziva **kampanja**. Mnogi ljudi koji igraju igru održavaju svoje kampanje mesecima ili godinama, sastajući se sa svojim prijateljima svake nedelje ili tako nekako da bi nastavili priču tamo gde su stali. Avanturisti rastu u snazi kako se kampanja nastavlja. Svako čudovište je poraženo, svaka avantura završena i svako blago povraćeno ne samo da dodaje dalju priču, već avanturistima donosi nove sposobnosti. Ovo povećanje snage je odraz nivoa avanturista.
 
-U igri Dungeons & Dragons nema pobede i poraza - barem ne na način na koji se ti uslovi obično razumeju. Zajedno, DM i igrači stvaraju uzbudljivu priču odvažnih avanturista koji se suočavaju sa smrtonosnom opasnošću. Ponekad avanturista može grozno završiti, rastrzan od divljih čudovišta ili dokusuren strane od podlog negativca. Uprkos tome, ostali avanturisti mogu tražiti moćnu magiju kako bi oživeli svog palog druga, ili bi igrač mogao izabrati da stvori novog lika koji će nastaviti. Grupa možda neće uspeti da avanturu uspešno završi, ali ako su se svi dobro zabavili i stvorili nezaboravnu priču, svi će pobediti.
+U igri Dungeons & Dragons nema pobede i poraza - barem ne na način na koji se ti uslovi obično razumeju. Zajedno, DM i igrači stvaraju uzbudljivu priču odvažnih avanturista koji se suočavaju sa smrtonosnom opasnošću. Ponekad avanturista može grozno završiti, rastrzan od divljih čudovišta ili dokusuren od strane podlog negativca. Uprkos tome, ostali avanturisti mogu tražiti moćnu magiju kako bi oživeli svog palog druga, ili bi igrač mogao izabrati da stvori novog lika koji će nastaviti. Grupa možda neće uspeti da avanturu uspešno završi, ali ako su se svi dobro zabavili i stvorili nezaboravnu priču, svi će pobediti.
 
 
 ## Svetovi avanture
@@ -45,7 +45,7 @@ Mnogi svetovi igre Dungeons & Dragons mesta su magije i čudovišta, hrabrih rat
 
 Svetovi igre Dungeons & Dragons postoje u ogromnom kosmosu nazvanom multiverzum, povezani na čudne i misteriozne načine jedni sa drugima i sa drugim nivoima postojanja, kao što su Elementarna vatrena ravan i Beskonačne dubine ponora. Unutar ovog multiverzuma postoji nepregledna raznolikost svetova. Mnogi od njih objavljeni su kao zvanična podešavanja za igru D&D. Legende o postavkama Zaboravljenih carstava, Dragonlancea, Greihavka, Tamnog Sunca, Mistare i Eberrona utkane su zajedno u tkivo multiverzuma. Pored ovih svetova ima još stotine hiljada, koje su generacije D&D igrača stvorile za svoje igre. I usred sveg bogatstva multiverzuma, mogli biste stvoriti svoj svet.
 
-Svi ovi svetovi dele karakteristike, ali svaki svet odvajaju sopstvena istorija i kulture, prepoznatljiva čudovišta i rase, fantastična geografija, drevne tamnice i zlikovci. Neke rase imaju neobične osobine u različitim svetovima. Na primer, poltroni zalaska Tamnog sunca su kanibali u džungli, a vilenjaci su pustinjski nomadi. Neki svetovi imaju rase nepoznate u drugim okruženjima, kao što su Eberronovi ratovi, vojnici stvoreni i prožeti životom za borbu u Poslednjem ratu. Nekim svetovima dominira jedna sjajna priča, poput rata Lance koji igra centralnu ulogu u postavci Dragonlance. Ali oni su svi D&D svetovi i možete koristiti pravila iz ove knjige da biste stvorili lik i igrali se u bilo kom od njih.
+Svi ovi svetovi dele karakteristike, ali svaki svet odvaja spostvene istorije i kulture, prepoznatljiva čudovišta i rase, fantastična geografija, drevne tamnice i zlikovci. Neke rase imaju neobične osobine u različitim svetovima. Na primer, poltroni zalaska Tamnog sunca su kanibali u džungli, a vilenjaci su pustinjski nomadi. Neki svetovi imaju rase nepoznate u drugim okruženjima, kao što su Eberronovi ratovi, vojnici stvoreni i prožeti životom za borbu u Poslednjem ratu. Nekim svetovima dominira jedna sjajna priča, poput rata Lance koji igra centralnu ulogu u postavci Dragonlance. Ali oni su svi D&D svetovi i možete koristiti pravila iz ove knjige da biste stvorili lik i igrali se u bilo kom od njih.
 
 Vaš DM može postaviti kampanju na jedan od ovih svetova ili na onaj koji je on ili ona stvorio. Budući da postoji toliko raznolikosti među svetovima D&D-a, trebalo bi da proverite kod svog DM-a o kućnim pravilima koji će uticati na vašu igru. Na kraju, Dungeon Master je autoritet kampanje i njenog postavljanja, čak i ako je postavka objavljeni svet.
 
@@ -60,7 +60,7 @@ Dokument o osnovnim pravilima D&D ima četiri glavna dela.
 
 **Treći deo** govori o magiji. Obuhvata prirodu magije u svetu D&D, pravila za čaroliju i izbor tipičnih čarolija dostupnih likovima koji koriste magiju (i čudovištima) u igri.
 
-~~**Četvrti deo** je posebno za Majstora tamnica. Sadrži uputstva za izazivanje likova igrača sa protivnicima koji su dobar test njihovih sposobnosti, plus desetine opisa čudovišta spremnih za upotrebu. Takođe pruža uzorak čarobnih predmeta koje likovi mogu zaraditi kao nagradu za uništavanje tih čudovišta.~~
+~~**Četvrti deo** je posebno za Majstora tamnica. Sadrži uputstva za izazivanje likova igrača sa protivnicima koji su dobar test njihovih sposobnosti, plus desetine opisa čudovišta spremnih za upotrebu. Takođe, pruža uzorak čarobnih predmeta koje likovi mogu zaraditi kao nagradu za uništavanje tih čudovišta.~~
 
 ~~Na kraju dokumenta nalazi se dodatni materijal. **Dodatak A** prikuplja sve definicije uslova koji mogu uticati na likove i čudovišta. **Dodatak B** je kratka rasprava o božanstvima u igri, posebno onima u postavci Zaboravljena carstva. **Dodatak C** opisuje pet frakcija u zaboravljenim carstvima sa kojima se likovi mogu povezati. Konačno, list sa tri stranice karaktera pruža standardizovan način za igrače da beleže i prate sposobnosti i posed svojih likova.~~
 
@@ -88,7 +88,7 @@ Igra koristi poliedarske kockice sa različitim brojem stranica. Ovakve kockice 
 
 U ovim pravilima se za različite kockice odnosi slovo d praćeno brojem stranica: d4, d6, d8, d10, d12 i d20. Na primer, d6 je šestostrana matrica (tipična kocka koju koriste mnoge igre).
 
-Procentualne kockice, ili d100, deluju malo drugačije. Broj između 1 i 100 generišete bacajući dve različite deseterostrane kockice označene brojevima od 0 do 9. Jedna kocka (označena pre nego što bacite) daje cifru desetica, a druga cifru jedinica. Na primer, ako bacite 7 i 1, valjani broj je 71. Dve 0 predstavljaju 100. Neke deseterostrane kockice su numerisane u deseticama (00, 10, 20 i tako dalje), što olakšava razlikovanje desetice cifre od one cifre. U ovom slučaju, rola 70 i 1 je 71, a 00 i 0 je 100.
+Procentualne kockice, ili d100, deluju malo drugačije. Broj između 1 i 100 generišete bacajući dve različite deseterostrane kockice označene brojevima od 0 do 9. Jedna kocka (označena pre nego što bacite) daje cifru desetica, a druga cifru jedinica. Na primer, ako bacite 7 i 1, valjani broj je 71. Dve 0 predstavljaju 100. Neke deseterostrane kockice su numerisane u deseticama (00, 10, 20 i tako dalje), što olakšava razlikovanje desetice cifre od one cifre. U ovom slučaju, bacanjem dobija 70 i 1 je 71, a 00 i 0 je 100.
 
 Kada trebate baciti kockice, pravila vam govore koliko kockica treba baciti određenog tipa, kao i koje modifikatore dodati. Na primer, „3d8 + 5“ znači da bacite tri osmostrane kockice, saberete ih i dodate 5 ukupnom broju.
 
