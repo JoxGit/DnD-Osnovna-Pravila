@@ -1,0 +1,164 @@
+@font-face {
+    font-family: 'Leviathan';
+    src: url('/assets/fonts/Leviathan.ttf.woff') format('woff'),
+        url('/assets/fonts/Leviathan.ttf.svg#Leviathan') format('svg'),
+        url('/assets/fonts/Leviathan.ttf.eot'),
+        url('/assets/fonts/Leviathan.ttf.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@page {
+    size: A4 portrait;
+    margin: 5mm;
+}
+
+:root {
+    --border-color: red;
+}
+
+
+/*GENERAL*/
+
+.allign-center{
+    text-align: center;
+}
+
+.allign-left{
+    text-align: left;
+}
+
+.allign-right{
+    text-align: right;
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+    -webkit-print-color-adjust: exact !important;
+}
+
+#container {
+    width: 210mm;
+}
+
+.card {
+    margin: 2mm;
+    height: 140mm;
+    width: 95mm;
+    display: inline-block;
+}
+
+.card.big{
+    width: 190mm !important;
+}
+
+/*CARD FRONT*/
+
+.card-front {
+    background-color: var(--border-color);
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+    transform: rotateZ(180deg);
+}
+
+.card-front .logo {
+    display: block;
+    margin: auto;
+    height: 30px;
+}
+
+.card-front .inner-container {
+    background-color: white;
+    border-radius: 10px;
+    margin: 5px 20px 20px 20px;
+    height: calc(100% - 30px - 5px - 20px);
+    padding: 1px;
+}
+
+.card-front .inner-container .picture-container {
+    height: calc(100% - 30px);
+    display: flex;
+    justify-content: center;
+}
+
+.card-front .inner-container .picture-container .picture {
+    object-fit: scale-down;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.card-front .inner-container .footer {
+    width: 100%;
+    height: 30px;
+    text-align: center;
+}
+
+.card-front .inner-container .footer .name {
+    font-family: 'Leviathan';
+    font-size: 20Pt;
+    width: 100%;
+}
+
+
+/*CARD BACK*/
+
+.card-back {
+    background-color: var(--border-color);
+    border-radius: 20px;
+    width: calc(100% - 40px);
+    height: 100%;
+    padding: 20px;
+}
+
+.card-back .inner-container {
+    background-color: white;
+    border-radius: 10px;
+    height: calc(100% - 30px);
+}
+
+.card-back .inner-container .name {
+    font-family: 'Leviathan';
+    font-size: 20Pt;
+    width: 100%;
+    text-align: center;
+}
+
+.card-back .inner-container .subtitle{
+    background-color: var(--border-color);
+    font-size: 10Pt;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.card-back .inner-container table{
+    width: 100%;
+    text-align: center;
+}
+
+.card-back .inner-container .separator{
+    width: 100%;
+    min-height: 2px;
+    background-color: var(--border-color);
+}
+
+.card-back .inner-container table strong{
+    width: 100%;
+    text-align: center;
+}
+
+.card-back .footer {
+    font-family: 'Leviathan';
+    color: white;
+}
+
+.card-back .footer .challange{
+    font-family: 'Leviathan';
+    font-size: 20pt;
+}
+
+.card-back .footer .source{
+    font-size: 8pt;
+}

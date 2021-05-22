@@ -1,12 +1,157 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preload" href="/assets/fonts/Leviathan.ttf.woff" as="font" type="font/woff" crossorigin>
+    <link rel="stylesheet" href="assets/css/monsters.css">
+    <script src="assets/javascript/monsters.js" defer></script>
     <title>Monsters</title>
 </head>
+
 <body>
-    <h1>Monsters</h1>
+    <div id="container">
+        <template id="card-template">
+            <div class="card">
+            
+                <div class="card-front">
+                    <img src="/assets/images/dnd-inline-logo.png" class="logo" />
+                    <div class="inner-container">
+                        <div class="picture-container">
+                            <img class="picture"
+                                src="https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/11/370/315/636238825975375671.jpeg" />
+                        </div>
+                        <div class="footer">
+                            <span class="name">Aboleth</span>
+                        </div>
+                    </div>
+                </div>
+    
+                <div class="card-back">
+                    <div class="inner-container">
+                        <div class="name">Aboleth</div>
+                        <div class="subtitle">Large, numaoid (any race), any non-good alignament</div>
+                        <table>
+                            <tr>
+                                <td colspan="3" class="allign-left"><strong>AC:</strong> <span class="ac">15 (studded letther)</span>
+                                </td>
+                                <td colspan="3" class="allign-left"><strong>HP:</strong> <span class="hp">78 (12D8+24)</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="6" class="allign-left"><strong>Speed:</strong> <span class="speed">30 ft., Fly 60 ft.</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="allign-center"><strong>STR</strong>
+                                </td>
+                                <td class="allign-center"><strong>DEX</strong>
+                                </td>
+                                <td class="allign-center"><strong>CON</strong>
+                                </td>
+                                <td class="allign-center"><strong>INT</strong>
+                                </td>
+                                <td class="allign-center"><strong>WIZ</strong>
+                                </td>
+                                <td class="allign-center cha"><strong>CHA</strong>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="allign-center str">+0
+                                </td>
+                                <td class="allign-center dex">+3
+                                </td>
+                                <td class="allign-cente con">+2
+                                </td>
+                                <td class="allign-center int">+1
+                                </td>
+                                <td class="allign-center wiz">+0
+                                </td>
+                                <td class="allign-center cha">+0
+                                </td>
+                            </tr>
+                        </table>
+                        <div class="separator"></div>
+                    </div>
+                    <div class="footer">
+                        <div class="challange">Challange 8 (3900 XP)</div>
+                        <div class="source">Monsert Manual, pg 343</div>
+                    </div>
+                </div>
+            </div>
+        </template>
+<!--
+        <div class="card">
+            
+            <div class="card-front">
+                <img src="/assets/images/dnd-inline-logo.png" class="logo" />
+                <div class="inner-container">
+                    <div class="picture-container">
+                        <img class="picture"
+                            src="https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/11/370/315/636238825975375671.jpeg" />
+                    </div>
+                    <div class="footer">
+                        <span class="name">Aboleth</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card-back">
+                <div class="inner-container">
+                    <div class="name">Aboleth</div>
+                    <div class="subtitle">Large, numaoid (any race), any non-good alignament</div>
+                    <table>
+                        <tr>
+                            <td colspan="3" class="allign-left"><strong>AC:</strong> <span class="ac">15 (studded letther)</span>
+                            </td>
+                            <td colspan="3" class="allign-left"><strong>HP:</strong> <span class="hp">78 (12D8+24)</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="6" class="allign-left"><strong>Speed:</strong> <span class="speed">30 ft., Fly 60 ft.</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="allign-center"><strong>STR</strong>
+                            </td>
+                            <td class="allign-center"><strong>DEX</strong>
+                            </td>
+                            <td class="allign-center"><strong>CON</strong>
+                            </td>
+                            <td class="allign-center"><strong>INT</strong>
+                            </td>
+                            <td class="allign-center"><strong>WIZ</strong>
+                            </td>
+                            <td class="allign-center cha"><strong>CHA</strong>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="allign-center str">+0
+                            </td>
+                            <td class="allign-center dex">+3
+                            </td>
+                            <td class="allign-cente conr">+2
+                            </td>
+                            <td class="allign-center int">+1
+                            </td>
+                            <td class="allign-center wiz">+0
+                            </td>
+                            <td class="allign-center cha">+0
+                            </td>
+                        </tr>
+                    </table>
+                    <div class="separator"></div>
+                </div>
+                <div class="footer">
+                    <div class="challange">Challange 8 (3900 XP)</div>
+                    <div class="source">Monsert Manual, pg 343</div>
+                </div>
+            </div>
+        </div>
+--?
+    </div>
 </body>
+
 </html>
