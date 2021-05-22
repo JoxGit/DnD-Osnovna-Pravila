@@ -51,11 +51,11 @@ Tipično, lik započinje na prvom nivou i napreduje u nivou pustolovinom i stica
 
 Početak od 1. nivoa označava ulazak vašeg lika u avanturističkom život. Ako ste već upoznati sa igrom ili ako se pridružujete postojećoj D&D kampanji, vaš DM bi mogao odlučiti da započnete na višem nivou, pod pretpostavkom da je vaš lik već preživeo nekoliko mučnih avantura.
 
-Zapišitte svoj nivo na listu kataktera. Ako započinjete sa višim nivoom, zabeležite dodatne elemente koje vam daje vaša klasa za nivoe koji prelaze 1. nivo. Takođe zapišite svoja iskustva. Lik 1. nivoa ima 0 XP. Lik višeg nivoa obično započinje sa minimalnom količinom XP potrebnom za dostizanje tog nivoa (pogledajte „Iznad prvog nivoa“ kasnije u ovom poglavlju).
+Zapišite svoj nivo na listu kataktera. Ako započinjete sa višim nivoom, zabeležite dodatne elemente koje vam daje vaša klasa za nivoe koji prelaze 1. nivo. Takođe zapišite svoja iskustva. Lik 1. nivoa ima 0 XP. Lik višeg nivoa obično započinje sa minimalnom količinom XP potrebnom za dostizanje tog nivoa (pogledajte „Iznad prvog nivoa“ kasnije u ovom poglavlju).
 
 >**Brzo Pravljenje**
 >
->Svaki opis kalse u poglavlju 3 sadrži odeljak koji nudi predloge za brzo stvaranje lika te klase, uključujući kako dodeliti najviše  ocene sposobnosti, pozadinu koja odgovara klasi i početne čarolije.
+>Svaki opis klase u poglavlju 3 sadrži odeljak koji nudi predloge za brzo stvaranje lika te klase, uključujući kako dodeliti najviše  ocene sposobnosti, pozadinu koja odgovara klasi i početne čarolije.
 
 ### Životni bodobi i kockice života
 
