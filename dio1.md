@@ -59,9 +59,9 @@ Zapišite svoj nivo na listu kataktera. Ako započinjete sa višim nivoom, zabel
 
 ### Životni bodobi i kockice života
 
-Životni bodovi vašeg lika definišu koliko je čvrst vaš lik u borbi i drugim opasnim situacijama. Životni bodovi određuju se vašim kockicama života. Na 1. nivou, vaš lik ima 1 kocku života, a tu kocku određuje vaša klasa. Počinjete sa životnim bodovima jednakim najvišem bacanju te kockice, kako je naznačeno u opisu vaše klase. (Takođe dodajete svoj modifikator Građe, koji ćete odrediti u koraku 3.) Ovo je ujedno i **vaš maksimum životnih bodovaS**.
+Životni bodovi vašeg lika definišu koliko je čvrst vaš lik u borbi i drugim opasnim situacijama. Životni bodovi određuju se kockicama života. Na 1. nivou, vaš lik ima 1 kocku života, a tu kocku određuje vaša klasa. Počinjete sa životnim bodovima jednakim najvišem bacanju te kockice, kako je naznačeno u opisu vaše klase. (Takođe dodajete svoj modifikator Građe, koji ćete odrediti u koraku 3.) Ovo je ujedno i **vaš maksimum životnih bodova**.
 
-Upišite životne bodove svog lika na listu sa likovima. Takođe zabeležite vrstu kocke za pogodak koji vaš lik koristi i broj kocki za pogodak koji imate. Nakon što se odmorite, možete iskoristiti kocke za pogodke da biste povratili životne bodove (pogledajte „Odmaranje“ u poglavlju 8).
+Upišite životne bodove svog lika na listu sa likovima. Takođe zabeležite vrstu kockice života koji vaš lik koristi i broj kocki za život koje imate. Nakon što se odmorite, možete iskoristiti kocke za život da biste povratili životne bodove (pogledajte „Odmaranje“ u poglavlju 8).
 
 
 ### Bonus za stručnost
