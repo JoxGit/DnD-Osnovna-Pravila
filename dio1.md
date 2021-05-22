@@ -8,16 +8,16 @@
 
 Vaš prvi korak u igranju avanturista u igri Dungeons & Dragons je zamišljanje i stvaranje sopstvenog lika. Vaš lik je kombinacija statistike igre, igranje uloga i vaše mašte. Vi birate rasu (kao što je čovek ili polutan) i klasu (poput borca ili čarobnjaka). Takođe ste izmislili ličnost, izgled i prošlost vašeg karaktera. Jednom dovršen, vaš lik služi kao vaš predstavnik u igri, vaš avatar u svetu Dungeons & Dragons.
 
-Pre nego što zaronite u 1. korak dole, razmislite o tome kakvog avanturistu želite da igrate. Možda ste hrabri borac, prikriveni lupež, strastveni sveštenik ili kičast čarobnjak. Ili bi vas možda više zanimao nekonvencionalan lik, poput snažnog lupeža koji voli borbu prsa u prsa ili vrsnog strelca koji izdaleka bira neprijatelje. Da li volite fantaziju sa patuljcima ili vilenjacima? Pokušajte da izgradite lik jedne od tih rasa. Da li želite da vaš lik bude najžilaviji avanturista za stolom? Razmislite o klasi borca. Ako ne znate odakle da započnete, pogledajte ilustracije da biste videli šta te najviše interesuje.
+Pre nego što zaronite u 1. korak dole, razmislite o tome kakvog avanturistu želite da igrate. Možda ste hrabri borac, prikriveni lupež, strastveni sveštenik ili kičast čarobnjak. Ili bi vas možda više zanimao nekonvencionalan lik, poput snažnog lupeža koji voli borbu prsa u prsa ili vrsnog strelca koji izdaleka bira neprijatelje. Da li volite fantaziju sa patuljcima ili vilenjacima? Pokušajte da izgradite lik jedne od tih rasa. Da li želite da vaš lik bude najžilaviji avanturista za stolom? Razmislite o klasi borca. Ako ne znate odakle da započnete, pogledajte ilustracije da biste videli šta vas najviše interesuje.
 
-Jednom kada imate na umu lik, sledite ove korake redom donoseći odluke koje odražavaju lik koji želite. Vaša koncepcija vašeg lika može se razvijati sa svakim vašim odabirom. Ono što je važno je da za sto dođete sa likom kojeg ćete sa uzbuđenjem igrati.
+Jednom kada imate na umu lika, sledite ove korake redom donoseći odluke koje odražavaju lik koji želite. Vaša koncepcija vašeg lika može se razvijati sa svakim vašim odabirom. Ono što je važno je da za sto dođete sa likom kojeg ćete sa uzbuđenjem igrati.
 
 Kroz ovo poglavlje, termin **list karaktera** označava sve ono što koristite za praćenje svog lika, bilo da se radi o formalnom listu karaktera (poput onog na kraju ovih pravila), nekom obliku digitalnog zapisa ili komadu papira u svesci. Zvanični D&D opis karaktera je dobro mesto za početak dok ne saznate koje su vam informacije potrebne i kako ih koristite tokom igre.
 
 
 >**Građenje Bruenor-a**
 >
->Svaki korak stvaranja likova uključuje primer tog koraka, sa igračem po imenu Bob koji gradi svoj patuljasti lik, Bruenor.
+>Svaki korak stvaranja lika uključuje primer tog koraka, sa igračem po imenu Bob koji gradi svoj patuljasti lik, Bruenor.
 
 
 ## 1. Izaberite rasu
@@ -33,7 +33,7 @@ Zabeležite osobine koje vam dodeljuje vaša rasa na listu sa likovima. Obavezno
 
 >**Građenje Bruenora, 1. korak**
 >
->Bob sjeda da stvori svoj lik. Odlučuje da grubi planinski patuljak odgovara liku kojeg želi da glumi. Na svom listu s likovima beleži sve rasne osobine patuljaka, uključujući brzinu od 25 stopa i jezike koje poznaje: zajednički i patuljasti.
+>Bob sjeda da stvori svoj lik. Odlučuje da grubi planinski patuljak odgovara liku kojeg želi da glumi. Na svom listu karaktera s likovima beleži sve rasne osobine patuljaka, uključujući brzinu od 25 stopa i jezike koje poznaje: zajednički i patuljasti.
 
 
 ## 2. Izaberite klasu 
