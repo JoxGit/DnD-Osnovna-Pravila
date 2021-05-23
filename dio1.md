@@ -1740,7 +1740,7 @@ Sledbenici se oblikuju prema iskustvu u hramovima ili drugim verskim zajednicama
     </tr>
 </table>
 
-<t1able>
+<table>
     <tr>
         <td><strong>d6</strong>
         </td>
