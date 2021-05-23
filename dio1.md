@@ -2366,7 +2366,7 @@ Da li vaša porodica ima grb? Oznake koje biste mogli nositi na prstenu sa peča
 
 Ovi detalji pomažu u utvrđivanju porodice i titule kao karakteristika sveta kampanje.
 
-Veštine: Istorija, Uijsbeđivanje
+Veštine: Istorija, Ubijsbeđivanje
 
 Poznavanje alata: Jedan tip kompleta za igre
 

@@ -1,225 +1,223 @@
 
+
 ## Patuljak
 
-"Yer late, elf!" došla je gruba ivica poznatog glasa. Bruenor Battlehammer prošetao je leđima svog mrtvog neprijatelja, ne obazirući se na činjenicu da je teško čudovište ležalo na vrhu njegovog vilenjačkog prijatelja. Uprkos dodatnoj nelagodi, patuljasti dugački, šiljasti, često slomljeni nos i sivo prošarana, mada još uvijek vatreno crvena brada, postali su dobrodošli prizor za Drizzta. "Znao sam da ću vas naći u nevolji ako izađem i potražim vas!"
-
-<p style="text-align: right">
-<em>- RA Salvatore,kristalnih krhotina</em></p>
-
-
-Kraljevstvabogata drevnom veličanstvenošću, dvorane urezane u korijene planina, odjek trzalica i čekića u dubokim rudnicima i plamenim kovačnicama, posvećenost klanu i tradiciji i goruća mržnja goblina i orkova - ove zajedničke niti ujedinjuju sve patuljke.
+> „Kasniš, vilenjače!“ došla je gruba ivica poznatog glasa. Bruenor Battlehammer krenuo je leđima svog mrtvog neprijatelja, ne obazirući se na činjenicu da je teško čudovište ležalo na vrhu njegovog vilenjačkog prijatelja. Uprkos dodatnoj nelagodnosti, dugački, šiljati, često slomljeni nos patuljaka i sivo prošarana, mada još uvek vatreno crvena brada, Drizztu su postali dobrodošao prizor. „Znao sam da ću vas naći u nevolji ako izađem i potražim vas!“
+>
+> <p stile = "tekt-align: right"> <em> - R. A. Salvatore, Kristalna krhotina </em> </p>
 
 
-### Niski i stasiti
-
-Smjeli i izdržljivi patuljci poznati su kao vješti ratnici, rudari i radnici kamena i metala. Iako stoje duboko ispod 5 stopa, patuljci su toliko široki i kompaktni da mogu težiti koliko i čovjek koji stoji gotovo dva metra više. Njihova hrabrost i izdržljivost također se lako mogu mjeriti sa bilo kojim većim ljudima.
-
-Patuljaška koža se kreće od tamnosmeđe do blijeđe nijanse obojene crvenom bojom, ali najčešće su nijanse svijetlosmeđe ili duboke preplanule boje, poput određenih tonova zemlje. Njihova duga kosa, ali u jednostavnim stilovima, obično je crna, siva ili smeđa, iako bljeđi patuljci često imaju crvenu kosu. Muški patuljci visoko cijene svoju bradu i pažljivo ih njeguju.
+Kraljevstva bogata drevnom veličinom, dvorane urezane u korenima planina, odjek krampira i čekića u dubokim rudnicima i plamenim kovačnicama, posvećenost klanu i tradiciji i goruća mržnja goblina i orka - ove zajedničke niti ujedinjuju sve patuljke.
 
 
-### Dugo pamćenje, duge patuljkedoživjeti
+### Kratka i stasita
 
-patuljci moguviše od 400 godina, tako da se najstariji živi patuljci često sjećaju sasvim drugačijeg svijeta. Na primjer, neki od najstarijih patuljaka koji žive u Citadeli Felbarr (u svijetu Zaboravljenih carstava) mogu se prisjetiti dana prije više od tri vijeka kada su orci osvojili tvrđavu i odveli ih u progonstvo koje je trajalo više od 250 godina. Ova im dugovječnost daje perspektivu na svijet koja nedostaje kraćim vijekovima kao što su ljudi i poluradovi.
+Smeli i izdržljivi patuljci poznati su kao vešti ratnici, rudari i radnici kamena i metala. Iako stoje i ispod pet stopa visoki, patuljci su toliko široki i kompaktni da mogu da teže koliko i čovek visok skoro dva metra. Njihova hrabrost i izdržljivost takođe se lako mogu podudarati sa bilo kojim većim ljudima.
 
-Patuljci su čvrsti i izdržljivi poput planina koje vole, prolazeći kroz stoljeća sa stoičkom izdržljivošću i malo promjena. Poštuju tradiciju svojih klanova, vodeći svoje pretke do osnivanja svojih najstarijih uporišta u mladosti svijeta i ne napuštaju te tradicije olako. Dio tih tradicija je posvećenost bogovima patuljaka, koji podržavaju patuljaške ideale marljivog rada, vještine u borbi i predanosti kovačnici.
-
-Pojedinačni patuljci su odlučni i odani, vjerni svojoj riječi i odlučni u akciji, ponekad do svojeglavosti. Mnogi patuljci imaju snažan osjećaj pravde i polako zaboravljaju nepravde koje su pretrpjeli. Pogrešno počinjeno jednom patuljku je pogrešno počinjeno cijelom klanu patuljka, tako da ono što započinje u potrazi za osvetom jednog patuljka može postati sveopća zavada klana.
+Patuljaška koža se kreće od tamno smeđe do bleđe nijanse obojene crvenom bojom, ali najčešće su nijanse svetlo smeđe ili duboke preplanule boje, poput određenih tonova zemlje. Njihova duga kosa, ali u jednostavnim stilovima, obično je crna, siva ili smeđa, mada bleđi patuljci često imaju crvenu kosu. Muški patuljci izuzetno cene svoju bradu i pažljivo ih neguju.
 
 
-### Klanovi i kraljevstva
+### Dugo pamćenje, duge zamerke
 
-Patuljaška kraljevstva protežu se duboko ispod planina gdje patuljci vade dragulje i plemenite metale i kuju predmete čuda. Vole ljepotu i umjetnost plemenitih metala i finog nakita, a kod nekih patuljaka ta ljubav gnijezi u srebroljublju. Koje god bogatstvo ne mogu pronaći u svojim planinama, oni stiču trgovinom. Ne vole brodove, pa poduzetni ljudi i poltroni često vrše trgovinu robom patuljaka duž vodenih putova. Pouzdani pripadnici drugih rasa dobrodošli su u patuljasta naselja, iako su neka područja čak i njima ograničena.
+Patuljci mogu da dožive više od 400 godina, tako da se najstariji živi patuljci često sećaju sasvim drugačijeg sveta. Na primer, neki od najstarijih patuljaka koji žive u Citadeli Felbarr (u svetu Zaboravljenih carstava) mogu se setiti dana, pre više od tri veka, kada su orkovi osvojili tvrđavu i odveli ih u izgnanstvo koje je trajalo preko 250 godina. Ova dugovečnost im daje perspektivu na svet koja nedostaje kraćim vekama kao što su ljudi i poluradovi.
 
-Glavna jedinica patuljaškog društva je klan i patuljci izuzetno cijene društveni položaj. Čak i patuljci koji žive daleko od vlastitog kraljevstva njeguju svoj identitet i pripadnost svom klanu, prepoznaju srodne patuljke i pozivaju se na imena svojih predaka u zakletvama i psovkama. Biti bez klana najgora je sudbina koja može zadesiti patuljka.
+Patuljci su čvrsti i izdržljivi poput planina koje vole, prolazeći kroz vekove sa stoičkom izdržljivošću i malo promena. Oni poštuju tradicije svojih klanova, vodeći poreklo od svojih predaka do osnivanja svojih najstarijih uporišta u mladosti sveta, i ne napuštaju te tradicije olako. Deo tih tradicija je posvećenost bogovima patuljaka, koji podržavaju patuljaške ideale marljivog rada, veštine u borbi i odanosti kovačnici.
 
-Patuljci u drugim zemljama obično su zanatlije, posebno oružari, oklopnici i draguljari. Neki postaju plaćenici ili tjelohranitelji, traženi zbog njihove hrabrosti i odanosti.
-
-
-### bogova, zlata i klana
-
-Patuljcikoji preuzimaju pustolovni život mogli bi biti motivirani željom za blagom - zbog sebe same, za određenu svrhu ili čak iz altruističke želje da pomognu drugima. Drugi patuljci vođeni su zapoviješću ili nadahnućem božanstva, izravnim pozivom ili jednostavno željom da donesu slavu nekom od patuljastih bogova. Klan i predak su takođe važni pokretači. Patuljak bi mogao pokušati vratiti izgubljenu čast klanu, osvetiti se za drevnu krivicu koju je klan pretrpio ili zaraditi novo mjesto u klanu nakon progonstva. Ili bi patuljak mogao potražiti sjekiru kojom je upravljao moćni predak, izgubljen na bojnom polju prije nekoliko vijekova.
-
-**POVJERENJU**
-
-SPOROPatuljci se prolazno slažu s većinom drugih rasa. "Razlika između poznanika i prijatelja je oko stotinu godina", patuljak kaže da bi mogao biti hiperbolan, ali svakako ukazuje na to koliko pripadniku kratkotrajne rase poput ljudi može biti teško da stekne povjerenje patuljaka .
-
-**_Vilenjaci. _**„Nije pametno ovisiti o vilenjacima. Ne govoreći šta će patuljak raditi dalje; kad čekić susretne glavu orka, oni su sposobni za početak pjevanja kao i za izvlačenje mača. Leteći su i neozbiljni. Dvije stvari treba reći za njih: Oni nemaju puno kovača, ali oni koje imaju vrlo dobro rade. A kad orci ili goblini dođu niz planine, vilenjaka je dobro imati na leđima. Možda nije dobar kao patuljak, ali nema sumnje da oni mrze orke jednako kao i mi. "
-
-**_Halflings. _**„Svakako, ugodni su ljudi. Ali pokaži mi heroja poluglavice. Carstvo, trijumfalna vojska. Čak i blago za vijekove koje su stvorile ruke poluglavaca. Ništa. Kako ih možeš shvatiti ozbiljno? ”
-
-**_Ljudi. _**„Odvojite vrijeme da upoznate čovjeka, a do tada je čovjek na njenoj smrtnoj postelji. Ako imate sreće, ona ima rodbinu - možda kćer ili unuku - koja ima ruke i srce jednako dobre kao i ona. Tada možete steći ljudskog prijatelja. I pazi kako odlaze! Namjeste srce na nešto, dobit će to, bilo da je to zmajeva ostava ili prijestolje carstva. Morate se diviti takvoj vrsti posvećenosti, čak i ako ih češće dovede u nevolju. "
+Pojedinačni patuljci su odlučni i odani, verni svojoj reči i odlučni u delovanju, ponekad do svojeglavosti. Mnogi patuljci imaju jak osećaj za pravdu i sporo zaboravljaju nepravde koje su pretrpeli. Pogreška učinjena jednom patuljku je pogreška učinjena čitavom patuljastom klanu, pa ono što započinje kao potraga za osvetom jednog patuljka može postati potpuno rasprostranjena klana.
 
 
-### Patuljasta imena
+### Klanovi i Kraljevstva
 
-Patuljaško ime daje starješina klana, u skladu s tradicijom. Svako vlastito ime patuljaka korišteno je i ponovno upotrebljavano kroz generacije. Patuljačko ime pripada klanu, a ne pojedincu. Patuljak koji zloupotrebljava ili sramoti ime klana lišen je imena i zakonom mu je zabranjeno koristiti bilo koje ime patuljaka umjesto njega.
+Kraljevstva patuljaka protežu se duboko ispod planina gde patuljci vade dragulje i plemenite metale i kuju predmete čuda. Vole lepotu i umetnost plemenitih metala i fini nakit, a kod nekih patuljaka ta ljubav zapaljuje srebroljublje. Koje god bogatstvo ne mogu da pronađu u svojim planinama, oni stiču trgovinom. Ne vole brodove, pa preduzimljivi ljudi i poltroni često obavljaju trgovinu patuljastim proizvodima duž vodenih puteva. Pouzdani pripadnici drugih rasa dobrodošli su u patuljaška naselja, iako su neka područja čak i njima ograničena.
 
-**Muška imena:** Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin , Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
+Glavna jedinica patuljaškog društva je klan i patuljci izuzetno cene društveni položaj. Čak i patuljci koji žive daleko od sopstvenih kraljevstava neguju svoj identitet i pripadnost svojim klanovima, prepoznaju srodne patuljke i pozivaju se na imena svojih predaka u zakletvama i psovkama. Biti bez klana je najgora sudbina koja može zadesiti patuljka.
 
-**Ženska imena:** Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mard , Riswynn, Sannl, Torbera, Torgga, Vistra Imena
-
-**klana:** Balderk, Battlehammer, Brawnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungartduvara
+Patuljci u drugim zemljama su obično zanatlije, posebno oružari, oklopnici i draguljari. Neki postaju plaćenici ili telohranitelji, traženi zbog njihove hrabrosti i odanosti.
 
 
-### Patuljaste osobinePatuljaste osobine
+### Bogovi, Zlato i Klan
 
-Vašegurođenih sposobnosti, djelić patuljaste prirode.
+Patuljci koji se bave avanturističkim životom mogu biti motivisani željom za blagom - zbog sebe same, za određenu svrhu, ili čak iz altruističke želje da pomognu drugima. Drugi patuljci vođeni su zapovešću ili inspiracijom božanstva, direktnim pozivom ili jednostavno željom da donesu slavu nekom od patuljastih bogova. Klan i poreklo su takođe važni pokretači. Patuljak može pokušati da povrati izgubljenu čast klana, osveti se za drevnu nepravdu koju je klan pretrpeo ili zaradi novo mesto u klanu nakon proterivanja. Ili bi patuljak mogao potražiti sekiru kojom je upravljao moćni predak, izgubljen na bojnom polju pre vekova.
 
-**Povećanje ocjene sposobnosti.** Vaša ocjena za Ustav povećava se za 2.
+>**SPORO POVERATI**
+>
+> Patuljci se slažu dobro sa većinom drugih rasa. „Razlika između poznanika i prijatelja je oko sto godina“, patuljak kaže da bi mogao biti hiperbolan, ali svakako ukazuje na to koliko pripadniku kratkotrajne rase poput ljudi može biti teško da stekne poverenje patuljaka .
+>
+>**_ Vilenjaci. _** „Nije pametno zavisiti od vilenjaka. Ne govoreći šta će patuljak dalje raditi; kad čekić naiđe na glavu orka, oni su sposobni da počnu da pevaju kao da izvuku mač. Leteći su i neozbiljni. Dve stvari treba reći za njih: Oni nemaju mnogo kovača, ali oni koji imaju vrlo dobro rade. A kada orci ili goblini dođu niz planine, dobro je imati vilenjaka na leđima. Možda nije dobar kao patuljak, ali nesumnjivo je da mrze orke jednako kao i mi “.
+>
+>**_ Halflings. _** „Naravno, oni su prijatan narod. Ali pokaži mi heroja poluglavice. Carstvo, trijumfalna vojska. Čak i blago za vekove koje su napravile ruke poluglavaca. Ništa. Kako možete da ih shvatite ozbiljno? “
+>
+>**_ Ljudi. _** „Odvojite vreme da upoznate čoveka, a do tada je čovek na njenoj smrtnoj postelji. Ako imate sreće, ona ima rod - možda ćerku ili unuku - koja ima ruke i srce jednako dobre kao i ona. Tada možete da steknete ljudskog prijatelja. I gledajte ih kako odlaze! Usmerili su srce na nešto, to će i dobiti, bilo da je to zmajeva ostava ili presto carstva. Morate se diviti takvoj vrsti posvećenosti, čak i ako ih češće dovede u nevolju. “
 
-**Dob.** Patuljci sazrijevaju istom brzinom kao i ljudi, ali smatraju se mladima dok ne napune 50 godina. U prosjeku žive oko 350 godina.
 
-**Poravnanje.** Većina patuljaka je zakonita, čvrsto vjerujući u dobrobit uređenog društva. Oni teže i dobru, sa snažnim osjećajem za fer igru ​​i uvjerenjem da svi zaslužuju sudjelovati u prednostima pravednog poretka.
+### Imena patuljaka
 
-**Veličina.** Patuljci su visoki između 4 i 5 stopa i prosječno imaju oko 150 kilograma. Vaša veličina je srednja.
+Patuljačevo ime dodeljuje starešina klana, u skladu sa tradicijom. Svako vlastito ime patuljaka korišteno je i ponovo korišteno kroz generacije. Patuljačko ime pripada klanu, a ne pojedincu. Patuljak koji zloupotrebi ili sramoti ime klana lišava se imena i zakonom mu je zabranjeno da koristi bilo koje ime patuljaka umesto njega.
+
+**Muška imena:** Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn , Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
+
+**Ženska imena:** Amber, Artin, Audhild, Bardrin, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristrid, Ilde, Liftrasa, Mardred, Risvinn, Sannl, Torbera, Torgga , Vistra
+
+**Imena klana:** Balderk, Battlehammer, Bravnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart
+
+
+### Patuljaste osobine
+
+Vaš lik patuljaka ima niz urođenih sposobnosti, deo i deo patuljaške prirode.
+
+**Povećanje ocene sposobnosti.** Ocena vaše ustavnosti povećava se za 2.
+
+**Starost.** Patuljci sazrevaju istom brzinom kao i ljudi, ali se smatraju mladima dok ne napune 50 godina. U proseku žive oko 350 godina.
+
+**Poravnanje.** Većina patuljaka je zakonita, čvrsto verujući u dobrobit uređenog društva. Oni teže i dobru, sa snažnim osećajem za fer igru i uverenjem da svi zaslužuju da učestvuju u prednostima pravednog poretka.
+
+**Veličina.** Patuljci su visoki između 4 i 5 stopa i prosečno oko 150 kilograma. Vaša veličina je srednja.
 
 **Brzina.** Osnovna brzina hoda je 25 stopa. Nošenjem teškog oklopa vaša brzina se ne smanjuje.
 
-**Darkvision.** Naviknuti na život pod zemljom, imate vrhunski vid u mraku i polumraku. Možete vidjeti pri prigušenom svjetlu unutar 60 stopa od vas kao da je jarko svjetlo, a pri mraku kao da je prigušeno svjetlo. U tami ne možete razaznati boju, već samo sive nijanse.
+**Mračni vid.** Naviknuti na život pod zemljom, imate vrhunski vid u mraku i prigušenim uslovima. Možete videti pri slaboj svetlosti unutar 60 stopa od vas kao da je jarka svetlost, a u tami kao da je prigušena svetlost. U mraku ne možete razaznati boju, već samo sive nijanse.
 
-**Otpornost patuljaka.** Imate prednost u spremanju bacanja protiv otrova i imate otpor protiv oštećenja otrovom (objašnjeno u poglavlju 9, „[Borba](https://www.dndbeyond.com/compendium/rules/phb/combat)“).
+**Otpornost patuljaka.** Imate prednost u štednji bacanja protiv otrova i imate otpor protiv oštećenja otrovom (objašnjeno u poglavlju 9, „Borba“).
 
-**Borbeni trening patuljaka.** Vješt ste s bojnim sjekirom, ručnim sjekirom, lakim čekićem i bojnim čekićem.
+**Borbena obuka patuljaka.** Vešt ste sa bojnim sekirom, handaksom, lakim čekićem i bojnim čekićem.
 
-**Poznavanje alata.** Stječete znanje pomoću zanatskih alata po vašem izboru: kovačkih alata, pivskih potrepština ili zidarskih alata.
+**Poznavanje alata.** Sticanje znanja ostvarujete pomoću zanatskih alata po vašem izboru: kovačkih alata, pivskih zaliha ili zidarskih alata.
 
-**Zapanjujući.** Kad god izvršiteinteligencije ([historija](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#History)provjeru) u vezi s porijeklom kamenog kamena, smatrate se vještim u [istorije](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#History) vještinii dodajte dvostruko više svog bonusa za vještinu, umjesto vašeg uobičajenog bonusa za poznavanje
+**Zapanjujući.** Kad god izvršite proveru inteligencije (istorije) u vezi sa poreklom kamenog kamena, smatrate se veštim u veštini istorije i u ček dodate dvostruki bonus za znanje umesto svog uobičajenog bonusa za znanje.
 
-**jezika.** Možete govoriti, čitati i pisati zajedničko i patuljasto. Patuljak je prepun tvrdih suglasnika i grlenih zvukova, a te karakteristike prelivaju se na bilo koji drugi jezik koji bi patuljak mogao govoriti.
+**Jezici.** Možete da govorite, čitate i pišete zajedničko i patuljasto. Patuljak je prepun tvrdih suglasnika i grlenih zvukova, a te karakteristike se prelivaju na bilo koji drugi jezik koji bi patuljak mogao govoriti.
 
-**Subrace.** Dvije glavne podrase patuljaka naseljavaju svjetove razvoja i razvoja: brdski patuljci i planinski patuljci. Odaberite jednu od ovih podrasa.
+**Podrasa.** Dve glavne podrase patuljaka naseljavaju svetove D&D: brdski patuljci i planinski patuljci. Izaberite jednu od ovih podrasa.
 
-**DUERGAR**
-
-U gradovima duboko u Podzemlju žive duergar ili sivi patuljci. Ovi opaki, prikriveni trgovci robljem prepadaju površinski svijet tražeći zarobljenike, a zatim prodaju svoj plijen drugim rasama Underdark-a. Imaju urođene magične sposobnosti da postanu [nevidljivi](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Invisible) i da privremeno narastu do džinovske veličine.
+>**DUERGAR**
+>
+> U gradovima duboko u Underdark-u žive duergar, ili sivi patuljci. Ovi opaki, prikriveni trgovci robljem prepadaju površinski svet tražeći zarobljenike, a zatim prodaju svoj plen ostalim rasama Underdark-a. Imaju urođene magijske sposobnosti da postanu nevidljivi i da privremeno narastu do džinovske veličine.
 
 
 ### Brdski patuljak
 
-Kao brdski patuljak, imate izoštrena čula, duboku intuiciju i izvanrednu elastičnost. Zlatni patuljci Faerûna u svom moćnom južnom kraljevstvu brdski su patuljci, kao i prognani Neidar i uništeni Klar of Krynn u ambijentu Dragonlance.
+Kao brdski patuljak imate oštra čula, duboku intuiciju i izvanrednu elastičnost. Zlatni patuljci Faeruna u svom moćnom južnom kraljevstvu su brdski patuljci, kao i prognani Neidar i uništeni Klar of Krinn u okruženju Dragonlance.
 
-**Povećanje ocjene sposobnosti.** Rezultat vaše mudrosti povećava se za 1.
+**Povećanje ocene sposobnosti.** Vaša ocena mudrosti povećava se za 1.
 
-**Čvrstoća patuljaka.** Maksimalni broj pogodaka se povećava za 1, a povećava se za 1 svaki put kad postignete nivo.
-
-
-### Planinski patuljak
-
-Kao planinski patuljak, snažni ste i izdržljivi, navikli ste na težak život na surovim terenima. Vjerojatno ste na visokoj strani (za patuljka) i skloni ste svjetlijoj boji. Štitasti patuljci sjevernog Faerûna, kao i vladajući klan Hylar i plemeniti Daewar klan Dragonlance, planinski su patuljci.
-
-**Povećanje ocjene sposobnosti.** Rezultat vaše snage povećava se za 2.
-
-**Trening oklopa patuljaka.** Vi imate znanje sa laganim i srednjim oklopom.
+**Čvrstoća patuljaka.** Maksimalni broj pogodaka se povećava za 1, a povećava se za 1 svaki put kada dostignete nivo.
 
 
-## Vilenjak
+### Gorski patuljak
 
-"Nikad nisam zamišljao da postoji takva ljepota", tiho je rekao Goldmoon. Dnevni marš bio je težak, ali nagrada na kraju bila je izvan njihovih snova. Pratitelji su stajali na visokoj litici nad basnoslovnim gradom Qualinost.
+Kao planinski patuljak, snažni ste i izdržljivi, navikli ste na težak život na krševitom terenu. Verovatno ste na visokoj strani (za patuljka) i težite svetlijoj boji. Štitasti patuljci severnog Faeruna, kao i vladajući klan Hilar i plemeniti Daevar klan Dragonlance, su planinski patuljci.
 
-Četiri vitka tornja uzdizala su se iz uglova grada poput blistavih vretena, njihov briljantno bijeli kamen mramoriran sjajnim srebrom. Graciozni lukovi, vrteći se od tornja do tornja, vinuli su se zrakom. Izrađeni od drevnih patuljaka kovača, bili su dovoljno snažni da izdrže težinu vojske, ali izgledali su toliko nježni da bi ptičje osvjetljenje na njima moglo srušiti ravnotežu. Ovi blistavi lukovi bili su jedine granice grada; oko Qualinosta nije bilo zida. Vilenjački grad s ljubavlju je raširio ruke prema divljini.
+**Povećanje ocene sposobnosti.** Vaša ocena snage se povećava za 2.
 
-<p style="text-align: right">
-<em>- Margaret Weis i Tracy Hickman, Zmajevi jesenjih</em></p>
-
-
-vilenjaka u sumraku čarobni su ljudi onostrane gracije, koji žive u svijetu, ali ne u potpunosti u njegovom dijelu. Žive na mjestima eterične ljepote, usred drevnih šuma ili u srebrnastim kružnicama blistavim vilinskom svjetlošću, gdje tiha muzika lebdi u zraku, a nježni mirisi lelujaju na povjetarcu. Vilenjaci vole prirodu i magiju, umjetnost i umjetnost, muziku i poeziju i dobre stvari svijeta.
+**Trening oklopa patuljaka.** Vešt ste u laganom i srednjem oklopu.
 
 
-### Vitki i graciozni
+## Elf
 
-Svojom nezemaljskom gracioznošću i finim crtama lica, vilenjaci se čine zastrašujuće lijepim za ljude i pripadnike mnogih drugih rasa. Oni su u prosjeku nešto niži od ljudi, u rasponu od nešto više od 5 stopa do nešto više od 6 stopa. Vitkiji su od ljudi, teški samo 100 do 145 kilograma. Mužjaci i ženke približno su iste visine, a mužjaci su samo neznatno teži od ženki.
+> "Nikad nisam zamišljao da takva lepota postoji", tiho je rekao Goldmoon. Dnevni pohod bio je težak, ali nagrada na kraju bila je izvan njihovih snova. Saputnici su stajali na visokoj litici nad basnoslovnim gradom Kualinost.
+>
+> Četiri vitka tornja uzdizala su se iz uglova grada poput blistavih vretena, njihov briljantni beli kamen mermerisan sjajnim srebrom. Graciozni lukovi, vrteći se od tornja do tornja, vinuli su se vazduhom. Izrađeni od drevnih patuljaka kovača, bili su dovoljno snažni da izdrže težinu vojske, ali izgledali su toliko nežni da bi ptičje osvetljenje na njima moglo da obori ravnotežu. Ovi blistavi lukovi bili su jedine granice grada; oko Kvalinosti nije bilo zida. Vilenjački grad s ljubavlju je raširio ruke prema divljini.
+>
+> <p stile = "tekt-align: right"> <em> - Margaret Veis i Traci Hickman, Zmajevi iz jesenjeg sumraka </em> </p>
 
-Boja vilenjaka obuhvaća uobičajeni ljudski opseg, a uključuje i kožu u nijansama bakra, bronze i gotovo plavkastobijele kose, zelene ili plave kose i oči poput bazena od tečnog zlata ili srebra. Vilenjaci nemaju dlake na licu i malo tijela. Favoriziraju elegantnu odjeću u jarkim bojama i uživaju u jednostavnom, ali simpatičnom nakitu.
-
-
-### Bezvremenski perspektivni
-
-vilenjaci mogu živjeti i više od 700 godina, pružajući im široku perspektivu o događajima koji bi mogli dublje uznemiriti rase kraćih godina. Češće se zabavljaju nego uzbuđuju i vjerovatno će biti znatiželjniji nego pohlepni. Oni imaju tendenciju da ostanu podalje i nesramni zbog sitnih slučajnosti. Međutim, kada slijede cilj, bilo da se pustolovi u misiji ili uče novu vještinu ili umjetnost, vilenjaci mogu biti koncentrirani i neumoljivi. Oni polako sklapaju prijatelje i neprijatelje, a još sporije ih zaboravljaju. Na sitne uvrede odgovaraju prezirno, a na ozbiljne uvrede osvetoljubivo.
-
-Poput grana mladog drveta, vilenjaci su fleksibilni suočeni s opasnošću. Oni vjeruju u diplomaciju i kompromis kako bi riješili razlike prije nego što eskaliraju do nasilja. Poznato je da se povlače iz upada u svoje šumske domove, uvjereni da mogu jednostavno pričekati napadače. Ali kad se za tim ukaže potreba, vilenjaci otkrivaju strogu borilačku stranu, demonstrirajući vještinu mačem, lukom i strategijom.
+Vilenjaci su magični narod onostrane gracije, žive u svetu, ali ne u potpunosti u njegovom delu. Žive na mestima eterične lepote, usred drevnih šuma ili u srebrnastim kuglama blistavim vilinskom svetlošću, gde tiha muzika lebdi vazduhom, a nežni mirisi lelujaju na povetarcu. Vilenjaci vole prirodu i magiju, umetnost i umetnost, muziku i poeziju i dobre stvari sveta.
 
 
-### Skrivenacarstva
+### vitka i graciozna
 
-šumskaVećina vilenjaka boravi u malim šumskim selima skrivenim među drvećem. Vilenjaci love divljač, skupljaju hranu i uzgajaju povrće, a njihova vještina i magija omogućavaju im da se izdržavaju bez potrebe za krčenjem i oranjem zemlje. Oni su nadareni zanatlije, izrađuju fino obrađenu odjeću i umjetničke predmete. Njihov kontakt s autsajderima obično je ograničen, iako nekoliko vilenjaka dobro zarađuje trgujući od izrađenih predmeta za metale (koje ne zanimaju rudarstvo).
+Svojom nezemaljskom gracioznošću i finim crtama, vilenjaci se čine zastrašujuće lepim za ljude i članove mnogih drugih rasa. Oni su u proseku nešto niži od ljudi, u rasponu od nešto više od 5 stopa do nešto više od 6 stopa. Vitkiji su od ljudi, teški samo 100 do 145 kilograma. Mužjaci i ženke su približno iste visine, a mužjaci su samo neznatno teži od ženki.
 
-Vilenjaci koje susreću izvan svojih zemalja obično su putujući ministranti, umjetnici ili mudraci. Ljudski plemići natječu se za usluge vilenjaka instruktora koji će svojoj djeci podučavati mačevanje ili magiju.
-
-
-### istraživanje i
-
-Vilenjaci zaavanturu avanturama se bave iz prohoda lutanja. Budući da su toliko dugovječni, mogu uživati ​​u vijekovima istraživanja i otkrića. Ne sviđa im se tempo ljudskog društva, koje se svakodnevno uređuje, ali se neprestano mijenja tokom decenija, pa pronalaze karijeru koja im omogućava da slobodno putuju i odrede svoj tempo. Vilenjaci također uživaju u vježbanju svoje borilačke moći ili stjecanju veće magične moći, a avantura im to omogućava. Neki bi se mogli pridružiti pobunjenicima koji se bore protiv ugnjetavanja, a drugi bi mogli postati prvaci moralnih ciljeva.
-
-**SREĆI, ALI GREBOZNI**
-
-Iako mogu biti oholi, vilenjaci su uglavnom milostivi čak i prema onima koji ne ispunjavaju svoja velika očekivanja - a to je većina ne-vilenjaka. Ipak, oni mogu pronaći dobro u gotovo svima.
-
-**_Patuljci_.** „Patuljci su dosadni, nespretni oafovi. Ali ono što im nedostaje u humoru, sofisticiranosti i manirima, hrabro izmišljaju. I moram priznati, njihovi najbolji kovači proizvode umjetnost koja se približava vilenjačkom kvalitetu. "
-
-**_Halflings._** „Halflings su ljudi jednostavnih užitaka, a to nije svojstvo za prezir. Oni su dobri ljudi, brinu se jedni za druge i brinu se o svojim vrtovima, a pokazali su se tvrđi nego što izgledaju kad se za tim ukaže potreba. "
-
-**_Ljudi._** „Sva ta žurba, njihova ambicija i napor da nešto postignu prije nego što prođu njihovi kratki životi prođu - ljudski pothvati ponekad se čine tako uzaludnima. Ali onda pogledate šta su postigli i morate cijeniti njihova postignuća. Kad bi samo mogli usporiti i naučiti malo usavršavanja. "
+Obojenost vilenjaka obuhvata uobičajeni ljudski opseg i takođe uključuje kožu u nijansama bakra, bronze i gotovo plavkasto bele, kosu zelene ili plave i oči poput bazena od tečnog zlata ili srebra. Vilenjaci nemaju dlake na licu i malo tela. Favorizuju elegantnu odeću u jarkim bojama i uživaju u jednostavnom, ali divnom nakitu.
 
 
-### Imena
+### Bezvremena perspektiva
 
-VilenjaciVilenjaci se smatraju djecom dok se ne proglase odraslima, nešto nakon stotog rođendana, a prije tog razdoblja nazivaju se dječjim imenima.
+Vilenjaci mogu da žive duže od 700 godina, pružajući im široku perspektivu o događajima koji bi mogli dublje da uznemire rase kraćih godina. Češće se zabavljaju nego uzbuđuju i češće su radoznali nego pohlepni. Oni imaju tendenciju da ostanu podalje i nezadovoljni sitnim slučajnostima. Međutim, kada slede težnju ka cilju, bilo da se pustolovi u misiji ili uče novu veštinu ili umetnost, vilenjaci mogu biti koncentrisani i neumoljivi. Spori su u stvaranju prijatelja i neprijatelja, a još sporiji u zaboravu. Na sitne uvrede odgovaraju prezirno, a na ozbiljne uvrede osvetoljubivo.
 
-Nakon proglašenja punoljetnosti, vilenjak odabire ime odrasle osobe, iako bi oni koji su ga poznavali kao mlađeg mogli i dalje koristiti ime djeteta. Ime odraslog odraslog vilenjaka jedinstvena je tvorevina, iako može odražavati imena uvaženih pojedinaca ili drugih članova porodice. Postoji mala razlika između muških i ženskih imena; ovdje grupiranja odražavaju samo opće tendencije. Pored toga, svaki vilenjak nosi prezime, obično kombinaciju drugih vilenjačkih riječi. Neki vilenjaci koji putuju među ljudima prevode svoja obiteljska imena u Zajedničko, ali drugi zadržavaju vilinsku verziju.
-
-**Imena djece:** Ara, Bryn, Del, Eryn, Faen, Innil, Lael, Mella, Naill, Naeris, Phann, Rael, Rinn, Sai, Syllin, Thia, Vall
-
-**Muška odrasla imena:** Adran, Aelar, Aramil, Arannis, Aust, Beiro, Berrian, Carric, Enialis, Erdan, Erevan, Galinndan, Hadarai, Heian, Himo, Immeral, Ivellios, Laucian, Mindartis, Paelias, Peren, Quarion, Riardon, Rolen, Soveliss, Thamior, Tharivol, Theren, Varis
-
-**Ženska odrasla imena :** Adrie, Althaea, Anastrianna, Andraste, Antinua, Bethrynna, Birel, Caelynn, Drusilia, Enna, Felosial, Ielenia, Jelenneth, Keyleth, Leshanna, Lia, Meriele, Mialee, Naivara, Quelenna, Quillathe Sariel, Shanaquila Shanaquila, Shanaquila, Shanaquila, Shanaquila, Shanaquila , Theirastra, Thia, Vadania, Valanthe, Xanaphia Prezime
-
-**(uobičajeni prijevodi):** Amakiir (Gemflower), Amastacia (Starflower), Galanodel (Moonwhisper), Holimion (Diamonddew), Ilphelkiir (Gemblossom), Liadon (Silverfrond), Meliamne (Oakenheelne) ), Naïlo (Noćni vjetrić), Siannodel (Moonbrook), Xiloscient (Goldpetal)
+Poput grana mladog drveta, vilenjaci su fleksibilni pred opasnošću. Oni veruju u diplomatiju i kompromis kako bi rešili razlike pre nego što prerastu u nasilje. Poznato je da se povlače iz upada u svoje šumske domove, uvereni da mogu jednostavno sačekati napadače. Ali kada se ukaže potreba, vilenjaci otkrivaju strogu borilačku stranu, demonstrirajući veštinu mačem, lukom i strategijom.
 
 
-### Elf osobine
+### Skrivena šumska carstva
 
-Vaš vilenjački lik ima razne prirodne sposobnosti , rezultat hiljaditih godina vilenjačkog usavršavanja.
+Većina vilenjaka boravi u malim šumskim selima skrivenim među drvećem. Vilenjaci love divljač, skupljaju hranu i uzgajaju povrće, a njihova veština i magija omogućavaju im da se izdržavaju bez potrebe za krčenjem i oranjem zemlje. Oni su talentovani zanatlije, izrađuju fino obrađenu odeću i umetničke predmete. Njihov kontakt sa autsajderima obično je ograničen, iako nekoliko vilenjaka dobro zarađuje za to što trguju izrađenim predmetima za metale (koje oni ne zanimaju za rudarstvo).
 
-**Povećanje ocjene sposobnosti.** Vaš rezultat spretnosti povećava se za 2.
+Vilenjaci sa kojima se susreću izvan svojih zemalja obično su putujući ministranti, umetnici ili mudraci. Ljudski plemići se takmiče za usluge vilenjaka instruktora da podučavaju igru mačeva ili magiju svojoj deci.
 
-**Dob.** Iako vilenjaci dostižu fizičku zrelost otprilike u istoj dobi kao i ljudi, vilenjačko razumijevanje zrelosti prelazi fizički rast da bi obuhvatilo svjetovna iskustva. Vilenjak obično tvrdi da je punoljetan i ima punoljetno ime oko 100. godine i može doživjeti 750 godina.
 
-**Poravnanje.** Vilenjaci vole slobodu, raznolikost i samoizražavanje, pa se snažno naginju nežnijim aspektima kaosa. Oni cijene i štite tuđu slobodu kao i vlastitu, a često su i dobri nego ne. Drow su izuzetak; njihovo progonstvo u Podzemlje učinilo ih je opakim i opasnim. Drow su češće zli nego ne.
+### Istraživanje i avantura
 
-**Veličina.** Vilenjaci se kreću od ispod 5 do preko 6 stopa i vitke su građe. Vaša veličina je srednja.
+Vilenjaci iz avanture kreću u avanture. Budući da su tako dugovečni, mogu uživati u vekovima istraživanja i otkrića. Ne sviđa im se tempo ljudskog društva, koje je regimentirano iz dana u dan, ali se neprestano menja tokom decenija, pa pronalaze karijere koje im omogućavaju da slobodno putuju i odrede svoj tempo. Vilenjaci takođe uživaju u vežbanju svoje borilačke sposobnosti ili u sticanju veće magične moći, a avanture im to omogućavaju. Neki bi se mogli pridružiti pobunjenicima koji se bore protiv ugnjetavanja, a drugi bi mogli postati pobornici moralnih ciljeva.
+
+>**NESRATNI, ALI GLAVNI**
+>
+> Iako mogu biti oholi, vilenjaci su generalno milostivi čak i prema onima koji ne ispunjavaju svoja velika očekivanja - a to je većina ne-vilenjaka. Ipak, oni mogu pronaći dobro u bilo kome.
+>
+>**_ Patuljci _.** „Patuljci su dosadni, nespretni oafovi. Ali ono što im nedostaje u humoru, sofisticiranosti i manirima, hrabro izmišljaju. I moram priznati, njihovi najbolji kovači proizvode umetnost koja se približava vilenjačkom kvalitetu. “
+>
+>**_ Halflings ._** „Halflings su ljudi jednostavnih zadovoljstava, a to nije kvalitet koji se prezire. Oni su dobri ljudi, brinu jedni za druge i brinu se o svojim baštama, a pokazali su se tvrđi nego što izgledaju kad se za tim ukaže potreba. “
+>
+>**_ Ljudi ._** „Sva ta žurba, njihova ambicija i napor da nešto postignu pre nego što njihovi kratki životi prođu - ljudski napori ponekad izgledaju tako uzaludni. Ali onda pogledate šta su postigli i morate ceniti njihova dostignuća. Kad bi samo mogli usporiti i naučiti malo usavršavanja “.
+
+
+### Imena vilenjaka
+
+Vilenjaci se smatraju decom sve dok se ne proglase odraslima, nešto posle stotog rođendana, a pre ovog perioda nazivaju se dečjim imenima.
+
+Proglašavajući punoletstvo, vilenjak bira ime za odraslu osobu, iako bi oni koji su ga poznavali kao dete mogli da nastave da koriste ime deteta. Ime odraslog odraslog vilenjaka je jedinstvena tvorevina, mada može da odražava imena uvaženih pojedinaca ili drugih članova porodice. Postoji mala razlika između muških i ženskih imena; grupacije ovde odražavaju samo opšte tendencije. Pored toga, svaki vilenjak nosi porodično ime, obično kombinaciju drugih vilenjačkih reči. Neki vilenjaci koji putuju među ljudima prevode svoja porodična imena u Zajednički, ali drugi zadržavaju vilinsku verziju.
+
+**Dečja imena:** Ara, Brin, Del, Erin, Faen, Innil, Lael, Mella, Naill, Naeris, Phann, Rael, Rinn, Sai, Sillin, Thia, Vall
+
+**Imena odraslih muškaraca:** Adran, Aelar, Aramil, Arannis, Aust, Beiro, Berrian, Carric, Enialis, Erdan, Erevan, Galinndan, Hadarai, Heian, Himo, Immeral, Ivellios, Laucian, Mindartis, Paelias, Peren, Kvarion, Riardon, Rolen, Soveliss, Thamior, Tharivol, Theren, Varis
+
+**Imena odraslih žena:** Adrie, Althaea, Anastrianna, Andraste, Antinua, Bethrinna, Birel, Caelinn, Drusilia, Enna, Felosial, Ielenia, Jelenneth, Keileth, Leshanna, Lia, Meriele, Mialee, Naivara, Kuelenna, Kuillathe Sariel, Shanairra, Shava, Silakui, Theirastra, Thia, Vadania, Valanthe, Ksanaphia
+
+**Porodična imena (uobičajeni prevodi):** Amakiir (Gemflover), Amastacia (Starflover), Galanodel (Moonvhisper), Holimion (Diamonddev), Ilphelkiir (Gemblossom), Liadon (Silverfrond), Meliamne (Oakenheel), Nailo (Nightbreeze) , Siannodel (Moonbrook), Ksiloscient (Goldpetal)
+
+
+### Osobine vilenjaka
+
+Vaš lik vilenjaka ima razne prirodne sposobnosti, rezultat hiljaditih godina vilenjačkog usavršavanja.
+
+**Povećanje ocene sposobnosti.** Vaš rezultat spretnosti povećava se za 2.
+
+**Starost.** Iako vilenjaci dostižu fizičku zrelost otprilike u istoj dobi kao i ljudi, vilenjačko shvatanje zrelosti prevazilazi fizički rast i obuhvata svetsko iskustvo. Vilenjak obično tvrdi da je punoletan i ima punoletno ime oko 100. godine i može da doživi 750 godina.
+
+**Poravnanje.** Vilenjaci vole slobodu, raznolikost i samoizražavanje, pa se snažno priklanjaju nežnijim aspektima haosa. Oni vrednuju i štite tuđu slobodu kao i svoju, i češće su dobri nego ne. Drov su izuzetak; njihovo izgnanstvo u Podzemlje učinilo ih je opakim i opasnim. Drov su češće zli nego ne.
+
+**Veličina.** Vilenjaci se kreću od ispod 5 do preko 6 stopa i vitke su građe. Vaša veličina je srednja.
 
 **Brzina.** Osnovna brzina hoda je 30 stopa.
 
-**Darkvision.** Navikli na šume i noćno nebo, imate vrhunski vid u mraku i polumraku. Možete vidjeti pri prigušenom svjetlu unutar 60 stopa od vas kao da je jarko svjetlo, a pri mraku kao da je prigušeno svjetlo. U tami ne možete razaznati boju, već samo sive nijanse.
+**Mračni vid.** Naviknuti na tvilit šume i noćno nebo, imate vrhunski vid u mraku i prigušenim uslovima. Možete videti pri slaboj svetlosti unutar 60 stopa od vas kao da je jarka svetlost, a u tami kao da je prigušena svetlost. U mraku ne možete razaznati boju, već samo sive nijanse.
 
-**Osetljiva osjetila.** Vi [poznajetepercepcije](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception) vještinu.
+**Osetljiva čula.** Vi poznajete veštinu percepcije.
 
-**Fey Ancestry.** Imate prednost u spremanju bacanja pred [šarmom](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Charmed), a magija vas ne može uspavati.
+**Fei Ancestri.** Imate prednost u uštedi u bacanju pred šarmom, a magija vas ne može uspavati.
 
-**Trance.** Vilenjaci ne trebaju spavati. Umjesto toga, duboko meditiraju, ostajući polusvjesni, po 4 sata dnevno. (Uobičajena riječ za takvu meditaciju je „trans“.) Dok meditirate, možete sanjati o modi; takvi su snovi zapravo mentalne vježbe koje su postale refleksive tokom godina vježbanja. Nakon odmora na ovaj način, stječete istu korist koju čovjek čini od 8 sati sna.
+**Trance.** Vilenjaci ne moraju da spavaju. Umesto toga, oni duboko meditiraju, ostajući polusvesni, po 4 sata dnevno. (Uobičajena reč za takvu meditaciju je „trans“.) Dok meditirate, možete sanjati o modi; takvi snovi su zapravo mentalne vežbe koje su tokom godina postale refleksivne. Nakon odmora na ovaj način dobijate istu korist koju čovek čini od 8 sati sna.
 
-**Jezici.** Možete govoriti, čitati i pisati zajedničko i vilenjačko. Elvish je fluidan, suptilnih intonacija i složene gramatike. Elven književnost je bogata i raznolika, a njihove pjesme i pjesme poznate su među ostalim rasama. Mnogi bardovi uče svoj jezik pa na svoj repertoar mogu dodati vilinske balade.
+**Jezici.** Možete da govorite, čitate i pišete zajednički i vilinski. Elvish je fluidan, suptilnih intonacija i složene gramatike. Elven književnost je bogata i raznovrsna, a njihove pesme i pesme su poznate među ostalim rasama. Mnogi bardovi uče svoj jezik kako bi na svoj repertoar mogli da dodaju vilinske balade.
 
-**Subrace.** Drevne podjele među vilenjacima rezultirale su s tri glavne podrase: visoki vilenjaci, drveni vilenjaci i tamni vilenjaci, koje se obično naziva drow. Odaberite jednu od ovih podrasa. U nekim se svjetovima ove podrase dijele još dalje (poput sunčevih vilenjaka i mjesečevih vilenjaka u Zaboravljenim carstvima), pa ako želite, možete odabrati užu podrasu.
+**Subrace.** Drevne podele među vilenjacima dovele su do tri glavne podrase: visoki vilenjaci, drveni vilenjaci i tamni vilenjaci, koje se obično nazivaju drov. Izaberite jednu od ovih podrasa. U nekim svetovima ove podrase su još dalje podeljene (kao što su sunčevi vilenjaci i mesečevi vilenjaci u zaboravljenim carstvima), pa ako želite, možete odabrati užu podrasu.
 
-**MRAK KAPLJICE**
-
-Da nije bilo jednog poznatog izuzetka, rasa utopljenika bila bi općenito osramoćena. Za većinu su rasa pljačkaša koji obožavaju demone koji žive u podzemnim dubinama Podzemlja, pojavljujući se samo u najcrnjim noćima kako bi pljačkali i poklali površinske stanovnike koje preziru. Njihovo je društvo izopačeno i zaokupljeno naklonošću Lolth, njihove božice pauka, koja sankcionira ubistva i istrebljenje čitavih porodica dok se plemićke kuće bore za svoj položaj.
-
-Ipak je jedan drov barem slomio kalup. U svijetu zaboravljenih carstava, Drizzt Do'Urden, sjeverni čuvar, dokazao je svoj kvalitet dobrog srca, branitelja slabih i nevinih. Odbacujući njegovo nasljeđe i poteškoće u svijetu koji ga gleda s užasom i gnušanjem, Drizzt je model za one malobrojne drove koji slijede njegove korake, pokušavajući pronaći život odvojen od zlog društva njihovih domova Underdark-a.
-
-Drow odrasta vjerujući da su rase koje žive na površini inferiorne, bezvrijedne, osim što su robovi. Drowu koji razvija savjest ili smatra potrebnim za suradnju s pripadnicima drugih rasa teško je prevladati tu predrasudu, pogotovo kad su toliko često na primanju mržnje.
+>**TAMA PADA**
+>
+> Da nije bilo jednog poznatog izuzetka, rasa drova bila bi opšteprihvaćena. Za većinu su rasa maradera koji obožavaju demone koji žive u podzemnim dubinama Podzemlja, pojavljujući se samo u najcrnjim noćima da pljačkaju i kolju površinske stanovnike koje preziru. Njihovo društvo je izopačeno i zaokupljeno naklonošću Lolth, njihove boginje pauka, koja sankcioniše ubistvo i istrebljenje čitavih porodica dok se plemenite kuće nadmeću za svoj položaj.
+>
+> Ipak je jedan drov bar slomio kalup. U svetu zaboravljenih carstava, Drizzt Do’Urden, čuvar severa, dokazao je svoj kvalitet dobrog srca, branioca slabih i nevinih. Odbacujući njegovo nasleđe i poteškoće u svetu koji ga gleda s užasom i gnušanjem, Drizzt je model za one malobrojne drove koji slede njegove korake, pokušavajući da pronađu život odvojen od zlog društva njihovih domova Underdark-a.
+>
+> Drov odrasta verujući da su rase koje žive na površini inferiorne, bezvredne, osim što su robovi. Drovu koji razvija savest ili smatra potrebnim da sarađuje sa pripadnicima drugih rasa teško je prevazići tu predrasudu, posebno kada su toliko često na meti mržnje.
 
 
 ### Visoki vilenjak
 
-Kao visoki vilenjak, imate istančan um i vladate barem osnovama magije. U mnogim svjetovima D&D postoje dvije vrste visokih vilenjaka. Jedan tip (koji uključuje sive vilenjake i dolinske vilenjake Greyhawka, Silvanestija Zmaja i sunčane vilenjake Zaboravljenih carstava) je ohol i povučen, vjerujući da su superiorniji od ne-vilenjaka, pa čak i drugih vilenjaka. Drugi tip (uključujući visoke vilenjake Greyhawka, Qualinesti iz Zmaja i mjesečeve vilenjake iz Zaboravljenih carstava) su češći i prijateljskiji, te se često susreću među ljudima i drugim rasama.
+Kao visoki vilenjak, imate istančan um i savladate barem osnove magije. U mnogim svetovima D&D postoje dve vrste visokih vilenjaka. Jedan tip (koji uključuje sive vilenjake i dolinske vilenjake Greihavka, Silvanesti Dragonlance-a i sunčane vilenjake Zaboravljenih carstava) je ohol i povučen, verujući da su superiorniji od ne-vilenjaka, pa čak i drugih vilenjaka. Drugi tip (uključujući visoke vilenjake Greihavka, Kualinesti of Dragonlance i mesečeve vilenjake u zaboravljenim carstvima) su češći i prijateljskiji, i često se sreću među ljudima i drugim rasama.
 
-Sunčani vilenjaci iz Faerûna (zvani i zlatni vilenjaci ili vilenjaci) imaju bronzanu kožu i kosu od bakra, crne ili zlatne plave boje. Oči su im zlatne, srebrne ili crne. Mjesečevi vilenjaci (zvani i srebrni ili sivi vilenjaci) mnogo su bljeđi, alabasterske kože ponekad obojene plavom bojom. Često imaju kosu srebrno-bijele, crne ili plave boje, ali razne nijanse plave, smeđe i crvene nisu rijetke. Oči su im plave ili zelene i prepune zlata.
+Sunčevi vilenjaci iz Faeruna (zvani takođe zlatni vilenjaci ili vilenjaci izlaska sunca) imaju bronzanu kožu i kosu od bakra, crne ili zlatne plave boje. Oči su im zlatne, srebrne ili crne. Mesečevi vilenjaci (zvani takođe srebrni ili sivi vilenjaci) su mnogo bleđi, alabasterska koža ponekad obojena plavom bojom. Često imaju kosu srebrno bele, crne ili plave boje, ali razne nijanse plave, smeđe i crvene nisu retke. Oči su im plave ili zelene i prepune zlata.
 
-**Povećanje ocjene sposobnosti.** Vaša ocjena inteligencije povećava se za 1.
+**Povećanje ocene sposobnosti.** Vaša ocena inteligencije povećava se za 1.
 
-**Obuka za vilenjačko oružje.** Vi poznajete dugi mač, kratki mač, kratki i dugi luk.
+**Obuka za vilenjačko oružje.** Vešt ste sa dugim mačem, kratkim mačem, kratkim i dugim lukom.
 
 **Cantrip.** Sa liste čarolija čarobnjaka znate jedno putovanje po vašem izboru. Inteligencija je vaša sposobnost pravopisa za to.
 
@@ -228,759 +226,745 @@ Sunčani vilenjaci iz Faerûna (zvani i zlatni vilenjaci ili vilenjaci) imaju br
 
 ### Drveni vilenjak
 
-Kao drveni vilenjak, imate izoštrena čula i intuiciju, a noge vas flote brzo i krišom nose kroz vaše rodne šume. U ovu kategoriju spadaju divlji vilenjaci (Grugach) iz Greyhawka i Kagonesti iz Dragonlancea, kao i rase zvani drveni vilenjaci u Greyhawku i zaboravljenim carstvima. U Faerunu drveni vilenjaci (koji se nazivaju i divljim vilenjacima, zelenim ili šumskim vilenjacima) povučeni su i ne vjeruju u vilenjake.
+Kao šumski vilenjak, imate izoštrena čula i intuiciju, a noge vas flote brzo i krišom nose kroz vaše rodne šume. U ovu kategoriju spadaju divlji vilenjaci (Grugach) iz Greihavka i Kagonesti iz Dragonlancea, kao i rase zvani drveni vilenjaci u Greihavku i zaboravljenim carstvima. U Faerunu drveni vilenjaci (takođe zvani divlji vilenjaci, zeleni vilenjaci ili šumski vilenjaci) povučeni su i ne poveruju se u ne-vilenjake.
 
-Koža drvenih vilenjaka ima tendenciju da bude bakrenaste boje, ponekad sa zelenim tragovima. Njihova kosa teži ka smeđoj i crnoj boji, ali je povremeno plava ili bakreno obojena. Oči su im zelene, smeđe ili lješnjakove.
+Koža drvenih vilenjaka obično ima bakarnastu nijansu, ponekad sa zelenim tragovima. Njihova kosa teži ka smeđoj i crnoj boji, ali je povremeno plava ili bakarno obojena. Oči su im zelene, smeđe ili boje lešnika.
 
-**Povećanje ocjene sposobnosti.** Vaša ocjena mudrosti povećava se za 1.
+**Povećanje ocene sposobnosti.** Vaša ocena mudrosti povećava se za 1.
 
-**Elf Weapon Training.** Vi poznajete dugi mač, kratki mač, kratki i dugi luk.
+**Obuka za vilenjačko oružje.** Vešt ste sa dugim mačem, kratkim mačem, kratkim i dugim lukom.
 
-**Fleet of Foot.** Osnovna brzina hodanja povećava se na 35 stopa.
+**Fleet of Foot.** Osnovna brzina hoda se povećava na 35 stopa.
 
-**Maska divljine.** Možete se pokušati [sakritiprikriju](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Hide) čak i kad vas samo malolišće, jaka kiša, padajući snijeg, magla i drugi prirodni fenomeni.
+**Maska divljine.** Možete da pokušate da se sakrijete čak i kada ste samo malo zaklonjeni lišćem, jakom kišom, padajućim snegom, maglom i drugim prirodnim pojavama.
+
 
 
 ## Halfling
 
-Regis, halfling, jedini takve vrste na stotine kilometara u bilo kojem smjeru, zaključao je prste iza glave i naslonio se na mahovinu pokrivač stabla drveta. Regis je bio nizak, čak i prema standardima njegove omalene rase, s pahuljastim kovrčavim braon bravama koje su jedva prelazile metar od tri metra, ali trbuh mu je obilno podebljala ljubav prema dobrom obroku ili nekoliko njih, kako su se pružale prilike sami. Iskrivljeni štap koji mu je služio kao štap za pecanje podigao se iznad njega, stisnuo između dva nožna prsta i visio iznad tihog jezera, savršeno se zrcalivši u staklastoj površini Maer Dualdona.
-
-<p style="text-align: right">
-- <em>RA Salvatore, Kristalna krhotina</em></p>
-
-
-Udobnost kuće ciljevi su života većine polutki: mjesto za naseljavanje u miru i tišini, daleko od pljačke čudovišta i sukobljenih vojski; plamteća vatra i izdašan obrok; fino piće i fini razgovor. Iako neki poltroni svoje dane proživljavaju u udaljenim poljoprivrednim zajednicama, drugi čine nomadske sastave koji neprestano putuju, namamljeni otvorenim putem i širokim horizontom kako bi otkrili čudesa novih zemalja i naroda. Ali čak i ovi lutalice vole mir, hranu, ognjište i dom, iako bi dom mogao biti vagon koji se provlači zemljanim putem ili splav koji pluta nizvodno.
+> Regis polufilm, jedini takve vrste na stotine milja u bilo kom smeru, zaključao je prste iza glave i naslonio se na mahovinu pokrivača stabla drveta. Regis je bio nizak, čak i prema merilima njegove omalene rase, s pahuljastim kovrdžavim braon bravama koje su jedva dostizale metar od tri metra, ali mu je trbuh obilno podebljao ljubav prema dobrom obroku ili nekoliko njih, kako su se pružale mogućnosti sebe. Iskrivljeni štap koji mu je služio kao štap za pecanje podigao se iznad njega, stisnuo između dva prsta na nogama i visio nad tihim jezerom, savršeno se zrcalivši u staklastoj površini Maer Dualdona.
+>
+> <p stile = "tekt-align: right"> - <em> R.A. Salvatore, Kristalna krhotina </em> </p>
 
 
-### Mali i praktični
-
-Umanjeni polufilmi preživljavaju u svijetu prepunom većih stvorenja izbjegavajući obavijest ili, zabranjujući to, izbjegavajući uvredu. Visoki su oko 3 metra, čine se relativno bezopasnima i tako su uspjeli preživjeti stoljećima u sjeni carstava i na ivicama ratova i političkih sukoba. Skloni su stasitim teškim između 40 i 45 kilograma.
-
-Koža polutki varira od preplanule do blijede s rumenim odljevom, a kosa im je obično smeđa ili pješčano smeđa i valovita. Imaju smeđe ili lješnjakove oči. Halfling muškarci često sportski igraju duge zakukice, ali brada je rijetka među njima, a brkovi još i više. Vole nositi jednostavnu, udobnu i praktičnu odjeću, preferirajući jarke boje.
-
-Halfling praktičnost seže i dalje od njihove odjeće. Bave se osnovnim potrebama i jednostavnim užicima i nemaju previše koristi od razmetanja. Čak i najbogatiji poluradovi drže svoje blago zaključano u podrumu, a ne na izložbi da bi ga svi mogli vidjeti. Imaju vještine za pronalaženje najjednostavnijeg rješenja problema i nemaju dovoljno strpljenja da klonu.
+Domaća udobnost ciljevi su života većine polutki: mesto za naseljavanje u miru i tišini, daleko od pljačke čudovišta i sukobljenih vojski; plamteća vatra i izdašan obrok; fino piće i fini razgovor. Iako neki poltroni žive dane u zabačenim poljoprivrednim zajednicama, drugi čine nomadske sastave koji neprestano putuju, namamljeni otvorenim putem i širokim horizontom da otkriju čudesa novih zemalja i naroda. Ali čak i ovi lutalice vole mir, hranu, ognjište i dom, iako bi dom mogao biti vagon koji jurca zemljanim putem ili splav koji pluta nizvodno.
 
 
-### Ljubazni i
+### Mala i praktična
 
-znatiželjni Halflings susretljivi su i veseli ljudi. Njeguju porodične veze i prijateljstvo, kao i udobnost ognjišta i doma, gajeći malo snova o zlatu ili slavi. Čak i avanturisti među njima obično kreću u svijet iz razloga zajednice, prijateljstva, lutanja ili radoznalosti. Vole otkrivati ​​nove stvari, čak i jednostavne stvari, poput egzotične hrane ili nepoznatog stila odjeće.
+Umanjeni poluradovi opstaju u svetu prepunom većih stvorenja izbegavanjem obaveštenja ili, zabranjivanjem toga, izbegavanjem uvrede. Visoki oko 3 metra, deluju relativno bezopasno i tako su uspeli da prežive vekovima u senci carstava i na ivicama ratova i političkih sukoba. Skloni su stasnim teškim između 40 i 45 kilograma.
 
-Halflings se lako sažali i mrzi kad vidi kako bilo koje živo biće pati. Darežljivi su, s veseljem dijele ono što imaju čak i u mršavo doba.
+Koža polutki kreće se od preplanule do bledo rumene boje, a kosa im je obično smeđa ili peskovito smeđa i valovita. Imaju smeđe ili boje lešnika. Halfling muškarci često sportski igraju dugačke zaliske, ali brada je retka među njima, a brkovi još i više. Vole da nose jednostavnu, udobnu i praktičnu odeću, favorizujući svetle boje.
 
-
-### Blend into the Crowd
-
-Halflings su spretni za uklapanje u zajednicu ljudi, patuljaka ili vilenjaka, čineći sebe vrijednim i dobrodošlim. Kombinacija njihove inherentne skrivenosti i njihove skromne prirode pomažu poltronima da izbjegnu neželjenu pažnju.
-
-Halflings spremno rade s drugima i odani su svojim prijateljima, bez obzira jesu li haflingi ili ne. Oni mogu pokazati izvanrednu žestinu kada su ugroženi njihovi prijatelji, porodice ili zajednice.
+Halfling praktičnost seže i dalje od njihove odeće. Oni se brinu o osnovnim potrebama i jednostavnim zadovoljstvima i imaju malo koristi od razmetanja. Čak i najbogatiji poltroni drže svoje blago zaključano u podrumu, a ne na izložbi da bi ga svi mogli videti. Imaju smisla da pronađu najjednostavnije rešenje problema i nemaju dovoljno strpljenja da klonu.
 
 
-### Pastoralne
+### Ljubazan i radoznao
 
-ugodnosti Većina poltrona živi u malim, mirnim zajednicama s velikim farmama i uređenim gajevima. Rijetko grade vlastita kraljevstva ili čak drže puno zemlje izvan svojih tihih koraka. Obično ne prepoznaju nijednu vrstu plemenitog plemstva ili plemića, već traže porodične starješine da ih vode. Porodice čuvaju svoje tradicionalne načine uprkos usponu i padu carstava.
+Halflings su susretljiv i vedar narod. Neguju porodične veze i prijateljstvo, kao i udobnost ognjišta i doma, gajeći malo snova o zlatu ili slavi. Čak se i avanturisti među njima obično upuštaju u svet iz razloga zajednice, prijateljstva, lutanja ili radoznalosti. Vole da otkrivaju nove stvari, čak i jednostavne stvari, poput egzotične hrane ili nepoznatog stila odeće.
 
-Mnogi poluradovi žive među ostalim rasama, gdje im naporan rad i odan izgled poluradaka nude obilne nagrade i ugodu stvorenja. Neke zajednice halflinga putuju kao način života, vozeći se vagonima ili vozeći čamce od mjesta do mjesta i ne održavajući stalni dom.
-
-
-### Istražujući prilike
-
-Halflings obično kreću pustolovskim putem da brane svoje zajednice, podržavaju prijatelje ili istražuju širok i čudesan svijet. Za njih je avantura manje karijera nego prilika ili ponekad potreba.
-
-**MOŽNO I POZITIVNO**
-
-Halflings se pokušavaju slagati sa svima ostalima i ne žele donositi opsežne generalizacije - posebno negativne.
-
-**_Patuljci._** „Patuljci stvaraju odane prijatelje i možete računati na to da će održati riječ. Ali bi li ih povrijedilo da se povremeno nasmiješe? "
-
-**_Vilenjaci._** „Tako su lijepe! Njihova lica, njihova muzika, njihova milost i sve ostalo. Kao da su izašli iz divnog sna. Ali ne može se reći šta se događa iza njihovih nasmiješenih lica - sigurno više nego što su ikad pustili. "
-
-**_Ljudi._** „Ljudi su zaista poput nas. Barem neki od njih jesu. Izađite iz dvoraca i čuvajte ih, idite razgovarati sa farmerima i stočarima i naći ćete dobre, čvrste ljude. Nije da nešto nije u redu s barunima i vojnicima - morate se diviti njihovom uvjerenju. A štiteći svoje zemlje, štite i nas. "
+Polovine se lako sažaljevaju i mrze kad vide kako bilo koje živo biće pati. Darežljivi su, rado dele ono što imaju čak i u mršavo doba.
 
 
-### Imena
+### Stapajte se u gužvu
 
-halfinga Halfling ima nadimak, prezime i možda nadimak. Porodična imena često su nadimci koji su se toliko čvrsto držali da su se prenosila kroz generacije.
+Polovine se spretno uklapaju u zajednicu ljudi, patuljaka ili vilenjaka, čineći sebe dragocenim i dobrodošlim. Kombinacija njihove inherentne skrivenosti i njihove skromne prirode pomažu poltronima da izbegnu neželjenu pažnju.
 
-**Muška imena:** Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
-
-**Ženska imena:** Andry, Bree, Callie, Cora, Euphemia, Jillian , Kithri, Lavinia, Lidda, Merla, Nedda, Paela, Portia, Seraphina, Shaena, Trym, Vani, Verna
+Halflings lako rade sa drugima i odani su svojim prijateljima, bez obzira da li su halflingi ili ne. Oni mogu pokazati izvanrednu žestinu kada su ugroženi njihovi prijatelji, porodice ili zajednice.
 
 
-**Prezime:** Četka, Goodbarrel, Greenbottle, High-Hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough
+### Pastoralne ugodnosti
+
+Većina poltrona živi u malim, mirnim zajednicama sa velikim farmama i uređenim gajevima. Oni retko grade svoja kraljevstva ili čak drže mnogo zemlje van svojih tihih koraka. Obično ne prepoznaju nijednu vrstu plemenitog plemstva ili plemstva, već traže porodične starešine da ih vode. Porodice čuvaju svoje tradicionalne načine uprkos usponu i padu carstava.
+
+Mnogi poltroni žive među ostalim rasama, gde im naporan rad i odan izgled poljolika nude obilne nagrade i udobnost stvorenja. Neke zajednice halvinga putuju kao način života, vozeći se vagonima ili vozeći čamce od mesta do mesta i ne održavajući stalni dom.
+
+### Istraživanje mogućnosti
+
+Halflings obično kreću putem avanturista da brane svoje zajednice, podržavaju prijatelje ili istražuju širok i čudesnim svetom svet. Za njih je avantura manje karijera nego prilika ili ponekad potreba.
+
+>**MOŽNO I POZITIVNO**
+>
+> Polovine se trude da se slažu sa svima ostalima i ne žele da vrše opsežne generalizacije - posebno negativne.
+>
+>**_ Patuljci ._** „Patuljci prave lojalne prijatelje i možete računati da će oni održati reč. Ali da li bi im škodilo da se povremeno nasmeju? “
+>
+>**_ Vilenjaci ._** „Tako su lepi! Njihova lica, njihova muzika, njihova milost i sve ostalo. Kao da su izašli iz divnog sna. Ali ne može se reći šta se događa iza njihovih nasmejanih lica - sigurno više nego što su ikada pustili. "
+>
+>**_ Ljudi ._** „Ljudi su zaista slični nama. Barem neki od njih jesu. Izađite iz zamkova i čuvajte ih, razgovarajte sa farmerima i stočarima i naći ćete dobre, čvrste ljude. Nije da nešto nije u redu sa baronima i vojnicima - morate se diviti njihovom uverenju. A štiteći svoje zemlje, štite i nas “.
 
 
-### Halfling Osobine
+### Halfling Imena
 
-Vaš lik hallinga ima niz zajedničkih crta sa svim ostalim halflingima.
+Halfing ima nadimak, prezime i, možda, nadimak. Porodična imena su često nadimci koji su se držali toliko žilavo da su se prenosili kroz generacije.
 
-**Povećanje ocjene sposobnosti.** Vaš rezultat spretnosti povećava se za 2.
+**Muška imena:** Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lile, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Vellbi
 
-**Dob.** Halling dostiže punoljetnost sa 20 godina i uglavnom živi sredinom svog drugog vijeka.
+**Ženska imena:** Andri, Bree, Callie, Cora, Euphemia, Jillian, Kithri, Lavinia, Lidda, Merla, Nedda, Paela, Portia, Seraphina, Shaena, Trim, Vani, Verna
 
-**Poravnanje.** Većina poltrona zakonito je dobra. U pravilu su dobrog srca i ljubazni, mrze gledati druge u bolovima i ne toleriraju ugnjetavanje. Takođe su vrlo uredni i tradicionalni, oslanjajući se u velikoj mjeri na podršku svoje zajednice i udobnost svojih starih načina.
+**Porodična imena:** Brushgather, Goodbarrel, Greenbottle, High-Hill, Hilltopple, Leagallov, Tealeaf, Thorngage, Tosscobble, Underbough
 
-**Veličina.** Halflings su u prosjeku visoki oko 3 metra i teški oko 40 kilograma. Vaša veličina je mala.
+
+### Halfling osobine
+
+Vaš lik polutke ima niz zajedničkih osobina sa svim ostalim polutkama.
+
+**Povećanje ocene sposobnosti.** Vaša ocena spretnosti povećava se za 2.
+
+**Starost.** Halfling dostiže punoletstvo sa 20 godina i uglavnom živi sredinom svog drugog veka.
+
+**Poravnanje.** Većina poltrona je zakonito dobro. Po pravilu su dobrog srca i ljubazni, mrze kada vide druge u bolovima i ne tolerišu ugnjetavanje. Takođe su vrlo uredni i tradicionalni, u velikoj meri se oslanjajući na podršku svoje zajednice i udobnost svojih starih načina.
+
+**Veličina.** Halflings su u proseku visoki oko 3 stope i teški oko 40 kilograma. Vaša veličina je mala.
 
 **Brzina.** Osnovna brzina hoda je 25 stopa.
 
-**Lucky.** Kada bacite 1 na d20 za bacanje napada, provjeru sposobnosti ili spasonosno bacanje, možete vratiti matricu i morate koristiti novi kolut.
+**Sreća.** Kada bacite 1 na d20 za bacanje napada, proveru sposobnosti ili spasilačko bacanje, možete vratiti matricu i morate koristiti novu rolu.
 
-**Hrabro.** Imate prednost u spremanju bacanja u odnosu na [strah](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Frightened).
+**Hrabro.** Imate prednost u uštedama u odnosu na strah.
 
-**Halfling Nimbleness.** Možete se kretati prostorom bilo kojeg stvorenja koje je veće od vaše.
+**Halfling Nimbleness.** Možete se kretati prostorom bilo kog bića koje je veće od vaše.
 
-**Jezici.** Možete govoriti, čitati i pisati Common i Halfling. Jezik Halflinga nije tajna, ali Halfings ga se gadi dijeliti s drugima. Pišu vrlo malo, pa nemaju bogatu literaturu. Njihova usmena tradicija je, međutim, vrlo jaka. Gotovo svi polutovi govore zajedničko za razgovor s ljudima u čijim zemljama žive ili kroz koja putuju.
+**Jezici.** Možete da govorite, čitate i pišete Common i Halfling. Jezik Halflinga nije tajna, ali poltronima je gadno da ga dele sa drugima. Pišu vrlo malo, pa nemaju bogatu literaturu. Njihova usmena tradicija je, međutim, vrlo jaka. Gotovo svi poltroni govore zajedničko da razgovaraju sa ljudima u čijim zemljama žive ili kroz koja putuju.
 
-**Subrace.** Dvije glavne vrste halflinga, lagane noge i stasite, više su slične bliskim porodicama nego istinskim podrasama. Odaberite jednu od ovih podrasa.
+**Subrace.** Dve glavne vrste halflinga, lagana noga i stasita, više liče na blisko povezane porodice nego na prave subrase. Izaberite jednu od ovih podrasa.
 
 
 ### Lightfoot
 
-Kao Lightfoot Halflingovu, možete lako sakriti od najave, čak i uz pomoć drugih ljudi kao pokriće. Skloni ste ljubaznosti i dobrom slaganju s drugima. U zaboravljenim carstvima, polutke lakih nogu najšire su se proširile i tako su najčešća sorta.
+Kao polutka lagane noge, lako se možete sakriti od obaveštenja, čak i koristeći druge ljude kao pokriće. Skloni ste ljubaznosti i dobrom slaganju sa drugima. U zaboravljenim carstvima polutke lakih nogu najšire su se proširile i tako su najčešća sorta.
 
-Lagane noge su sklonije lutanju od ostalih polutki, a često borave zajedno s drugim rasama ili oduzimaju nomadski život. In the world of Greyhawk, these halflings are called hairfeet or tallfellows.
+Lagane noge su sklonije lutanju od ostalih polutki i često žive zajedno sa drugim rasama ili oduzimaju nomadski život. U svetu Greihavka, ovi polutovi se nazivaju hairfeet ili tallfellovs.
 
-**Ability Score Increase.** Your Charisma score increases by 1.
+**Povećanje ocene sposobnosti.** Vaša ocena karizme povećava se za 1.
 
-**Naturally Stealthy.** You can attempt to [hide](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Hide) even when you are obscured only by a creature that is at least one size larger than you.
-
-
-### Stout
-
-As a stout halfling, you're hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. In the Forgotten Realms, these halflings are called stronghearts, and they're most common in the south.
-
-**Ability Score Increase.** Your Constitution score increases by 1.
-
-**Stout Resilience.** You have advantage on saving throws against poison, and you have resistance against poison damage.
+**Prirodno kradom.** Možete da pokušate da se sakrijete čak i kada vas zakloni samo stvorenje koje je najmanje za jednu veličinu veće od vas.
 
 
-## Human
+### Stameni
 
-These were the stories of a restless people who long ago took to the seas and rivers in longboats, first to pillage and terrorize, then to settle. Yet there was an energy, a love of adventure, that sang from every page. Long into the night Liriel read, lighting candle after precious candle.
+Kao stasiti polufilm, tvrđi ste od proseka i imate otpornost na otrov. Neki kažu da stasiti imaju patuljastu krv. U zaboravljenim carstvima ove polutke nazivaju jakim srcima i najčešći su na jugu.
 
-She'd never given much thought to humans, but these stories fascinated her. In these yellowed pages were tales of bold heroes, strange and fierce animals, mighty primitive gods, and a magic that was part and fabric of that distant land.
+**Povećanje ocene sposobnosti.** Ocena vaše ustavnosti povećava se za 1.
 
-<p style="text-align: right">
-— <em>Elaine Cunningham, Daughter of the Drow</em></p>
-
-
-In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+**Stalna otpornost.** Imate prednost u štednji bacanja protiv otrova i imate otpor protiv oštećenja otrovom.
 
 
-### A Broad Spectrum
+## Ljudski
 
-With their penchant for migration and conquest, humans are more physically diverse than other common races. There is no typical human. An individual can stand from 5 feet to a little over 6 feet tall and weigh from 125 to 250 pounds. Human skin shades range from nearly black to very pale, and hair colors from black to blond (curly, kinky, or straight); males might sport facial hair that is sparse or thick. A lot of humans have a dash of nonhuman blood, revealing hints of elf, orc, or other lineages. Humans reach adulthood in their late teens and rarely live even a single century.
-
-
-### Variety in All Things
-
-Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human's memory. They live fully in the present — making them well suited to the adventuring life — but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.
-
-
-### Lasting Institutions
-
-Where a single elf or dwarf might take on the responsibility of guarding a special location or a powerful secret, humans found sacred orders and institutions for such purposes. While dwarf clans and halfling elders pass on the ancient traditions to each new generation, human temples, governments, libraries, and codes of law fix their traditions in the bedrock of history. Humans dream of immortality, but (except for those few who seek undeath or divine ascension to escape death's clutches) they achieve it by ensuring that they will be remembered when they are gone.
-
-Although some humans can be xenophobic, in general their societies are inclusive. Human lands welcome large numbers of nonhumans compared to the proportion of humans who live in nonhuman lands.
+> Ovo su bile priče o nemirnom narodu koji je davno dugim čamcima izašao na mora i reke, prvo da pljačka i teroriše, a zatim da se naseli. Pa ipak, postojala je energija, ljubav prema avanturi koja je pevala sa svake stranice. Dugo u noć Liriel je čitala, paleći sveću za dragocenom svećom.
+>
+> Nikad nije mnogo razmišljala o ljudima, ali ove priče su je fascinirale. Na ovim požutjelim stranicama nalazile su se priče o odvažnim junacima, čudnim i žestokim životinjama, moćnim primitivnim bogovima i magiji koja je bila dio i tkivo te daleke zemlje.
+>
+> <p stile = "tekt-align: right"> - <em> Elaine Cunningham, ćerka drova </em> </p>
 
 
-### Exemplars of Ambition
-
-Humans who seek adventure are the most daring and ambitious members of a daring and ambitious race. They seek to earn glory in the eyes of their fellows by amassing power, wealth, and fame. More than other people, humans champion causes rather than territories or groups.
-
-**EVERYONE'S SECOND-BEST FRIENDS**
-
-Just as readily as they mix with each other, humans mingle with members of other races. They get along with almost everyone, though they might not be close to many. Humans serve as ambassadors, diplomats, magistrates, merchants, and functionaries of all kinds.
-
-**_Dwarves._** “They're stout folk, stalwart friends, and true to their word. Their greed for gold is their downfall, though.”
-
-**_Elves._** “It's best not to wander into elven woods. They don't like intruders, and you'll as likely be bewitched as peppered with arrows. Still, if an elf can get past that damned racial pride and actually treat you like an equal, you can learn a lot from them.”
-
-**_Halflings._** “It's hard to beat a meal in a halfling home, as long as you don't crack your head on the ceiling—good food and good stories in front of a nice, warm fire. If halflings had a shred of ambition, they might really amount to something.”
+Prema računanju većine svetova, ljudi su najmlađi od uobičajenih rasa, kasno su stigli na svetsku scenu i kratkog veka u poređenju sa patuljcima, vilenjacima i zmajevima. Možda upravo zbog svog kraćeg života nastoje da postignu što je više moguće u godinama koje su im date. Ili možda osećaju da imaju šta da dokažu starijim rasama, i zato grade svoja moćna carstva na temeljima osvajanja i trgovine. Šta god da ih pokreće, ljudi su inovatori, uspešni i pioniri svetova.
 
 
-### Human Names and Ethnicities
+### Široki spektar
 
-Having so much more variety than other cultures, humans as a whole have no typical names. Some human parents give their children names from other languages, such as Dwarvish or Elvish (pronounced more or less correctly), but most parents give names that are linked to their region's culture or to the naming traditions of their ancestors.
+Sa sklonošću ka migraciji i osvajanju, ljudi su fizički raznolikiji od ostalih rasa. Ne postoji tipičan čovek. Pojedinac može stajati od 5 stopa do malo više od 6 stopa i težiti od 125 do 250 kilograma. Ljudske nijanse kože se kreću od gotovo crne do vrlo bledog, a boje kose od crne do plave (kovrdžave, otkačene ili ravne); muškarci mogu da se bave rijetkom ili gustom dlakom na licu. Mnogi ljudi imaju tračak neljudske krvi, otkrivajući nagoveštaje vilenjaka, orka ili drugih loza. Ljudi dostignu punoletstvo u kasnim tinejdžerskim godinama i retko žive ni jedan vek.
 
-The material culture and physical characteristics of humans can change wildly from region to region. In the Forgotten Realms, for example, the clothing, architecture, cuisine, music, and literature are different in the northwestern lands of the Silver Marches than in distant Turmish or Impiltur to the east — and even more distinctive in far-off Kara-Tur. Human physical characteristics, though, vary according to the ancient migrations of the earliest humans, so that the humans of the Silver Marches have every possible variation of coloration and features.
 
-In the Forgotten Realms, nine human ethnic groups are widely recognized, though over a dozen others are found in more localized areas of Faerûn. These groups, and the typical names of their members, can be used as inspiration no matter which world your human is in.
+### Raznolikost u svim stvarima
+
+Ljudi su najprilagodljiviji i najambiciozniji ljudi među uobičajenim rasama. Imaju vrlo različite ukuse, moral i običaje u mnogim različitim zemljama u kojima su se nastanili. Kad se nasele, ipak ostaju: grade gradove koji će trajati vekovima i velika carstva koja mogu da opstanu dugih vekova. Pojedinac može imati relativno kratak životni vek, ali ljudska nacija ili kultura čuva tradicije poreklom daleko izvan dometa sećanja bilo kog čoveka. Oni žive u potpunosti u sadašnjosti - što ih čini pogodnim za avanturistički život - ali takođe planiraju budućnost, nastojeći da ostave trajno nasleđe. Pojedinačno i kao grupa, ljudi su prilagodljivi oportunisti i ostaju oprezni u pogledu promene političke i društvene dinamike.
+
+
+### Trajne institucije
+
+Tamo gde bi jedan vilenjak ili patuljak mogao preuzeti odgovornost da čuva posebno mesto ili moćnu tajnu, ljudi su pronašli svete redove i institucije u takve svrhe. Dok patuljasti klanovi i starešine hallinga prenose drevne tradicije svakoj novoj generaciji, ljudski hramovi, vlade, biblioteke i zakoni utvrđuju svoje tradicije u osnovi istorije. Ljudi sanjaju o besmrtnosti, ali (osim onih nekolicine koji traže neumrlost ili božansko uznesenje da bi izbegli smrtni kandže) to postižu osiguravajući da će ih se setiti kada ih nema.
+
+Iako neki ljudi mogu biti ksenofobični, uopšte su njihova društva inkluzivna. Ljudske zemlje primaju veliki broj neljudi u poređenju sa udelom ljudi koji žive u neljudskim zemljama.
+
+
+### Primeri ambicije
+
+Ljudi koji traže avanturu su najsmeliji i najambiciozniji članovi smele i ambiciozne rase. Oni nastoje da steknu slavu u očima svojih bližnjih gomilajući moć, bogatstvo i slavu. Ljudi više od drugih ljudi zagovaraju ciljeve, a ne teritorije ili grupe.
+
+
+>**SVI DRUGI NAJBOLJI PRIJATELJI**
+>
+> Jednako lako dok se mešaju jedni sa drugima, ljudi se mešaju sa pripadnicima drugih rasa. Slažu se sa gotovo svima, mada mnogima možda nisu bliski. Ljudi služe kao ambasadori, diplomate, sudije, trgovci i funkcioneri svih vrsta.
+>
+>**_ Patuljci ._** „Oni su stasiti ljudi, nepokolebljivi prijatelji i verni svojoj reči. Njihova pohlepa za zlatom je ipak njihov pad “.
+>
+>**_ Vilenjaci ._** „Najbolje je ne lutati u vilenjačku šumu. Oni ne vole uljeze, a vi ćete verovatno biti opčinjeni kao prepuni strelica. Ipak, ako vilenjak može proći taj prokleti rasni ponos i zapravo se prema vama ponašati kao prema sebi, od njega možete mnogo naučiti. “
+>
+>**_ Halflings ._** „Teško je pojesti obrok u domu haflinga, sve dok ne puknete glavom o plafon - dobra hrana i dobre priče ispred lepe, tople vatre. Da poljaci imaju trunku ambicije, to bi zaista moglo nešto značiti. "
+
+
+### Ljudska imena i nacionalnosti
+
+Imajući toliko više raznolikosti od drugih kultura, ljudi u celini nemaju tipična imena. Neki ljudski roditelji daju svojoj deci imena iz drugih jezika, poput patuljaka ili vilenjaka (izgovaraju se više ili manje pravilno), ali većina roditelja daje imena koja su povezana sa kulturom njihovog regiona ili tradicijom imenovanja njihovih predaka.
+
+Materijalna kultura i fizičke karakteristike ljudi mogu se divlje menjati od regiona do regiona. Na primer, u zaboravljenim carstvima odeća, arhitektura, kuhinja, muzika i književnost razlikuju se u severozapadnim zemljama Srebrnih marševa nego u dalekom Turmišu ili Impilturu na istoku - i još karakterističniji u dalekom Kara-Turu . Ljudske fizičke karakteristike se, međutim, razlikuju u skladu sa drevnim migracijama najranijih ljudi, tako da ljudi Srebrnih marševa imaju sve moguće varijacije boje i osobina.
+
+U zaboravljenim carstvima, devet ljudskih etničkih grupa je široko prepoznato, mada je preko desetak drugih pronađeno u lokalizovanijim oblastima Faeruna. Ove grupe i tipična imena njihovih članova mogu se koristiti kao inspiracija bez obzira u kom svetu se nalazite.
 
 
 #### **Calishite**
 
-Shorter and slighter in build than most other humans, Calishites have dusky brown skin, hair, and eyes. They're found primarily in southwest Faerûn.
+Kraće i slabije građe od većine drugih ljudi, kališiti imaju tamno smeđu kožu, kosu i oči. Najmanje ih ima na jugozapadu Faeruna.
 
-**Calishite Names:** (Male) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (female) Atala, Ceidil, Hama, Jasmal, Meilil, Seipora, Yasheira, Zasheida; (surnames) Basha, Dumein, Jassan, Khalid, Mostana, Pashar, Rein
-
-
-#### **Chondathan**
-
-Chondathans are slender, tawny-skinned folk with brown hair that ranges from almost blond to almost black. Most are tall and have green or brown eyes, but these traits are hardly universal. Humans of Chondathan descent dominate the central lands of Faerûn, around the Inner Sea.
-
-**Chondathan Names:** (Male) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (female) Arveene, Esvele, Jhessail, Kerri, Lureene, Miri, Rowan, Shandri, Tessele; (surnames) Amblecrown, Buckman, Dundragon, Evenwood, Greycastle, Tallstag
+**Imena kališita:** (muški) Aseir, Bardeid, Haseid, Khemed, Mehmen, Sudeiman, Zasheir; (žensko) Atala, Ceidil, Hama, Jasmal, Meilil, Seipora, Iasheira, Zasheida; (prezimena) Basha, Dumein, Jassan, Khalid, Mostana, Pashar, Rein
 
 
-#### **Damaran**
+####**Chondathan**
 
-Found primarily in the northwest of Faerûn, Damarans are of moderate height and build, with skin hues ranging from tawny to fair. Their hair is usually brown or black, and their eye color varies widely, though brown is most common.
+Chondathans su vitki, smeđe puti, smeđe kose koja se kreće od gotovo plave do gotovo crne boje. Većina je visokih i zelenih ili smeđih očiju, ali ove osobine teško da su univerzalne. Ljudi porekla Chondathan dominiraju centralnim zemljama Faerun-a, oko Unutrašnjeg mora.
 
-**Damaran Names:** (Male) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (female) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (surnames) Bersk, Chernin, Dotsk, Kulenov, Marsk, Nemetsk, Shemov, Starag
-
-
-#### **Illuskan**
-
-Illuskans are tall, fair-skinned folk with blue or steely gray eyes. Most have raven-black hair, but those who inhabit the extreme northwest have blond, red, or light brown hair.
-
-**Illuskan Names:** (Male) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (female) Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, Westra; (surnames) Brightwood, Helder, Hornraven, Lackman, Stormwind, Windrivver
+**Chondathan imena:** (muški) Darvin, Dorn, Evendur, Gorstag, Grim, Helm, Malark, Morn, Randal, Stedd; (žensko) Arveene, Esvele, Jhessail, Kerri, Lureene, Miri, Rovan, Shandri, Tessele; (prezimena) Amblecrovn, Buckman, Dundragon, Evenvood, Greicastle, Tallstag
 
 
-#### **Mulan**
+####**Damaran**
 
-Dominant in the eastern and southeastern shores of the Inner Sea, the Mulan are generally tall, slim, and amber-skinned, with eyes of hazel or brown. Their hair ranges from black to dark brown, but in the lands where the Mulan are most prominent, nobles and many other Mulan shave off all their hair.
+Damarani, koji se nalaze prvenstveno na severozapadu Faeruna, umerene su visine i građe, a nijansi kože se kreću od smeđe do putle. Kosa im je obično smeđa ili crna, a boja očiju veoma varira, mada je smeđa najčešće.
 
-**Mulan Names:** (Male) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (female) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (surnames) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
-
-
-#### **Rashemi**
-
-Most often found east of the Inner Sea and often intermingled with the Mulan, Rashemis tend to be short, stout, and muscular. They usually have dusky skin, dark eyes, and thick black hair.
-
-**Rashemi Names:** (Male) Borivik, Faurgar, Jandar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (female) Fyevarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Yuldra; (surnames) Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokina
+**Damaranska imena:**(muški) Bor, Fodel, Glar, Grigor, Igan, Ivor, Kosef, Mival, Orel, Pavel, Sergor; (žensko) Alethra, Kara, Katernin, Mara, Natali, Olma, Tana, Zora; (prezimena) Bersk, Černin, Dotsk, Kulenov, Marsk, Nemetsk, Šemov, Starag
 
 
-#### **Shou**
+####**Illuskan**
 
-The Shou are the most numerous and powerful ethnic group in Kara-Tur, far to the east of Faerûn. They are yellowish-bronze in hue, with black hair and dark eyes. Shou surnames are usually presented before the given name.
+Iluščani su visoki, svetloputi ljudi plavih ili čelično sivih očiju. Većina ima gavrano-crnu kosu, ali oni koji naseljavaju krajnji severozapad imaju plavu, crvenu ili svetlo smeđu kosu.
 
-**Shou Names:** (Male) An, Chen, Chi, Fai, Jiang, Jun, Lian, Long, Meng, On, Shan, Shui, Wen; (female) Bai, Chao, Jia, Lei, Mei, Qiao, Shui, Tai; (surnames) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan
-
-
-#### **Tethyrian**
-
-Widespread along the entire Sword Coast at the western edge of Faerûn, Tethyrians are of medium build and height, with dusky skin that tends to grow fairer the farther north they dwell. Their hair and eye color varies widely, but brown hair and blue eyes are the most common. Tethyrians primarily use Chondathan names.
+**Iluška imena:** (muški) Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, Urth; (žensko) Amafrei, Betha, Cefrei, Kethra, Mara, Olga, Silifrei, Vestra; (prezimena) Brightvood, Helder, Hornraven, Lackman, Stormvind, Vindrivver
 
 
-#### **Turami**
+####**Mulan**
 
-Native to the southern shore of the Inner Sea, the Turami people are generally tall and muscular, with dark mahogany skin, curly black hair, and dark eyes.
+Mulanti dominiraju na istočnoj i jugoistočnoj obali Unutrašnjeg mora, uglavnom su visoki, vitki i jantarne kože, očiju boje lešnika ili braon boje. Njihova kosa se kreće od crne do tamno smeđe, ali u zemljama u kojima su Mulani najistaknutiji, plemići i mnogi drugi Mulan briju im svu kosu.
 
-**Turami Names:** (Male) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (female) Balama, Dona, Faila, Jalana, Luisa, Marta, Quara, Selise, Vonda; (surnames) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
+**Imena mulana:** (muški) Aoth, Bareris, Ehput-Ki, Kethoth, Mumed, Ramas, So-Kehur, Thazar-De, Urhur; (ženke) Arizima, Chathi, Nephis, Nulara, Murithi, Sefris, Thola, Umara, Zolis; (prezimena) Ankhalab, Anskuld, Fezim, Hahpet, Nathandem, Sepret, Uuthrakt
 
-**VARIANT HUMAN TRAITS**
+####**Rashemi**
 
-If your campaign uses the optional feat rules from [chapter 6](https://www.dndbeyond.com/compendium/rules/phb/customization-options#Feats), your Dungeon Master might allow these variant traits, all of which replace the human's Ability Score Increase trait.
+Najčešće pronađeni istočno od Unutrašnjeg mora i često pomešani sa Mulanom, Rašemi imaju tendenciju da budu kratki, stasiti i mišićavi. Obično imaju tamnu kožu, tamne oči i gustu crnu kosu.
 
-**Ability Score Increase.** Two different ability scores of your choice increase by 1.
-
-**Skills.** You gain proficiency in one skill of your choice.
-
-**Feat.** You gain one feat of your choice.
+**Rašemi imena:** (muški) Borivik, Faurgar, Jandar, Kanithar, Madislak, Ralmevik, Shaumar, Vladislak; (žensko) Fievarra, Hulmarra, Immith, Imzel, Navarra, Shevarra, Tammith, Iuldra; (prezimena) Chergoba, Diernina, Iltaziara, Murniethara, Staianoga, Ulmokina
 
 
-### Human Traits
+####**Shou**
 
-It's hard to make generalizations about humans, but your human character has these traits.
+Šou su najbrojnija i najmoćnija etnička grupa u Kara-Turu, daleko istočno od Faeruna. Imaju žućkasto-bronzanu nijansu, crne kose i tamnih očiju. Prezimena Shou obično su predstavljena pre datog imena.
 
-**Ability Score Increase.** Your ability scores each increase by 1.
+**Imena Shou:** (muški) An, Chen, Chi, Fai, Jiang, Jun, Lian, Long, Meng, On, Shan, Shui, Ven; (žensko) Bai, Chao, Jia, Lei, Mei, Kiao, Shui, Tai; (prezimena) Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Van
 
-**Age.** Humans reach adulthood in their late teens and live less than a century.
 
-**Alignment.** Humans tend toward no particular alignment. The best and the worst are found among them.
+####**tetirijanac**
 
-**Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+Rasprostranjeni duž cele obale mačeva na zapadnom obodu Faeruna, Tetirijanci su srednje telesne građe i visine, tamne kože koja teži da raste lepša što dalje na severu žive. Boja kose i očiju im se veoma razlikuje, ali najčešće su smeđa kosa i plave oči. Tetirijanci prvenstveno koriste imena Chondathan.
 
-**Speed.** Your base walking speed is 30 feet.
 
-**Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+####**Turami**
 
-**UNCOMMON RACES**
+Stanovnici južne obale Unutrašnjeg mora, ljudi Turami su uglavnom visoki i mišićavi, tamne kože od mahagonija, kovrdžave crne kose i tamnih očiju.
 
-The dragonborn and the rest of the races in this chapter are uncommon. They don't exist in every world of D&D, and even where they are found, they are less widespread than dwarves, elves, halflings, and humans.
+**Imena Turamija:** (muški) Anton, Diero, Marcon, Pieron, Rimardo, Romero, Salazar, Umbero; (žensko) Balama, Dona, Faila, Jalana, Luisa, Marta, Kuara, Selise, Vonda; (prezimena) Agosto, Astorio, Calabra, Domine, Falone, Marivaldi, Pisacar, Ramondo
 
-In the cosmopolitan cities of the D&D multiverse, most people hardly look twice at members of even the most exotic races. But the small towns and villages that dot the countryside are different. The common folk aren't accustomed to seeing members of these races, and they react accordingly.
+>**RAZNE LJUDSKE OSOBINE**
+>
+> Ako vaša kampanja koristi opcionalna pravila podviga iz poglavlja 6, vaš majstor tamnice može da dozvoli ove varijantne osobine, koje sve zamenjuju osobinu povećanja ocene sposobnosti čoveka.
+>
+>**Povećanje ocene sposobnosti.** Dve različite ocene sposobnosti po vašem izboru povećavaju se za 1.
+>
+>**Veštine.** Steknete znanje jedne veštine po vašem izboru.
+>
+>**Feat.** Dobijate jedan podvig po vašem izboru.
 
-**_Dragonborn._** It's easy to assume that a dragonborn is a monster, especially if his or her scales betray a chromatic heritage. Unless the dragonborn starts breathing fire and causing destruction, though, people are likely to respond with caution rather than outright fear.
 
-**_Gnome._** Gnomes don't look like a threat and can quickly disarm suspicion with good humor. The common folk are often curious about gnomes, likely never having seen one before, but they are rarely hostile or fearful.
+### Ljudske osobine
 
-**_Half-Elf._** Although many people have never seen a half-elf, virtually everyone knows they exist. A half-elf stranger's arrival is followed by gossip behind the half-elf's back and stolen glances across the common room, rather than any confrontation or open curiosity.
+Teško je generalizovati ljude, ali vaš ljudski karakter ima ove osobine.
 
-**_Half-Orc._** It's usually safe to assume that a half-orc is belligerent and quick to anger, so people watch themselves around an unfamiliar half-orc. Shopkeepers might surreptitiously hide valuable or fragile goods when a half-orc comes in, and people slowly clear out of a tavern, assuming a fight will break out soon.
+**Povećanje ocene sposobnosti.** Vaša sposobnost ocenjuje svako povećanje za 1.
 
-**_Tiefling._** Half-orcs are greeted with a practical caution, but tieflings are the subject of supernatural fear. The evil of their heritage is plainly visible in their features, and as far as most people are concerned, a tiefling could very well be a devil straight from the Nine Hells. People might make warding signs as a tiefling approaches, cross the street to avoid passing near, or bar shop doors before a tiefling can enter.
+**Starost.** Ljudi dostižu punoletstvo u kasnim tinejdžerskim godinama i žive manje od jednog veka.
+
+**Poravnanje.** Ljudi teže ka određenom poravnanju. Među njima se nalaze najbolji i najgori.
+
+**Veličina.** Ljudi se veoma razlikuju po visini i građi, od jedva 5 stopa do više od 6 stopa. Bez obzira na položaj u tom opsegu, vaša veličina je Srednja.
+
+**Brzina.** Osnovna brzina hoda je 30 stopa.
+
+**Jezici.** Možete da govorite, čitate i pišete zajednički i jedan dodatni jezik po vašem izboru. Ljudi obično uče jezike drugih naroda s kojima imaju posla, uključujući nejasne dijalekte. Oni vole da svoj govor posipaju rečima pozajmljenim iz drugih jezika: kletve orka, vilinski muzički izrazi, patuljaste vojne fraze itd.
+
+>**NEPOSREDNE RASE**
+>
+> Dragonborn i ostale rase u ovom poglavlju su neobični. Ne postoje u svakom svetu D&D-a, pa čak i tamo gde su pronađeni, manje su rašireni od patuljaka, vilenjaka, polutki i ljudi.
+>
+> U kosmopolitskim gradovima multiverzuma D&D većina ljudi jedva da dvaput pogleda članove čak i najegzotičnijih rasa. Ali mali gradovi i sela koji okružuju selo su različiti. Obični ljudi nisu navikli da viđaju članove ovih rasa i shodno tome reaguju.
+>
+>**_ Dragonborn ._** Lako je pretpostaviti da je zmajevo rođeno čudovište, pogotovo ako njegove ili njene vage odaju hromatsko nasleđe. Ako zmajevi rođeni ne počnu da udišu vatru i ne izazivaju uništenje, ljudi će verovatno reagovati oprezno, a ne direktnim strahom.
+>
+>**_ Gnome ._** Gnomovi ne izgledaju kao pretnja i mogu brzo razoružati sumnju dobrim humorom. Obični ljudi su često znatiželjni prema gnomima, verovatno ih nikada ranije nisu videli, ali retko su neprijateljski raspoloženi ili uplašeni.
+>
+>**_ Polu-vilenjak ._** Iako mnogi ljudi nikada nisu videli polu-vilenjaka, gotovo svi znaju da oni postoje. Dolazak neznanca polu-vilenjaka prate tračevi iza leđa polu-vilenjaka i ukradeni pogledi preko zajedničke prostorije, umesto bilo kakvog sukoba ili otvorene radoznalosti.
+>
+>**_ Polu-ork ._** Obično je sigurno pretpostaviti da je polu-ork ratoboran i da se brzo razbesni, pa se ljudi promatraju oko nepoznatog polu-orka. Trgovci bi mogli potajno sakriti dragocenu ili krhku robu kad uđe pola orka, a ljudi polako izlaze iz kafane, pretpostavljajući da će uskoro izbiti tuča.
+>
+>**_ Kradenje ._** Poluorke se dočekuje sa praktičnim oprezom, ali vezane veze su predmet natprirodnog straha. Zlo njihovog nasleđa očigledno je vidljivo u njihovim crtama, a što se tiče većine ljudi, krava može vrlo dobro biti đavo pravo iz Devet pakla. Ljudi mogu da prave zaštitne znakove kako se približava tajfling, prelaze ulicu da ne bi prolazili blizu ili vrata lokala pre nego što tajfling uđe.
 
 
 ## Dragonborn
 
-Her father stood on the first of the three stairs that led down from the portal, unmoving. The scales of his face had grown paler around the edges, but Clanless Mehen still looked as if he could wrestle down a dire bear himself. His familiar well-worn armor was gone, replaced by violet-tinted scale armor with bright silvery tracings. There was a blazon on his arm as well, the mark of some foreign house. The sword at his back was the same, though, the one he had carried since even before he had found the twins left in swaddling at the gates of Arush Vayem.
-
-For all her life, Farideh had known that reading her father's face was a skill she'd been fortunate to learn. A human who couldn't spot the shift of her eyes or Havilar's would certainly see only the indifference of a dragon in Clanless Mehen's face. But the shift of scales, the arch of a ridge, the set of his eyes, the gape of his teeth — her father's face spoke volumes.
-
-But every scale of it, this time, seemed completely still — the indifference of a dragon, even to Farideh.
-
-<p style="text-align: right">
-— <em>Erin M. Evans, The Adversary</em></p>
-
-
-Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids. Some dragonborn are faithful servants to true dragons, others form the ranks of soldiers in great wars, and still others find themselves adrift, with no clear calling in life.
+> Njen otac je nepomično stajao na prvoj od tri stepenice koje su se spuštale sa portala. Ljuske njegovog lica postale su sve bleđe oko ivica, ali Clanless Mehen je i dalje izgledao kao da bi i sam mogao da se otrgne od strašnog medveda. Nestao je njegov poznati, dobro nošeni oklop, zamenjen oklopom ljubičaste boje sa jarkim srebrnastim tragovima. Na ruci mu je bio i blazon, žig neke strane kuće. Mač na njegovim leđima bio je isti, međutim, onaj koji je nosio otkako je i pre nego što je našao blizance preostale u povijanju na vratima Arush Vaiema.
+>
+> Tokom svog života Farideh je znala da je čitanje lica njenog oca bila veština koju je imala sreću da nauči. Čovek koji nije mogao da uoči pomeranje njenih očiju ili Havilarine, sigurno bi video samo ravnodušnost zmaja na licu Clanless Mehena. Ali pomeranje vage, luk grebena, sklop njegovih očiju, zjap zuba - lice njenog oca govorilo je mnogo.
+>
+> Ali svaka njegova razmera, ovog puta, izgledala je potpuno mirno - ravnodušnost zmaja, čak i prema Farideh.
+>
+> <p stile = "tekt-align: right"> - <em> Erin M. Evans, Protivnik </em> </p>
 
 
-### Proud Dragon Kin
-
-Dragonborn look very much like dragons standing erect in humanoid form, though they lack wings or a tail. The first dragonborn had scales of vibrant hues matching the colors of their dragon kin, but generations of interbreeding have created a more uniform appearance. Their small, fine scales are usually brass or bronze in color, sometimes ranging to scarlet, rust, gold, or copper-green. They are tall and strongly built, often standing close to 6½ feet tall and weighing 300 pounds or more. Their hands and feet are strong, talonlike claws with three fingers and a thumb on each hand.
-
-The blood of a particular type of dragon runs very strong through some dragonborn clans. These dragonborn often boast scales that more closely match those of their dragon ancestor — bright red, green, blue, or white, lustrous black, or gleaming metallic gold, silver, brass, copper, or bronze.
+Rođeni od zmajeva, kako njihovo ime glasi, zmajevići ponosno koračaju svetom koji ih dočekuje sa strašnim nerazumevanjem. Oblikovani od drakonskih bogova ili samih zmajeva, zmajevići se prvobitno izlegli iz zmajevih jaja kao jedinstvena rasa, kombinujući najbolje atribute zmajeva i humanoida. Neki zmajevorođeni su verne sluge istinskim zmajevima, drugi čine redove vojnika u velikim ratovima, a treći se nađu u kretanju, bez jasnog poziva u životu.
 
 
-### Self-Sufficient Clans
+### Ponosni zmaj Kin
 
-To any dragonborn, the clan is more important than life itself. Dragonborn owe their devotion and respect to their clan above all else, even the gods. Each dragonborn's conduct reflects on the honor of his or her clan, and bringing dishonor to the clan can result in expulsion and exile. Each dragonborn knows his or her station and duties within the clan, and honor demands maintaining the bounds of that position.
+Zmajevi rođeni izgledaju poput zmajeva koji stoje uspravno u humanoidnom obliku, mada im nedostaju krila ili rep. Prvi zmajevi su imali ljuske živopisnih nijansi koje se podudaraju sa bojama njihovih zmajevih srodnika, ali generacije ukrštanja stvorile su ujednačeniji izgled. Njihove male, fine ljuske su obično mesingane ili bronzane boje, ponekad u rasponu od grimizne, rđe, zlata ili bakarno-zelene boje. Visoki su i snažne građe, često stoje blizu 6½ stope i teški 300 kilograma ili više. Ruke i stopala su im snažne kandžaste kandže sa po tri prsta i palcem na svakoj ruci.
 
-A continual drive for self-improvement reflects the self-sufficiency of the race as a whole. Dragonborn value skill and excellence in all endeavors. They hate to fail, and they push themselves to extreme efforts before they give up on something. A dragonborn holds mastery of a particular skill as a lifetime goal. Members of other races who share the same commitment find it easy to earn the respect of a dragonborn.
-
-Though all dragonborn strive to be self-sufficient, they recognize that help is sometimes needed in difficult situations. But the best source for such help is the clan, and when a clan needs help, it turns to another dragonborn clan before seeking aid from other races — or even from the gods.
-
-**DRACONIANS**
-
-In the Dragonlance setting, the followers of the evil goddess Takhisis learned a dark ritual that let them corrupt the eggs of metallic dragons, producing evil dragonborn called draconians. Five types of draconians, corresponding to the five types of metallic dragons, fought for Takhisis in the War of the Lance: auraks (gold), baaz (brass), bozak (bronze), kapak (copper), and sivak (silver). In place of their draconic breath weapons, they have unique magical abilities.
+Krv određene vrste zmajeva prolazi vrlo snažno kroz neke zmajeve rodove klanove. Ovi zmajevići se često mogu pohvaliti vagom koja se bliže podudara sa vagom njihovog pretka zmaja - jarko crvenom, zelenom, plavom ili belom, sjajnom crnom ili blistavim metalnim zlatom, srebrom, mesingom, bakrom ili bronzom.
 
 
-### Dragonborn Names
+### Samodovoljni klanovi
 
-Dragonborn have personal names given at birth, but they put their clan names first as a mark of honor. A childhood name or nickname is often used among clutchmates as a descriptive term or a term of endearment. The name might recall an event or center on a habit.
+Svakom zmajevorođenom klan je važniji od samog života. Dragonborn svoju odanost i poštovanje duguju svom klanu pre svega, čak i bogovima. Ponašanje svakog zmajeva roda odražava se na čast njegovog ili njenog klana, a donošenje sramote u klanu može rezultirati proterivanjem i progonstvom. Svaki zmajevorođeni zna svoju stanicu i dužnosti unutar klana, a čast zahteva održavanje granica tog položaja.
 
-**Male Names:** Arjhan, Balasar, Bharash, Donaar, Ghesh, Heskan, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn
+Stalni napor za samo-poboljšanjem odražava samodovoljnost rase u celini. Dragonborn vrednuju veštinu i izvrsnost u svim poduhvatima. Oni mrze da propadnu i podstiču se na krajnje napore pre nego što od nečega odustanu. Zmajevo rođenje je majstorstvo određene veštine životni cilj. Pripadnici drugih rasa koji dele istu posvećenost lako su steći poštovanje zmajeva roda.
 
-**Female Names:** Akra, Biri, Daar, Farideh, Harann, Havilar, Jheri, Kava, Korinn, Mishann, Nala, Perra, Raiann, Sora, Surina, Thava, Uadjit
+Iako svi zmajevorođeni teže da budu sami sebi dovoljni, prepoznaju da je pomoć ponekad potrebna u teškim situacijama. Ali najbolji izvor za takvu pomoć je klan, a kada klanu treba pomoć, on se obraća drugom zmajevskom klanu pre nego što zatraži pomoć od drugih rasa - ili čak od bogova.
 
-**Childhood Names:** Climber, Earbender, Leaper, Pious, Shieldbiter, Zealous
+>**DRACONIANS**
+>
+> U postavci Dragonlance, sledbenici zle boginje Takhisis naučili su mračni ritual koji im je omogućavao da kvare jaja metalnih zmajeva, proizvodeći zle zmajeve rođene zvane drakonije. Pet vrsta drakonija, što odgovara pet vrsta metalnih zmajeva, borilo se za Takhisisa u Ratu Lancea: auraci (zlato), baaz (mesing), bozak (bronza), kapak (bakar) i sivak (srebro). Umesto svog drakonskog oružja za dah, imaju jedinstvene magijske sposobnosti.
 
-**Clan Names:** Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhylon, Kimbatuul, Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit
+
+### Dragonborn Imena
+
+Zmajevi rođeni imaju lična imena rođena, ali imena svojih klanova stavljaju na prvo mesto kao znak časti. Ime ili nadimak iz detinjstva često se koristi među kolegama kao opisni pojam ili izraz ljubavi. Ime se može podsećati na događaj ili središte neke navike.
+
+**Muška imena:** Arjhan, Balasar, Bharash, Donaar, Ghesh, Heskan, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn
+
+**Ženska imena:** Akra, Biri, Daar, Farideh, Harann, Havilar, Jheri, Kava, Korinn, Mishann, Nala, Perra, Raiann, Sora, Surina, Thava, Uadjit
+
+**Imena iz detinjstva:** Penjač, Earbender, Leaper, Pobožan, Shieldbiter, Revnosan
+
+**Imena klana:** Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhilon, Kimbatuul, Linkakasendalor, Miastan, Nemmonis, Norikius, Ophinshtalajiir, Prekijandilin, Shestendethritithis, Turstendurthisthirthathurthis, Turstendur
 
 
 ### Dragonborn Traits
 
-Your draconic heritage manifests in a variety of traits you share with other dragonborn.
+Vaše drakonsko nasleđe manifestuje se u raznim osobinama koje delite sa drugim zmajevorođenim.
 
-**Ability Score Increase.** Your Strength score increases by 2, and your Charisma score increases by 1.
+**Povećanje ocene sposobnosti.** Ocena snage povećana je za 2, a ocena karizme za 1.
 
-**Age.** Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
+**Starost.** Mladi zmajevi brzo rastu. Hodaju satima nakon izleganja, dostižu veličinu i razvoj desetogodišnjeg deteta do 3. godine, a punoletstvo dostižu do 15. Žive oko 80 godina.
 
-**Alignment.** Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains.
+**Poravnanje.** Zmajevi rođeni teže krajnostima, donoseći svestan izbor jedne ili druge strane u kosmičkom ratu između dobra i zla (koje predstavljaju Bahamut i Tiamat, respektivno). Većina zmajeva rođenih je dobra, ali oni koji pristanu uz Tiamat mogu biti strašni zlikovci.
 
-**Size.** Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
+**Veličina.** Dragonborn su viši i teži od ljudi, visoki su preko 6 stopa i prosečno su gotovo 250 kilograma. Vaša veličina je srednja.
 
-**Speed.** Your base walking speed is 30 feet.
+**Brzina.** Osnovna brzina hoda je 30 stopa.
 
-**Draconic Ancestry**
+**Drakonsko poreklo**
 
 <table>
     <tr>
-        <td><strong>DRAGON</strong>
+        <td> <strong> ZMAJ </strong>
         </td>
-        <td><strong>DAMAGE TYPE</strong>
+        <td> <strong> TIP ŠTETE </strong>
         </td>
-        <td><strong>BREATH WEAPON</strong>
-        </td>
-    </tr>
-    <tr>
-        <td>Black
-        </td>
-        <td>Acid
-        </td>
-        <td>5 by 30 ft. line (Dex. save)
+        <td> <strong> ORUŠJE ZA DISANJE </strong>
         </td>
     </tr>
     <tr>
-        <td>Blue
+        <td> Crna
         </td>
-        <td>Lightning
+        <td> Kiselina
         </td>
-        <td>5 by 30 ft. line (Dex. save)
-        </td>
-    </tr>
-    <tr>
-        <td>Brass
-        </td>
-        <td>Fire
-        </td>
-        <td>5 by 30 ft. line (Dex. save)
+        <td> 5 sa ​​30 stopa. linija (spretno spremanje)
         </td>
     </tr>
     <tr>
-        <td>Bronze
+        <td> Plava
         </td>
-        <td>Lightning
+        <td> Munja
         </td>
-        <td>5 by 30 ft. line (Dex. save)
-        </td>
-    </tr>
-    <tr>
-        <td>Copper
-        </td>
-        <td>Acid
-        </td>
-        <td>5 by 30 ft. line (Dex. save)
+        <td> 5 sa ​​30 stopa. linija (spretno spremanje)
         </td>
     </tr>
     <tr>
-        <td>Gold
+        <td> Mesing
         </td>
-        <td>Fire
+        <td> Vatra
         </td>
-        <td>15 ft. cone (Dex. save)
-        </td>
-    </tr>
-    <tr>
-        <td>Green
-        </td>
-        <td>Poison
-        </td>
-        <td>15 ft. cone (Con. save)
+        <td> 5 sa ​​30 stopa. linija (spretno spremanje)
         </td>
     </tr>
     <tr>
-        <td>Red
+        <td> Bronza
         </td>
-        <td>Fire
+        <td> Munja
         </td>
-        <td>15 ft. cone (Dex. save)
-        </td>
-    </tr>
-    <tr>
-        <td>Silver
-        </td>
-        <td>Cold
-        </td>
-        <td>15 ft. cone (Con. save)
+        <td> 5 sa ​​30 stopa. linija (spretno spremanje)
         </td>
     </tr>
     <tr>
-        <td>White
+        <td> Bakar
         </td>
-        <td>Cold
+        <td> Kiselina
         </td>
-        <td>15 ft. cone (Con. save)
+        <td> 5 sa ​​30 stopa. linija (spretno spremanje)
         </td>
     </tr>
-</table>
+    <tr>
+        <td> Zlato
+        </td>
+        <td> Vatra
+        </td>
+        <td> 15 ft. konus (spretno spremanje)
+        </td>
+    </tr>
+    <tr>
+        <td> Zeleno
+        </td>
+        <td> Otrov
+        </td>
+        <td> 15 ft. konus (Con. save)
+        </td>
+    </tr>
+    <tr>
+        <td> Crvena
+        </td>
+        <td> Vatra
+        </td>
+        <td> 15 ft. konus (spretno spremanje)
+        </td>
+    </tr>
+    <tr>
+        <td> Srebro
+        </td>
+        <td> Hladno
+        </td>
+        <td> 15 ft. konus (Con. save)
+        </td>
+    </tr>
+    <tr>
+        <td> bela
+        </td>
+        <td> Hladno
+        </td>
+        <td> 15 ft. konus (Con. save)
+        </td>
+    </tr>
 
+**Drakonsko poreklo.** Imate drakonsko poreklo. Izaberite jednu vrstu zmaja iz tabele Drakonskih predaka. Otpornost na dah i otpor oštećenjima određuje se prema vrsti zmaja, kao što je prikazano u tabeli.
 
-**Draconic Ancestry.** You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
+**Oružje za dah.** Svojom akcijom možete da izdahnete razornu energiju. Vaše drakonsko poreklo određuje veličinu, oblik i vrstu oštećenja izdaha.
 
-**Breath Weapon.** You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.
+Kada koristite oružje za disanje, svako stvorenje u predelu izdisaja mora napraviti spasonosno bacanje, čiju vrstu određuje vaše drakonsko poreklo. DC za ovo spasilačko bacanje je jednako 8 + vaš modifikator ustava + vaš bonus za stručnost. Stvorenje nanosi 2d6 štete na neuspelom spašavanju, a upola manje na uspešnom. Šteta se povećava na 3d6 na šestom nivou, 4d6 na 11. nivou i 5d6 na 16. nivou.
 
-When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.
+Nakon što upotrebite dašno oružje, ne možete ga ponovo koristiti dok ne završite kratak ili duži odmor.
 
-After you use your breath weapon, you can't use it again until you complete a short or long rest.
+**Otpor oštećenju.** Imate otpor prema vrsti štete koja je povezana sa vašim drakonskim poreklom.
 
-**Damage Resistance.** You have resistance to the damage type associated with your draconic ancestry.
-
-**Languages.** You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
+**Jezici.** Možete da govorite, čitate i pišete zajednički i drakonski jezik. Smatra se da je drakonski jedan od najstarijih jezika i često se koristi u proučavanju magije. Jezik zvuči grubo za većinu drugih bića i uključuje brojne tvrde suglasnike i sibilante.
 
 
 ## Gnome
 
-Skinny and flaxen-haired, his skin walnut brown and his eyes a startling turquoise, Burgell stood half as tall as Aeron and had to climb up on a stool to look out the peephole. Like most habitations in Oeble, that particular tenement had been built for humans, and smaller residents coped with the resulting awkwardness as best they could.
-
-But at least the relative largeness of the apartment gave Burgell room to pack in all his gnome-sized gear. The front room was his workshop, and it contained a bewildering miscellany of tools: hammers, chisels, saws, lockpicks, tinted lenses, jeweler's loupes, and jars of powdered and shredded ingredients for casting spells. A fat gray cat, the mage's familiar, lay curled atop a grimoire. It opened its eyes, gave Aeron a disdainful yellow stare, then appeared to go back to sleep.
-
-<p style="text-align: right">
-— <em>Richard Lee Byers, The Black Bouquet</em></p>
-
-
-A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter. Gnomes take delight in life, enjoying every moment of invention, exploration, investigation, creation, and play.
+> Mršav i lanene kose, kože orahovo smeđe i očiju zapanjujuće tirkizne, Burgell je stajao upola visok kao Aeron i morao je da se popne na stolicu da gleda kroz špijunku. Kao i većina prebivališta u Oebleu, ta posebna zgrada je izgrađena za ljude, a manji stanovnici su se nosili sa nastalom nespretnošću kako su mogli.
+>
+> Ali bar je relativna veličina stana Burgelu dala prostora da se spakuje u svu svoju opremu veličine gnomea. Prednja soba bila je njegova radionica i u njoj se nalazila zbunjujuća raznovrstna alatka: čekići, dleta, testere, ključevi, zatamnjena sočiva, draguljarske lupe i tegle sa prahom i iseckanim sastojcima za bajanje čarolijama. Debela siva mačka, mag poznata, ležala je uvijena na vrhu grimoara. Otvorilo je oči, bacilo Aeron prezirno žutim pogledom, a zatim se činilo da se vraća na spavanje.
+>
+> <p stile = "tekt-align: right"> - <em> Richard Lee Biers, The Black Boukuet </em> </p>
 
 
-### Vibrant Expression
-
-A gnome's energy and enthusiasm for living shines through every inch of his or her tiny body. Gnomes average slightly over 3 feet tall and weigh 40 to 45 pounds. Their tan or brown faces are usually adorned with broad smiles (beneath their prodigious noses), and their bright eyes shine with excitement. Their fair hair has a tendency to stick out in every direction, as if expressing the gnome's insatiable interest in everything around.
-
-A gnome's personality is writ large in his or her appearance. A male gnome's beard, in contrast to his wild hair, is kept carefully trimmed but often styled into curious forks or neat points. A gnome's clothing, though usually made in modest earth tones, is elaborately decorated with embroidery, embossing, or gleaming jewels.
+Stalno brujanje zauzetih aktivnosti prožima ratove i četvrti u kojima gnomi čine svoje usko povezane zajednice. Glasniji zvukovi isprekidavaju brujanje: krckanje brušenih zupčanika ovde, manja eksplozija tamo, jekanje iznenađenja ili trijumfa, a posebno prasak smeha. Gnomovi se raduju životu, uživajući u svakom trenutku pronalaska, istraživanja, istrage, stvaranja i igre.
 
 
-### Delighted Dedication
+### Živahni izraz
 
-As far as gnomes are concerned, being alive is a wonderful thing, and they squeeze every ounce of enjoyment out of their three to five centuries of life. Humans might wonder about getting bored over the course of such a long life, and elves take plenty of time to savor the beauties of the world in their long years, but gnomes seem to worry that even with all that time, they can't get in enough of the things they want to do and see.
+Gnomeova energija i entuzijazam za život blista kroz svaki centimetar njegovog majušnog tela. Gnomi su u proseku visoki nešto više od 3 metra i teže 40 do 45 kilograma. Njihova preplanula ili smeđa lica obično krase široki osmesi (ispod njihovih čudesnih nosova), a njihove blistave oči blistaju od uzbuđenja. Njihova svetla kosa ima tendenciju da strši u svim pravcima, kao da izražava nezasitno interesovanje gnoma za sve okolo.
 
-Gnomes speak as if they can't get the thoughts out of their heads fast enough. Even as they offer ideas and opinions on a range of subjects, they still manage to listen carefully to others, adding the appropriate exclamations of surprise and appreciation along the way.
-
-Though gnomes love jokes of all kinds, particularly puns and pranks, they're just as dedicated to the more serious tasks they undertake. Many gnomes are skilled engineers, alchemists, tinkers, and inventors. They're willing to make mistakes and laugh at themselves in the process of perfecting what they do, taking bold (sometimes foolhardy) risks and dreaming large.
+Gnomova ličnost je ispisana u njegovom ili njenom izgledu. Brada muškog gnoma, za razliku od njegove divlje kose, održava se pažljivo ošišana, ali često oblikovana u neobične viljuške ili uredne tačke. Odeća gnoma, iako obično izrađena u skromnim zemljanim tonovima, detaljno je ukrašena vezom, utiskivanjem ili blistavim draguljima.
 
 
-### Bright Burrows
+### Oduševljena posvećenost
 
-Gnomes make their homes in hilly, wooded lands. They live underground but get more fresh air than dwarves do, enjoying the natural, living world on the surface whenever they can. Their homes are well hidden by both clever construction and simple illusions. Welcome visitors are quickly ushered into the bright, warm burrows. Those who are not welcome are unlikely to find the burrows in the first place.
+Što se tiče patuljaka, biti živ je divna stvar i oni istiskuju svaku trunku uživanja iz svojih tri do pet vekova života. Ljudi bi se mogli zapitati da li će im dosaditi tokom tako dugog života, a vilenjaci uzimaju dovoljno vremena da uživaju u lepotama sveta u svojim dugim godinama, ali čini se da se patuljci brinu da čak i sa svim tim vremenom ne mogu da dobiju u dovoljno stvari koje žele da urade i vide.
 
-Gnomes who settle in human lands are commonly gemcutters, engineers, sages, or tinkers. Some human families retain gnome tutors, ensuring that their pupils enjoy a mix of serious learning and delighted enjoyment. A gnome might tutor several generations of a single human family over the course of his or her long life.
+Gnomovi govore kao da ne mogu dovoljno brzo izbaciti misli iz glave. Iako nude ideje i mišljenja o nizu tema, i dalje uspevaju da pažljivo slušaju druge, usput dodajući odgovarajuće uzvike iznenađenja i zahvalnosti.
 
-**ALWAYS APPRECIATIVE**
+Iako patuljci vole šale svih vrsta, posebno igre reči i doskočice, oni su jednako posvećeni ozbiljnijim zadacima koje preduzimaju. Mnogi gnomi su vešti inženjeri, alhemičari, spretnici i pronalazači. Spremni su da prave greške i smeju se sebi u procesu usavršavanja onoga što rade, drzanja (ponekad i bezobraznog) rizika i velikog sanjarenja.
 
-It's rare for a gnome to be hostile or malicious unless he or she has suffered a grievous injury. Gnomes know that most races don't share their sense of humor, but they enjoy anyone's company just as they enjoy everything else they set out to do.
+### Bright Burrovs
 
+Gnomi prave domove u brdovitim, šumovitim zemljama. Žive pod zemljom, ali dobijaju više svežeg vazduha nego patuljci, uživajući u prirodnom, živom svetu na površini kad god mogu. Njihove domove dobro skrivaju pametna konstrukcija i jednostavne iluzije. Posetioci dobrodošlice brzo se uvedu u svetle, tople jazbine. Oni koji nisu dobrodošli, teško da će prvo naći jame.
 
-### Gnome Names
+Gnomi koji se nastanjuju u ljudskim zemljama su obično gemcuteri, inženjeri, mudraci ili spremači. Neke ljudske porodice zadržavaju nastavnike gnoma, osiguravajući da njihovi učenici uživaju u mešavini ozbiljnog učenja i ushićenog uživanja. Gnome može podučavati nekoliko generacija jedne ljudske porodice tokom svog dugog života.
 
-Gnomes love names, and most have half a dozen or so. A gnome's mother, father, clan elder, aunts, and uncles each give the gnome a name, and various nicknames from just about everyone else might or might not stick over time. Gnome names are typically variants on the names of ancestors or distant relatives, though some are purely new inventions. When dealing with humans and others who are “stuffy” about names, a gnome learns to use no more than three names: a personal name, a clan name, and a nickname, choosing the one in each category that's the most fun to say.
-
-**Male Names:** Alston, Alvyn, Boddynock, Brocc, Burgell, Dimble, Eldon, Erky, Fonkin, Frug, Gerbo, Gimble, Glim, Jebeddo, Kellen, Namfoodle, Orryn, Roondar, Seebo, Sindri, Warryn, Wrenn, Zook
-
-**Female Names:** Bimpnottin, Breena, Caramip, Carlin, Donella, Duvamil, Ella, Ellyjobell, Ellywick, Lilli, Loopmottin, Lorilla, Mardnab, Nissa, Nyx, Oda, Orla, Roywyn, Shamil, Tana, Waywocket, Zanna
-
-**Clan Names:** Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Ningel, Raulnor, Scheppen, Timbers, Turen
-
-**Nicknames:** Aleslosh, Ashhearth, Badger, Cloak, Doublelock, Filchbatter, Fnipper, Ku, Nim, Oneshoe, Pock, Sparklegem, Stumbleduck
+>**UVEK CENJEN**
+>
+> Retko je da je gnome neprijateljski raspoložen ili zlonameran, osim ako nije pretrpeo tešku povredu. Gnomovi znaju da većina rasa ne deli njihov smisao za humor, ali uživaju u bilo čijem društvu baš kao i u svemu ostalom što su naumili.
 
 
-### Seeing the World
+### Gnome Imena
 
-Curious and impulsive, gnomes might take up adventuring as a way to see the world or for the love of exploring. As lovers of gems and other fine items, some gnomes take to adventuring as a quick, if dangerous, path to wealth. Regardless of what spurs them to adventure, gnomes who adopt this way of life eke as much enjoyment out of it as they do out of any other activity they undertake, sometimes to the great annoyance of their adventuring companions.
+Gnomi vole imena, a većina ih ima pola tuceta ili tako nekako. Majka, otac, starešina klana, tetke i ujaci gnoma daju mu gnomu ime, a različiti nadimci sa skoro svih ostalih mogu se vremenom zalepiti ili ne. Imena gnoma su obično varijante imena predaka ili dalekih rođaka, mada su neki čisto novi izumi. Kada ima posla sa ljudima i drugima koji su „zagušljivi“ oko imena, gnome nauči da koristi najviše tri imena: lično ime, ime klana i nadimak, birajući ono iz svake kategorije koje je najzabavnije reći.
+
+**Muška imena:** Alston, Alvin, Boddinock, Brocc, Burgell, Dimble, Eldon, Erki, Fonkin, Frug, Gerbo, Gimble, Glim, Jebeddo, Kellen, Namfoodle, Orrin, Roondar, Seebo, Sindri, Varrin, Vrenn , Zook
+
+**Ženska imena:** Bimpnottin, Breena, Caramip, Carlin, Donella, Duvamil, Ella, Ellijobell, Ellivick, Lilli, Loopmottin, Lorilla, Mardnab, Nissa, Nik, Oda, Orla, Roivin, Shamil, Tana, Vaivocket, Zanna
+
+**Imena klana:** Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Ningel, Raulnor, Scheppen, Timbers, Turen
+
+**Nadimci:** Aleslosh, Ashhearth, Badger, Cloak, Doublelock, Filchbatter, Fnipper, Ku, Nim, Oneshoe, Pock, Sparklegem, Stumbleduck
+
+
+### Videti svet
+
+Radoznali i impulsivni, gnomovi bi mogli da se bave avanturama kao načinom da vide svet ili iz ljubavi prema istraživanju. Kao ljubitelji dragulja i drugih finih predmeta, neki patuljci avanturu doživljavaju kao brz, mada opasan put do bogatstva. Bez obzira na to šta ih podstiče na avanturu, patuljci koji usvoje ovaj način života uživaju u njemu jednako uživanje kao i u bilo kojoj drugoj aktivnosti koju preduzimaju, ponekad na veliku nevolju svojih drugova avantura.
 
 
 ### Gnome Traits
 
-Your gnome character has certain characteristics in common with all other gnomes.
+Vaš lik gnoma ima određene zajedničke karakteristike sa svim ostalim gnomovima.
 
-**Ability Score Increase.** Your Intelligence score increases by 2.
+**Povećanje ocene sposobnosti.** Vaša ocena inteligencije povećava se za 2.
 
-**Age.** Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
+**Starost.** Gnomovi sazrevaju istom brzinom kao i ljudi, a od većine se očekuje da se usele u odrasli život oko 40. godine. Mogu da žive od 350 do gotovo 500 godina.
 
-**Alignment.** Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.
+**Poravnanje.** Gnomovi su najčešće dobri. Oni koji teže zakonu su mudraci, inženjeri, istraživači, naučnici, istražitelji ili pronalazači. Oni koji teže ka haosu su ministranti, prevaranti, lutalice ili izmišljeni draguljari. Gnomovi su dobrog srca, a čak su i prevaranti među njima više zaigrani nego zli.
 
-**Size.** Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+**Veličina.** Gnomovi su visoki između 3 i 4 stope i prosečno su oko 40 kilograma. Vaša veličina je mala.
 
-**Speed.** Your base walking speed is 25 feet.
+**Brzina.** Osnovna brzina hoda je 25 stopa.
 
-**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+**Mračni vid.** Naviknuti na život pod zemljom, imate vrhunski vid u mraku i prigušenim uslovima. Možete videti pri slaboj svetlosti unutar 60 stopa od vas kao da je jarka svetlost, a u tami kao da je prigušena svetlost. U mraku ne možete razaznati boju, već samo sive nijanse.
 
-**Gnome Cunning.** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+**Gnome lukavost.** Imate prednost u svim inteligencijama, mudrostima i karizmama, koji štede protiv magije.
 
-**Languages.** You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
+**Jezici.** Možete da govorite, čitate i pišete Common i Gnomish. Gnomski jezik, koji koristi patuljasto pismo, poznat je po svojim tehničkim raspravama i katalozima znanja o svetu prirode.
 
-**Subrace.** Two subraces of gnomes are found among the worlds of D&D: forest gnomes and rock gnomes. Choose one of these subraces.
+**Podrasa.** U svetu D & D-a nalaze se dve podrase patuljaka: šumski i stenoviti patuljci. Izaberite jednu od ovih podrasa.
 
-**DEEP GNOMES**
-
-A third subrace of gnomes, the deep gnomes (or svirfneblin), live in small communities scattered in the Underdark. Unlike the duergar and the drow, svirfneblin are as good as their surface cousins. However, their humor and enthusiasm are dampened by their oppressive environment, and their inventive expertise is directed mostly toward stonework.
-
+>**DUBOKI GNOMI**
+>
+> Treća podrasa gnoma, duboki gnomi (ili svirfneblin), žive u malim zajednicama raštrkanim u Underdark-u. Za razliku od duergara i drova, svirfneblin je dobar kao i njihovi površinski rođaci. Međutim, njihov humor i entuzijazam prigušeni su njihovim ugnjetavajućim okruženjem, a njihova inventivna stručnost usmerena je uglavnom prema zidanju kamena.
 
 ### Rock Gnome
 
-As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes. Most gnomes in the worlds of D&D are rock gnomes, including the tinker gnomes of the Dragonlance setting.
+Kao kameni gnome, imate prirodnu inventivnost i tvrdoću koja je viša od ostalih gnoma. Većina patuljaka u svetu D&D su kameni patuljci, uključujući i patuljke u podešavanju Dragonlance.
 
-**Ability Score Increase.** Your Constitution score increases by 1.
+**Povećanje ocene sposobnosti.** Ocena vaše ustavnosti povećava se za 1.
 
-**Artificer's Lore.** Whenever you make an Intelligence ([History](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#History)) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
+**Artificer's Lore.** Kad god izvršite proveru inteligencije (istorije) u vezi sa magičnim predmetima, alhemijskim predmetima ili tehnološkim uređajima, možete da dodate dvostruki bonus za znanje umesto bilo kog bonusa za znanje koji obično primenite.
 
-**Tinker.** You have proficiency with artisan's tools ([tinker's tools](https://www.dndbeyond.com/equipment/tinkers-tools)). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
+**Tinker.** Vešt si sa zanatskim alatima (tinker's tools). Koristeći te alate, možete potrošiti materijale vredne 1 sat i 10 gp da biste napravili sićušni satni uređaj (AC 5, 1 KS). Uređaj prestaje da funkcioniše nakon 24 sata (osim ako potrošite 1 sat na popravak da bi uređaj nastavio da funkcioniše) ili kada njegovu radnju demontirate; u to vreme možete povratiti materijale koji su korišćeni za njegovo stvaranje. Možete imati istovremeno aktivna do tri takva uređaja.
 
-When you create a device, choose one of the following options:
+Kada kreirate uređaj, odaberite jednu od sledećih opcija:
 
-_Clockwork Toy. _This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
+_ Igračka za sat. _Ova igračka je domaća životinja, čudovište ili osoba, poput žabe, miša, ptice, zmaja ili vojnika. Kada se postavi na zemlju, igračka se pomera 5 stopa po zemlji na svakom vašem skretanju u slučajnom smeru. Pravi zvukove kako odgovara biću koje predstavlja.
 
-_Fire Starter. _The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
+_Fire Starter. _Uređaj proizvodi minijaturni plamen kojim možete upaliti sveću, baklju ili logorsku vatru. Korišćenje uređaja zahteva vašu akciju.
 
-_Music Box. _When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.
-
-
-## Half-Elf
-
-Flint squinted into the setting sun. He thought he saw the figure of a man striding up the path. Standing, Flint drew back into the shadow of a tall pine to see better. The man's walk was marked by an easy grace — an elvish grace, Flint would have said; yet the man's body had the thickness and tight muscles of a human, while the facial hair was definitely humankind's. All the dwarf could see of the man's face beneath a green hood was tan skin and a brownish-red beard. A longbow was slung over one shoulder and a sword hung at his left side. He was dressed in soft leather, carefully tooled in the intricate designs the elves loved. But no elf in the world of Krynn could grow a beard . . . no elf, but . . .
-
-“Tanis?” said Flint hesitantly as the man neared.
-
-“The same.” The newcomer's bearded face split in a wide grin. He held open his arms and, before the dwarf could stop him, engulfed Flint in a hug that lifted him off the ground. The dwarf clasped his old friend close for a brief instant, then, remembering his dignity, squirmed and freed himself from the half-elf's embrace.
-
-<p style="text-align: right">
-— <em>Margaret Weis and Tracy Hickman, Dragons of Autumn Twilight</em></p>
+_Muzička kutija. _Kad se otvori, ova muzička kutija reprodukuje jednu pesmu umerene jačine zvuka. Kutija prestaje da se reprodukuje kada stigne na kraj pesme ili kada je zatvorena.
 
 
-Walking in two worlds but truly belonging to neither, half-elves combine what some say are the best qualities of their elf and human parents: human curiosity, inventiveness, and ambition tempered by the refined senses, love of nature, and artistic tastes of the elves. Some half-elves live among humans, set apart by their emotional and physical differences, watching friends and loved ones age while time barely touches them. Others live with the elves, growing restless as they reach adulthood in the timeless elven realms, while their peers continue to live as children. Many half-elves, unable to fit into either society, choose lives of solitary wandering or join with other misfits and outcasts in the adventuring life.
+## Polu-vilenjak
+
+> Flint je zaškiljio u zalazeće sunce. Učinilo mu se da je video lik čoveka kako korača stazom. Stojeći, Flint se povukao u senku visokog bora da bi bolje video. Hod čoveka bio je obeležen lakom gracioznošću - vilenjačkom gracioznošću, rekao bi Flint; ipak je čovekovo telo imalo debljinu i zategnute mišiće kao čovek, dok je dlaka na licu definitivno bila čovečanstva. Patuljak je mogao videti čovekovo lice ispod zelene kapuljače preplanulu kožu i braonkastocrvenu bradu. Preko jednog ramena prebačen je dugačak luk, a sa leve strane visio mu je mač. Bio je odeven u meku kožu, pažljivo obrađen složenim dizajnom koji su voljeli vilenjaci. Ali nijedan vilenjak na svetu Krinn nije mogao da pusti bradu. . . nijedan vilenjak, ali. . .
+>
+> „Tanis?“ rekao je Flint neodlučno kad se čovek približio.
+>
+> „Isto.“ Bradasto lice pridošlice razdvojilo se u širokom osmehu. Raširio je ruke i, pre nego što ga je patuljak uspeo zaustaviti, zahvatio je Flinta u zagrljaju koji ga je podigao sa zemlje. Patuljak je na trenutak stisnuo svog starog prijatelja, a zatim se, sećajući se svog dostojanstva, izvio i oslobodio se zagrljaja polu-vilenjaka.
+>
+> <p stile = "tekt-align: right"> - <em> Margaret Veis i Traci Hickman, Zmajevi iz jesenjeg sumraka </em> </p>
 
 
-### Of Two Worlds
-
-To humans, half-elves look like elves, and to elves, they look human. In height, they're on par with both parents, though they're neither as slender as elves nor as broad as humans. They range from under 5 feet to about 6 feet tall, and from 100 to 180 pounds, with men only slightly taller and heavier than women. Half-elf men do have facial hair, and sometimes grow beards to mask their elven ancestry. Half-elven coloration and features lie somewhere between their human and elf parents, and thus show a variety even more pronounced than that found among either race. They tend to have the eyes of their elven parents.
+Hodajući u dva sveta, ali istinski ne pripadajući nijednom, polu-vilenjaci kombiniraju ono što neki kažu da su najbolje osobine njihovih vilenjaka i ljudskih roditelja: ljudska radoznalost, inventivnost i ambicija ublažena istančanim čulima, ljubavlju prema prirodi i umetničkim ukusima vilenjaci. Neki polu-vilenjaci žive među ljudima, izdvojeni po svojim emocionalnim i fizičkim razlikama, gledajući prijatelje i voljene kako stare dok ih vreme jedva dodiruje. Drugi žive s vilenjacima, rastući nemirno kad odrastu u bezvremenskim vilenjačkim carstvima, dok njihovi vršnjaci nastavljaju da žive kao deca. Mnogi polu-vilenjaci, nesposobni da se uklope ni u jedno društvo, biraju usamljeno lutanje ili se pridružuju drugim neprilikama i izopštenicima u avanturističkom životu.
 
 
-### Diplomats or Wanderers
+### Od dva sveta
 
-Half-elves have no lands of their own, though they are welcome in human cities and somewhat less welcome in elven forests. In large cities in regions where elves and humans interact often, half-elves are sometimes numerous enough to form small communities of their own. They enjoy the company of other half-elves, the only people who truly understand what it is to live between these two worlds.
+Ljudima polu-vilenjaci izgledaju poput vilenjaka, a vilenjacima izgledaju kao ljudi. Po visini su ravnopravni sa oba roditelja, mada nisu vitki poput vilenjaka niti široki poput ljudi. Oni se kreću od ispod 5 stopa do oko 6 stopa i od 100 do 180 kilograma, a muškarci su samo malo viši i teži od žena. Muškarci sa pola vilenjaka imaju dlake na licu, a ponekad im puštaju brade kako bi prikrili svoje vilenjačko poreklo. Polu-vilenjačka obojenost i osobine leže negde između njihovih ljudskih i vilenjačkih roditelja, i stoga pokazuju raznolikost još izraženiju od one kod bilo koje rase. Oni imaju oči svojih vilenjačkih roditelja.
 
-In most parts of the world, though, half-elves are uncommon enough that one might live for years without meeting another. Some half-elves prefer to avoid company altogether, wandering the wilds as trappers, foresters, hunters, or adventurers and visiting civilization only rarely. Like elves, they are driven by the wanderlust that comes of their longevity. Others, in contrast, throw themselves into the thick of society, putting their charisma and social skills to great use in diplomatic roles or as swindlers.
+### Diplomate ili lutalice
 
-**EXCELLENT AMBASSADORS**
+Polu-vilenjaci nemaju svoje zemlje, mada su dobrodošli u ljudskim gradovima, a nešto manje dobrodošli u vilenjačkim šumama. U velikim gradovima u regionima u kojima vilenjaci i ljudi često komuniciraju, polovični vilenjaci su ponekad dovoljno brojni da formiraju svoje sopstvene zajednice. Uživaju u društvu drugih polu-vilenjaka, jedinih ljudi koji istinski razumeju šta je to što živi između ova dva sveta.
 
-Many half-elves learn at an early age to get along with everyone, defusing hostility and finding common ground. As a race, they have elven grace without elven aloofness and human energy without human boorishness. They often make excellent ambassadors and go-betweens (except between elves and humans, since each side suspects the half-elf of favoring the other).
+U većini delova sveta, međutim, polu-vilenjaci su dovoljno neobični da bi neko mogao živeti godinama, a da ne sretne drugog. Neki polu-vilenjaci više vole da izbegavaju društvo, lutajući divljinom kao zamke, šumari, lovci ili avanturisti i posećuju civilizaciju retko. Poput vilenjaka, njima upravlja lutalica koja dolazi iz njihove dugovečnosti. Drugi se, za razliku od toga, bacaju u gužvu društva, stavljajući svoju harizmu i socijalne veštine u veliku korist u diplomatskim ulogama ili kao prevaranti.
 
-
-### Half-Elf Names
-
-Half-elves use either human or elven naming conventions. As if to emphasize that they don't really fit in to either society, half-elves raised among humans are often given elven names, and those raised among elves often take human names.
-
-
-### Half-Elf Traits
-
-Your half-elf character has some qualities in common with elves and some that are unique to half-elves.
-
-**Ability Score Increase.** Your Charisma score increases by 2, and two other ability scores of your choice increase by 1.
-
-**Age.** Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.
-
-**Alignment.** Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and sometimes prove unreliable, or at least unpredictable.
-
-**Size.** Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.
-
-**Speed.** Your base walking speed is 30 feet.
-
-**Darkvision.** Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-
-**Fey Ancestry.** You have advantage on saving throws against being [charmed](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Charmed), and magic can't put you to sleep.
-
-**Skill Versatility.** You gain proficiency in two skills of your choice.
-
-**Languages.** You can speak, read, and write Common, Elvish, and one extra language of your choice.
+>**ODLIČNI AMBASADORI**
+>
+> Mnogi polu-vilenjaci rano uče da se slažu sa svima, ublažavajući neprijateljstvo i pronalazeći zajednički jezik. Kao rasa, imaju vilenjačku gracioznost bez vilenjačke udaljenosti i ljudsku energiju bez ljudske drskosti. Često su izvrsni ambasadori i posrednici (osim između vilenjaka i ljudi, jer svaka strana sumnja da pol-vilenjak favorizuje drugu).
 
 
-## Half-Orc
+### Imena polu-vilenjaka
+
+Polovični vilenjaci koriste konvencije imenovanja ljudi ili vilenjaka. Kao da žele naglasiti da se zapravo ne uklapaju ni u jedno društvo, polu-vilenjaci odgajani među ljudima često dobijaju vilenjačka imena, a oni odgajani među vilenjacima često uzimaju ljudska imena.
 
 
-The warchief Mhurren roused himself from his sleeping-furs and his women and pulled a short hauberk of heavy steel rings over his thick, well-muscled torso. He usually rose before most of his warriors, since he had a strong streak of human blood in him, and he found the daylight less bothersome than most of his tribe did. Among the Bloody Skulls, a warrior was judged by his strength, his fierceness, and his wits. Human ancestry was no blemish against a warrior — provided he was every bit as strong, enduring, and bloodthirsty as his full-blooded kin. Half-orcs who were weaker than their orc comrades didn't last long among the Bloody Skulls or any other orc tribe for that matter. But it was often true that a bit of human blood gave a warrior just the right mix of cunning, ambition, and self-discipline to go far indeed, as Mhurren had. He was master of a tribe that could muster two thousand spears, and the strongest chief in Thar.
+### Osobine polu-vilenjaka
 
-<p style="text-align: right">
-— <em>Richard Baker, Swordmage</em></p>
+Karakter vašeg polu-vilenjaka ima neke zajedničke osobine sa vilenjacima i neke koji su jedinstveni za polu-vilenjake.
+
+**Povećanje ocene sposobnosti.** Vaša ocena karizme povećava se za 2, a dve druge ocene sposobnosti po vašem izboru povećavaju se za 1.
+
+**Starost.** Polu-vilenjaci sazrevaju istom brzinom kao i ljudi i dostižu punoletstvo oko 20. godine. Oni žive mnogo duže od ljudi, međutim, često prelazeći i 180 godina.
+
+**Poravnanje.** Polu-vilenjaci dele haotični savijanje svog vilenjačkog nasleđa. Oni cene i ličnu slobodu i kreativno izražavanje, ne pokazujući ni ljubav vođa ni želju za sledbenicima. Oni brinu o pravilima, negoduju nad tuđim zahtevima i ponekad se pokažu nepouzdanim ili bar nepredvidivim.
+
+**Veličina.** Polu-vilenjaci su otprilike iste veličine kao i ljudi, u visini od 5 do 6 stopa. Vaša veličina je srednja.
+
+**Brzina.** Osnovna brzina hoda je 30 stopa.
+
+**Mračni vid.** Zahvaljujući krvi vilenjaka, imate izvanredan vid u mraku i polumraku. Možete videti pri slaboj svetlosti unutar 60 stopa od vas kao da je jarka svetlost, a u tami kao da je prigušena svetlost. U mraku ne možete razaznati boju, već samo sive nijanse.
+
+**Fei Ancestri.** Imate prednost u uštedi bacanja u odnosu na šarmiranje, a magija vas ne može uspavati.
+
+**Raznovrsnost veština.** Steknete znanje dve veštine po vašem izboru.
+
+**Jezici.** Možete da govorite, čitate i pišete zajednički, vilinski i jedan dodatni jezik po vašem izboru.
 
 
-Whether united under the leadership of a mighty warlock or having fought to a standstill after years of conflict, orc and human tribes sometimes form alliances, joining forces into a larger horde to the terror of civilized lands nearby. When these alliances are sealed by marriages, half-orcs are born. Some half-orcs rise to become proud chiefs of orc tribes, their human blood giving them an edge over their full-blooded orc rivals. Some venture into the world to prove their worth among humans and other more civilized races. Many of these become adventurers, achieving greatness for their mighty deeds and notoriety for their barbaric customs and savage fury.
+## Polu-ork
+
+> Ratnik Mhurren probudio se iz krzna i žena i povukao kratak teški čelični prsten preko svog debelog, mišićavog torza. Obično je ustajao pre većine svojih ratnika, pošto je u sebi imao jak trag ljudske krvi, i smatrao je da dnevna svetlost manje uznemirava nego većina njegovog plemena. Među Krvavim lobanjama, ratniku se sudilo po snazi, žestini i pameti. Ljudsko poreklo nije bilo nikakva mrlja protiv ratnika - pod uslovom da je bio podjednako snažan, izdržljiv i krvožedan kao i njegova punokrvna rodbina. Poluorci koji su bili slabiji od svojih drugova orkova, nisu dugo trajali među Krvavim lobanjama ili bilo kojim drugim plemenom orkova. Ali često je bila istina da je malo ljudske krvi dalo ratniku baš pravu mešavinu lukavstva, ambicije i samodiscipline da zaista zaista ode daleko, kao što je to imao Mhurren. Bio je gospodar plemena koje je moglo prikupiti dve hiljade koplja i najjači poglavar u Taru.
+>
+> <p stile = "tekt-align: right"> - <em> Richard Baker, Svordmage </em> </p>
+
+
+Bez obzira da li su se ujedinili pod vođstvom moćnog veštaka ili su se borili u zastoju nakon godina sukoba, orkanska i ljudska plemena ponekad stvaraju saveze, udružujući snage u veću hordu terora civilizovanih zemalja u blizini. Kada su ti savezi zapečaćeni brakovima, rađaju se poluorci. Neki poluorci postaju ponosni poglavari plemena orkova, čija im ljudska krv daje prednost nad njihovim punokrvnim rivalima orcima. Neki se upuste u svet kako bi dokazali svoju vrednost među ljudima i drugim civilizovanijim rasama. Mnogi od njih postaju avanturisti, postižući veličinu svojim moćnim delima i ozloglašavajući se varvarskim običajima i divljačkim besom.
 
 
 ### Scarred and Strong
 
-Half-orcs' grayish pigmentation, sloping foreheads, jutting jaws, prominent teeth, and towering builds make their orcish heritage plain for all to see. Half-orcs stand between 5 and 7 feet tall and usually weigh between 180 and 250 pounds.
+Sivkasta pigmentacija poluorka, nagnuta čela, isturene čeljusti, istaknuti zubi i visoke građe čine njihovo nasleđe orka jasnim za sve. Poluorci su visoki između 5 i 7 stopa i obično teže između 180 i 250 kilograma.
 
-Orcs regard battle scars as tokens of pride and ornamental scars as things of beauty. Other scars, though, mark an orc or half-orc as a former slave or a disgraced exile. Any half-orc who has lived among or near orcs has scars, whether they are marks of humiliation or of pride, recounting their past exploits and injuries. Such a half-orc living among humans might display these scars proudly or hide them in shame.
-
-
-### The Mark of Gruumsh
-
-The one-eyed god Gruumsh created the orcs, and even those orcs who turn away from his worship can't fully escape his influence. The same is true of half-orcs, though their human blood moderates the impact of their orcish heritage. Some half-orcs hear the whispers of Gruumsh in their dreams, calling them to unleash the rage that simmers within them. Others feel Gruumsh's exultation when they join in melee combat — and either exult along with him or shiver with fear and loathing. Half-orcs are not evil by nature, but evil does lurk within them, whether they embrace it or rebel against it.
-
-Beyond the rage of Gruumsh, half-orcs feel emotion powerfully. Rage doesn't just quicken their pulse, it makes their bodies burn. An insult stings like acid, and sadness saps their strength. But they laugh loudly and heartily, and simple bodily pleasures — feasting, drinking, wrestling, drumming, and wild dancing — fill their hearts with joy. They tend to be short-tempered and sometimes sullen, more inclined to action than contemplation and to fighting than arguing. The most accomplished half-orcs are those with enough self-control to get by in a civilized land.
+Orci bojne ožiljke smatraju znakom ponosa, a ukrasne ožiljke stvarima lepote. Drugi ožiljci, međutim, orka ili poluorka označavaju kao bivšeg roba ili osramoćenog izgnanika. Bilo koji polu-ork koji je živeo među orkovima ili u njihovoj blizini ima ožiljke, bilo da su to znaci poniženja ili ponosa, prepričavajući svoje prošle eksploatacije i povrede. Takav polu-ork koji živi među ljudima mogao bi ponosno pokazati ove ožiljke ili ih sakriti u stidu.
 
 
-### Tribes and Slums
+### Znak Gruumsha
 
-Half-orcs most often live among orcs. Of the other races, humans are most likely to accept half-orcs, and half-orcs almost always live in human lands when not living among orc tribes. Whether proving themselves among rough barbarian tribes or scrabbling to survive in the slums of larger cities, half-orcs get by on their physical might, their endurance, and the sheer determination they inherit from their human ancestry.
+Jednooki bog Gruumsh stvorio je orke, pa čak ni oni orci koji se okrenu od njegovog obožavanja ne mogu u potpunosti izbeći njegov uticaj. Isto važi i za poluorke, iako njihova ljudska krv umerava uticaj njihovog orkanskog nasleđa. Neki poluorci čuju šapat Gruumsha u snovima, pozivajući ih da oslobode bes koji tinja u njima. Drugi osećaju Gruumšovu radost kada se pridruže u melee borbi - i likuju zajedno sa njim ili drhte od straha i gnušanja. Poluorci po prirodi nisu zli, ali zlo ih vreba, bilo da ga prihvate ili se pobune protiv njega.
 
-**GRUDGING ACCEPTANCE**
-
-Each half-orc finds a way to gain acceptance from those who hate orcs. Some are reserved, trying not to draw attention to themselves. A few demonstrate piety and good-heartedness as publicly as they can (whether or not such demonstrations are genuine). And some simply try to be so tough that others just avoid them.
+Izvan besa Gruumsha, poluorci snažno osećaju emocije. Bes ne samo da im ubrzava puls, već čini da tela gore. Uvreda peče poput kiseline, a tuga iscrpljuje njihovu snagu. Ali oni se smeju glasno i od srca, a jednostavna telesna zadovoljstva - gozba, piće, rvanje, bubnjanje i divlji ples - ispunjavaju njihova srca radošću. Oni su obično kratkoćudni i ponekad smrknuti, skloniji akciji nego kontemplaciji i tuči nego svađi. Najsavršeniji poluorci su oni sa dovoljno samokontrole da bi se mogli proći u civilizovanoj zemlji.
 
 
-### Half-Orc Names
+### Plemena i slamovi
 
-Half-orcs usually have names appropriate to the culture in which they were raised. A half-orc who wants to fit in among humans might trade an orc name for a human name. Some half-orcs with human names decide to adopt a guttural orc name because they think it makes them more intimidating.
+Poluorci najčešće žive među orcima. Od ostalih rasa, ljudi će najverovatnije prihvatiti pola orka, a poluorci gotovo uvek žive u ljudskim zemljama kada ne žive među plemenima orkova. Bez obzira da li se dokazuju među grubim varvarskim plemenima ili ribaju da bi preživeli u sirotinjskim četvrtima većih gradova, poluorci se snalaze svojom fizičkom snagom, izdržljivošću i odlučnošću koju nasleđuju od svog ljudskog porekla.
 
-**Male Orc Names:** Dench, Feng, Gell, Henk, Holg, Imsh, Keth, Krusk, Mhurren, Ront, Shump, Thokk
+>**PRIHVATANJE GRADŽIRANJA**
+>
+> Svaki polu-ork pronalazi način da stekne prihvatanje od onih koji mrze orke. Neki su uzdržani, trudeći se da ne skreću pažnju na sebe. Nekolicina pokaže koliko je to moguće pobožnost i dobrodušnost (bilo da su takve demonstracije istinite). A neki se jednostavno trude da budu toliko čvrsti da ih drugi jednostavno izbegavaju.
 
-**Female Orc Names:** Baggi, Emen, Engong, Kansif, Myev, Neega, Ovak, Ownka, Shautha, Sutha, Vola, Volen, Yevelda
+
+### Polu-ork imena
+
+Poluorci obično imaju imena koja odgovaraju kulturi u kojoj su odgajani. Polu-ork koji želi da se uklopi među ljude može da trguje imenom orka za ljudsko ime. Neki poluorci sa ljudskim imenima odlučuju se da prihvate grleno ime orka jer misle da ih to čini zastrašujućim.
+
+**Imena muških orkova:** Dench, Feng, Gell, Henk, Holg, Imsh, Keth, Krusk, Mhurren, Ront, Shump, Thokk
+
+**Imena ženskih orkova:** Baggi, Emen, Engong, Kansif, Miev, Neega, Ovak, Ovnka, Shautha, Sutha, Vola, Volen, Ievelda
 
 
-### Half-Orc Traits
+### Osobine poluorka
 
-Your half-orc character has certain traits deriving from your orc ancestry.
+Karakter vašeg polu-orka ima određene osobine koje potiču od vašeg porekla orka.
 
-**Ability Score Increase.** Your Strength score increases by 2, and your Constitution score increases by 1.
+**Povećanje ocene sposobnosti.** Ocena snage se povećava za 2, a ocena ustavnosti za 1.
 
-**Age.** Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
+**Starost.** Poluorci sazrevaju malo brže od ljudi, dostižući punoletstvo oko 14. godine starosti. Primećuju se brže i retko žive duže od 75 godina.
 
-**Alignment.** Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil.
+**Poravnanje.** Poluorci nasleđuju tendenciju ka haosu od svojih roditelja orka i nisu jako skloni dobru. Poluorci odgajani među orcima i spremni da žive svoj život među njima obično su zli.
 
-**Size.** Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
+**Veličina.** Poluorci su nešto veći i glomazniji od ljudi i visoki su od 5 do preko 6 stopa. Vaša veličina je srednja.
 
-**Speed.** Your base walking speed is 30 feet.
+**Brzina.** Osnovna brzina hoda je 30 stopa.
 
-**Darkvision.** Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+**Darkvision.** Zahvaljujući krvi orka imate izvanredan vid u mraku i polumraku. Možete videti pri slaboj svetlosti unutar 60 stopa od vas kao da je jarka svetlost, a u tami kao da je prigušena svetlost. U mraku ne možete razaznati boju, već samo sive nijanse.
 
-**Menacing.** You gain proficiency in the [Intimidation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Intimidation) skill.
+**preteće.** Steknete znanje veštine zastrašivanja.
 
-**Relentless Endurance.** When you are reduced to 
+**Neumoljiva izdržljivost.** Kada se svedete na
 
-0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
+0 pogodaka, ali ne i ubijenih, umesto toga možete pasti na 1 pogodak. Ne možete ponovo da koristite ovu funkciju dok ne završite duži odmor.
 
-**Savage Attacks.** When you score a critical hit with 
+**Napadi divljaka.** Kada postignete kritični pogodak
 
-a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
+napadom iz blizine, možete još jednom baciti jednu od kockica za oštećenje oružja i dodati je dodatnoj šteti od kritičnog pogotka.
 
-**Languages.** You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
+**Jezici.** Možete da govorite, čitate i pišete Common i Orc. Ork je grub jezik koji riba sa tvrdim suglasnicima. Nema sopstveno pismo, već je napisano patuljastim pismom.
 
 
 ## Tiefling
 
-“But you do see the way people look at you, devil's child.”
-
-Those black eyes, cold as a winter storm, were staring right into her heart and the sudden seriousness in his voice jolted her.
-
-“What is it they say?” he asked. “One's a curiosity, two's a conspiracy —”
-
-“Three's a curse,” she finished. “You think I haven't heard that rubbish before?”
-
-“I know you have.” When she glared at him, he added, “It's not as if I'm plumbing the depths of your mind, dear girl. That is the burden of every tiefling. Some break under it, some make it the millstone around their neck, some revel in it.” He tilted his head again, scrutinizing her, with that wicked glint in his eyes. “You fight it, don't you? Like a little wildcat, I wager. Every little jab and comment just sharpens your claws.”
-
-<p style="text-align: right">
-— <em>Erin M. Evans, Brimstone Angels</em></p>
-
-
-To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus — overlord of the Nine Hells — into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children's children will always be held accountable.
+> "Ali ti vidiš kako te ljudi gledaju, đavolje dete."
+>
+> Te crne oči, hladne poput zimske oluje, zurile su joj pravo u srce i iznenadna ozbiljnost u njegovom glasu trgnula ju je.
+>
+> „Šta kažu?“ upitao. „Jedan je radoznalost, drugi je zavera -“
+>
+> „Tri su prokletstvo“, završila je. „Mislite da ranije nisam čuo to smeće?“
+>
+> "Znam da jeste." Kad ga je ošinula pogledom, dodao je, „Nije kao da vam vodim dubine uma, draga devojko. To je teret svakog tajflinga. Neki se slome ispod njega, neki ga naprave mlinskim kamenom oko vrata, neki se uživaju u njemu “. Ponovo je nagnuo glavu, proučavajući je, sa onim opakim odsjajem u očima. „Borite se protiv toga, zar ne? Kladim se kao mala divlja mačka. Svaki mali udarac i komentar samo izoštravaju vaše kandže. “
+>
+> <p stile = "tekt-align: right"> - <em> Erin M. Evans, Brimstone Angels </em> </p>
 
 
-### Infernal Bloodline
-
-Tieflings are derived from human bloodlines, and in the broadest possible sense, they still look human. However, their infernal heritage has left a clear imprint on their appearance. Tieflings have large horns that take any of a variety of shapes: some have curling horns like a ram, others have straight and tall horns like a gazelle's, and some spiral upward like an antelopes' horns. They have thick tails, four to five feet long, which lash or coil around their legs when they get upset or nervous. Their canine teeth are sharply pointed, and their eyes are solid colors — black, red, white, silver, or gold — with no visible sclera or pupil. Their skin tones cover the full range of human coloration, but also include various shades of red. Their hair, cascading down from behind their horns, is usually dark, from black or brown to dark red, blue, or purple.
+Da vas dočekaju zureći i šapuću, trpe nasilje i uvrede na ulici, da vide nepoverenje i strah u svakom oku: ovo je deo spota. Da bi zavrnuli nož, tieflingi znaju da je to zato što je pakt sklopljen pre nekoliko generacija u njihovu suštinu ulivao suštinu Asmodeusa - gospodara Devet Pakla. Njihov izgled i njihova priroda nisu njihova greška, već rezultat drevnog greha, za koji će oni i njihova deca i deca njihove dece uvek biti odgovorni.
 
 
-### Self-Reliant and Suspicious
+### Paklena krvna linija
 
-Tieflings subsist in small minorities found mostly in human cities or towns, often in the roughest quarters of those places, where they grow up to be swindlers, thieves, or crime lords. Sometimes they live among other minority populations in enclaves where they are treated with more respect.
-
-Lacking a homeland, tieflings know that they have to make their own way in the world and that they have to be strong to survive. They are not quick to trust anyone who claims to be a friend, but when a tiefling's companions demonstrate that they trust him or her, the tiefling learns to extend the same trust to them. And once a tiefling gives someone loyalty, the tiefling is a firm friend or ally for life.
-
-**MUTUAL MISTRUST**
-
-People tend to be suspicious of tieflings, assuming that their infernal heritage has left its mark on their personality and morality, not just their appearance. Shopkeepers keep a close eye on their goods when tieflings enter their stores, the town watch might follow a tiefling around for a while, and demagogues blame tieflings for strange happenings. The reality, though, is that a tiefling's bloodline doesn't affect his or her personality to any great degree. Years of dealing with mistrust does leave its mark on most tieflings, and they respond to it in different ways. Some choose to live up to the wicked stereotype, but others are virtuous. Most are simply very aware of how people respond to them. After dealing with this mistrust throughout youth, a tiefling often develops the ability to overcome prejudice through charm or intimidation.
+Kradljivci su izvedeni iz ljudskih krvnih linija i u najširem mogućem smislu i dalje izgledaju kao ljudi. Međutim, njihovo pakleno nasleđe ostavilo je jasan pečat na njihov izgled. Kradljivci imaju velike rogove koji imaju bilo koji od različitih oblika: neki imaju rogove koji se uvijaju poput ovna, drugi imaju ravne i visoke rogove poput gazele, a neki spiralno prema gore poput rogova antilopa. Imaju guste repove, duge četiri do pet stopa, koji se vežu ili namotavaju oko nogu kad se uznemire ili postanu nervozni. Njihovi pseći zubi su oštro zašiljeni, a oči su im pune boje - crne, crvene, bele, srebrne ili zlatne - bez vidljive sklere ili zenice. Njihovi tonovi kože pokrivaju čitav niz ljudskih boja, ali takođe uključuju i razne nijanse crvene boje. Kosa im se kaskadno spušta iza rogova, obično je tamna, od crne ili smeđe do tamnocrvene, plave ili ljubičaste.
 
 
-### Tiefling Names
+### Samopouzdan i sumnjičav
 
-Tiefling names fall into three broad categories. Tieflings born into another culture typically have names reflective of that culture. Some have names derived from the Infernal language, passed down through generations, that reflect their fiendish heritage. And some younger tieflings, striving to find a place in the world, adopt a name that signifies a virtue or other concept and then try to embody that concept. For some, the chosen name is a noble quest. For others, it's a grim destiny.
+Kradljivci egzistiraju u malim manjinama koje se uglavnom nalaze u ljudskim gradovima ili gradovima, često u najgrubljim četvrtima tih mesta, gde odrastaju u prevarante, lopove ili gospodare zločina. Ponekad žive među ostalim manjinskim populacijama u enklavama gde se prema njima postupa sa više poštovanja.
 
-**Male Infernal Names:** Akmenos, Amnon, Barakas, Damakos, Ekemon, Iados, Kairon, Leucis, Melech, Mordai, Morthos, Pelaios, Skamos, Therai
+U nedostatku domovine, tieflingi znaju da se moraju probiti u svetu i da moraju biti jaki da bi preživeli. Oni ne veruju brzo nikome ko tvrdi da je prijatelj, ali kada pratioci tieflinga pokažu da mu veruju, tiefling nauči da im pruži isto poverenje. I kad jednom tiefling nekome pruži odanost, tiefling je čvrst prijatelj ili saveznik za ceo život.
 
-**Female Infernal Names:** Akta, Anakis, Bryseis, Criella, Damaia, Ea, Kallista, Lerissa, Makaria, Nemeia, Orianna, Phelaia, Rieta
+>**UZAJAMNA NEPOSREDA**
+>
+> Ljudi su skloni sumnjičavosti, pretpostavljajući da je njihovo pakleno nasleđe ostavilo traga na njihovu ličnost i moral, a ne samo na izgled. Trgovci pažljivo prate svoju robu kada tieflingi uđu u njihove prodavnice, gradska straža može neko vreme pratiti okolo, a demagozi krive tieflinge za neobična dešavanja. Stvarnost je, međutim, da krvna linija tieflinga ne utiče u velikoj meri na njegovu ličnost. Godine suočavanja s nepovjerenjem ostavljaju traga na većini prevara i oni na to reaguju na različite načine. Neki odluče da žive u skladu sa zlim stereotipom, ali drugi su vrli. Većina je jednostavno vrlo svesna kako ljudi reaguju na njih. Nakon što se tokom mladosti suoči sa ovim nepoverenjem, tajfling često razvija sposobnost prevazilaženja predrasuda šarmom ili zastrašivanjem.
 
-**“Virtue” Names:** Art, Carrion, Chant, Creed, Despair, Excellence, Fear, Glory, Hope, Ideal, Music, Nowhere, Open, Poetry, Quest, Random, Reverence, Sorrow, Temerity, Torment, Weary
+
+### Kradljiva imena
+
+Kradljiva imena spadaju u tri široke kategorije. Kradljivci rođeni u drugoj kulturi obično imaju imena koja odražavaju tu kulturu. Neki imaju imena izvedena iz paklenog jezika, koja su se prenosila kroz generacije, a koja odražavaju njihovo đavolsko nasleđe. A neki mlađi tieflingi, nastojeći da pronađu mesto na svetu, usvoje ime koje označava vrlinu ili drugi koncept, a zatim pokušavaju da otelotvore taj koncept. Za neke je izabrano ime plemenita potraga. Za druge je to mračna sudbina.
+
+**Imena paklenih mužjaka:** Akmenos, Amnon, Barakas, Damakos, Ekemon, Iados, Kairon, Leucis, Melech, Mordai, Morthos, Pelaios, Skamos, Therai
+
+**Ženska paklena imena:** Akta, Anakis, Briseis, Criella, Damaia, Ea, Kallista, Lerissa, Makaria, Nemeia, Orianna, Phelaia, Rieta
+
+**Imena „Vrlina“:** Umetnost, Carrion, Chant, Creed, Očaj, Izvrsnost, Strah, Slava, Nada, Idealno, Muzika, Nigde, Otvoreno, Poezija, Potraga, Slučajno, Poštovanje, Tuga, Temeriti, Muka, ​​Veari
 
 
-### Tiefling Traits
+### Kradljive osobine
 
-Tieflings share certain racial traits as a result of their infernal descent.
+Kradljivci dele određene rasne osobine kao rezultat njihovog paklenog porekla.
 
-**Ability Score Increase.** Your Intelligence score increases by 1, and your Charisma score increases by 2.
+**Povećanje ocene sposobnosti.** Vaša ocena inteligencije povećava se za 1, a ocena karizme povećava se za 2.
 
-**Age.** Tieflings mature at the same rate as humans but live a few years longer.
+**Starost.** Kradljivci sazrevaju istom brzinom kao i ljudi, ali žive nekoliko godina duže.
 
-**Alignment.** Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.
+**Poravnanje.** Kradljivci možda nemaju urođenu tendenciju ka zlu, ali mnogi od njih tamo i završe. Zlo ili ne, nezavisna priroda naginje mnoge nesuglasice ka haotičnom poravnanju.
 
-**Size.** Tieflings are about the same size and build as humans. Your size is Medium.
+**Veličina.** Kradljivci su približno iste veličine i građe kao i ljudi. Vaša veličina je srednja.
 
-**Speed.** Your base walking speed is 30 feet.
+**Brzina.** Osnovna brzina hoda je 30 stopa.
 
-**Darkvision.** Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+**Darkvision.** Zahvaljujući svom paklenom nasleđu, imate izvanredan vid u mraku i polumraku. Možete videti pri slaboj svetlosti unutar 60 stopa od vas kao da je jarka svetlost, a u tami kao da je prigušena svetlost. U mraku ne možete razaznati boju, već samo sive nijanse.
 
-**Hellish Resistance.** You have resistance to fire damage.
+**Pakleni otpor.** Imate otpor na oštećenja od požara.
 
-**Infernal Legacy.** You know the _[thaumaturgy](https://www.dndbeyond.com/spells/thaumaturgy)_ cantrip. When you reach 3rd level, you can cast the _[hellish rebuke](https://www.dndbeyond.com/spells/hellish-rebuke)_ spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the _[darkness](https://www.dndbeyond.com/spells/darkness)_ spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+**Pakleno nasleđe.** Znate _taumaturgiju_ putovanje. Kada dostignete 3. nivo, možete jednom sa ovom osobinom baciti čaroliju _hellish rebuke_ kao čaroliju 2. nivoa i povratiti sposobnost da to učinite kada završite duži odmor. Kada dostignete 5. nivo, možete jednom da napravite čaroliju _tamnosti_ ovom osobinom i vratite joj sposobnost kada završite duži odmor. Karizma je vaša sposobnost čarolije za ove čarolije.
 
-**Languages.** You can speak, read, and write Common and Infernal.
+**Jezici.** Možete da govorite, čitate i pišete zajedničko i pakleno.
