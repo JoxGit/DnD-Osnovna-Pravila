@@ -425,7 +425,7 @@ Na primer, velika snaga obično odgovara krupnom ili atletskom telu, dok lik sa 
 
 Lik visoke spretnosti verovatno je gipk i vitak, dok lik niske spretnosti može biti ili žgoljav i nespretan ili težak i debelih prstiju.
 
-Lik sa visokom konstitucijom (građom) obično izgleda zdrav, bistrih očiju i obilne energije. Karakter sa niskim građom mogao bi biti boležljiv ili slab.
+Lik sa visokom konstitucijom (građom) obično izgleda zdrav, bistrih očiju i obilne energije. Karakter sa niskim građom mogao bi biti bolešljiv ili slab.
 
 Lik sa visokom inteligencijom može biti vrlo radoznao i studiozan, dok lik sa niskom inteligencijom može jednostavno ili lako zaboraviti detalje.
 
@@ -442,7 +442,7 @@ Lik sa visokom harizmom odiše samopouzdanjem, koje se obično meša sa graciozn
 >
 >Bob odlučuje da Bruenor dolazi iz plemenite loze, ali je njegov klan proteran iz domovine kada je Bruenor bio vrlo mlad. Odrastao je radeći kao kovač u udaljenim selima Icevind Dale-a. Ali Bruenor ima herojsku sudbinu - da povrati svoju otadžbinu - pa Bob bira pozadinu narodnog heroja za svog patuljka. Primećuje profitabilnosti i posebnosti koje mu ova pozadina daje.
 >
->Bob ima na umu prilično jasnu sliku Bruenorove ličnosti, pa preskače osobine ličnosti predložene u pozadini narodnog heroja, napominjući umesto toga da je Bruenor brižni, osetljivi patuljak koji iskreno voli svoje prijatelje i saveznike, ali skriva ovo meko srce iza grubg, režeće ponašanja. Ideal pravičnosti bira sa spiska u svojoj pozadini, napominjući da Bruenor veruje da niko nije iznad zakona.
+>Bob ima na umu prilično jasnu sliku Bruenorove ličnosti, pa preskače osobine ličnosti predložene u pozadini narodnog heroja, napominjući umesto toga da je Bruenor brižni, osetljivi patuljak koji iskreno voli svoje prijatelje i saveznike, ali skriva ovo meko srce iza grubog, režeće ponašanja. Ideal pravičnosti bira sa spiska u svojoj pozadini, napominjući da Bruenor veruje da niko nije iznad zakona.
 >
 >S obzirom na njegovu istoriju, Bruenorova veza je očigledna: on teži da jednog dana povrati Mitral Hol, svoju domovinu, od zmaja iz senke koji je proterao patuljke. Njegova mana vezana je za njegovu brižnu, osetljivu prirodu - ima meku tačku za siročad i svojevoljne duše, što ga navodi na pokazivanje milosti čak i kad to možda nije opravdano.
 
@@ -473,11 +473,11 @@ Neke čarolije i karakteristike klase daju vam drugačiji način za izračunavan
 
 ### Oružje
 
-Za svako oružje kojim vaš lik poseduje izračunajte modifikator koji koristite kada napadate oružjem i štetu koju nanesete prilikom udara.
+Za svako oružje koje vaš lik poseduje izračunajte modifikator koji koristite kada napadate oružjem i štetu koju nanesete prilikom udara.
 
 Kada izvršite napad oružjem, bacate d20 i dodate svoj bonus za sposobnost (ali samo ako ste stručnjak sa oružjem) i odgovarajući modifikator sposobnosti.
 
-*   Za napade sa **bliskim oružjem** koristite modifikator Snaga za bacanja za napa i oštećenje. Oružje koje ima svojstvo finese, kao što je rapier, umesto toga može da koristi vaš modifikator spretnosti.
+*   Za napade sa **bliskim oružjem** koristite modifikator Snaga za bacanja za napad i oštećenje. Oružje koje ima svojstvo finesa, kao što je rapier, umesto toga može da koristi vaš modifikator spretnosti.
 *   Za napade **oružjem na daljinu** koristite modifikator spretnosti za bacanja za napad i oštećenje. Ručno oružje koje ima svojstvo bacanja, poput ručna sjekira, umesto toga može da koristi vaš modifikator snage.
 
 
@@ -485,21 +485,20 @@ Kada izvršite napad oružjem, bacate d20 i dodate svoj bonus za sposobnost (ali
 >
 >Bob zapisuje početnu opremu iz klase boraca i pozadinu narodnog heroja. Njegova početna oprema uključuje lančani oklop i štit, koji zajedno daju Bruenoru klasu oklopa od 18.
 >
->Za Bruenorovo oružje, Bob bira bojnu sekiru i dvije ručne sjekire. Njegova bojna sekira je oružje za blisku borbu, pa Bruenor koristi svoj modifikator snage za svoje napade i štetu. Njegov bonus za napad je njegov modifikator snage (+3) plus njegov bonus za stručnost (+2), ukupno +5. Batleak nanosi 1d8 reznu štetu, a bojna sjekira dodaje svoj modifikator snage u štetu kada pogodi, što ukupno iznosi 1d8 + 3 štetu sječenja. Kada baca ručnu sjekiru, Bruenor ima isti bonus za napad (ručne sjekire, kao i bačeno oružje, koriste snagu za napade i štetu), a oružje nanosi 1d6 + 3 štetu sječenja kad pogodi.
+>Za Bruenorovo oružje, Bob bira bojnu sekiru i dvije ručne sjekire. Njegova bojna sekira je oružje za blisku borbu, pa Bruenor koristi svoj modifikator snage za svoje napade i štetu. Njegov bonus za napad je njegov modifikator snage (+3) plus njegov bonus za stručnost (+2), ukupno +5. Bojna sjekira nanosi 1d8 štetu sječenjem, a bojna sjekira dodaje modifikator snage u štetu kada pogodi, što ukupno iznosi 1d8 + 3 štetu sječenja. Kada baca ručnu sjekiru, Bruenor ima isti bonus za napad (ručne sjekire, kao i bačeno oružje, koriste snagu za napade i štetu), a oružje nanosi 1d6 + 3 štetu sječenja kad pogodi.
 
 
 ## 6. Dođite zajedno
 
-Većina D&D likova ne radi sama. Svaki lik igra ulogu u **skupini**, grupi avanturista koji rade zajedno u zajedničke svrhe. Timski rad i saradnja uveliko poboljšavaju šanse vaše skupne da preživi brojne strahote u svetovu Dungeons & Dragons. Razgovarajte sa kolegama igračima i vašim DM-om da biste odlučili da li se vaši likovi poznaju, kako su se upoznali i kakve zadatke bi grupa mogla preduzeti.
-
+Većina D&D likova ne radi sama. Svaki lik igra ulogu u **družini**, grupi avanturista koji rade zajedno u zajedničke svrhe. Timski rad i saradnja uveliko poboljšavaju šanse vaše skupne da preživi brojne strahote u svetu Dungeons & Dragons. Razgovarajte sa kolegama igračima i vašim DM-om da biste odlučili da li se vaši likovi poznaju, kako su se upoznali i kakve zadatke bi grupa mogla preduzeti.
 
 # Nakon prvog nivoa
 
 Kako vaš lik odlazi u avanture i savladava izazove, on ili ona stiče iskustvo, predstavljeno bodovima iskustva (XP). Lik koji dostigne određenu tačku iskustva ukupno napreduje u sposobnostima. Ovaj napredak se naziva **postizanjem nivoa**.
 
-Kada vaš lik dostigne nivo, njegova klasa često daje dodatne funkcije, kao što je detaljno opisano u opisu klase. Neke od ovih karakteristika omogućavaju vam da povećate ocene sposobnosti, ili povećavajući dve ocene za 1 ili povećavajući jedanu ocjenu za 2. Ne možete povećati ocenu sposobnosti iznad 20. Pored toga, bonus za sposobnost svakog lika se povećava na određenim nivoima.
+Kada vaš lik dostigne nivo, njegova klasa često daje dodatne funkcije, kao što je detaljno opisano u opisu klase. Neke od ovih karakteristika omogućavaju vam da povećate ocene sposobnosti, ili povećavajući dve ocene za 1 ili povećavajući jednu ocjenu za 2. Ne možete povećati ocenu sposobnosti iznad 20. Pored toga, bonus za sposobnost svakog lika se povećava na određenim nivoima.
 
-Svaki put kada osvojite nivo, dobijate 1 dodatnu kocku za život. Bacite tu kocku za život, dodajte svoj modifikator Građe i dodajte ukupan broj (najmanje 1) u svoje maksimalne životne bodove. Alternativno, možete koristiti fiksnu vrednost prikazanu u unosu vaše klase, što je prosečni rezultat bacanja (zaokruženo).
+Svaki put kada osvojite nivo, dobijate 1 dodatnu kocku za život. Bacite tu kocku za život, dodajte svoj modifikator Građe i dodajte ukupan broj (najmanje 1) u svoje maksimalne životne bodove. Alternativno, možete koristiti fiksnu vrednost prikazanu u opisu vaše klase, što je prosečni rezultat bacanja (zaokruženo).
 
 Kada se vaš modifikator Građe poveća za 1, maksimum Životnih bodova povećava se za 1 za svaki nivo koji ste postigli. Na primer, kada Bruenor dostigne 8. nivo kao borac, povećava svoj rezultat Građe sa 17 na 18, povećavajući tako svoj modifikator Građe sa +3 na +4. Tada se maksimum njegovih Životnih bodova povećava za 8.
 
@@ -508,7 +507,7 @@ Tabela za unapređivanje karaktera rezimira XP koji vam je potreban za napredova
 
 ## Nivoi igre
 
-Sjenčanja u tabeli za unapređivanje karaktera prikazuje četiri nivoa igre. Nivoi nisu povezani sa nikakvim pravilima; oni su opšti opis kako se doživljaj igre menja kako likovi dobijaju nivoe.
+Sjenčanja u tabeli za unapređivanje karaktera prikazuje četiri nivoa igre. Nivoi nisu povezani ni sa kakvim pravilima; oni su opšti opis kako se doživljaj igre menja kako likovi dobijaju nivoe.
 
 U prvom nivou (nivoi 1–4), likovi su praktično šegrti avanturisti. Oni uče osobine koje ih definišu kao članove određenih klasa, uključujući glavne izbore koji aromatizuju njihove klasne karakteristike tokom njihovog napredovanja (poput čarobnjakove čarobne tradicije ili borbenog arhetipa borca). Prijetnje s kojima se suočavaju relativno su male, obično predstavljaju opasnost za lokalne farme ili sela.
 
@@ -699,54 +698,46 @@ Poseta jednom od velikih gradova u svetu Dungeons & Dragonsa - Waterdeep-u, Slob
 
 I sami ljudi - ljudi različite veličine, oblika i boje, odeveni u blistav spektar stilova i nijansi - predstavljaju mnogo različitih rasa, od omanjih polutana i stasitih patuljaka do veličanstveno lepih vilenjaka, koji se mešaju među razne ljudske narodnosti.
 
-Među članovima ovih uobičajenih rasa raštrkani su pravi egzotični ljudi: zdepasti dragonborn ovdije, koji se probija kroz gomilu i lukav tiefling tamo, vrebajući u senci sa nestašlucima u očima. Grupa patuljaka se smeje dok jedan od njih aktivira pametnu drvenu igračku koja se kreće sama od sebe. Polu-vilenjaci i poluorci žive i rade zajedno sa ljudima, bez da u potpunosti pripadaju rasi bilo kog od njihovih roditelja. A tamo, daleko od sunčeve svetlosti, nalazi se usamljen marčni vilenjak begunac sa podzemnog prostranstva Podzemlja, pokušava da se probije u svetu koji se boji njegove vrste. Priručnik za igrača sadrži više informacija o ovim neobičnim rasama.
+Među članovima ovih uobičajenih rasa raštrkani su pravi egzotični ljudi: zdepasti dragonborn ovdje, koji se probija kroz gomilu i lukav tifling tamo, vrebajući u senci sa nestašlucima u očima. Grupa patuljaka se smeje dok jedan od njih aktivira pametnu drvenu igračku koja se kreće sama od sebe. Polu-vilenjaci i polu-orci žive i rade zajedno sa ljudima, bez da u potpunosti pripadaju rasi bilo kog od njihovih roditelja. A tamo, daleko od sunčeve svetlosti, nalazi se usamljeni marčni vilenjak begunac sa podzemnog prostranstva Podzemlja, pokušava da se probije u svetu koji se boji njegove vrste. Priručnik za igrača sadrži više informacija o ovim neobičnim rasama.
 
 
 ## Izbor rase
 
 Ljudi su najčešći narod u svetu D&D-a, ali žive i rade zajedno sa patuljcima, vilenjacima, polutanima i bezbroj drugih fantastičnih vrsta. Vaš lik pripada jednom od ovih naroda.
 
-Nije svaka inteligentna rasa multiverzuma prikladna za avanturistu kojim upravlja igrač. Patuljci, vilenjaci, polutani i ljudi su najčešća rasa koja stvara vrstu avanturista koji čine tipične družine. Ostale rase i podrase su ređe kao avanturisti.
+Nije svaka inteligentna rasa multiverzuma prikladna za avanturistu kojim upravlja igrač. Patuljci, vilenjaci, polutani i ljudi su najčešća rasa koja stvara vrstu avanturista koji čine dio tipične družine. Ostale rase i podrase su ređe kao avanturisti.
 
 Vaš izbor rase utiče na mnogo različitih aspekata vašeg lika. Utvrđuje osnovne osobine koje postoje tokom avanturističke karijere vašeg lika. Prilikom donošenja ove odluke imajte na umu kakav lik želite da igrate. Na primer, polutan bi mogao biti dobar izbor za podlog lupeža, patuljak čini žilavog ratnika, a vilenjak može biti gospodar tajne magije.
 
-Vaša izbor rase ne utiče samo na ocene i osobine vaših sposobnosti, već takođe pruža znakove za izgradnju priče vašeg lika. Opis svake rase u ovom poglavlju uključuje informacije koje će vam pomoći da odigrate lik te rase, uključujući ličnost, fizički izgled, osobine društva i tendencije rasne pripadnosti. Ovi detalji su predlozi koji će vam pomoći da razmislite o svojoj karakteru; avanturisti mogu široko odstupiti od norme za svoju rasu. Dobro je razmotriti zašto se vaš lik razlikuje, kao koristan način razmišljanja o poreklu i ličnosti vašeg lika.
-
+Vaš izbor rase ne utiče samo na ocene i osobine vaših sposobnosti, već takođe pruža znakove za izgradnju priče vašeg lika. Opis svake rase u ovom poglavlju uključuje informacije koje će vam pomoći da odigrate lik te rase, uključujući ličnost, fizički izgled, osobine društva i tendencije rasne pripadnosti. Ovi detalji su predlozi koji će vam pomoći da razmislite o svom karakteru; avanturisti mogu široko odstupiti od norme za svoju rasu. Dobro je razmotriti zašto se vaš lik razlikuje, kao koristan način razmišljanja o poreklu i ličnosti vašeg lika.
 
 ### Rasne osobine
 
 Opis svake rase uključuje rasne osobine koje su zajedničke pripadnicima te rase. Sledeći stavke se pojavljuju među osobinama većine rasa.
 
-
 #### Povećanje ocene sposobnosti
 
 Svaka rasa povećava jedan ili više rezultata sposobnosti lika.
-
 
 #### Starost
 
 Stavka uzrasta beleži starost kada se član rase smatra punoletnim, kao i očekivani životni vek rase. Ove informacije vam mogu pomoći da odlučite koliko je star vaš lik na početku igre. Možete odabrati bilo koje doba za svoj lik, što bi moglo objasniti neke od vaših ocena sposobnosti. Na primer, ako igrate mladog ili vrlo starog lika, vaše godine bi mogle objasniti posebno nizak rezultat snage ili građe, dok bi poodmaklo doba moglo predstavljati visoku inteligenciju ili mudrost.
 
-
 #### Poravnanje
 
 Većina rasa ima tendenciju ka određenim poravnanjima, opisanim u ovom tekstu. Oni nisu obavezujući za likove igrača, ali s obzirom na to zašto je vaš patuljak haotičan, na primer, uprkos zakonitom patuljastom društvu, može vam pomoći da bolje definišete svoj karakter.
-
 
 #### Veličina
 
 Likovi većine rasa su Srednji, kategorija veličine koja uključuje bića koja su visoka oko 4 do 8 stopa. Članovi nekoliko rasa su mali (visoki između 2 i 4 stope), što znači da određena pravila igre različito utiču na njih. Najvažnije od ovih pravila je da Mali likovi imaju problema sa teškim oružjem, kao što je objašnjeno u 5. poglavlju.
 
-
 #### Brzina
 
 Vaša brzina određuje koliko daleko možete da se krećete tokom putovanja (poglavlje 8) i borbe (poglavlje 9).
 
-
 #### Jezici
 
 Na osnovu vaše rase, vaš lik može da govori, čita i piše određene jezike. Poglavlje 4 navodi najčešće jezike D&D multiverzuma.
-
 
 #### Podrase 
 
@@ -795,11 +786,11 @@ Neke rase imaju podrase. Članovi podrase imaju osobine roditeljske rase pored o
 
 Avanturisti su izvanredni ljudi, vođeni žeđu za uzbuđenjem u životu kakavom se drugi nikada ne bi usudili. Oni su heroji, primorani da istražuju mračna mesta sveta i preuzmu izazove sa kojima manje žene i muškarci ne mogu da se suprotstave.
 
-Klasa je primarna definicija onoga što vaš lik može. To je više od profesije; to je poziv vašeg lika. Klasa oblikuje način na koji razmišljate o svetu i komunicirate sa njim i vaš odnos sa drugim ljudima i moćima u multiverzumu. Na primer, borac može svet gledati u pragmatičnom smislu strategije i manevrisanja, a sebe videti kao samo pijuna u mnogo većoj igri. Nasuprot tome, klerik bi mogao sebe da vidi voljni sluga u božjem planu ili sukobu koji se nameće među raznim božanstvima. Dok borac ima kontakte u plaćeničkoj četi ili vojsci, sveštenik može poznavati brojne sveštenike, paladine i posvećenike koji dele njegovu veru.
+Klasa je primarna definicija onoga što vaš lik može. To je više od profesije; to je poziv vašeg lika. Klasa oblikuje način na koji razmišljate o svetu i komunicirate sa njim i vaš odnos sa drugim ljudima i moćima u multiverzumu. Na primer, borac može svet gledati u pragmatičnom smislu strategije i manevrisanja, a sebe videti kao samo pijuna u mnogo većoj igri. Nasuprot tome, sveštenik bi mogao sebe da vidi kao voljni sluga u božjem planu ili sukobu koji se nameće među raznim božanstvima. Dok borac ima kontakte u plaćeničkoj četi ili vojsci, sveštenik može poznavati brojne sveštenike, paladine i posvećenike koji dele njegovu veru.
 
 Vaša klasa vam daje razne posebne karakteristike, poput majstorstva borca za oružje i oklop i čarobnjačke čarolije. Na niskim nivoima, vaša klasa vam daje samo dve ili tri karakteristike, ali kako napredujete u nivou dobijate sve više, a postojeće osobine često poboljšavaju. Svaka stavka klase u ovom poglavlju uključuje tabelu koja sumira benefite koje stičete na svakom nivou i detaljno objašnjenje svaki od njih.
 
-Avanturisti ponekad napreduju u više klasa. Lupež bi mogao promeniti pravac u životu i vladati u klasi sveštenika, dok bi nastavlja da napreduje kao lupež. Poznato je da vilenjaci kombinuju borilačko majstorstvo sa magičnim treningom i istovremeno napreduju kao borci i čarobnjaci. Neobavezna pravila za kombinovanje klasa na ovaj način, koja se nazivaju višeklasno, mogu se naći u Priručniku za igrače.
+Avanturisti ponekad napreduju u više klasa. Lupež bi mogao promeniti pravac u životu i vladati u klasi sveštenika, dok bi nastavljao da napreduje kao lupež. Poznato je da vilenjaci kombinuju borilačko majstorstvo sa magičnim treningom i istovremeno napreduju kao borci i čarobnjaci. Neobavezna pravila za kombinovanje klasa na ovaj način, koja se nazivaju višeklasno, mogu se naći u Priručniku za igrače.
 
 Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&D svetu i definišu većinu tipičnih avanturista. Pogledajte priručnik za igrače za više informacija.
 
@@ -1049,7 +1040,6 @@ Likove definiše mnogo više od njihove rase i klase. Oni su pojedinci sa sopstv
 ## Detalji karaktera
 
 Ime i fizički opis vašeg lika mogu biti prve stvari koje drugi igrači za stolom saznaju o vama. Vredi razmisliti o tome kako ove karakteristike odražavaju lik koji imate na umu.
-
 
 >**Tika i Artemida: Kontrastni likovi**
 >
@@ -1580,29 +1570,1558 @@ Možda ćete želeti da podesite neke funkcije pozadine, tako da bolje odgovara
 >Tika Vailan i Artemis Entreri su svoje prve godine živeli kao ulični siročići. Kasnija Tikina karijera konobarice nije je zaista promenila, pa bi možda mogla da izabere pozadinu siročeta, steknuvši znanje veštine veštih ruku i nečujnosti i naučeći alate lopovske provesije. Artemidu više definiše njegovo kriminalno poreklo, dajući mu veštine u obmanjivanju i skrivanju, kao i znanje oruđa za lopovluk i otrov.
 
 
+## Sledbenik
 
-Spisak pozadnina - detalji se mogu pronaći u knjigama
-[Backgrounds](https://www.dndbeyond.com/sources/basic-rules/personality-and-background#Backgrounds)
+Proveli ste svoj život u službi hrama određenom bogu ili panteonu bogova. Delujete kao posrednik između carstva svetog i smrtnog sveta, vršeći svete obrede i prinoseći žrtve kako biste sproveli poklonike u prisustvo božansko. Niste nužno sveštenik - obavljanje sveštenih obreda nije isto što i kanalisanje božanske moći.
 
+Izaberite boga, panteon bogova ili neko drugo kvazi božansko biće ~~među onima navedenima u dodatku B~~ ili one koje je odredio vaš DM, i sarađujte sa svojim DM-om da biste detaljno opisali prirodu svoje verske službe. Da li ste bili manji funkcioner u hramu, odgajan od detinjstva da biste pomagali sveštenicima u svetim obredima? Ili ste bili prvosveštenik koji je iznenada doživeo poziv da služi svom bogu na drugačiji način? Možda ste bili vođa malog kulta izvan bilo koje utvrđene hramovne strukture, ili čak kultne grupe koja je služila vražjem gospodaru, a koji sada negirate.
 
-## Acolyte - Sledbenik 
+Veštine: Uvid, Religija
 
+Jezici: dva po vašem izboru
 
-## Criminal - Kriminalac 
-
-
-## Folk Hero - Narodni heroj
-
-
-## Noble - Plemenit
+Oprema: Sveti simbol (poklon vama kada ste stupili u sveštenstvo), molitvenik ili brojanica, 5 štapića tamjana, mantije, komplet zajedničke odeće i torbica sa 15 gp
 
 
-## Sage - Mudrac
+### **Karakteristika: Sklonište vernih**
+
+Kao sledbenik, ukazujete poštovanje onima koji dele vašu veru i možete da obavljate verske ceremonije svog božanstva. Vi i vaši saputnici avanture možete očekivati da ćete dobiti besplatno isceljenje i negu u hramu, svetilištu ili nekom drugom utvrđenom prisustvu vaše vere, mada morate obezbediti sve materijalne komponente potrebne za čarolije. Oni koji dele vašu religiju podržaće vas (ali samo vas) u skromnom načinu života.
+
+Možda ćete takođe imati veze sa određenim hramom posvećenom vašem izabranom božanstvu ili panteonu i tamo imate prebivalište. Ovo bi mogao biti hram u kome ste nekada služili, ako ste u dobrim odnosima s njim, ili hram u kome ste pronašli novi dom. Dok ste u blizini svog hrama, možete pozvati sveštenike za pomoć, pod uslovom da pomoć koju tražite nije opasna i ako i dalje imate dobru reputaciju u svom hramu.
+
+### **Predložene karakteristike**
+
+Sledbenici se oblikuju prema iskustvu u hramovima ili drugim verskim zajednicama. Njihovo proučavanje istorije i načela njihove vere i njihovog odnosa prema hramovima, svetilištima ili hijerarhijama utiču na njihov manir i ideale. Njihove mane mogu biti neko skriveno licemerje ili jeretička ideja, ili ideal ili veza dovedena do krajnosti.
+
+<table>
+    <tr>
+        <td><strong>d8</strong>
+        </td>
+        <td><strong>Lične osobine</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Obožavam određenog heroja svoje vere i neprestano se pozivam na dela i primer te osobe.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Mogu pronaći zajednički jezik između najžešćih neprijatelja, saosećajući sa njima i uvek radeći na miru.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Vidim predznake u svakom događaju i akciji. Bogovi pokušavaju da razgovaraju sa nama, samo treba da slušamo.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Ništa ne može poljuljati moj optimistični stav.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Citiram (ili pogrešno citiram) svete tekstove i poslovice u skoro svakoj situaciji.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Ja sam tolerantan (ili netolerantan) prema drugim verovanjima i poštujem (ili osuđujem) obožavanje drugih bogova.
+        </td>
+    </tr>
+    <tr>
+        <td>7
+        </td>
+        <td>Uživao sam u finoj hrani, piću i visokom društvu među elitom mog hrama. Grube život me žulja.
+        </td>
+    </tr>
+    <tr>
+        <td>8
+        </td>
+        <td>Proveo sam toliko vremena u hramu da imam malo praktičnog iskustva u radu sa ljudima u spoljnom svetu.
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Ideali</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td><strong>Tradicija.</strong> Drevne tradicije obožavanja i žrtvovanja moraju se čuvati i podržavati. (Zakonito)
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td><strong>Dobrotvornost.</strong> Uvek se trudim da pomognem onima kojima je pomoć potrebna, bez obzira na lične troškove. (Dobro)
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td><strong>Promene.</strong> Moramo pomoći u sprovođenju promena koje bogovi neprestano rade u svetu. (Haotično)
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td><strong>Moć.</strong> Nadam se da ću se jednog dana popeti na vrh verske hijerarhije svoje vere. (Zakonito)
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td><strong>Vera.</strong> Verujem da će moje božanstvo voditi moje postupke. Verujem da će, ako se potrudim, stvari ići dobro. (Zakonito)
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td><strong>Težnja.</strong> Nastojim da se dokažem dostojnim naklonosti svog boga podudarajući svoje postupke sa njegovim ili njenim učenjima. (Bilo koji)
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Veze</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Umro bih da povratim drevnu relikviju svoje vere koja je bila davno izgubljena.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Jednog dana osvetiću se iskvarenoj hramovnoj hijerarhiji koja me je označila za jeretika.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Život dugujem svešteniku koji me je primio kad su mi roditelji umrli.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Sve što radim je za obične ljude.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Učiniću sve da zaštitim hram u kome sam služio.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Nastojim da sačuvam sveti tekst koji moji neprijatelji smatraju jeretičkim i nastoje da ga unište.
+        </td>
+    </tr>
+</table>
+
+<t1able>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Mane</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Oštro sudim drugima, a još strože sebi.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Previše verujem onima koji imaju moć u hijerarhiji mog hrama.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Moja pobožnost me ponekad navodi da slepo verujem onima koji ispovedaju veru u mog boga.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Ja sam nefleksibilan u svom razmišljanju.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Sumnjičav sam prema strancima i očekujem najgore od njih.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Jednom kada odaberem cilj, postajem opsednut njime na štetu svega ostalog u svom životu.
+        </td>
+    </tr>
+</table>
 
 
-## Soldier - Vojnik
+## Kriminalac
+
+Vi ste iskusni kriminalac sa istorijom kršenja zakona. Proveli ste dosta vremena među ostalim kriminalcima i dalje imate kontakte u kriminalnom podzemlju. Daleko ste bliži svetu ubistava od većine ljudi, krađe i nasilja od kojega se prevrće stomak civilizaciji, a vi ste preživjeli do ovog trenutka narušavajuči pravila i propise društva.
+
+Veštine: Obmana, Skrivanje
+
+Poznavanje alata: Jedna vrsta seta za igre, alati za lopove
+
+Oprema: Pajser, komplet tamne uobičajene odeće, uključujući kapuljaču, i torbica sa 15 gp
 
 
+### **Kriminalna specijalnost**
+
+Postoji mnogo vrsta kriminalaca, a unutar lopovskog udruženja ili slične zločinačke organizacije, pojedini članovi imaju posebne specijalnosti. Čak i kriminalci koji rade van takvih organizacija imaju određene sklonosti ka određenim vrstama zločina nad drugima. Izaberite ulogu koju ste igrali u kriminalnom životu ili se bacite kocku i birajte iz dole navedene tabele.
+
+<table>
+    <tr>
+        <td><strong>d8</strong>
+        </td>
+        <td><strong>Specijalnost</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Ucenjivač
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Provalnik
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Izvršitelj
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Mačevalac
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Razbojnik na autoputu
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Unajmljeni ubica
+        </td>
+    </tr>
+    <tr>
+        <td>7
+        </td>
+        <td>Džeparoš
+        </td>
+    </tr>
+    <tr>
+        <td>8
+        </td>
+        <td>Krijumčar
+        </td>
+    </tr>
+</table>
+
+
+
+### **Karakteristika: Kriminalni kontakt**
+
+Imate pouzdan i pouzdan kontakt koji deluje kao veza sa mrežom drugih kriminalaca. Ti znaš kako razmjeniti poruke od i do svog kontakta, čak i na velike udaljenosti; konkretno, znate lokalne glasnike, korumpirane gosspodare karavana i besramne mornare koji vam mogu dostaviti poruke.
+
+
+### **Predložene karakteristike**
+
+Kriminalci mogu izgledati kao zlikovci na površini, a mnogi od njih su zlikovci do srži. Ali neki imaju obilje dopadljivih, ako ne i iskupiteljskih karakteristika. Moglo bi biti časti među lopovima, ali kriminalci se retko pokazuju bilo kakvo poštovanje zakona ili vlasti.
+
+<table>
+    <tr>
+        <td><strong>d8</strong>
+        </td>
+        <td><strong>Lične osobine</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Uvek imam plan šta da radim kada stvari pođu po zlu.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Uvek sam smiren, bez obzira na situaciju. Nikad ne povisujem glas i ne dozvoljavam da me emocije kontrolišu.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Prva stvar koju radim na novom mestu je zabeležiti lokacije svega vrijednog - ili gdje su takve stvari mogle biti sakrivene.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Radije bih stekao novog prijatelja nego novog neprijatelja.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Neverovatno sam spor da vjerujem. Oni koji se čine najpravednijima često imaju najviše toga da sakriju.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Ne obraćam pažnju na rizike u situaciji. Nikad mi ne govori šanse.
+        </td>
+    </tr>
+    <tr>
+        <td>7
+        </td>
+        <td>Najbolji način da me naterate da nešto učinim je da mi kažu da to ne mogu.
+        </td>
+    </tr>
+    <tr>
+        <td>8
+        </td>
+        <td>Eksplodiram na najmanju uvredu.
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Ideali</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td><strong>Čast.</strong> Ne kradem od drugih u trgovini. (Zakonito)
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td><strong>Sloboda.</strong> Lanci trebala da se pokidaju, kao i oni koji bi ih kovali. (Haotično)
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td><strong>Dobrotvornost.</strong> Kradem od bogatih da bih mogao da pomognem ljudima u nevolji. (Dobro)
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td><strong>Pohlepa.</strong> Učiniću sve što je potrebno da bih postao bogat. (Zlo)
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td><strong>Ljudi.</strong> Odan sam svojim prijateljima, a ne nikakvim idealima, a svi ostali mogu slobodno niz rijeku za sve do čega mi je stalo. (Neutralno)
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td><strong>Iskupljenje.</strong> U svima postoji iskra dobra. (Dobro)
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Veza</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Pokušavam da otplatim stari dug koji dugujem velikodušnom dobrotvoru.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Moja nelegalna zarada ide na izdržavanje moje porodice.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Nešto važno mi je oduzeto i cilj mi je da ga ukradem natrag.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Postaću najveći lopov koji je ikad živeo.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Kriv sam za strašan zločin. Nadam se da se mogu iskupiti za to.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Neko koga sam voleo umro je zbog greške koju sam počinio. To se više nikada neće ponoviti.
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Mane</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Kada vidim nešto vredno, ne mogu da razmišljam ni o čemu osim o tome kako da ga ukradem.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Kad se suočim sa izborom između novca i mojih prijatelja, obično biram novac.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Ako postoji plan, zaboraviću ga. Ako to ne zaboravim, zanemariću.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Imam „kazivanje“ koje se otkriva kada lažem.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Okrećem rep i trčim kad stvari izgledaju loše.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Nevina osoba je u zatvoru zbog zločina koji sam počinio. U redu sam s tim.
+        </td>
+    </tr>
+</table>
+
+### **Varianta Kriminalca: Špijun**
+
+Iako se vaše mogućnosti ne razlikuju mnogo od provalnika ili švercera, naučili ste ih i vežbali u njima sasvim drugačiji kontekst: kao agent špijunaže. Možda ste bili zvanično sankcionisani agent krune ili možda ste tajne koje ste otkrili prodali najvišem ponuđaču.
+
+
+## Narodni heroj
+
+Dolazite iz skromnog društvenog ranga, ali predodređeni ste za mnogo više. Već ljudi iz vašeg rodnog sela smatraju vas njihovim prvakom, a vaša sudbina vas poziva da se suprotstavite tiranima i čudovištima koji prete svuda običan narod.
+
+Stručnosti veština: Rukovanje životinjama, preživljavanje
+
+Poznavanje alata: Jedna vrsta zanatskih alata, vozila (zemlja)
+
+Oprema: Set zanatskih alata (jedan po vašem izboru), lopata, gvozdeni lonac, komplet uobičajene odeće i torbica koja sadrži 10 gp
+
+### **Događaj definisanja**
+
+Ranije ste se bavili jednostavnom profesijom u seljaštvu, možda kao poljoprivrednik, rudar, sluga, pastir, drvoseča, ili grobar. Ali dogodilo se nešto što vas je postavilo na drugi put i obeležilo za veće stvari. Izaberite ili slučajno odredite događaj koji vas definiše i koji vas je označio kao heroja naroda.
+
+<table>
+    <tr>
+        <td><strong>d10</strong>
+        </td>
+        <td><strong>Događaj definisanja</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Protivio sam se agentima tiranina.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Spasio sam ljude tokom prirodne katastrofe.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Stajao sam sam protiv strašnog čudovišta.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Krao sam od korumpiranog trgovca da bih pomogao siromašnima.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Vodio sam miliciju da se bori protiv napadačke vojske.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Upao sam u zamak tiranina i ukrao oružje da naoružam ljude.
+        </td>
+    </tr>
+    <tr>
+        <td>7
+        </td>
+        <td>Obučio sam seljaštvo da koristi poljoprivredno oruđe kao oružje protiv tiranskih vojnika.
+        </td>
+    </tr>
+    <tr>
+        <td>8
+        </td>
+        <td>Lord je opozvao nepopularni dekret nakon što sam poveo simboličan akt protesta protiv njega.
+        </td>
+    </tr>
+    <tr>
+        <td>9
+        </td>
+        <td>Nebesko, fej ili slično stvorenje dalo mi je blagoslov ili otkrilo moje tajno poreklo.
+        </td>
+    </tr>
+    <tr>
+        <td>10
+        </td>
+        <td>Regrutovan u lordsku vojsku, napredovao sam se do vođstva i bio pohvaljen za svoje junaštvo.
+        </td>
+    </tr>
+</table>
+
+### **Karakteristika: Seotsko gostoprimstvo**
+
+Pošto dolazite iz redova običnog naroda, lako se uklapate među njih. Možete pronaći mesto za skrivanje, odmor, ili se oporavite među ostalim prostim ljudima, osim ako se niste pokazali opasnim po njih. Oni će te zaštititi od zakon ili bilo koga drugog ko vas traži, mada neće rizikovati svoje živote zbog vas.
+
+### **Predložene karakteristike**
+
+Narodni heroj je jedan od običnih ljudi, u dobru i zlu. Većina narodnih heroja na svoje skromno poreklo gleda kao na vrlinu, nije nedostatak, a njihove matične zajednice ostaju im veoma važne.
+
+<table>
+    <tr>
+        <td><strong>d8</strong>
+        </td>
+        <td><strong>Lične osobine</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>O ljudima sudim po njihovim postupcima, a ne po riječima.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Ako je neko u nevolji, uvek sam spreman da pomognem.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Kada nešto naumim, pratim to šta god mi se nađe na putu.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Imam jak osećaj za fer igru i uvek se trudim da pronađem najpravednije rešenje za prepirke.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Uveren sam u svoje sposobnosti i činim sve što mogu da ulijem poverenje drugima.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Razmišljanje je za druge ljude. Više volim akciju.
+        </td>
+    </tr>
+    <tr>
+        <td>7
+        </td>
+        <td>Zloupotrebljavam duge reči u pokušaju da zvučim pametnije.
+        </td>
+    </tr>
+    <tr>
+        <td>8
+        </td>
+        <td>Lako mi dosadi. Kada ću nastaviti sa svojom sudbinom?
+        </td>
+    </tr>
+</table>
+
+
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Ideali</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td><strong>Poštovanje.</strong> Ljudi zaslužuju da se prema njima postupa dostojanstveno i s poštovanjem. (Dobro)
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td><strong>Pravednost.</strong> Niko ne bi trebalo da ima preferencijalni tretman pred zakonom i niko nije iznad zakona. (Zakonito)
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td><strong>Sloboda.</strong> Tiranima se ne sme dozvoliti da ugnjetavaju narod. (Haotično)
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td><strong>Moć.</strong> Ako postanem jak, mogu da uzmem ono što želim - ono što zaslužujem. (Zlo)
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td><strong>Iskrenost.</strong> Nema koristi za pretvaranje da sam nešto što nisam. (Neutralno)
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td><strong>Sudbina.</strong> Niko i ništa me ne može odvratiti od mog višeg poziva. (Bilo koji)
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Veze</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Imam porodicu, ali nemam pojma gde su. Nadam se da ću ih jednog dana ponovo videti.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Obrađivao sam zemlju, volim je i zaštitiću je.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Jednom me je ponosni plemić strašno pretukao i osvetiću se svakom nasilniku koga naiđem.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Moji alati su simboli mog prošlog života i nosim ih tako da nikada neću zaboraviti svoje korene.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Štitim one koji se ne mogu zaštititi.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Voleo bih da je moja draga iz detinjstva pošla sa mnom da sledi svoju sudbinu.
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Mane</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Tiranin koji vlada mojom zemljom neće se zaustaviti ni pred čim da me vidi ubijenog.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Uveren sam u značaj svoje sudbine i slep za svoje nedostatke i rizik od neuspeha.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Ljudi koji su me poznavali u mladosti znaju moju sramotnu tajnu, tako da nikada više ne mogu ići kući.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Imam slabosti prema gradskim porocima, posebno prema žestokim pićima.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Potajno, verujem da bi stvari bile bolje da sam tiranin koji gospodari zemljom.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Imam problema sa poverenjem u svoje saveznike.
+        </td>
+    </tr>
+</table>
+
+
+## Plemić
+
+Razumete bogatstvo, moć i privilegiju. Nosite plemićku titulu, a vaša porodica poseduje zemlju, ubira porez i poseduje značajan politički uticaj. Možda ste razmaženi aristokrata koji nije upoznat sa poslom ili nelagodom, a nekada ste trgovac koji je upravo uzdignut u plemstvo, ili razbaštinjeni nitkov sa nesrazmernim osećajem prava. Ili bi mogao biti iskren, vredan zemljoposednik koji izuzetno brine o ljudima koji žive i rade na vašoj zemlji svesni svoje odgovornosti prema njima.
+
+Sarađujte sa svojim DM-om da biste smislili odgovarajuću titulu i utvrdili koliki autoritet ta titula nosi. Plemenita titula ne stoji sama za sebe - povezana je sa čitavom porodicom, i koju god titulu da imate, prenijećete je svojoj djeci. Ne samo da treba da odredite svoju plemićku titulu, već bi trebalo da radite i sa DM-om opišite svoju porodicu i njihov uticaj na vas.
+
+Da li je vaša porodica stara i ustanovljenA ili je vaša titula dodeljena tek nedavno? Koliki uticaja ima i na kojem području? Kakvu reputaciju vaša porodica ima među ostalim aristokratama u regionu? Kako obični ljudi gledaju na njih?
+
+Kakav je vaš položaj u porodici? Da li ste naslednik glave porodice? Da li ste već nasledili titulu? Kako se osećate prema toj odgovornosti? Ili ste tako daleko na liniji nasledstva da nikoga nije briga šta radite, sve dok ne osramotite porodicu? Kako glava vaše porodice oseća vašu avanturističku karijeru? Jesi li u dobroj milosti vaše porodice, ili vas se kloni ostatak porodice?
+
+Da li vaša porodica ima grb? Oznake koje biste mogli nositi na prstenu sa pečatom? Određene boje koje nosite svo vrijeme? Životinja koju smatrate simbolom vaše loze ili čak duhovnim članom porodice?
+
+Ovi detalji pomažu u utvrđivanju porodice i titule kao karakteristika sveta kampanje.
+
+Veštine: Istorija, Uijsbeđivanje
+
+Poznavanje alata: Jedan tip kompleta za igre
+
+Jezici: Jedan po vašem izboru
+
+Oprema: Set fine odeće, prsten sa pečatom, svitak rodoslova i torbica sa 25 gp
+
+### **Karakteristika: Položaj privilegija**
+
+Zahvaljujući vašem plemenitom rođenju, ljudi su skloni da misle najbolje o vama. Dobrodošli ste u visoko društvo i ljudi pretpostavljaju da imate pravo da budete gde god da ste. Obični ljudi čine sve napore da vam udovolje i izbegnu vaše nezadovoljstvo, a drugi ljudi visokog roda tretiraju vas kao člana iste socijalne sfere. Možete osigurati prijem sa lokalnim plemićem ako treba.
+
+### **Predložene karakteristike**
+
+Plemići se rađaju i odgajaju u sasvim drugačijem načinu života nego što je većina ljudi ikada iskusila, i njihove ličnosti odražavaju to vaspitanje. Plemićka titula dolazi sa mnoštvom veza - odgovornosti prema porodici i prema drugim plemićima (uključujući suverena), ljudima koji su povereni porodičnoj brizi ili čak samoj tituli. Ali ova odgovornost je često dobar način za podrivanje plemenitog.
+
+<table>
+    <tr>
+        <td><strong>d8</strong>
+        </td>
+        <td><strong>Lične osobine</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Moje elokventno laskanje čini da se svi s kojima razgovaram osećaju kao najdivnija i najvažnija osoba na svetu.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Običan narod me voli zbog moje dobrote i velikodušnosti.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Niko nije mogao sumnjati gledajući u moj kraljevski ležaj da sam dosječen od neopranih masa.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Trudim se da uvek izgledam najbolje i pratim najnovije mode.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Ne volim da prljam ruke i neću biti nađen mrtav u neprikladnom smeštaju.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Uprkos svom plemenitom rođenju, ne postavljam se iznad ostalih ljudi. Svi imamo istu krv.
+        </td>
+    </tr>
+    <tr>
+        <td>7
+        </td>
+        <td>Moja naklonost, jednom izgubljena, izgubljena je zauvek.
+        </td>
+    </tr>
+    <tr>
+        <td>8
+        </td>
+        <td>Ako mi nanesete povredu, smrvit ću vas, uništiti vam ime i posoliti vaša polja.
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Ideali</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td><strong>Poštovanje.</strong> Poštovanje imam zbog svog položaja, ali svi ljudi bez obzira na stanje zaslužuju da se prema njima postupa dostojanstveno. (Dobro)
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td><strong>Odgovornost.</strong> Moja je dužnost da poštujem autoritet onih koji su iznad mene, baš kao što i oni ispod mene moraju poštovati moj. (Zakonito)
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td><strong>Nezavisnost.</strong> Moram dokazati da se snalazim bez maženja porodice. (Haotično)
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td><strong>Snaga.</strong> Ako uspem da postignem više snage, niko mi neće reći šta da radim. (Zlo)
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td><strong>Porodica.</strong> Krv teče gušće od vode. (Bilo koji)
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td><strong>Plemenita obaveza.</strong> Moja je dužnost da štitim i brinem o ljudima ispod sebe. (Dobro)
+        </td>
+    </tr>
+</table>
+
+
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Veze</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Suočiću se sa bilo kojim izazovom da dobijem odobrenje svoje porodice.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Savez moje kuće sa drugom plemićkom porodicom mora se održati po svaku cenu.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Ništa nije važnije od ostalih članova moje porodice.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Zaljubljen sam u naslednika porodice koju moja porodica prezire.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Moja odanost mojem suverenu je nepokolebljiva.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Običan narod mora da me vidi kao narodnog heroja.
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Mane</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Potajno verujem da su svi ispod mene.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Krijem zaista skandaloznu tajnu koja bi mogla zauvek da uništi moju porodicu.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Prečesto čujem prikrivene uvrede i pretnje u svakoj reči upućenoj meni i brzo se naljutim.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Imam nezasitnu želju za telesnim užicima.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>U stvari, svet se vrti oko mene.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Svojim rečima i postupcima često donosim sramotu svojoj porodici.
+        </td>
+    </tr>
+</table>
+
+
+## Mudrac
+
+Proveli ste godine učeći o multiverzumu. Pregledali ste rukopise, proučavali svitke i slušali najveće stručnjake za teme koje vas zanimaju. Naporima ste postali majstor u svojim poljima studija.
+
+Veštine: Arcana, Istorija
+
+Jezici: dva po vašem izboru
+
+Oprema: Boca crnog mastila, pero, mali nož, pismo mrtvog kolege koje postavlja pitanje koje još uvjek niste uspjeli da odgovorite, komplet uobičajene odeće i torbica sa 10 gp
+
+### **Specijalnost**
+
+Da biste utvrdili prirodu svog naučnog usavršavanja, zakotrljajte d8 ili odaberite neku od opcija u donjoj tabeli.
+
+<table>
+    <tr>
+        <td><strong>d8</strong>
+        </td>
+        <td><strong>Specijalnost</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Alhemičar
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Astronom
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Diskreditovani akademik
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Bibliotekar
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Profesor
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Istraživač
+        </td>
+    </tr>
+    <tr>
+        <td>7
+        </td>
+        <td>Čarobnjakov šegrt
+        </td>
+    </tr>
+    <tr>
+        <td>8
+        </td>
+        <td>Pisar
+        </td>
+    </tr>
+</table>
+
+### **Karakteristika: Istraživač**
+
+Kada pokušate da naučite ili se setite nekog znanja, ako ne znate te informacije, često znate odakle i od koga ih možete dobiti. Ove informacije obično dolaze iz biblioteke, skriptorijuma, univerziteta, mudraca ili druge učene osoba ili stvorenja. Vaš DM bi mogao presuditi da se znanje koje tražite, skriveno, na gotovo nepristupačno mesto, ili da se jednostavno ne može naći. Otkrivanje najdubljih tajni multiverzuma može zahtevati avanturu ili čak i čitavu kampanju.
+
+### **Predložene karakteristike**
+
+Mudraci su definisani njihovim obimnim studijama, a njihove karakteristike odražavaju ovaj životni vek. Posvećen naučnim traganjima, mudrac visoko ceni znanje - ponekad samo po sebi, ponekad kao sredstvo prema drugim idealima.
+
+<table>
+    <tr>
+        <td><strong>d8</strong>
+        </td>
+        <td><strong>Lične osobine</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Koristim višesložne reči koje prenose utisak velike erudicije.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Pročitao sam svaku knjigu u najvećim svetskim bibliotekama - ili volim da se pohvalim da jesam.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Navikao sam da pomažem onima koji nisu pametni kao ja i strpljivo objašnjavam sve i svašta drugima.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Ne postoji ništa što mi se više sviđa od dobre misterije.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Spreman sam da saslušam svaku stranu svađe pre nego što donesem vlastiti sud.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Ja. . . govorim . . . polako. . . prilikom razgovora. . .sa idiotima,. . . koji . . . su . . . skoro . . . svi. . . u poređenju . . . samnom.
+        </td>
+    </tr>
+    <tr>
+        <td>7
+        </td>
+        <td>Užasno sam, užasno nezgrapan u socijalnim situacijama.
+        </td>
+    </tr>
+    <tr>
+        <td>8
+        </td>
+        <td>Uveren sam da ljudi uvek pokušavaju da ukradu moje tajne.
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Ideali</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td><strong>Znanje.</strong> Put do moći i samopoboljšanja ide kroz znanje. (Neutralno)
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td><strong>Lepota.</strong> Ono što je lepo upućuje nas izvan sebe prema onome što je istina. (Dobro)
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td><strong>Logika.</strong> Emocije ne smeju zamagliti naše logično razmišljanje. (Zakonito)
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td><strong>Bez ograničenja.</strong> Ništa ne bi trebalo da ograničava beskrajnu mogućnost svojstvenu čitavom postojanju. (Haotično)
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td><strong>Snaga.</strong> Znanje je put ka moći i dominaciji. (Zlo)
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td><strong>Samopoboljšanje.</strong> Cilj života učenja je poboljšanje samog sebe. (Bilo koji)
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Veze</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Moja je dužnost zaštititi svoje učenike.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Imam drevni tekst koji sadrži strašne tajne koje ne smeju pasti u pogrešne ruke.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Radim na očuvanju biblioteke, univerziteta, skriptorijuma ili manastira.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Moje životno delo je serija tomova povezanih sa određenim znanjem.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Čitav život tražim odgovor na određeno pitanje.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Prodao sam dušu za znanje. Nadam se da ću učiniti velika dela i povratiti je.
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Mane</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Obećanje informacija me lako ometa.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Većina ljudi vrišti i trči kad vidi demona. Ja zastajem i vodim beleške o njenoj anatomiji.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Otključavanje drevne misterije vredi civilizacijske cene.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Previđam očigledna rešenja u korist komplikovanih.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Govorim bez stvarnog promišljanja svojih reči, nepromenjivo vređajući druge.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Ne mogu da čuvam tajnu da spasim svoj život ili bilo koji drugi.
+        </td>
+    </tr>
+</table>
+
+
+## Vojnik
+
+Rat je vaš život otkako se sećate. Kao mladić ste trenirali, proučavali upotrebu oružja i oklopa, naučili osnovne tehnike preživljavanja, uključujući kako ostati živ na bojnom polju. Možda ste bili deo postojeće nacionalne vojske ili plaćeničke čete, ili možda pripadnik lokalne milicije koji su se istaknuli tokom nedavnog rata.
+
+Kada odaberete ovu pozadinu, sarađujte sa svojim DM-om da biste utvrdili u kojoj vojnoj organizaciji ste bili, dokle kroz njene redove napredovali i kakva ste iskustva imali tokom svoje vojne karijere. Da li je to bila profesionalna vojska, gradska straža ili seoska milicija? Ili je to mogla biti privatna vojska plemića ili trgovca ili četa plaćenika.
+
+Veštine: Atletika, Zastrašivanje
+
+Poznavanje alata: Jedan tip igraćeg seta, vozila (kopno)
+
+Oprema: Oznaka ranga, trofej oduzet od palog neprijatelja (bodež, slomljena oštrica ili komad zastave), set koštanih kockica ili špila karata, komplet uobičajene odeće i torbica sa 10 gp
+
+
+### **Specijalnost**
+
+Tokom svog vremena provedenog kao vojnik imali ste određenu ulogu u svojoj jedinici ili vojsci. Kotrljajte d8 ili birajte između opcija u donjoj tabeli za određivanje vaše uloge:
+
+<table>
+    <tr>
+        <td><strong>d8</strong>
+        </td>
+        <td><strong>Specijalnost</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Službenik
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Izviđač
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Pešadija
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Konjica
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Iscelitelj
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Intendant
+        </td>
+    </tr>
+    <tr>
+        <td>7
+        </td>
+        <td>Standardni nosilac
+        </td>
+    </tr>
+    <tr>
+        <td>8
+        </td>
+        <td>Pomoćno osoblje (kuvar, kovač ili slično)
+        </td>
+    </tr>
+</table>
+
+### **Karakteristika: vojni čin**
+
+Imate vojni čin iz svoje vojničke karijere. Vojnici lojalni vašoj bivšoj vojnoj organizaciji prepoznaju vaš autoritet i uticaj i oni vam popuštaju ako su nižeg ranga. Možete se pozvati na svoj čin da vršite uticaj na druge vojnike i zahtevate jednostavnu opremu ili konje za privremenu upotrebu. Možete obično dobiti pristup prijateljskim vojnim logorima i tvrđavama u kojima se priznaje vaš čin.
+
+### **Predložene karakteristike**
+
+Užasi rata u kombinaciji sa krutom disciplinom vojnog roka ostavljaju traga na svim vojnicima, oblikujući njihove ideale, stvarajući čvrste veze, i često ostavljajući ožiljke i ranjivosti na strah, sram i mržnju.
+
+<table>
+    <tr>
+        <td><strong>d8</strong>
+        </td>
+        <td><strong>Lične osobine</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Uvek sam učtiv i pun poštovanja.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Progone me uspomene na rat. Ne mogu da izbacim slike nasilja iz glave.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Izgubio sam previše prijatelja i spor sam da sklapam nova prijateljstva.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Prepun sam inspirativnih i upozoravajućih priča iz svog vojnog iskustva relevantnih za skoro svaku borbenu situaciju.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Mogu zuriti u paklenog goniča bez trzanja.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Uživam biti jak i volim lomiti stvari.
+        </td>
+    </tr>
+    <tr>
+        <td>7
+        </td>
+        <td>Imam grubi smisao za humor.
+        </td>
+    </tr>
+    <tr>
+        <td>8
+        </td>
+        <td>Suočavam se sa problemima direktno. Jednostavno, direktno rešenje je najbolji put do uspeha.
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Ideali</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td><strong>Veliko dobro.</strong> Naš zadatak je da položimo svoje živote u odbranu drugih. (Dobro)
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td><strong>Odgovornost.</strong> Radim ono što moram i pokoravam se pravednim autoritetima. (Zakonito)
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td><strong>Nezavisnost.</strong> Kada ljudi slepo slede naredbe, prihvataju neku vrstu tiranije. (Haotično)
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td><strong>Moć.</strong> U životu kao u ratu, jača sila pobeđuje. (Zlo)
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td><strong>Živi i pusti da živi.</strong> Ideale ne vredi ubijati ili ići u rat za njih. (Neutralno)
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td><strong>Nacija.</strong> Moj grad, nacija ili ljudi su jedino važni. (Bilo koji)
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Veze</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>Još bih položio život za ljude sa kojima sam služio.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Neko mi je spasio život na bojnom polju. Do danas, nikada neću ostaviti prijatelja iza sebe.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Moja čast je moj život.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Nikada neću zaboraviti razorit poraz koji je pretrpela moja četa ili neprijatelje koji su je naneli.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Oni koji se bore pored mene su oni zbog kojih vredi umreti.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Borim se za one koji ne mogu da se bore za sebe.
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><strong>d6</strong>
+        </td>
+        <td><strong>Mane</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>1
+        </td>
+        <td>I dalje drhtim od straha od monstruoznog neprijatelja s kojim smo se suočili u borbi.
+        </td>
+    </tr>
+    <tr>
+        <td>2
+        </td>
+        <td>Slabo poštujem nekoga ko nije dokazani ratnik.
+        </td>
+    </tr>
+    <tr>
+        <td>3
+        </td>
+        <td>Napravio sam strašnu grešku u borbi koja je koštala mnogih života i učinio bih sve da je zadržim tajnom.
+        </td>
+    </tr>
+    <tr>
+        <td>4
+        </td>
+        <td>Moja mržnja prema neprijateljima je slepa i nerazumna.
+        </td>
+    </tr>
+    <tr>
+        <td>5
+        </td>
+        <td>Poštujem zakon, čak i ako zakon izaziva bedu.
+        </td>
+    </tr>
+    <tr>
+        <td>6
+        </td>
+        <td>Radije bih pojeo svoj oklop nego da priznam da grešim.
+        </td>
+    </tr>
+</table>
 
 
 # Poglavlje 5: Oprema
