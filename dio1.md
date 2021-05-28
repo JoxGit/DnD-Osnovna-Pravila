@@ -2359,7 +2359,7 @@ Opišite jedan ideal koji pokreće vaš karakter. Vaši ideali su stvari u koje
 
 Ideali mogu odgovoriti na bilo koje od ovih pitanja: Koji su principi koje nikada nećete izneveriti? Šta bi vas navelo na žrtvovanje? Šta vas pokreće da delujete i vodi vaše ciljeve i ambicije? Šta je najvažnija stvar kojoj težiš?
 
-Možete odabrati bilo koji ideal koji vam se sviđa, ali poravnanje vašeg lika je dobro mesto da počnete da ih definišete. Svaka pozadina u ovom poglavlju uključuje šest predloženih ideja. Pet od njih je povezano sa aspektima usklađenosti: zakonom, haosom, dobrom, zlom i neutralnošću. Poslednji ima više u vezi sa određenom pozadinom nego sa moralnim ili etičkim perspektivama.
+Možete odabrati bilo koji ideal koji vam se sviđa, ali poravnanje vašeg lika je dobro mesto da počnete da ih definišete. Svaka pozadina u ovom poglavlju uključuje šest predloženih ideja. Pet od njih je povezano sa aspektima usklađenosti: zakonom, haosom, dobrom, zlom i neutralnošću. Poslednji ima više veze sa određenom pozadinom nego sa moralnim ili etičkim perspektivama.
 
 
 #### Veze
@@ -2393,7 +2393,7 @@ Na kraju, odaberite manu za svoj karakter. Manjkavost vašeg lika predstavlja ne
 
 ## Inspiracija
 
-Inspiracija je pravilo koje Dungeon Master može iskoristiti da vas nagradi za igranje vašeg lika na način koji je veran njegovim ličnostima, idealu, vezi i nedostatku. Koristeći inspiraciju, možete se oslanjati na svoje osobine ličnosti saosećanja sa ugnjetenima da vam pruži prednost u pregovorima sa prosjačkim princom. Ili vam inspiracija može dozvoliti da pozovete svoju vezu za odbranu svog rodnog sela kako biste prevazišli efekat čarolije koja vam jebačena na vas.
+Inspiracija je pravilo koje Dungeon Master može iskoristiti da vas nagradi za igranje vašeg lika na način koji je veran njegovim ličnostima, idealu, vezi i nedostatku. Koristeći inspiraciju, možete se oslanjati na svoje osobine ličnosti saosećanja sa ugnjetenima da vam pruži prednost u pregovorima sa prosjačkim princom. Ili vam inspiracija može dozvoliti da pozovete svoju vezu za odbranu svog rodnog sela kako biste prevazišli efekat čarolije koja vam je bačena na vas.
 
 
 ### Sticanje inspiracije
@@ -2443,7 +2443,7 @@ Pozadina sadrži predložene lične karakteristike na osnovu vašeg porekla. Mo�
 
 ### Prilagođavanje pozadine
 
-Možda ćete želeti da podesite neke funkcije pozadine, tako da bolje odgovaraju vašem karakteru ili postavci kampanje. Da biste prilagodili pozadinu, možete zameniti jednu osobinu bilo kojom drugom, odabrati bilo koje dve veštine i odabrati ukupno dve veštine alata ili jezika iz primera pozadine. Možete koristiti paket opreme iz vaše pozadine ili potrošiti novac na opreui kao što je opisano u poglavlju 5. (Ako trošite novac, ne možete uzeti i paket opreme koji je predložen za vašu klasu.) Na kraju, odaberite dve osobine ličnosti, jedan ideal, jednu vezu i jednu manu. Ako ne možete da pronađete funkciju koja odgovara željenoj pozadini, sarađujte sa DM-om da biste je stvorili.
+Možda ćete želeti da podesite neke funkcije pozadine, tako da bolje odgovaraju vašem karakteru ili postavci kampanje. Da biste prilagodili pozadinu, možete zameniti jednu osobinu bilo kojom drugom, odabrati bilo koje dve veštine i odabrati ukupno dve veštine alata ili jezika iz primera pozadine. Možete koristiti paket opreme iz vaše pozadine ili potrošiti novac na opremi kao što je opisano u poglavlju 5. (Ako trošite novac, ne možete uzeti i paket opreme koji je predložen za vašu klasu.) Na kraju, odaberite dve osobine ličnosti, jedan ideal, jednu vezu i jednu manu. Ako ne možete da pronađete funkciju koja odgovara željenoj pozadini, sarađujte sa DM-om da biste je stvorili.
 
 >**Tika i Artemida: Pozadine**
 >
@@ -2679,7 +2679,7 @@ Oprema: Pajser, komplet tamne uobičajene odeće, uključujući kapuljaču, i 
 
 ### **Kriminalna specijalnost**
 
-Postoji mnogo vrsta kriminalaca, a unutar lopovskog udruženja ili slične zločinačke organizacije, pojedini članovi imaju posebne specijalnosti. Čak i kriminalci koji rade van takvih organizacija imaju određene sklonosti ka određenim vrstama zločina nad drugima. Izaberite ulogu koju ste igrali u kriminalnom životu ili se bacite kocku i birajte iz dole navedene tabele.
+Postoji mnogo vrsta kriminalaca, a unutar lopovskog udruženja ili slične zločinačke organizacije, pojedini članovi imaju posebne specijalnosti. Čak i kriminalci koji rade van takvih organizacija imaju određene sklonosti ka određenim vrstama zločina nad drugima. Izaberite ulogu koju ste igrali u kriminalnom životu ili bacite kocku i birajte iz dole navedene tabele.
 
 <table>
     <tr>
@@ -3240,7 +3240,7 @@ Sarađujte sa svojim DM-om da biste smislili odgovarajuću titulu i utvrdili ko
 
 Da li je vaša porodica stara i ustanovljenA ili je vaša titula dodeljena tek nedavno? Koliki uticaja ima i na kojem području? Kakvu reputaciju vaša porodica ima među ostalim aristokratama u regionu? Kako obični ljudi gledaju na njih?
 
-Kakav je vaš položaj u porodici? Da li ste naslednik glave porodice? Da li ste već nasledili titulu? Kako se osećate prema toj odgovornosti? Ili ste tako daleko na liniji nasledstva da nikoga nije briga šta radite, sve dok ne osramotite porodicu? Kako glava vaše porodice oseća vašu avanturističku karijeru? Jesi li u dobroj milosti vaše porodice, ili vas se kloni ostatak porodice?
+Kakav je vaš položaj u porodici? Da li ste naslednik glave porodice? Da li ste već nasledili titulu? Kako se osećate prema toj odgovornosti? Ili ste tako daleko na liniji nasledstva da nikoga nije briga šta radite, sve dok ne osramotite porodicu? Kako glava vaše porodice oseća vašu avanturističku karijeru? Jeste li u dobrim odnosima sa porodicom, ili vas se kloni ostatak porodice?
 
 Da li vaša porodica ima grb? Oznake koje biste mogli nositi na prstenu sa pečatom? Određene boje koje nosite svo vrijeme? Životinja koju smatrate simbolom vaše loze ili čak duhovnim članom porodice?
 

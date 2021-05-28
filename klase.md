@@ -1,10 +1,11 @@
 
 
-## Varvarin
+## Varvar
+[Barbarian](https://www.dndbeyond.com/sources/basic-rules/classes#Barbarian)
 
-Visoki ljudski plemen korača kroz mećavu, ogrnut krznom i dižući sjekiru. Smije se dok juriša prema mraznom divu koji se usudio loviti stado losova svojih ljudi.
+Visoki plemenski čovjek korača kroz mećavu, ogrnut krznom i dižući sjekiru. Smije se dok juriša prema mraznom divu koji se usudio loviti stado losova negovih ljudi.
 
-Polu-ork zareži na najnovijeg izazivača njezine vlasti nad njihovim divljim plemenom, spreman da mu slomi vrat golim rukama kao što je to učinila posljednjih šest rivala.
+Polu-orkinja zareži na najnovijeg izazivača njezine vlasti nad njihovim divljim plemenom, spremna da mu slomi vrat golim rukama kao što je to učinila posljednjih šest rivala.
 
 Pjeneći se na ustima, patuljak zalupi kacigu u lice svog neprijatelja, a zatim se okreće i zabija oklopljeni lakat u crijeva drugog.
 
@@ -12,13 +13,11 @@ Ove varvare, koliko god bili različiti, definira njihov bijes: neobuzdana, neut
 
 Za neke njihov bijes izvire iz zajedništva s žestokim životinjskim duhovima. Drugi crpe iz uzavrelog rezervoara ljutnje na svijet pun bolova. Za svakog varvara, bijes je snaga koja napaja ne samo borbeno mahnitost već i čudesne reflekse, otpornost i podvige snage.
 
-
 ### Primarni instinkt
 
 Ljudi u gradovima ponose se time kako ih civilizirani načini izdvajaju od životinja, kao da je poricanje vlastite prirode znak superiornosti. Za varvara, pak, civilizacija nije vrlina, već znak slabosti. Snažni prihvaćaju svoju životinjsku prirodu - izoštrene instinkte, iskonsku tjelesnost i divlji bijes. Varvarima je neugodno kad su zbijeni zidovima i gužvom. Uspijevaju u divljini svojih domovina: tundri, džungli ili travnjacima na kojima njihova plemena žive i love.
 
 Barbari oživljavaju u kaosu borbe. Oni mogu ući u surovo stanje u kojem bijes obuzima, dajući im nadljudsku snagu i otpornost. Barbarin se može nasloniti na ovaj rezervoar bijesa samo nekoliko puta, a da se ne odmori, ali tih nekoliko bijesa obično je dovoljno da porazi sve prijetnje koje se pojave.
-
 
 ### Život opasnosti
 
@@ -26,18 +25,15 @@ Nije svaki član plemena koje civilizacije civiliziranog društva smatraju „va
 
 Njihova hrabrost pred opasnošću čini varvare savršeno pogodnim za avanture. Lutanje je često način života njihovih rodnih plemena, a život pustolova bez korijena mala je poteškoća za varvara. Nekim varvarima nedostaju bliske porodične strukture plemena, ali na kraju ih pronađu zamijenjene vezama koje su stvorile članice njihovih avanturističkih stranaka.
 
-
 ### Stvaranje barbara
 
 Kada stvarate barbarskog lika, razmislite odakle dolazi vaš lik i njegovo mjesto u svijetu. Razgovarajte sa svojim DM-om o odgovarajućem porijeklu vašeg varvara. Jeste li došli iz daleke zemlje, čineći vas nepoznatim na području kampanje? Ili je kampanja postavljena na grubu granicu gdje su varvari uobičajeni?
 
 Šta vas je navelo da započnete avanturistički život? Jeste li bili namamljeni u naseljene zemlje obećanjem bogatstva? Jeste li se udružili sa vojnicima iz tih zemalja kako biste se suočili sa zajedničkom prijetnjom? Jesu li vas čudovišta ili napadna horda otjerali iz vaše domovine, čineći vas izbjeglicom bez korijena? Možda ste bili ratni zarobljenik, dovedeni lancima u "civilizovane" zemlje i tek sada ste mogli izboriti svoju slobodu. Ili ste možda izbačeni iz svog naroda zbog zločina koji ste počinili, tabua koji ste prekršili ili državnog udara koji vas je maknuo s položaja vlasti.
 
-
 #### **Brza izrada**
 
 Možete brzo napraviti varvara slijedeći ove prijedloge. Prvo stavite svoj najviši rezultat sposobnosti u Snaga, a zatim slijedi Ustav. Drugo, odaberite pozadinu outlander-a.
-
 
 <table>
   <tr>
@@ -298,12 +294,9 @@ Možete brzo napraviti varvara slijedeći ove prijedloge. Prvo stavite svoj najv
   </tr>
 </table>
 
-
-
 ## Karakteristike klase
 
 Kao varvar, dobijate sljedeće karakteristike klase.
-
 
 #### **Udarci**
 
@@ -312,7 +305,6 @@ Kao varvar, dobijate sljedeće karakteristike klase.
 **udarci na 1. Nivo:** 12 + svoj Ustav modifikator
 
 **udarci na višim nivoima:** 1D12 (ili 7) + vaša Ustava modifikator po varvarin nivo nakon 1.
-
 
 #### **spremnostima**
 
@@ -331,21 +323,15 @@ Kao varvar, dobijate sljedeće karakteristike klase.
 
 Možete početi sa sljedećom opremom, pored opreme odobren od strane vašeg pozadina:
 
-
-
 *   (a) masni udarac ili (b) bilo koje borilačko oružje
 *   iz melea (a) dva handaksa ili (b) bilo koje jednostavno oružje
 *   Istražni paket i četiri koplja
-
 
 ### Bijes
 
 U borbi se borite iskonskom žestinom. Na svom potezu možete ući u bijes kao bonus akciju.
 
 Dok bjesnite, stječete sljedeće prednosti ako ne nosite teški oklop:
-
-
-
 *   Imate prednost u provjerama snage i bacanjima za uštedu snage.
 *   Kada izvršite napad ručnim oružjem koristeći Snagu, dobivate bonus na kolu oštećenja koja se povećava kako steknete nivoe kao barbar, kao što je prikazano u stupcu Rage Damage na Barbarian table.
 *   Imate otpor prema oštećenjima udaranjem, bušenjem i rezanjem.
@@ -356,16 +342,13 @@ Vaš bijes traje 1 minutu. Završava se rano ako padnete u [nesvijest](https://w
 
 Jednom kada izbrojite koliko je puta prikazano za vaš nivo barbara u stupcu Rages na tablici Barbarian, morate završiti dugi odmor prije nego što ponovo možete pobjesniti.
 
-
 ### Neoklonjena odbrana
 
 Dok ne nosite nijedan oklop, vaša klasa oklopa jednaka je 10 + vaš modifikator spretnosti + vaš modifikator ustava. Možete koristiti štit i još uvijek steći ovu korist.
 
-
 ### Bezobzirni napad
 
 Počevši od 2. nivoa, možete odbaciti svu brigu za odbranu da napadnete žestokim očajem. Kada izvršite prvi napad na svom potezu, možete odlučiti napasti nepromišljeno. To vam daje prednost na napadačkim kolutima ručnog oružja koristeći snagu za vrijeme ovog okreta, ali napadački valjci protiv vas imaju prednost do sljedećeg okreta.
-
 
 ### Osjećaj opasnosti
 
@@ -465,6 +448,7 @@ Počevši od 14. nivoa, kada nanesete štetu stvorenju koje se nalazi na udaljen
 
 
 ## Bard
+[Bard](https://www.dndbeyond.com/sources/basic-rules/classes#Bard)
 
 Humming dok je prstima prelazila preko drevnog spomenika u davno zaboravljenoj ruševini, polu-vilenjak u robusnoj koži pronalazi znanje koje joj izvire u mislima, dočarano čarolijom njene pjesme - znanje ljudi koji su izgradili spomenik i mitska saga koju prikazuje.
 
@@ -1330,6 +1314,7 @@ Počevši od 14. nivoa, kada provjerite sposobnost, možete potrošiti jedno kor
 
 
 ## Sveštenik
+[Cleric](https://www.dndbeyond.com/sources/basic-rules/classes#Cleric)
 
 Ruke i oči podignute prema suncu i molitva na usnama, vilenjak počinje blistati unutrašnjom svjetlošću koja se izlijeva da bi izliječila njegove saputnike u nosu.
 
@@ -2239,6 +2224,7 @@ Počevši od 17. nivoa, kada biste obično bacali jednu ili više kockica da bis
 
 
 ## Druid
+[Druid](https://www.dndbeyond.com/sources/basic-rules/classes#Druid)
 
 visoko držeći kvrgavo osoblje ovjenčano božikovinom, vilenjak priziva bijes oluje i poziva eksplozivne munje da udari orke koji nose baklje i prijete njezinoj šumi.
 
@@ -3429,6 +3415,7 @@ Druidi iz Eberrona drže animistička vjerovanja potpuno nepovezana sa Suverenom
 
 
 ## Borac
+[Fighter](https://www.dndbeyond.com/sources/basic-rules/classes#Fighter)
 
 Čovjek u oklopnom pločnom oklopu drži svoj štit pred sobom dok trči prema masivnim goblinima. Vilenjak iza nje, odjeven u kožni oklop sa čavlima, papriča gobline strijelama oslobođenim od njegovog izvrsnog luka. Polu-ork u blizini izvikuje naredbe, pomažući dvojici boraca da koordiniraju svoj napad u najbolju korist.
 
@@ -3786,6 +3773,7 @@ Na 18. nivou postižete vrhunac otpornosti u borbi. Na početku svakog vašeg ok
 
 
 ## Monk
+[Monk](https://www.dndbeyond.com/sources/basic-rules/classes#Monk)
 
 Njezine se šakama zamagljuju dok odbijaju nadolazeću tuču strijela, polu-vilenjak izviruje preko barikade i baca se u masovne redove hobgoblina s druge strane. Kovitla se među njima, odbijajući njihove udarce u stranu i šaljući ih, dok napokon ne ostane sama.
 
@@ -4357,6 +4345,7 @@ Zli monasi Skarletnog bratstva u svijetu Greyhawka svoju fanatičnu revnost ne c
 
 
 ## Paladin
+[Paladin](https://www.dndbeyond.com/sources/basic-rules/classes#Paladin)
 
 Ogrnuta tanjirima koji blistaju na sunčevoj svjetlosti uprkos prašini i prljavštini dugih putovanja, čovjek polaže mač i štit i polaže ruke na smrtno ranjenog muškarca. Iz njezinih ruku blista božanski sjaj, muškarčeve rane pletene zatvorene, a oči mu se širom otvaraju od čuđenja.
 
@@ -5088,6 +5077,7 @@ Jednom kada koristite ovu funkciju, ne možete je ponovo koristiti dok ne završ
 
 
 ## Rendžer
+[Ranger](https://www.dndbeyond.com/sources/basic-rules/classes#Ranger)
 
 Grubog i divljeg izgleda, čovjek izlazi sam kroz sjene drveća, loveći orke za koje zna da planiraju napad na obližnju farmu. Držeći kratku mač u svakoj ruci, postaje čelični vrtlog koji siječe jednog neprijatelja za drugim.
 
@@ -5788,7 +5778,8 @@ Na 15. nivou stječete jednu od sljedećih karakteristika po vašem izboru.
 **Neobičan Dodge. **Kada vas napadač koji vidite pogodi napadom, možete upotrijebiti svoju reakciju da prepolovite štetu u napadu na vas.
 
 
-## Lupež
+## Odmetnik
+[Rogue](https://www.dndbeyond.com/sources/basic-rules/classes#Rogue)
 
 Signalizirajući da njezini pratioci pričekaju, napola se provlači naprijed kroz tamnicu. Pritisne uho na vrata, a zatim izvadi set alata i u tren oka pokupi bravu. Zatim nestaje u sjeni dok se njen prijatelj borac kreće prema naprijed da bi otvorio vrata.
 
@@ -6199,6 +6190,7 @@ Kad dosegnete 17. nivo, postajete vješti u postavljanju zasjeda i brzom izbjega
 
 
 ## Vrač
+[Sorcerer](https://www.dndbeyond.com/sources/basic-rules/classes#Sorcerer)
 
 Zlatne oči blistaju, čovjek ispruži ruku i oslobodi zmajevsku vatru koja joj gori u žilama. Dok joj pakao bjesni oko neprijatelja, kožna krila joj se šire s leđa i ona odlazi u zrak.
 
@@ -7259,6 +7251,7 @@ Počevši od 18. nivoa, možete kanaliziratisvog pretka zmaja, uzrokujući da on
 
 
 ## Vještac
+[Warlock](https://www.dndbeyond.com/sources/basic-rules/classes#Warlock)
 
 Sa pseudodragon sklupčana na ramenu, mladi patuljak u zlatnim odorama smiles toplo, tkanje magični šarm u svoj slatkorečivost i savijanje palače stražara svojoj volji.
 
@@ -8147,6 +8140,7 @@ Možete vidjeti pravi oblik bilo kojeg izmjenjivača oblika ili stvorenja skrive
 
 
 ## Čarobnjak
+[Wizard](https://www.dndbeyond.com/sources/basic-rules/classes#Wizard)
 
 Odjeven u srebrne halje koje označavaju njezinu stanicu, vilenjak zatvara oči kako bi isključio smetnje s bojnog polja i započinje svoje tiho pjevanje. Prstima tkajući se ispred nje, ona dovršava svoju čaroliju i lansira malenu kuglicu vatre prema neprijateljskim redovima, gdje eruptira u požar koji zahvaća vojnike.
 
