@@ -1278,94 +1278,95 @@ Vaše drakonsko nasleđe manifestuje se u raznim osobinama koje delite sa drugim
 **Drakonsko porijeklo**
 
 <table>
-    <tr>
-        <td> <strong> ZMAJ </strong>
-        </td>
-        <td> <strong> TIP ŠTETE </strong>
-        </td>
-        <td> <strong> ORUŠJE DAHA </strong>
-        </td>
-    </tr>
-    <tr>
-        <td> Crni
-        </td>
-        <td> Kiselina
-        </td>
-        <td> 5 sa ​​30 stopa. linija (spas Spretnost)
-        </td>
-    </tr>
-    <tr>
-        <td> Plavi
-        </td>
-        <td> Munja
-        </td>
-        <td> 5 sa ​​30 stopa. linija (spas Spretnost)
-        </td>
-    </tr>
-    <tr>
-        <td> Mesingani
-        </td>
-        <td> Vatra
-        </td>
-        <td> 5 sa ​​30 stopa. linija (spas Spretnost)
-        </td>
-    </tr>
-    <tr>
-        <td> Bronzani
-        </td>
-        <td> Munja
-        </td>
-        <td> 5 sa ​​30 stopa. linija (spas Spretnost)
-        </td>
-    </tr>
-    <tr>
-        <td> Bakreni
-        </td>
-        <td> Kiselina
-        </td>
-        <td> 5 sa ​​30 stopa. linija (spas Spretnost)
-        </td>
-    </tr>
-    <tr>
-        <td> Zlatni
-        </td>
-        <td> Vatra
-        </td>
-        <td> 15 stopa. konus (spas Spretnost)
-        </td>
-    </tr>
-    <tr>
-        <td> Zeleni
-        </td>
-        <td> Otrov
-        </td>
-        <td> 15 stopa. konus (spas Građa)
-        </td>
-    </tr>
-    <tr>
-        <td> Crveni
-        </td>
-        <td> Vatra
-        </td>
-        <td> 15 stopa. konus (spas Spretnost)
-        </td>
-    </tr>
-    <tr>
-        <td> Srebrni
-        </td>
-        <td> Hladnoća
-        </td>
-        <td> 15 stopa. konus (spas Građa)
-        </td>
-    </tr>
-    <tr>
-        <td> Bijeli
-        </td>
-        <td> Hladnća
-        </td>
-        <td> 15 stopa. konus (spas Građa)
-        </td>
-    </tr>
+   <tr>
+      <td> <strong> ZMAJ </strong>
+      </td>
+      <td> <strong> TIP ŠTETE </strong>
+      </td>
+      <td> <strong> ORUŠJE DAHA </strong>
+      </td>
+   </tr>
+   <tr>
+      <td> Crni
+      </td>
+      <td> Kiselina
+      </td>
+      <td> 5 sa ​​30 stopa. linija (spas Spretnost)
+      </td>
+   </tr>
+   <tr>
+      <td> Plavi
+      </td>
+      <td> Munja
+      </td>
+      <td> 5 sa ​​30 stopa. linija (spas Spretnost)
+      </td>
+   </tr>
+   <tr>
+      <td> Mesingani
+      </td>
+      <td> Vatra
+      </td>
+      <td> 5 sa ​​30 stopa. linija (spas Spretnost)
+      </td>
+   </tr>
+   <tr>
+      <td> Bronzani
+      </td>
+      <td> Munja
+      </td>
+      <td> 5 sa ​​30 stopa. linija (spas Spretnost)
+      </td>
+   </tr>
+   <tr>
+      <td> Bakreni
+      </td>
+      <td> Kiselina
+      </td>
+      <td> 5 sa ​​30 stopa. linija (spas Spretnost)
+      </td>
+   </tr>
+   <tr>
+      <td> Zlatni
+      </td>
+      <td> Vatra
+      </td>
+      <td> 15 stopa. konus (spas Spretnost)
+      </td>
+   </tr>
+   <tr>
+      <td> Zeleni
+      </td>
+      <td> Otrov
+      </td>
+      <td> 15 stopa. konus (spas Građa)
+      </td>
+   </tr>
+   <tr>
+      <td> Crveni
+      </td>
+      <td> Vatra
+      </td>
+      <td> 15 stopa. konus (spas Spretnost)
+      </td>
+   </tr>
+   <tr>
+      <td> Srebrni
+      </td>
+      <td> Hladnoća
+      </td>
+      <td> 15 stopa. konus (spas Građa)
+      </td>
+   </tr>
+   <tr>
+      <td> Bijeli
+      </td>
+      <td> Hladnća
+      </td>
+      <td> 15 stopa. konus (spas Građa)
+      </td>
+   </tr>
+</table>
 
 **Drakonsko poreklo.** Imate drakonsko porijieklo. Izaberite jednu vrstu zmaja iz tabele Drakonskih predaka. Otpornost na dah i otpor oštećenjima određuje se prema vrsti zmaja, kao što je prikazano u tabeli.
 
