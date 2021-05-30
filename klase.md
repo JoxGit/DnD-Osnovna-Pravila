@@ -1,3 +1,5 @@
+
+
 ## Varvar
 [Barbarian](https://www.dndbeyond.com/sources/basic-rules/classes#Barbarian)
 
@@ -502,19 +504,19 @@ Možete brzo napraviti bard prateći ove predloge. Prvo, karizma bi trebalo da 
 
 <table>
   <tr>
-   <td rovspan = "2"> <strong> Nivo </strong>
+   <td rowspan = "2"> <strong> Nivo </strong>
    </td>
-   <td redovi = "2"> <strong> Stručnost </strong>
+   <td rowspan = "2"> <strong> Stručnost </strong>
 
 <strong> Bonus </strong>
    </td>
-   <td rovspan = "2"> <strong> Karakteristike </strong>
+   <td rowspan = "2"> <strong> Karakteristike </strong>
    </td>
-   <td rovpan = "2"> <strong> Cantrips </strong>
+   <td rowspan = "2"> <strong> Cantrips </strong>
 
 <strong> Poznato </strong>
    </td>
-   <td redovi = "2"> <strong> Čarolije </strong>
+   <td rowspan = "2"> <strong> Čarolije </strong>
 
 <strong> Poznato </strong>
    </td>
@@ -1371,15 +1373,15 @@ Možete brzo postati sveštenik prateći ove predloge. Prvo, mudrost bi trebalo
 
 <table>
   <tr>
-   <td rovspan = "2"> <strong> Nivo </strong>
+   <td rowspan = "2"> <strong> Nivo </strong>
    </td>
-   <td redovi = "2"> <strong> Stručnost </strong>
+   <td rowspan = "2"> <strong> Stručnost </strong>
 
 <strong> Bonus </strong>
    </td>
-   <td rovspan = "2"> <strong> Karakteristike </strong>
+   <td rowspan = "2"> <strong> Karakteristike </strong>
    </td>
-   <td rovspan = "2"> <strong> Cantrips </strong>
+   <td rowspan = "2"> <strong> Cantrips </strong>
 
 <strong> Poznato </strong>
    </td>
@@ -2276,15 +2278,15 @@ Sledeći ove predloge možete brzo stvoriti druida. Prvo, mudrost bi trebalo da
 
 <table>
   <tr>
-   <td rovspan = "2"> <strong> Nivo </strong>
+   <td rowspan = "2"> <strong> Nivo </strong>
    </td>
-   <td redovi = "2"> <strong> Stručnost </strong>
+   <td rowspan = "2"> <strong> Stručnost </strong>
 
 <strong> Bonus </strong>
    </td>
-   <td rovspan = "2"> <strong> Karakteristike </strong>
+   <td rowspan = "2"> <strong> Karakteristike </strong>
    </td>
-   <td rovspan = "2"> <strong> Cantrips </strong>
+   <td rowspan = "2"> <strong> Cantrips </strong>
 
 <strong> Poznato </strong>
    </td>
@@ -4394,13 +4396,13 @@ Paladin možete brzo da napravite prateći ove predloge. Prvo, snaga bi trebalo
 
 <table>
   <tr>
-   <td rovspan = "2"> <strong> Nivo </strong>
+   <td rowspan = "2"> <strong> Nivo </strong>
    </td>
-   <td redovi = "2"> <strong> Stručnost </strong>
+   <td rowspan = "2"> <strong> Stručnost </strong>
 
 <strong> Bonus </strong>
    </td>
-   <td rovspan = "2"> <strong> Karakteristike </strong>
+   <td rowspan = "2"> <strong> Karakteristike </strong>
    </td>
    <td colspan = "5"> <strong> - Slotovi za pravopis po nivou pravopisa - </strong>
    </td>
@@ -5119,15 +5121,15 @@ Možete brzo napraviti čuvara prateći ove predloge. Prvo, neka spretnost bude
 
 <table>
   <tr>
-   <td rovspan = "2"> <strong> Nivo </strong>
+   <td rowspan = "2"> <strong> Nivo </strong>
    </td>
-   <td redovi = "2"> <strong> Stručnost </strong>
+   <td rowspan = "2"> <strong> Stručnost </strong>
 
 <strong> Bonus </strong>
    </td>
-   <td rovspan = "2"> <strong> Karakteristike </strong>
+   <td rowspan = "2"> <strong> Karakteristike </strong>
    </td>
-   <td redovi = "2"> <strong> Čarolije </strong>
+   <td rowspan = "2"> <strong> Čarolije </strong>
 
 <strong> Poznato </strong>
    </td>
@@ -6225,23 +6227,23 @@ Možete brzo stvoriti vrača prateći ove predloge. Prvo, karizma bi trebala bi
 
 <table>
   <tr>
-   <td rovspan = "2"> <strong> Nivo </strong>
+   <td rowspan = "2"> <strong> Nivo </strong>
    </td>
-   <td redovi = "2"> <strong> Stručnost </strong>
+   <td rowspan = "2"> <strong> Stručnost </strong>
 
 <strong> Bonus </strong>
    </td>
-   <td redovi = "2"> <strong> Vračanje </strong>
+   <td rowspan = "2"> <strong> Vračanje </strong>
 
 <strong> Poeni </strong>
    </td>
-   <td rovspan = "2"> <strong> Karakteristike </strong>
+   <td rowspan = "2"> <strong> Karakteristike </strong>
    </td>
    <td rovpan = "2"> <strong> Cantrips </strong>
 
 <strong> Poznato </strong>
    </td>
-   <td redovi = "2"> <strong> Čarolije </strong>
+   <td rowspan = "2"> <strong> Čarolije </strong>
 
 <strong> Poznato </strong>
    </td>
@@ -8158,13 +8160,13 @@ Možete brzo napraviti čarobnjaka prateći ove predloge. Prvo, inteligencija b
 
 <table>
   <tr>
-   <td rovspan = "2"> <strong> Nivo </strong>
+   <td rowspan = "2"> <strong> Nivo </strong>
    </td>
-   <td redovi = "2"> <strong> Stručnost </strong>
+   <td rowspan = "2"> <strong> Stručnost </strong>
 
 <strong> Bonus </strong>
    </td>
-   <td rovspan = "2"> <strong> Karakteristike </strong>
+   <td rowspan = "2"> <strong> Karakteristike </strong>
    </td>
    <td rovpan = "2"> <strong> Cantrips </strong>
 
@@ -8926,7 +8928,6 @@ Počevši od 6. nivoa, vaši štetni izleti utiču na čak i stvorenja koja izbe
 #### ** Ojačano evokacija **
 
 Počev od 10. nivoa, možete da dodate svoj modifikator inteligencije u jedan svitak oštećenja bilo koje čarolije koja izaziva čarobnjaka.
-
 
 #### ** Overchannel **
 
