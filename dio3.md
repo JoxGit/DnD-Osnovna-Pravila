@@ -21,7 +21,7 @@ Nebrojene hiljade čarolija stvorene su tokom istorije multiverzuma, a mnoge od 
 
 ### Nivo čarolije
 
-Svaka čarolija ima nivo od 0 do 9. Nivo čarolije je opšti pokazatelj koliko je moćna, sa niskom (ali i dalje impresivnim) magičnom raketom na 1. nivou i neverovatnim vremenskim zaustavljanjem na 9. nivou. Čari - jednostavne, ali moćne čarolije koje likovi mogu da izvršavaju gotovo napamet - su nivo 0. Što je veći nivo čarolije, to mora viši nivo korisnika magije biti da bi koristio tu čaroliju.
+Svaka čarolija ima nivo od 0 do 9. Nivo čarolije je opšti pokazatelj koliko je moćna, sa niskom (ali i dalje impresivnim) magičnom raketom na 1. nivou i neverovatnim vremenskim zaustavljanjem na 9. nivou. Kantripi - jednostavne, ali moćne čarolije koje likovi mogu da izvršavaju gotovo napamet - su nivo 0. Što je veći nivo čarolije, to mora viši nivo korisnika magije biti da bi koristio tu čaroliju.
 
 Nivo čarolije i nivo karaktera ne odgovaraju direktno. Tipično, lik mora biti najmanje 17., a ne 9. nivo, da bi bacio čaroliju 9. nivoa.
 
@@ -47,9 +47,9 @@ Kada korisnik magije baci čaroliju koristeći slot koji je višeg nivoa od ča
 
 Neke čarolije, poput magične rakete i lečenja rana, imaju snažnije efekte kada se bace na viši nivo, kao što je detaljno opisano u opisu čarolije.
 
-### Čari
+### Kantripi
 
-Čari su čarolije koja se može bacati po volji, bez upotrebe slota za čarolije i bez prethodne pripreme. Ponovljena praksa fiksirala je čaroliju u umu korisnika magije i ulila čaroliju potrebnu za ponavljanje efekta. Nivo čarolije čari je 0.
+Kantripi su čarolije koja se može bacati po volji, bez upotrebe slota za čarolije i bez prethodne pripreme. Ponovljena praksa fiksirala je čaroliju u umu korisnika magije i ulila čaroliju potrebnu za ponavljanje efekta. Nivo čarolije kantripa je 0.
 
 ### Rituali
 
@@ -71,7 +71,7 @@ Većina čarolija zahteva izvođenje jedne akcije, ali neke čarolije zahtevaju
 
 #### Bonus akcija
 
-Čarolija sa bonus akcijom je naročito brza. Morate koristiti bonus akciju na svom potezu da biste bacili čaroliju, pod uslovom da još niste preduzeli bonus akciju na ovom potezu. Tokom istog poteza ne možete da napravite još jednu čaroliju, osim čari sa vremenom bacanja od 1 akcije.
+Čarolija sa bonus akcijom je naročito brza. Morate koristiti bonus akciju na svom potezu da biste bacili čaroliju, pod uslovom da još niste preduzeli bonus akciju na ovom potezu. Tokom istog poteza ne možete da napravite još jednu čaroliju, osim kantripa sa vremenom bacanja od 1 akcije.
 
 #### Reakcije
 
