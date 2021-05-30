@@ -4665,7 +4665,7 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
       </td>
    </tr>
    <tr>
-      <td>lagani čekić
+      <td>Lagani čekić
       </td>
       <td>2 gp
       </td>

@@ -33,7 +33,7 @@ Kada stvarate varvarskog lika, razmislite odakle dolazi vaš lik i njegovo mjest
 
 #### **Brza izrada**
 
-Možete brzo napraviti varvara slijedeći ove predloge. Prvo stavite svoj najviši rezultat sposobnosti u Snaga, a zatim slijedi Građa. Drugo, odaberite pozadinu outlander-a.
+Možete brzo napraviti varvara slijedeći ove predloge. Prvo stavite svoj najviši rezultat sposobnosti u Snaga, a zatim slijedi Građa. Drugo, odaberite pozadinu tuđinca.
 <table>
    <tr>
       <td> <strong>Nivo</strong>
@@ -354,9 +354,9 @@ Prednost imate u bacanju spasa Spretnosti u odnosu na efekte koje možete videti
 
 Na trećem nivou odabirete put koji oblikuje prirodu vašeg bijesa. Izaberite Put Berserkera ili Put Totemskog ratnika, oboje detaljno na kraju opisa klase. Vaš izbor vam daje mogućnosti na 3. nivou i ponovo na 6., 10. i 14. nivou.
 
-### Poboljšanje ocene sposobnosti
+### Poboljšanje ocijena sposobnosti
 
-Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jednu ocijenu sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
+Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jednu ocijenu sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
 ### Dodatni napad
 
@@ -455,13 +455,13 @@ Da li ste služili šegrtu, studirali kod majstora, prateći iskusnijeg barda, 
 
 #### **Brza izrada**
 
-Možete brzo napraviti bard prateći ove predloge. Prvo, Harizma bi trebalo da bude vaša najveća ocena sposobnosti, a zatim Spretnost. Drugo, odaberite pozadinu zabavljača. Treće, odaberite _plesna svetla_ i _zlonamerno ruganje_ kantripe, zajedno sa sledećim čarolijama prvog nivoa: _charm person_, _detect magic_, _healing word_ i _thunderwave_.
+Možete brzo napraviti bard prateći ove predloge. Prvo, Harizma bi trebalo da bude vaša najveća ocijena sposobnosti, a zatim Spretnost. Drugo, odaberite pozadinu zabavljača. Treće, odaberite _plesna svetla_ i _zlonamerno ruganje_ kantripe, zajedno sa sledećim čarolijama prvog nivoa: _charm person_, _detect magic_, _healing word_ i _thunderwave_.
 
 <table>
    <tr>
       <td rowspan="2"> <strong>Nivo</strong>
       </td>
-      <td rowspan="2"> <strong>Stručnost</strong> <strong>Bonus</strong>
+      <td rowspan="2"> <strong>Bonus</strong> <strong>Stručnosti</strong> 
       </td>
       <td rowspan="2"> <strong>Karakteristike</strong>
       </td>
@@ -587,7 +587,7 @@ Možete brzo napraviti bard prateći ove predloge. Prvo, Harizma bi trebalo da 
       </td>
       <td> +2
       </td>
-      <td> Poboljšanje ocena sposobnosti
+      <td> Poboljšanje ocijena sposobnosti
       </td>
       <td> 3
       </td>
@@ -707,7 +707,7 @@ Možete brzo napraviti bard prateći ove predloge. Prvo, Harizma bi trebalo da 
       </td>
       <td> +3
       </td>
-      <td> Poboljšanje ocena sposobnosti
+      <td> Poboljšanje ocijena sposobnosti
       </td>
       <td> 3
       </td>
@@ -827,7 +827,7 @@ Možete brzo napraviti bard prateći ove predloge. Prvo, Harizma bi trebalo da 
       </td>
       <td> +4
       </td>
-      <td> Poboljšanje ocena sposobnosti
+      <td> Poboljšanje ocijena sposobnosti
       </td>
       <td> 4
       </td>
@@ -947,7 +947,7 @@ Možete brzo napraviti bard prateći ove predloge. Prvo, Harizma bi trebalo da 
       </td>
       <td> +5
       </td>
-      <td> Poboljšanje ocena sposobnosti
+      <td> Poboljšanje ocijena sposobnosti
       </td>
       <td> 4
       </td>
@@ -1037,7 +1037,7 @@ Možete brzo napraviti bard prateći ove predloge. Prvo, Harizma bi trebalo da 
       </td>
       <td> +6
       </td>
-      <td> Poboljšanje ocena sposobnosti
+      <td> Poboljšanje ocijena sposobnosti
       </td>
       <td> 4
       </td>
@@ -1131,9 +1131,9 @@ Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
 
 Naučili ste da raspetljavate i preoblikujete tkanje stvarnosti u skladu sa svojim željama i muzikom. Vaše čarolije su deo vašeg ogromnog repertoara, magije koju možete prilagoditi različitim situacijama. Pogledajte poglavlje 10 za opšta pravila korištenja magije i poglavlje 11 za listu bard čarolija.
 
-#### **Kantripovi**
+#### **Kantripi**
 
-Sa liste bard čarolija znate dva kantripa po vašem izboru. Učite dodatne bard kantripe po vašem izboru na višim nivoima, kao što je prikazano u koloni Poznati Kantripovi u tabeli Bard.
+Sa liste bard čarolija znate dva kantripa po vašem izboru. Učite dodatne bard kantripe po vašem izboru na višim nivoima, kao što je prikazano u koloni Poznati Kantripi u tabeli Bard.
 
 #### **Slotovi za čarolije**
 
@@ -1153,7 +1153,7 @@ Pored toga, kada steknete nivo u ovoj klasi, možete da izaberete jednu od bard 
 
 Harizma je vaša sposobnost korištenja magije za vaše bardske čarolije. Vaša magija dolazi iz srca i duše koju ulivate u izvođenje svoje muzike ili govora. Koristite svoju Harizmu kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj Harizma modifikator koristite prilikom postavljanja DC spasilačkog bacanja za bard čaroliju koju ste napravili i prilikom pravljenja napadačkog bacanja s njim.
 
-**Spell save DC** = 8 + vaš bonus vještine + vaš modifikator Harizme
+**DC spasa od čarolije** = 8 + vaš bonus vještine + vaš modifikator Harizme
 
 **Modifikator napada čarolijom** = vaš bonus vještine + vaš modifikator Harizme
 
@@ -1164,7 +1164,6 @@ Možete napraviti bilo koju bardsku čaroliju koju znate kao ritual ako ta čaro
 #### **Fokusiranje čarolija**
 
 Možete da koristite muzički instrument (pogledajte poglavlje 5, „Oprema“) kao fokus za bacanje čarolija za svoje bardske čarolije.
-
 
 ### Barska inspiracija
 
@@ -1196,9 +1195,9 @@ Na trećem nivou odaberite dvije svoje viještine. Vaš bonus za stručnost se 
 
 Na 10. nivou možete odabrati još dvije viještina da biste stekli ovu korist.
 
-### Poboljšanje ocena sposobnosti
+### Poboljšanje ocijena sposobnosti
 
-Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
+Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
 ### Font inspiracije
 
@@ -1252,650 +1251,640 @@ Počevši od 14. nivoa, kada izvršite provijeru sposobnosti, možete potrošiti
 
 ## Sveštenik
 
-Ruke i oči podignute prema suncu i molitva na njegovim usnama, vilenjak počinje da svetli unutrašnjom svetlošću koja se izliva da bi zacelila njegove saputnike u nosu.
+Ruke i oči podignute prema suncu i molitva na usnama, vilenjak počinje blistati unutrašnjom svjetlošću koja se izlijeva da bi izliječila njegove bitkom istrošene saputnike.
 
-Izgovarajući pesmu slave, patuljak zamahuje sekirom širokim prugama kako bi presekao redove orkova raspoređenih protiv njega, uzvikujući slavu bogovima pri svakom padu neprijatelja.
+Izgovarajući pjesmu slave, patuljak zamahuje sjekirom u širokim lukovima kako bi presjekao redove orkova raspoređenih protiv njega, uzvikujući slavu bogovima pri svakom padu neprijatelja.
 
-Prizivajući prokletstvo nad silama nebijesa, čovek podiže svoj sveti simbol dok se iz njega sipa svetlost da vrati zombije koji se naguraju na njene saputnike.
+Pozivajući na prokletstvo nad silama neumrlih, žena podiže svoj sveti simbol dok se iz njega slijeva svjetlost da potjera zombije koji se gomilaju na njene pratioce.
 
-Sveštenici su posrednici između smrtnog sveta i udaljenih ravni bogova. Koliko god bili različiti bogovi kojima služe, sveštenici nastoje da otelotvore ručni rad svojih božanstava. Nijedan običan sveštenik, sveštenik je prožet božanskom magijom.
+Sveštenici su posrednici između smrtnog svijeta i udaljenih ravni bogova. Koliko god bili različiti bogovi kojima služe, sveštenici nastoje utjelotvoriti dijela svojih božanstava. Nije običan pop, sveštenik je prožet božanskom magijom.
 
+### Iscjelitelji i ratnici
 
-### Iscelitelji i ratnici
+Božanska magija, kao što i samo ime govori, snaga je bogova koja iz njih teče u svijet. Sveštenici su voditelji te moći, ispoljavajući je kao čudesne učinke. Bogovi ne daju ovu moć svima koji je traže, već samo onima izabranima da ispune visoki poziv.
 
-Božanska magija, kao što i samo ime govori, snaga je bogova koja iz njih teče u svet. Sveštenici su provodnici te moći, ispoljavajući je kao čudesne efekte. Bogovi ne daju ovu moć svima koji je traže, već samo onima koji su izabrani da ispune visoki poziv.
+Iskorištavanje božanske magije ne oslanja se na učenje ili trening. Sveštenik bi mogao naučiti osnovne molitve i drevne obrede, ali sposobnost bacanja čarolija oslanja se na predanost i intuitivan osjećaj želja božanstva.
 
-Iskorišćavanje božanske magije ne oslanja se na učenje ili trening. Sveštenik bi mogao naučiti osnovne molitve i drevne obrede, ali sposobnost bačenja svešteničkih čini se oslanja na predanost i intuitivan osećaj želja božanstva.
-
-Sveštenici kombinuju korisnu magiju isceljenja i nadahnuća svojih saveznika sa čarolijama koje štete i ometaju neprijatelje. Oni mogu izazvati strahopoštovanje i strah, položiti kletve kuge ili otrova, pa čak i pozvati plamen s neba da pogube svoje neprijatelje. Za one zlikovce kojima će najviše biti od buzdovana do glave, sveštenici zavise od svoje borbene obuke i dopuštaju im da uđu u meč snagom bogova na svojoj strani.
-
-
-### Božanski agensi
+Sveštenici kombinuju korisnu magiju iscjeljenja i nadahnuća svojih saveznika s čarolijama koje štete i ometaju neprijatelje. Mogu izazvati strahopoštovanje i strah, položiti kletve kuge ili otrova, pa čak i pozvati plamen s neba da pogube svoje neprijatelje. Za one zlikovce koji će od mace po glavi imati najviše koristi, sveštenici zavise o svojoj borbenoj obuci i dopuštaju im da uđu u borbu prsa u prasa snagom bogova na svojoj strani.
 
 
+### Božanski agenti
 
-Nije svaki akolit ili službenik u hramu ili svetilištu sveštenik. Neki sveštenici su pozvani na jednostavan život u hramskoj službi, izvršavajući volju svojih bogova molitvom i žrtvom, a ne magijom i snagom oružja. U nekim gradovima sveštenstvo predstavlja političku službu, na koju se gleda kao na odskočnu dasku ka višim položajima vlasti i uopšte ne uključuje zajednicu sa bogom. Pravi sveštenici su retki u većini hijerarhija.
+Nije svaki akolit ili službenik u hramu ili svetištu sveštenik. Neki su sveštenici pozvani na jednostavan život u hramu, izvršavajući volju svojih bogova molitvom i žrtvom, a ne magijom i snagom oružja. U nekim gradovima sveštenstvo predstavlja političku službu, na koju se gleda kao na odskočnu dasku ka višim položajima vlasti i uopšte ne uključuje zajednicu s bogom. Istinski sveštenici su rijetki u većini hijerarhija.
 
-Kada sveštenik zaživi avanturistički život, to je obično zato što to zahteva njegov ili njen bog. Sledovanje ciljevima bogova često uključuje privlačenje opasnosti izvan civilizacijskih zidova, uništavanje zla ili traženje svetih relikvija u drevnim grobnicama. Očekuje se da će i mnogi sveštenici zaštititi poklonike svojih božanstava, što može značiti borbu protiv razuzdanih orkova, pregovaranje o miru između zaraćenih nacija ili zaptivanje portala koji će omogućiti demonskom princu da uđe u svet.
+Kad sveštenik započne pustolovni život, to je obično zato što to zahtijeva njegov ili njezin bog. Slijeđenje ciljeva bogova često uključuje privlačenje opasnosti izvan civilizacijskih zidova, uništavanje zla ili traženje svetih relikvija u drevnim grobnicama. Očekuje se da će i mnogi sveštenici zaštititi sledbenike svojih božanstava, što može značiti borbu protiv razuzdanih orkova, pregovaranje o miru između zaraćenih nacija ili zatvaranje portala koji će omogućiti princu demonima da uđe u svijet.
 
-Većina avanturističkih sveštenika održava neku vezu sa utvrđenim hramovima i redovima svojih vera. Hram bi mogao zatražiti pomoć sveštenika ili bi prvosveštenik mogao biti u stanju da je zatraži.
+Većina avanturističkih sveštenika održava određenu vezu sa utvrđenim hramovima i redovima svojih vjera. Hram bi mogao zatražiti pomoć sveštenika ili bi prvosveštenik mogao biti u mogućnosti da je zatraži.
 
 
 ### Stvaranje sveštenika
 
-Dok stvarate sveštenika, najvažnije pitanje koje treba razmotriti je kojem božanstvu služiti i koje principe želite da vaš lik oličava. Dodatak B uključuje spiskove mnogih bogova multiverzuma. Proverite kod svog DM-a da biste saznali koja su božanstva u vašoj kampanji.
+Dok stvarate sveštenika, najvažnije pitanje koje treba razmotriti je kojem božanstvu služiti i koje principe želite da vaš lik utjelotvori. ~~Dodatak B~~ uključuje liste mnogih bogova multiverzuma. Provjerite sa svojim DM-om da saznate koja su božanstva u vašoj kampanji.
 
-Jednom kada odaberete božanstvo, razmislite o odnosu vašeg sveštenika prema tom bogu. Da li ste dobrovoljno ušli u ovu uslugu? Ili vas je bog izabrao, nagonivši vas da služite bez obzira na vaše želje? Kako vas hramski sveštenici vaše vere doživljavaju: kao pobednika ili uznemirivača? Koji su vaši krajnji ciljevi? Da li vaše božanstvo ima na umu poseban zadatak za vas? Ili se trudite da se dokažete dostojnim velike potrage?
-
+Jednom kada odaberete božanstvo, razmislite o odnosu vašeg sveštenika prema tom bogu. Jeste li dobrovoljno služite? Ili vas je bog izabrao, prisiljavajući vas da služite bez obzira na vaše želje? Kako vas hramski sveštenici vaše vjere smatraju: pobjednikom ili stvarateljem problema? Koji su vaši krajnji ciljevi? Ima li vaše božanstvo na umu poseban zadatak za vas? Ili se trudite dokazati da ste dostojni velike potrage?
 
 #### **Brza izrada**
 
-Možete brzo postati sveštenik prateći ove predloge. Prvo, mudrost bi trebalo da bude vaša najveća ocena sposobnosti, a zatim snaga ili Građa. Drugo, odaberite pozadinu akolita.
-
+Možete brzo postati sveštenik prateći ove predloge. Prvo, mudrost bi trebalo da bude vaša najveća ocijena sposobnosti, a zatim snaga ili Građa. Drugo, odaberite pozadinu akolita.
 
 <table>
-  <tr>
-   <td rowspan = "2"> <strong>Nivo</strong>
-   </td>
-   <td rowspan = "2"> <strong>Stručnost</strong>
-
-<strong>Bonus</strong>
-   </td>
-   <td rowspan = "2"> <strong>Karakteristike</strong>
-   </td>
-   <td rowspan = "2"> <strong>Cantrips</strong>
-
-<strong>Poznato</strong>
-   </td>
-   <td colspan = "9"> <strong>—Spell Slots per Spell Level—</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> <strong>1.</strong>
-   </td>
-   <td> <strong>2.</strong>
-   </td>
-   <td> <strong>3.</strong>
-   </td>
-   <td> <strong>4.</strong>
-   </td>
-   <td> <strong>5.</strong>
-   </td>
-   <td> <strong>6.</strong>
-   </td>
-   <td> <strong>7.</strong>
-   </td>
-   <td> <strong>8.</strong>
-   </td>
-   <td> <strong>9.</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 1.
-   </td>
-   <td> +2
-   </td>
-   <td> Pravopis, božanski domen
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 2.
-   </td>
-   <td> +2
-   </td>
-   <td> Božanstvo kanala (1 / odmor), karakteristika božanskog domena
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> +2
-   </td>
-   <td> -
-   </td>
-   <td> 3
-   </td>
-   <td> 4
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 4.
-   </td>
-   <td> +2
-   </td>
-   <td> Poboljšanje ocene sposobnosti
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> +3
-   </td>
-   <td> Uništi neumrle (CR 1/2)
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 6.
-   </td>
-   <td> +3
-   </td>
-   <td> Božanstvo kanala (2 / odmor), karakteristika božanskog domena
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 7
-   </td>
-   <td> +3
-   </td>
-   <td> -
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 8.
-   </td>
-   <td> +3
-   </td>
-   <td> Poboljšanje ocene sposobnosti, Uništi neumrle (CR 1), Karakteristika božanske domene
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> +4
-   </td>
-   <td> -
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 10.
-   </td>
-   <td> +4
-   </td>
-   <td> Božanska intervencija
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 11.
-   </td>
-   <td> +4
-   </td>
-   <td> Uništi neumrle (CR 2)
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 12.
-   </td>
-   <td> +4
-   </td>
-   <td> Poboljšanje ocene sposobnosti
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 13
-   </td>
-   <td> +5
-   </td>
-   <td> -
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 14
-   </td>
-   <td> +5
-   </td>
-   <td> Uništi neumrle (CR 3)
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 15
-   </td>
-   <td> +5
-   </td>
-   <td> -
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 16
-   </td>
-   <td> +5
-   </td>
-   <td> Poboljšanje ocene sposobnosti
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 17th
-   </td>
-   <td> +6
-   </td>
-   <td> Uništi neumrlih (CR 4), karakteristika božanskog domena
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 18
-   </td>
-   <td> +6
-   </td>
-   <td> Božanstvo kanala (3 / odmor)
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 19
-   </td>
-   <td> +6
-   </td>
-   <td> Poboljšanje ocene sposobnosti
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 20.
-   </td>
-   <td> +6
-   </td>
-   <td> Poboljšanje božanske intervencije
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
+   <tr>
+      <td rowspan="2"> <strong>Nivo</strong>
+      </td>
+      <td rowspan="2"> <strong>Bonus</strong> <strong>Stručnosti</strong>
+      </td>
+      <td rowspan="2"> <strong>Karakteristike</strong>
+      </td>
+      <td rowspan="2"> <strong>Poznati</strong> <strong>Kantripi</strong>
+      </td>
+      <td colspan="9"> <strong>- Slotovi za čarolije po nivou čarolija -</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> <strong>1.</strong>
+      </td>
+      <td> <strong>2.</strong>
+      </td>
+      <td> <strong>3.</strong>
+      </td>
+      <td> <strong>4.</strong>
+      </td>
+      <td> <strong>5.</strong>
+      </td>
+      <td> <strong>6.</strong>
+      </td>
+      <td> <strong>7.</strong>
+      </td>
+      <td> <strong>8.</strong>
+      </td>
+      <td> <strong>9.</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 1.
+      </td>
+      <td> +2
+      </td>
+      <td> Bacanje čarolija, Božanski domen
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 2.
+      </td>
+      <td> +2
+      </td>
+      <td> Kanalisanje božanstva (1/odmor), Karakteristika božanskog domena
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> +2
+      </td>
+      <td> -
+      </td>
+      <td> 3
+      </td>
+      <td> 4
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 4.
+      </td>
+      <td> +2
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> +3
+      </td>
+      <td> Uništi neumrle (CR 1/2)
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 6.
+      </td>
+      <td> +3
+      </td>
+      <td> Kanalisanje božanstva (2/odmor), Karakteristika božanskog domena
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> +3
+      </td>
+      <td> -
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 8.
+      </td>
+      <td> +3
+      </td>
+      <td> Poboljšanje ocijena sposobnosti, Uništi neumrle (CR 1), Karakteristika božanskog domena
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> +4
+      </td>
+      <td> -
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 10.
+      </td>
+      <td> +4
+      </td>
+      <td> Božanska intervencija
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 11.
+      </td>
+      <td> +4
+      </td>
+      <td> Uništi neumrle (CR 2)
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 12.
+      </td>
+      <td> +4
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 13
+      </td>
+      <td> +5
+      </td>
+      <td> -
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 14
+      </td>
+      <td> +5
+      </td>
+      <td> Uništi neumrle (CR 3)
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 15
+      </td>
+      <td> +5
+      </td>
+      <td> -
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 16
+      </td>
+      <td> +5
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 17th
+      </td>
+      <td> +6
+      </td>
+      <td> Uništi neumrle (CR 4), Karakteristika božanskog domena
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 18
+      </td>
+      <td> +6
+      </td>
+      <td> Kanalisanje božanstva (3/odmor)
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 19
+      </td>
+      <td> +6
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 20.
+      </td>
+      <td> +6
+      </td>
+      <td> Poboljšanje božanske intervencije
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
 </table>
 
 ## Karakteristike klase
 
 Kao sveštenik, stičete sledeće karakteristike klase.
-
 
 #### **Životni bodovi**
 
@@ -1905,7 +1894,6 @@ Kao sveštenik, stičete sledeće karakteristike klase.
 
 **Poeni na višim nivoima:** 1d8 (ili 5) + vaš modifikator Građe po nivou sveštenika posle 1.
 
-
 #### **Stručnosti**
 
 **Oklop:** Laki oklop, srednji oklop, štitovi
@@ -1914,160 +1902,140 @@ Kao sveštenik, stičete sledeće karakteristike klase.
 
 **Alati:** Nijedan
 
-**Spašavanje bacanja:** Mudrost, harizma
+**Spašavanje bacanja:** Mudrost, Harizma
 
-**viještine:** Izaberite dvije iz istorije, uvida, medicine, ubeđivanja i religije
-
+**viještine:** Izaberite dvije od Istorija, Uvid, Medicina, Ubijeđivanje i Religija
 
 #### **Oprema**
 
 Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
-
-
-
-* (a) topuz ili (b) ratni čekić (ako je stručan)
-* (a) vaga za poštu, (b) kožni oklop ili (c) lančana pošta (ako je stručan)
-* (a) lagani samostrel i 20 vijaka ili (b) bilo koje jednostavno oružje
-* (a) sveštenički čopor ili (b) čopor istraživača
+* (a) maca ili (b) ratni čekić (ako ste stručni)
+* (a) krljušt, (b) kožni oklop ili (c) lančani oklop (ako ste stručni)
+* (a) lagani samostrel i 20 strijela ili (b) bilo koje jednostavno oružje
+* (a) sveštenički paket ili (b) Istraživački paket
 * Štit i sveti simbol
 
+### Korištenje magije
 
-### Pravopis
+Kao provodnik za božansku moć, možete bacati svešteničke čarolije. Pogledajte poglavlje 10 za opšta pravila korištenja magije i poglavlje 11 za spisak čarolija sveštenika.
 
-Kao provodnik za božansku moć, možete bacati svešteničke čarolije. Pogledajte poglavlje 10 za opšta pravila pravopisa i poglavlje 11 za spis pravopisa sveštenika.
+#### **Kantripi**
 
+Na prvom nivou znate tri kantripa po vašem izboru sa liste čarolija sveštenika. Dodatne klerikalne kantripe po vašem izboru naučite na višim nivoima, kao što je prikazano u koloni Poznati Kantripi u tabeli Sveštenika.
 
-#### **Cantrips**
+#### **Priprema i bacanje čarolija**
 
-Na prvom nivou znate tri putovanja po vašem izboru sa liste čarolija sveštenika. Dodatne klerikalne izlete po vašem izboru naučite na višim nivoima, kao što je prikazano u koloni Cantrips Knovn u tabeli Cleric.
+Tabela sveštenika pokazuje koliko slotova čarolija imater da izvodite svoje svešteničke čarolije 1. i višeg nivoa. Da biste izvršili jednu od ovih čarolija, morate potrošiti slot nivoa čarolije ili veći. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
 
+Pripremate listu čarolija sveštenika koje su vam dostupne za biranje, birajući sa liste čarolija sveštenika. Kada to učinite, odaberite broj svešteničkih čarolija jednak vašem modifikatoru Mudrosti + vašem nivou sveštenika (najmanje jedna čarolija). Čarolije moraju biti na nivou za koji imate slotove za čarolije.
 
-#### **Priprema i bačanje čarolija**
-
-Tabela sveštenika pokazuje koliko slotova čarolija morate da izvodite svoje činovničke čarolije 1. i višeg nivoa. Da biste izvršili jednu od ovih čarolija, morate potrošiti slot nivoa čarolije ili veći. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
-
-Pripremate listu čarolija sveštenika koje su vam dostupne za biranje, birajući sa liste čarolija sveštenika. Kada to učinite, odaberite broj čarolijskih čarolija jednak vašem modifikatoru Mudrosti + vašem nivou sveštenika (najmanje jedna čarolija). Čarolije moraju biti na nivou za koji imate slotove za čarolije.
-
-Na primer, ako ste sveštenik trećeg nivoa, imate četiri slota za pravopis prvog i drugog nivoa. Sa mudrošću od 16, vaša lista pripremljenih čarolija može sadržati šest čarolija 1. ili 2. nivoa, u bilo kojoj kombinaciji. Ako pripremite rane za izlečenje čarolija 1. nivoa, možete ih naneti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
+Na primer, ako ste sveštenik trećeg nivoa, imate četiri slota za bacanje čarolija prvog i drugog nivoa. Sa Mudrošću od 16, vaša lista pripremljenih čarolija može sadržati šest čarolija 1. ili 2. nivoa, u bilo kojoj kombinaciji. Ako pripremite čaroliju liječenje rana 1. nivoa, možete je baciti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
 
 Spisak pripremljenih čarolija možete promeniti kada završite duži odmor. Priprema nove liste svešteničkih čarolija zahteva vreme provedeno u molitvi i meditaciji: najmanje 1 minut po nivou čarolije za svaku čaroliju na vašem spisku.
 
-
-#### **Sposobnost pravopisa**
+#### **Sposobnost korištenja magije**
 
 Mudrost je vaša sposobnost pravljenja čarolija za vaše svešteničke čarolije. Moć vaših čarolija potiče iz vaše predanosti vašem božanstvu. Koristite svoju Mudrost kad god se čin čarolije odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj modifikator Mudrosti koristite kada postavljate DC spasilačkog bacanja za čaroliju sveštenika koju ste napravili i kada pravite napadački zamah jednim.
 
-**Spell save DC** = 8 + vaš bonus za stručnost + vaš modifikator Mudrosti
+**DC spasa od čarolije** = 8 + vaš bonus za stručnost + vaš modifikator Mudrosti
 
-**Modifikator pravopisnog napada** = vaš bonus za znanje + vaš modifikator Mudrosti
+**Modifikator napada čarolijom** = vaš bonus stručnost + vaš modifikator Mudrosti
 
-
-#### **Ritualno livenje**
+#### **Ritualno bacanje**
 
 Možete napraviti čaroliju sveštenika kao ritual ako ta čarolija ima oznaku rituala i ako ste čaroliju pripremili.
 
+#### **Fokusiranje korištenja magije**
 
-#### **Fokusiranje pravopisa**
-
-Možete koristiti sveti simbol (pogledajte poglavlje 5, „Oprema“) kao fokus propovedi čarolija za vaše svešteničke čarolije.
-
+Možete koristiti sveti simbol (pogledajte poglavlje 5, „Oprema“) kao fokus za korištenje magije za vaše svešteničke čarolije.
 
 ### Božanski domen
 
-Izaberite jedan domen vezan za vaše božanstvo: Znanje, Život, Svetlost, Priroda, Oluja, Prevare ili Rat. Svaki domen je detaljno opisan na kraju opisa klase i svaki pruža primere bogova povezanih sa njim. Vaš izbor vam daje čarolije domena i druge funkcije kada ih odaberete na 1. nivou. Takođe vam pruža dodatne načine korišćenja Channel Diviniti kada tu funkciju steknete na 2. nivou i dodatne pogodnosti na 6., 8. i 17. nivou.
-
+Izaberite jedan domen vezan za vaše božanstvo: Znanje, Život, Svetlost, Priroda, Oluja, Prevare ili Rat. Svaki domen je detaljno opisan na kraju opisa klase i svaki pruža primere bogova povezanih sa njim. Vaš izbor vam daje čarolije domena i druge funkcije kada ih odaberete na 1. nivou. Takođe vam pruža dodatne načine korišćenja Kanalisanja božanstva kada tu funkciju steknete na 2. nivou i dodatne pogodnosti na 6., 8. i 17. nivou.
 
 #### **Čarolije domena**
 
-Svaka domena ima spisak čarolija - čarolija svog domena - koje steknete na nivoima sveštenika zabeleženim u opisu domena. Jednom kada steknete čaroliju domena, uvek je imate pripremljenu i ne računa se u broj čarolija koje možete pripremiti svakog dana.
+Svaki domena ima spisak čarolija - čarolija svog domena - koje steknete na nivoima sveštenika zabeleženim u opisu domena. Jednom kada steknete čaroliju domena, uvek je imate pripremljenu i ne računa se u broj čarolija koje možete pripremiti svakog dana.
 
 Ako imate čaroliju domena koja se ne pojavljuje na spisku čarolija sveštenika, čarolija je za vas ipak čarolija sveštenika.
 
 
-### Channel Diviniti
+### Kanalisanje božanstva
 
-Na drugom nivou steknete sposobnost da kanališete božansku energiju direktno od svog božanstva, koristeći tu energiju za podsticanje magičnih efekata. Počinjete sa dva takva efekta: Turn Undead i efektom koji određuje vaš domen. Neki domeni vam omogućavaju dodatne efekte kako napredujete u nivoima, kao što je navedeno u opisu domena.
+Na drugom nivou stičete sposobnost da kanališete božansku energiju direktno od svog božanstva, koristeći tu energiju za podsticanje magičnih efekata. Počinjete sa dva takva efekta: Okretanje nemrtvih i efektom koji određuje vaš domen. Neki domeni vam omogućavaju dodatne efekte kako napredujete u nivoima, kao što je navedeno u opisu domena.
 
-Kada koristite svoj kanal Diviniti, vi birate koji ćete efekat stvoriti. Zatim morate završiti kraći ili duži odmor da biste ponovo koristili svoj Channel Diviniti.
+Kada koristite Kanalisanje božanstva, vi birate koji ćete efekat stvoriti. Zatim morate završiti kraći ili duži odmor da biste ponovo koristili Kanalisanje božanstva.
 
-Neki efekti Diviniti Channel-a zahtevaju štednja. Kada koristite takav efekat iz ove klase, DC je jednak vašoj čaroliji, osim DC.
+Neki efekti Kanalisanja božanstva zahtevaju bacanja spasa. Kada koristite takav efekat iz ove klase, DC je jednak vašem DC sa sapas od čarolija sveštenika.
 
-Počevši od 6. nivoa, svoj kanal božanstva možete koristiti dva puta između odmora, a počevši od 18. nivoa, možete ga koristiti tri puta između odmora. Kada završite kraći ili duži odmor, povratićete svoje potrošene namene.
+Počevši od 6. nivoa, svoj kanal božanstva možete koristiti dva puta između odmora, a počevši od 18. nivoa, možete ga koristiti tri puta između odmora. Kada završite kraći ili duži odmor, povratićete svoje potrošene kanale.
 
+#### **Kanalisanje božanstva: Okretanje nemrtvih**
 
-#### **Channel Diviniti: Turn Undead**
+Kao akciju predstavljate svoj sveti simbol i izgovarate molitvu kojom cenzurišete nemrtve. Svako nemrtvo stvorenje koja vas može videti ili čuti u krugu od 30 stopa od vas mora izvršiti spasonosno bacanje Mudrosti. Ako stvorenje ne uspe u svom spasilačkom bacanju, okreće se na minut ili dok ne primi štetu.
 
-Kao akciju predstavljate svoj sveti simbol i izgovarate molitvu kojom cenzujete nemrtve. Svaka nemrtva koja vas može videti ili čuti u krugu od 30 stopa od vas mora izvršiti spasonosno bacanje Mudrosti. Ako stvorenje ne uspe u svom spasilačkom bacanju, okreće se na minut ili dok ne nanese štetu.
+Okrenuto stvorenje mora provesti svoje poteze pokušavajući da se odmakne što dalje od vas i ne može se dobrovoljno pomjerati u prostor unutar 30 stopa od vas. Takođe ne može da reaguje. Za svoju akciju može da koristi samo akciju Juriš ili da pokuša da pobegne od efekta koji sprečava njegovo pomeranje. Ako nema gde da se pomeri, stvorenje može da koristi akciju Izbijeći.
 
-Okrenuto stvorenje mora provesti svoje zavoje pokušavajući da se odmakne što dalje od vas i ne može se dragovoljno preseliti u prostor unutar 30 stopa od vas. Takođe ne može da podnese reakcije. Za svoju akciju može da koristi samo akciju Crtica ili da pokuša da pobegne od efekta koji sprečava njeno pomeranje. Ako nema gde da se pomeri, stvorenje može da koristi Dodge akciju.
+### Poboljšanje ocijena sposobnosti
 
+Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
-### Poboljšanje ocene sposobnosti
+### Uništi nemrtve
 
-Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocene sposobnosti po svom izboru za 1. Kao i obično, t povećajte skor sposobnosti iznad 20 koristeći ovu funkciju.
+Počevši od 5. nivoa, kada nemrtvi ne uspeju u svom spasilačkom bacanju na vašoj funkciji Okreni nemrtve, stvorenje se trenutno uništava ako je njegova ocijena izazova na ili ispod određenog praga, kao što je prikazano u tabeli Uništi nemrtve.
 
-
-### Uništi Undead
-
-Počevši od 5. nivoa, kada nemrtvi ne uspeju u svom spasilačkom bacanju na vašoj funkciji Turn Undead, stvorenje se trenutno uništava ako je njegova ocena izazova na ili ispod određenog praga, kao što je prikazano u tabeli Destroi Undead.
-
-**Uništi neumrle**
-
+**Uništi nemrtve**
 
 <table>
-  <tr>
-   <td> <strong>Nivo sveštenika</strong>
-   </td>
-   <td> <strong>Uništava Undead of CR. . .</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> 1/2 ili niže
-   </td>
-  </tr>
-  <tr>
-   <td> 8.
-   </td>
-   <td> 1 ili niži
-   </td>
-  </tr>
-  <tr>
-   <td> 11.
-   </td>
-   <td> 2 ili niže
-   </td>
-  </tr>
-  <tr>
-   <td> 14
-   </td>
-   <td> 3 ili manje
-   </td>
-  </tr>
-  <tr>
-   <td> 17th
-   </td>
-   <td> 4 ili manje
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo sveštenika</strong>
+      </td>
+      <td> <strong>Uništava nemrtve sa CR. . .</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> 1/2 ili niže
+      </td>
+   </tr>
+   <tr>
+      <td> 8.
+      </td>
+      <td> 1 ili niži
+      </td>
+   </tr>
+   <tr>
+      <td> 11.
+      </td>
+      <td> 2 ili niže
+      </td>
+   </tr>
+   <tr>
+      <td> 14.
+      </td>
+      <td> 3 ili manje
+      </td>
+   </tr>
+   <tr>
+      <td> 17.
+      </td>
+      <td> 4 ili manje
+      </td>
+   </tr>
 </table>
-
-
 
 ### Božija intervencija
 
 Počevši od 10. nivoa, možete pozvati svoje božanstvo da interveniše u vaše ime kada su vaše potrebe velike.
 
-Iskorištavanje pomoći vašeg božanstva zahteva da primenite svoju akciju. Opišite pomoć koju tražite i bacite percentile kockice. Ako kotrljate broj jednak ili manji od vašeg nivoa sveštenika, vaše božanstvo se umeša. DM bira prirodu intervencije; efekat bilo koje svešteničke čarolije ili čarolija svešteničkog domena bio bi prikladan.
+Iskorištavanje pomoći vašeg božanstva zahteva da primenite svoju akciju. Opišite pomoć koju tražite i bacite procentualne kockice. Ako dobijete broj jednak ili manji od vašeg nivoa sveštenika, vaše božanstvo se umeša. DM bira prirodu intervencije; efekat bilo koje svešteničke čarolije ili čarolija svešteničkog domena bio bi prikladan.
 
 Ako vaše božanstvo interveniše, ne možete ponovo da koristite ovu funkciju 7 dana. U suprotnom, možete ga ponovo koristiti nakon što završite duži odmor.
 
 Na 20. nivou, vaš poziv za intervenciju automatski uspeva, nije potrebno bacanje.
 
-
-## Božanske domene
-
+## Božanski domeni
 
 U panteonu, svako božanstvo ima uticaj na različite aspekte smrtnog života i civilizacije, što se naziva domenom božanstva. Svi domeni na koje božanstvo ima uticaj nazivaju se portfeljem božanstva. Na primer, portfolio grčkog boga Apolona uključuje domene Znanja, Života i Svetlosti. Kao sveštenik, odabirete jedan aspekt portfelja vašeg božanstva koji želite naglasiti i dodeljuju vam se moći povezane sa tim domenom.
 
@@ -2075,734 +2043,711 @@ Vaš izbor može odgovarati određenoj sekti posvećenoj vašem božanstvu. Apo
 
 Opis svakog domena daje primere božanstava koja imaju uticaj na taj domen. Bogovi su uključeni iz sveta podešavanja zaboravljenih carstava, Greihavka, Dragonlancea i Eberrona, kao i iz keltskih, grčkih, nordijskih i egipatskih panteona antike.
 
-
 ### Životni domen
 
-Životni domen fokusira se na vibrantnu pozitivnu energiju - jednu od osnovnih sila univerzuma - koja održava sav život. Bogovi života unapređuju vitalnost i zdravlje isceljujući bolesnike i ranjenike, brinući se o onima kojima je potrebna i odagnavajući snage smrti i smrti. Gotovo svako ne-zlo božanstvo može da polaže uticaj na ovaj domen, posebno poljoprivredna božanstva (kao što su Chauntea, Aravai i Demeter), bogovi sunca (kao što su Lathander, Pelor i Re-Horakhti), bogovi isceljenja ili izdržljivosti (poput Ilmater, Mishakal, Apollo i Diancecht) i bogovi doma i zajednice (kao što su Hestija, Hathor i Boldrei).
+Životni domen fokusira se na vibrantnu pozitivnu energiju - jednu od osnovnih sila univerzuma - koja održava sav život. Bogovi života unapređuju vitalnost i zdravlje isceljujući bolesnike i ranjenike, brinući se o onima kojima je potrebna i odagnavajući snage smrti i nemrtvih. Gotovo svako ne-zlo božanstvo može da polaže uticaj na ovaj domen, posebno poljoprivredna božanstva (kao što su Chauntea, Aravai i Demeter), bogovi sunca (kao što su Lathander, Pelor i Re-Horakhti), bogovi isceljenja ili izdržljivosti (poput Ilmater, Mishakal, Apollo i Diancecht) i bogovi doma i zajednice (kao što su Hestija, Hathor i Boldrei).
 
 #### **Čarolije životnog domena**
 
-
 <table>
-  <tr>
-   <td> <strong>Nivo sveštenika</strong>
-   </td>
-   <td> <strong>Čarolije</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 1.
-   </td>
-   <td> <em> blagoslovi </em>, <em> leči rane </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> <em> manja restauracija </em>, <em> duhovno oružje </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> <em> svetionik nade </em>, <em> oživi </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 7
-   </td>
-   <td> <em> odeljenje smrti </em>, <em> čuvar vere </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> <em> masovno zalečivanje rana </em>, <em> uskrsavanje mrtvih </em>
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo sveštenika</strong>
+      </td>
+      <td> <strong>Čarolije</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 1.
+      </td>
+      <td> <em>blagoslovi</em>, <em>leči rane</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> <em>manja restauracija</em>, <em>duhovno oružje</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> <em>svetionik nade</em>, <em>oživi</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> <em>odeljenje smrti</em>, <em>čuvar vere</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> <em>masovno zalečivanje rana</em>, <em>uskrsavanje mrtvih</em>
+      </td>
+   </tr>
 </table>
-
-
 
 #### **Bonus znanje**
 
 Kada odaberete ovaj domen na 1. nivou, steknete znanje sa teškim oklopom.
 
-
 #### **Učenik života**
 
-Takođe počev od 1. nivoa, vaše čarolije isceljenja su efikasnije. Kad god koristite čaroliju 1. ili višeg nivoa za vraćanje pogodaka stvorenju, stvorenje vraća dodatne poene pogodnosti jednake 2 + nivou čarolije.
+Takođe počev od 1. nivoa, vaše čarolije isceljenja su efikasnije. Kad god koristite čaroliju 1. ili višeg nivoa za vraćanje pogodaka stvorenju, stvorenje vraća dodatne životne bodove jednake 2 + nivou čarolije.
 
+#### **Kanalisanje božanstva: Očuvaj život**
 
-#### **Božanstvo kanala: Očuvaj život**
+Počevši od 2. nivoa, možete koristiti svoje Kanalisanje božanstva da izlečite teško povređene.
 
-Počevši od 2. nivoa, možete koristiti svoj Channel Diviniti da izlečite teško povređene.
-
-Kao akciju predstavljate svoj sveti simbol i prizivate isceliteljsku energiju koja može vratiti broj pogodaka jednak pet puta većem od vašeg sveštenika. Izaberite bilo koja stvorenja u krugu od 30 stopa od vas i podelite te pogođene tačke među njima. Ova karakteristika može stvoriti stvorenje na najviše polovinu od maksimuma pogođene tačke. Ovu funkciju ne možete da koristite na neumrlima ili konstrukciji.
-
+Kao akciju predstavljate svoj sveti simbol i prizivate isceliteljsku energiju koja može vratiti broj životnih bodova jednak broju pet puta većem od nivoa vašeg sveštenika. Izaberite bilo koja stvorenja u krugu od 30 stopa od vas i podelite te životne bodove među njima. Ova funkcija može podići stvorenje na najviše polovinu od maksimuma životnih bodova. Ovu funkciju ne možete da koristite na neumrlima ili konstrukciji.
 
 #### **Blaženi iscelitelj**
 
-Počevši od 6. nivoa, isceliteljske čarolije koje bacate na druge leče i vas. Kada bacate čaroliju prvog ili višeg nivoa koja vraća poene pogotka biću koji nije vaš, vraćate poene pogodaka jednake 2 + nivou čarolije.
+Počevši od 6. nivoa, isceliteljske čarolije koje bacate na druge leče i vas. Kada bacate čaroliju prvog ili višeg nivoa koja vraća životne bodove biću koji nije vi, vraćate sebi životne bodove jednake 2 + nivou čarolije.
 
+#### **Božanski udarac**
 
-#### **Divine Strike**
-
-Na 8. nivou steknete sposobnost da u svoje udare oružja unesete božansku energiju. Jednom u svakom vašem okretu kada pogodiš stvorenje napadom oružja, možeš naneti napadu da nanese dodatnih 1d8 blistavog oštećenja meti. Kada dođete do 14. nivoa, dodatna šteta se povećava na 2d8.
-
+Na 8. nivou stičete sposobnost da u svoje udace oružja unesete božansku energiju. Jednom u svakom vašem potezu kada pogodite stvorenje napadom oružjem, možete izazvati da napad nanese dodatnih 1d8 blistavog oštećenja meti. Kada dođete do 14. nivoa, dodatna šteta se povećava na 2d8.
 
 #### **Vrhunsko lečenje**
 
-Počevši od 17. nivoa, kada biste obično bacali jednu ili više kockica da biste vratili pogođene tačke urokom, umesto toga koristite najveći mogući broj za svaku kocku. Na primer, umesto da vratite stvorenje 2d6 pogodaka pogodak, vraćate 12.
+Počevši od 17. nivoa, kada biste obično bacali jednu ili više kockica da biste vratili ćivotne bodove čarolijom, umesto toga koristite najveći mogući broj za svaku kocku. Na primer, umesto da vratite stvorenje 2d6 životnih bodova, vraćate 12.
+
 
 
 ## Druid
 
+Držeći visoko kvrgavi štap venčan svetinjom, vilenjak priziva bijes oluje i poziva eksplozivne munje da udare orke koji nose baklje i prete mu šumi.
 
-Držeći visoko kvrgavi štap venčan svetinjom, vilenjak priziva bijes oluje i poziva eksplozivne munje da udari orke koji nose baklje i prete mu šumi.
+Čučeći iz vida na visokoj grani drveta u obliku leoparda, čovek viri iz džungle na čudnu gradnju hrama Zloga elementala vazduha, pažljivo prateći aktivnosti kultista.
 
-Čučeći iz vida na visokoj grani drveta u obliku leoparda, čovek viri iz džungle na čudnu gradnju hrama Zloga elementarnog vazduha, pažljivo prateći aktivnosti kultista.
-
-Zamahujući oštricom formiranom od čiste vatre, polu-vilenjak se nabija u masu kosturnih vojnika, puštajući neprirodnu magiju koja prljavim stvorenjima daje podrugljiv privid života.
+Zamahujući oštricom formiranom od čiste vatre, polu-vilenjak juriša u masu kosturnih vojnika, puštajući neprirodnu magiju koja prljavim stvorenjima daje podrugljiv privid života.
 
 Bilo da se pozivaju na elementarne sile prirode ili oponašaju bića životinjskog sveta, druidi su otelotvorenje otpornosti, lukavosti i bijesa prirode. Oni ne tvrde da vladaju prirodom. Umesto toga, sebe vide kao produžetke nesalomive volje prirode.
-
 
 ### Moć prirode
 
 Druidi pre svega poštuju prirodu, stičući svoje čarolije i druge magijske moći bilo silom same prirode ili prirodnim božanstvom. Mnogi druidi teže mističnoj duhovnosti transcendentnog sjedinjenja sa prirodom, umesto odanosti božanskom entitetu, dok drugi služe bogovima divlje prirode, životinjama ili elementarnim silama. Drevne druidske tradicije ponekad se nazivaju i Starom verom, za razliku od obožavanja bogova u hramovima i svetilištima.
 
-Čaronije druida usmerene su na prirodu i životinje - snagu zuba i kandži, sunca i meseca, vatre i oluje. Druidi takođe stiču sposobnost preuzimanja životinjskih oblika, a neki druidi posebno proučavaju ovu praksu, čak do te mere da preferiraju životinjski oblik od svog prirodnog oblika.
-
+Čarolije druida usmerene su na prirodu i životinje - snagu zuba i kandži, sunca i meseca, vatre i oluje. Druidi takođe stiču sposobnost preuzimanja životinjskih oblika, a neki druidi posebno proučavaju ovu praksu, čak do te mere da preferiraju životinjski oblik od svog prirodnog oblika.
 
 ### Sačuvaj ravnotežu
 
-
 Za druide, priroda postoji u nesigurnoj ravnoteži. Četiri elementa koja čine svet - vazduh, zemlja, vatra i voda - moraju ostati u ravnoteži. Ako bi jedan element dobio moć nad ostalima, svet bi mogao biti uništen, uvučen u jednu od elementarnih ravni i rastavljen na svoje sastavne elemente. Dakle, druidi se protive kultovima Elementarnog zla i drugima koji promovišu jedan element, isključujući druge.
-
 
 Druidi se takođe brinu o delikatnoj ekološkoj ravnoteži koja održava biljni i životinjski život i potrebi da civilizovani ljudi žive u skladu sa prirodom, a ne u suprotnosti sa njom. Druidi prihvataju ono što je okrutno po prirodi, a mrze ono što je neprirodno, uključujući aberacije (kao što su posmatrači i odgajivači uma) i nemrtvi (poput zombija i vampira). Druidi ponekad vode napade protiv takvih stvorenja, posebno kada čudovišta zadire u teritoriju druida.
 
 Druidi su često pronađeni kako čuvaju sveta mesta ili nadgledaju regije netaknute prirode. Ali kada se pojavi značajna opasnost, koja ugrožava ravnotežu prirode ili zemljišta koja štite, druidi preuzimaju aktivniju ulogu u borbi protiv pretnje, kao avanturisti.
 
-
 ### Stvaranje Druida
 
-Kada pravite druida, razmislite zašto je vaš lik tako usko povezan sa prirodom. Možda vaš lik živi u društvu u kome Stara vera i dalje uspeva, ili ga je odgajao druid nakon što je napušten u dubini šume. Možda je vaš lik imao dramatičan susret sa duhovima prirode, suočio se licem u lice sa džinovskim orlom ili strašnim vukom i preživeo iskustvo. Možda je vaš lik rođen tokom epske oluje ili erupcije vulkana, što je protumačeno kao znak da je postajanje druidom deo sudbine vašeg lika.
+Kada pravite druida, razmislite zašto je vaš lik tako usko povezan sa prirodom. Možda vaš lik živi u društvu u kome Stara vera i dalje buja, ili ga je odgajao druid nakon što je napušten u dubini šume. Možda je vaš lik imao dramatičan susret sa duhovima prirode, suočio se licem u lice sa džinovskim orlom ili strašnim vukom i preživeo iskustvo. Možda je vaš lik rođen tokom epske oluje ili erupcije vulkana, što je protumačeno kao znak da je postati druid deo sudbine vašeg lika.
 
 Da li ste uvek bili avanturista kao deo svog druidskog poziva ili ste prvo provodili vreme kao čuvar svete šume ili izvora? Možda je tvoju domovinu zlo zanelo i nastavili ste avanturistički život u nadi da ćete pronaći novi dom ili svrhu.
 
-
 #### **Brza izrada**
 
-Sledeći ove predloge možete brzo stvoriti druida. Prvo, mudrost bi trebalo da bude vaša najveća ocena sposobnosti, a zatim i Građa. Drugo, odaberite pustinjačku pozadinu.
-
+Sledeći ove predloge možete brzo stvoriti druida. Prvo, Mudrost bi trebalo da bude vaša najveća ocijena sposobnosti, a zatim i Građa. Drugo, odaberite pustinjačku pozadinu.
 
 <table>
-  <tr>
-   <td rowspan = "2"> <strong>Nivo</strong>
-   </td>
-   <td rowspan = "2"> <strong>Stručnost</strong>
-
-<strong>Bonus</strong>
-   </td>
-   <td rowspan = "2"> <strong>Karakteristike</strong>
-   </td>
-   <td rowspan = "2"> <strong>Cantrips</strong>
-
-<strong>Poznato</strong>
-   </td>
-   <td colspan = "9"> <strong>- Slotovi za pravopis po nivou pravopisa -</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> <strong>1.</strong>
-   </td>
-   <td> <strong>2.</strong>
-   </td>
-   <td> <strong>3.</strong>
-   </td>
-   <td> <strong>4.</strong>
-   </td>
-   <td> <strong>5.</strong>
-   </td>
-   <td> <strong>6.</strong>
-   </td>
-   <td> <strong>7.</strong>
-   </td>
-   <td> <strong>8.</strong>
-   </td>
-   <td> <strong>9.</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 1.
-   </td>
-   <td> +2
-   </td>
-   <td> Druidic, Pravopis
-   </td>
-   <td> 2
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 2.
-   </td>
-   <td> +2
-   </td>
-   <td> Divlji oblik, krug druida
-   </td>
-   <td> 2
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> +2
-   </td>
-   <td> -
-   </td>
-   <td> 2
-   </td>
-   <td> 4
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 4.
-   </td>
-   <td> +2
-   </td>
-   <td> Poboljšanje divljeg oblika, poboljšanje ocene sposobnosti
-   </td>
-   <td> 3
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> +3
-   </td>
-   <td> -
-   </td>
-   <td> 3
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 6.
-   </td>
-   <td> +3
-   </td>
-   <td> Druid Circle Feature
-   </td>
-   <td> 3
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 7
-   </td>
-   <td> +3
-   </td>
-   <td> -
-   </td>
-   <td> 3
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 8.
-   </td>
-   <td> +3
-   </td>
-   <td> Poboljšanje divljeg oblika, poboljšanje ocene sposobnosti
-   </td>
-   <td> 3
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> +4
-   </td>
-   <td> -
-   </td>
-   <td> 3
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 10.
-   </td>
-   <td> +4
-   </td>
-   <td>Druid Circle Feature
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 11.
-   </td>
-   <td> +4
-   </td>
-   <td> -
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 12.
-   </td>
-   <td> +4
-   </td>
-   <td> Poboljšanje ocene sposobnosti
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 13
-   </td>
-   <td> +5
-   </td>
-   <td> -
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 14
-   </td>
-   <td> +5
-   </td>
-   <td> Druid Circle Feature
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 15
-   </td>
-   <td> +5
-   </td>
-   <td> -
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 16
-   </td>
-   <td> +5
-   </td>
-   <td> Poboljšanje ocene sposobnosti
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 17th
-   </td>
-   <td> +6
-   </td>
-   <td> -
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 18
-   </td>
-   <td> +6
-   </td>
-   <td> Bezvremensko telo, zverske čarolije
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 19
-   </td>
-   <td> +6
-   </td>
-   <td> Poboljšanje ocene sposobnosti
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 20.
-   </td>
-   <td> +6
-   </td>
-   <td> Archdruid
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
+   <tr>
+      <td rowspan="2"> <strong>Nivo</strong>
+      </td>
+      <td rowspan="2"> <strong>Bonus</strong> <strong>Stručnosti</strong>
+      </td>
+      <td rowspan="2"> <strong>Karakteristike</strong>
+      </td>
+      <td rowspan="2"> <strong>Poznati</strong> <strong>Kantripi</strong>
+      </td>
+      <td colspan="9"> <strong>- Slotovi za čarolije po nivou čarolija -</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> <strong>1.</strong>
+      </td>
+      <td> <strong>2.</strong>
+      </td>
+      <td> <strong>3.</strong>
+      </td>
+      <td> <strong>4.</strong>
+      </td>
+      <td> <strong>5.</strong>
+      </td>
+      <td> <strong>6.</strong>
+      </td>
+      <td> <strong>7.</strong>
+      </td>
+      <td> <strong>8.</strong>
+      </td>
+      <td> <strong>9.</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 1.
+      </td>
+      <td> +2
+      </td>
+      <td> Druidski, Bacanje čarolija
+      </td>
+      <td> 2
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 2.
+      </td>
+      <td> +2
+      </td>
+      <td> Divlji oblik, Krug druida
+      </td>
+      <td> 2
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> +2
+      </td>
+      <td> -
+      </td>
+      <td> 2
+      </td>
+      <td> 4
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 4.
+      </td>
+      <td> +2
+      </td>
+      <td> Poboljšanje divljeg oblika, Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 3
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> +3
+      </td>
+      <td> -
+      </td>
+      <td> 3
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 6.
+      </td>
+      <td> +3
+      </td>
+      <td> Osobina krugova druida
+      </td>
+      <td> 3
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> +3
+      </td>
+      <td> -
+      </td>
+      <td> 3
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 8.
+      </td>
+      <td> +3
+      </td>
+      <td> Poboljšanje divljeg oblika, Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 3
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> +4
+      </td>
+      <td> -
+      </td>
+      <td> 3
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 10.
+      </td>
+      <td> +4
+      </td>
+      <td>Osobina krugova druida
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 11.
+      </td>
+      <td> +4
+      </td>
+      <td> -
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 12.
+      </td>
+      <td> +4
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 13
+      </td>
+      <td> +5
+      </td>
+      <td> -
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 14
+      </td>
+      <td> +5
+      </td>
+      <td> Osobina krugova druida
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 15
+      </td>
+      <td> +5
+      </td>
+      <td> -
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 16
+      </td>
+      <td> +5
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 17
+      </td>
+      <td> +6
+      </td>
+      <td> -
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 18
+      </td>
+      <td> +6
+      </td>
+      <td> Bezvremeno telo, Zvijerske čarolije
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 19
+      </td>
+      <td> +6
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 20.
+      </td>
+      <td> +6
+      </td>
+      <td> Arhdruid
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
 </table>
-
-
 
 ## Karakteristike klase
 
 Kao druid dobijate sledeće karakteristike klase.
-
 
 #### **Životni bodovi**
 
@@ -2812,91 +2757,78 @@ Kao druid dobijate sledeće karakteristike klase.
 
 **Poeni na višim nivoima:** 1d8 (ili 5) + vaš modifikator Građe po nivou druida posle 1.
 
-
 #### **Stručnosti**
 
 **Oklop:** Laki oklop, srednji oklop, štitovi (druidi neće nositi oklop niti koristiti metalne štitove)
 
-**Oružje:** Klubovi, bodeži, pikado, koplja, buzdovani, četvorke, jataci, srpovi, praćke, koplja
+**Oružje:** Palica, bodeži, strelice, koplja za bacanje, buzdovani, motka, skimitar, srpovi, praćke, koplja
 
 **Alati:** Komplet za herbalizam
 
-**Spasavanje bacanja:** Inteligencija, mudrost
+**Spasavanje bacanja:** Inteligencija, Mudrost
 
-**viještine:** Izaberite dvije od Arcana, rukovanje životinjama, uvid, medicina, priroda, percepcija, religija i opstanak
-
+**Viještine:** Izaberite dvije od Arkana, Rukovanje životinjama, Uvid, Medicina, Priroda, Percepcija, Religija i Preživljavanje
 
 #### **Oprema**
 
 Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
-
-
-
 * (a) drveni štit ili (b) bilo koje jednostavno oružje
-* (a) jahač ili (b) bilo koje jednostavno ručno oružje
+* (a) skimitar ili (b) bilo koje jednostavno oružje za blisku borbu
 * Kožni oklop, istraživački paket i druidski fokus
 
+### Druidski
 
-### Druidic
+Znate Druidski, tajni jezik druida. Možete govoriti jezik i koristiti ga za ostavljanje skrivenih poruka. Vi i drugi koji znate ovaj jezik automatski uočite takvu poruku. Drugi uočavaju prisustvo poruke uspešnom proverom Mudrosti (percepcije) DC 15, ali ne mogu da je dešifruju bez magije.
 
-Znate Druidic, tajni jezik druida. Možete govoriti jezik i koristiti ga za ostavljanje skrivenih poruka. Vi i drugi koji znate ovaj jezik automatski uočite takvu poruku. Drugi uočavaju prisustvo poruke uspešnom proverom Mudrosti (percepcije) DC 15, ali ne mogu da je dešifruju bez magije.
+### Korištenje magije
 
-### Pravopis
+Oslanjajući se na božansku suštinu same prirode, možete bacati čarolije kako biste oblikovali tu suštinu prema svojoj volji. Pogledajte poglavlje 10 za opšta pravila korištenja magije i poglavlje 11 za listu čarolija druida.
 
-Oslanjajući se na božansku suštinu same prirode, možete bacati čarolije kako biste oblikovali tu suštinu prema svojoj volji. Pogledajte poglavlje 10 za opšta pravila spelovanja i poglavlje 11 za listu čarolija druida.
+#### **Kantripi**
 
-
-#### **Cantrips**
-
-Na prvom nivou znate dva putovanja po vašem izboru sa liste čarolija druida. Učite dodatne druidske kantripe po vašem izboru na višim nivoima, kao što je prikazano u koloni Cantrips Knovn u tabeli Druid.
-
+Na prvom nivou znate dva kantripa po vašem izboru sa liste čarolija druida. Učite dodatne druidske kantripe po vašem izboru na višim nivoima, kao što je prikazano u koloni Poznat Kantripi u tabeli Druid.
 
 #### **Priprema i bačanje čarolija**
 
-Tabela Druidi pokazuje koliko slotova za čarolije morate da bacate čarolije prvog i višeg nivoa. Da biste izvršili jednu od ovih čarolija druida, morate potrošiti slot nivoa čarolije ili veći. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
+Tabela Druidi pokazuje koliko slotova za čarolije imate da bacate čarolije prvog i višeg nivoa. Da biste izvršili jednu od ovih čarolija druida, morate potrošiti slot nivoa čarolije ili veći. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
 
 Pripremite listu čarolija druida koje su vam dostupne za biranje, birajući sa liste čarolija druida. Kada to učinite, odaberite broj čarolija druida jednak vašem modifikatoru Mudrosti + nivou vašeg druida (najmanje jedna čarolija). Čarolije moraju biti na nivou za koji imate slotove za čarolije.
 
-Na primer, ako ste druid trećeg nivoa, imate četiri slota za pravopis prvog i drugog nivoa. Sa mudrošću od 16, vaša lista pripremljenih čarolija može sadržati šest čarolija 1. ili 2. nivoa, u bilo kojoj kombinaciji. Ako pripremite čaroliju 1. nivoa _bezbedne rane_, možete je naneti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
+Na primer, ako ste druid trećeg nivoa, imate četiri slota za čarolije prvog i drugog nivoa. Sa Mudrošću od 16, vaša lista pripremljenih čarolija može sadržati šest čarolija 1. ili 2. nivoa, u bilo kojoj kombinaciji. Ako pripremite čaroliju 1. nivoa _liječenje rana_, možete je naneti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
 
 Takođe možete da promenite listu pripremljenih čarolija kada završite duži odmor. Za pripremu nove liste druidskih čarolija potrebno je vreme provedeno u molitvi i meditaciji: najmanje 1 minut po nivou čarolije za svaku čaroliju na vašoj listi.
 
+#### **Sposobnost korištenja magije**
 
-#### **Sposobnost pravopisa**
+Mudrost je vaša sposobnost čarolije za vaše druidske čarolije, jer se vaša magija oslanja na vašu predanost i prilagođavanje prirodi. Koristite svoju Mudrost kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj modifikator Mudrosti koristite kada postavljate DC spasilačkog bacanja za čaroliju druida koju pravite i kada pravite napadački bacanje.
 
-Mudrost je vaša sposobnost čarolije za vaše druidske čarolije, jer se vaša magija oslanja na vašu predanost i prilagođavanje prirodi. Koristite svoju Mudrost kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj modifikator Mudrosti koristite kada postavljate DC spasilačkog bacanja za čaroliju druida koju pravite i kada pravite napadački zamah jednim.
+**DC spasa od čarolije** = 8 + vaš bonus za stručnost + vaš modifikator Mudrosti
 
-**Spell save DC** = 8 + vaš bonus za stručnost + vaš modifikator Mudrosti
+**Modifikator napada čarolijom** = vaš bonus za stručnost + vaš modifikator Mudrosti
 
-**Modifikator pravopisnog napada** = vaš bonus za znanje + vaš modifikator Mudrosti
-
-
-#### **Ritualno livenje**
+#### **Ritualno bacanje**
 
 Druidsku čaroliju možete izvesti kao ritual ako ta čarolija ima ritualnu oznaku i ako je čarolija pripremljena.
 
-
-#### **Fokusiranje pravopisa**
+#### **Fokusiranje korištenja magije**
 
 Druidski fokus možete koristiti (pogledajte poglavlje 5, „Oprema“) kao fokus izgovaranja čarolija za vaše druidske čarolije.
 
-**SVETE BILJKE I DRVO**
+>**SVETE BILJKE I DRVO**
+>
+>Druid drži određene biljke svetima, naročito johu, jasen, brezu, bazgu, lesku, božikovinu, smreku, imelu, hrast, rovan, vrbu i tisu. Druidi često koriste takve biljke kao deo fokusa čarolije, uključujući dužine hrasta ili tise ili grančice imele.
+>
+>Slično tome, druid koristi takvu šumu za izradu drugih predmeta, poput oružja i štitova. Tisa je povezana sa smrću i ponovnim rađanjem, pa bi se od nje mogle izraditi drške za oružje za scimitare ili srpove. Jasen je povezan sa životom, a hrast snagom. Ovo drvo čini izvrsne drške ili celo oružje, poput palica ili motki, kao i štitove. Joha je povezana sa vazduhom i može se koristiti za bačeno oružje, poput strelica ili koplja.
+>
+>Druidi iz regiona kojima nedostaju ovde opisane biljke odabrali su druge biljke da bi se koristili na sličan način. Na primer, druid pustinjskog regiona može ceniti drvo juke i biljke kaktusa.
 
-Druid drži određene biljke svetima, naročito johu, jasen, brezu, bazgu, lesku, božikovinu, smreku, imelu, hrast, rovan, vrbu i tisu. Druidi često koriste takve biljke kao deo fokusa čarolije, uključujući dužine hrasta ili tise ili grančice imele.
+### Divlji oblik
 
-Slično tome, druid koristi takvu šumu za izradu drugih predmeta, poput oružja i štitova. Tisa je povezana sa smrću i ponovnim rađanjem, pa bi se od nje mogle izraditi drške za oružje za scimitare ili srpove. Jasen je povezan sa životom, a hrast snagom. Ove šume čine izvrsne rupe ili celo oružje, poput palica ili četvorki, kao i štitove. Joha je povezana sa vazduhom i može se koristiti za bačeno oružje, poput strelica ili koplja.
+Počevši od 2. nivoa, možete da upotrebite svoju akciju da magično preuzmete oblik zvijeri koju ste ranije videli. Ovu funkciju možete koristiti dva puta. Potrošenu upotrebu vraćate kada završite kraći ili duži odmor.
 
-Druidi iz regiona kojima nedostaju ovde opisane biljke odabrali su druge biljke da bi se koristili na sličan način. Na primer, druid pustinjskog regiona može ceniti drvo juke i biljke kaktusa.
+Vaš nivo druida određuje zvijeri u koje se možete transformisati, kao što je prikazano u tabeli Oblici zvijeri. Na primer, na 2. nivou možete da se transformišete u bilo koju zvijer koja ima ocenu izazova 1/4 ili nižu i koja nema brzinu letenja ili plivanja.
 
-
-### Vild Shape
-
-Počevši od 2. nivoa, možete da upotrebite svoju akciju da magično preuzmete oblik zveri koju ste ranije videli. Ovu funkciju možete koristiti dva puta. Potrošenu upotrebu vraćate kada završite kraći ili duži odmor.
-
-Vaš nivo druida određuje zveri u koje se možete transformisati, kao što je prikazano u tabeli Beast Shapes. Na primer, na 2. nivou možete da se transformišete u bilo koju zver koja ima ocenu izazova 1/4 ili nižu i koja nema brzinu letenja ili plivanja.
-
-**Beast Shapes**
-
+**Oblici zvijeri**
 
 <table>
   <tr>
@@ -2942,61 +2874,50 @@ Vaš nivo druida određuje zveri u koje se možete transformisati, kao što je p
 </table>
 
 
-Možete ostati u obliku zveri nekoliko sati jednakih polovini vašeg nivoa druida (zaokruženo dole). Zatim se vraćate u svoj uobičajeni oblik ako ovu funkciju ne potrošite na drugi način. Možete se vratiti u svoj uobičajeni oblik ranije koristeći bonus akciju na svom potezu. Automatski se vraćate ako padnete u nesvest, padnete na 0 pogodaka ili umrete.
+Možete ostati u obliku zvijeri nekoliko sati jednakih polovini vašeg nivoa druida (zaokruženo dole). Zatim se vraćate u svoj uobičajeni oblik ako ovu funkciju ne potrošite na drugi način. Možete se vratiti u svoj uobičajeni oblik ranije koristeći bonus akciju na svom potezu. Automatski se vraćate ako padnete u nesvest, padnete na 0 pogodaka ili umrete.
 
 Dok se transformišete, važe sledeća pravila:
+* Vaša statistika lika zamenjena je statistikom zvijeri, ali vi zadržavate svoje poravnanje, ličnost i rezultate Inteligencije, Mudrosti i Harizme. Takođe zadržavate sve svoje viještine i spretnost bacanja spasa, pored sticanja znanja stvorenja. Ako stvorenje ima istu veštinu kao vi i bonus u njegovom bloku statistika je viši od vašeg, upotrebite bonus stvorenja umesto svog. Ako stvorenje ima bilo kakve legendarne akcije ili jazbine, ne možete ih koristiti.
+* Kada se transformišete, dobijate Životne bodove i Kockice života zvijeri. Kada se vratite u svoju normalnu formu, vraćate se broju životnih bodova koje ste imali pre transformacije. Međutim, ako se vratite kao rezultat pada na 0 životnih bodova, bilo koji višak štete prenosi se u vašu normalnu formu. Na primer, ako primite 10 štete u životinjskom obliku i koji imas samo 1 životni bod, vratite se i primite 9 bodova štete. Sve dok višak oštećenja ne smanji vašu normalnu formu na 0 pogodaka, nećete izgubiti svest.
+* Ne možete bacati čini, a vaša sposobnost da govorite ili preduzimate bilo koju radnju koja zahteva ruke ograničena je na mogućnosti vašeg zvijerskog oblika. Međutim, transformacija vam neće srušiti koncentraciju na čaroliju koju ste već napravili ili vam sprečava da preduzmete radnje koje su deo čarolije, kao što je _pozivi munju_, koju ste već napravili.
+* Zadržavate pogodnosti bilo koje funkcije iz vaše klase, rase ili drugog izvora i možete ih koristiti ako je novi oblik fizički sposoban za to. Međutim, ne možete da koristite nijedno posebno čulu, poput noćnog vida, osim ako vaš novi oblik takođe ima tu sposobnost.
+* Vi sami birate da li će vaša oprema pasti na tlo na vašem mjestu, stopiti se u vaš novi oblik ili će je nositi. Nošena oprema funkcioniše normalno, ali DM odlučuje da li je praktično da nova forma nosi deo opreme na osnovu oblika i veličine stvorenja. Vaša oprema ne menja veličinu ili oblik kako bi odgovarala novom obliku, a bilo koja oprema koju novi obrazac ne može da nosi mora da padne na zemlju ili da se stopi sa njom. Oprema koja se stapa sa oblikom nema efekta dok ne napustite oblik.
 
-* Vaša statistika igre zamenjena je statistikom zveri, ali vi zadržavate svoje poravnanje, ličnost i rezultate inteligencije, Mudrosti i harizme. Takođe zadržavate sve svoje viještine i spretnost štednih bacanja, pored sticanja znanja stvorenja. Ako stvorenje ima istu veštinu kao vi i bonus u njegovom bloku statista je viši od vašeg, upotrebite bonus stvorenja umesto svog. Ako stvorenje ima bilo kakve legendarne akcije ili jazbine, ne možete ih koristiti.
-* Kada se transformišete, pretpostavljate pogođene zveri i Kockice života. Kada se vratite u svoju normalnu formu, vraćate se broju pogodaka koje ste imali pre transformacije. Međutim, ako se vratite kao rezultat pada na 0 pogodaka, bilo koja viška štete prenosi se u vašu normalnu formu. Na primer, ako nanesete 10 štete u životinjskom obliku i ostane vam samo 1 pogodak, vratite se i napravite 9 štete. Sve dok višak oštećenja ne smanji vašu normalnu formu na 0 pogodaka, nećete izgubiti svest.
-* Ne možete bacati čini, a vaša sposobnost da govorite ili preduzimate bilo koju radnju koja zahteva ruke ograničena je na mogućnosti vašeg zverskog oblika. Međutim, transformacija vam neće srušiti koncentraciju na čaroliju koju ste već napravili ili vam sprečava da preduzmete radnje koje su deo čarolije, kao što je _call lightning_, koju ste već napravili.
-* Zadržavate pogodnosti bilo koje funkcije iz vaše klase, rase ili drugog izvora i možete ih koristiti ako je novi oblik fizički sposoban za to. Međutim, ne možete da koristite nijedno posebno čula, poput tamnog vida, osim ako vaš novi oblik takođe ima taj smisao.
-* Vi sami birate da li će vaša oprema pasti na tlo u vašem prostoru, stopiti se u vaš novi oblik ili će je nositi. Nošena oprema funkcioniše normalno, ali DM odlučuje da li je praktično da nova forma nosi deo opreme na osnovu oblika i veličine stvorenja. Vaša oprema ne menja veličinu ili oblik kako bi odgovarala novom obliku, a bilo koja oprema koju novi obrazac ne može da nosi mora da padne na zemlju ili da se stopi sa njom. Oprema koja se stapa sa obrascem nema efekta dok ne napustite obrazac.
+### Druidski krug
 
+Na drugom nivou, odlučili ste da se identifikujete sa krugom druida: Kopneni krug ili Mjesečev krug, oboje detaljno na kraju opisa klase. Vaš izbor vam daje mogućnosti na 2. nivou i ponovo na 6., 10. i 14. nivou.
 
-### Druid Circle
+### Poboljšanje ocijena sposobnosti
 
-Na drugom nivou, odlučili ste da se identifikujete sa krugom druida: Krug kopna ili Mesečev krug, oboje detaljno na kraju opisa klase. Vaš izbor vam daje mogućnosti na 2. nivou i ponovo na 6., 10. i 14. nivou.
-
-
-### Poboljšanje ocene sposobnosti
-
-Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocene sposobnosti po svom izboru za 1. Kao i obično, t povećajte skor sposobnosti iznad 20 koristeći ovu funkciju.
-
+Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
 ### Bezvremeno telo
 
 Počevši od 18. nivoa, iskonska magija kojom upravljate dovodi do sporijeg starenja. Svakih 10 godina koje prođu, vaše telo stari samo 1 godinu.
 
+### Zvijerske čarolije
 
-### Beast Spells
+Počevši od 18. nivoa, možete da izvedete mnoge svoje čarolije druida u bilo kom obliku koji pretpostavite koristeći Divlji oblik. Možete izvoditi somatske i verbalne komponente čarolije druida dok ste u obliku zvijeri, ali niste u mogućnosti da pružite materijalne komponente.
 
-Počevši od 18. nivoa, možete da izvedete mnoge svoje čarolije druida u bilo kom obliku koji pretpostavite koristeći Vild Shape. Možete izvoditi somatske i verbalne komponente čarolije druida dok ste u obliku zveri, ali niste u mogućnosti da pružite materijalne komponente.
+### Arhdruid
 
+Na 20. nivou svoj Divlji oblik možete koristiti neograničen broj puta.
 
-### Archdruid
-
-Na 20. nivou svoj Vild Shape možete koristiti neograničen broj puta.
-
-Pored toga, možete zanemariti verbalne i somatske komponente vaših druidskih čarolija, kao i bilo koje materijalne komponente kojima nedostaje trošak i koje čarolija ne troši. Ovu prednost dobijate i u svom normalnom obliku i u obliku zveri od Vild Shape-a.
-
+Pored toga, možete zanemariti verbalne i somatske komponente vaših druidskih čarolija, kao i bilo koje materijalne komponente kojima nedostaje trošak i koje čarolija ne troši. Ovu prednost dobijate i u svom normalnom obliku i u obliku zvijeri u divljem obliku.
 
 ## Druidski krugovi
-
 
 Iako je njihova organizacija nevidljiva većini stranaca, druidi su deo društva koje se prostire na zemlji, ignorišući političke granice. Svi druidi su nominalno članovi ovog druidskog društva, mada su neki pojedinci toliko izolovani da nikada nisu videli nijednog visokog člana društva niti su učestvovali na druidskim skupovima. Druidi se prepoznaju kao braća i sestre. Poput bića iz divljine, i druidi se ponekad nadmeću ili čak pljačkaju jedni druge.
 
 Na lokalnom nivou, druidi su organizovani u krugove koji dele određene perspektive o prirodi, ravnoteži i načinu druida.
 
-
-### Krug zemlje
+### Zemaljski krug
 
 Krug zemlje čine mističari i mudraci koji čuvaju drevna znanja i obrede kroz široku usmenu tradiciju. Ti se druidi sastaju u svetim krugovima drveća ili kamenja koji stoje da bi šaputali iskonske tajne u Druidu. Najmudriji članovi kruga predsedavaju glavnim sveštenicima zajednica koje se pridržavaju Stare vere i služe kao savetnici vladara tih ljudi. Kao član ovog kruga, na vašu magiju utiče zemlja u kojoj ste inicirani u tajnovite obrede kruga.
 
+#### **Bonus kantrip**
 
-#### **Bonus Cantrip**
-
-Kada odaberete ovaj krug na 2. nivou, naučićete još jedan put po izboru druida.
-
+Kada odaberete ovaj krug na 2. nivou, naučićete još jedan kantrip druida po izboru.
 
 #### **Prirodni oporavak**
 
@@ -3004,347 +2925,320 @@ Počevši od 2. nivoa, možete vratiti deo svoje magične energije sedeći u me
 
 Na primer, kada ste druid četvrtog nivoa, možete oporaviti slotove čarolija vredne do dva nivoa. Možete oporaviti ili slot drugog nivoa ili dva slota prvog nivoa.
 
-
 #### **Kružne čarolije**
 
 Vaša mistična veza sa zemljom uliva vam sposobnost da bacate određene čarolije. Na 3., 5., 7. i 9. nivou dobijate pristup čarolijama kruga povezanim sa zemljom u kojoj ste postali druid. Izaberite to zemljište - arktičko, obalno, pustinjsko, šumsko, travnjačko, planinsko, močvarno ili podzemno - i pogledajte odgovarajuću listu čarolija.
 
 Jednom kada dobijete pristup čaroliji kruga, uvek je imate pripremljenu i ne računa se u broj čarolija koje možete pripremiti svakog dana. Ako dobijete pristup čaroliji koja se ne pojavljuje na listi čarolija druida, čarolija je za vas ipak čarolija druida.
 
-
 ##### **Arktik**
 
-
 <table>
-  <tr>
-   <td> <strong>Druid Level</strong>
-   </td>
-   <td> <strong>Čarolije</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> <em> zadržavanje osobe </em>, <em> rast skokova </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> <em> olujna oluja </em>, <em> spora </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 7
-   </td>
-   <td> <em> sloboda kretanja </em>, <em> ledena oluja </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> <em> zajednica sa prirodom </em>, <em> konus hladnoće </em>
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo Druida</strong>
+      </td>
+      <td> <strong>Čarolije</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> <em>zadržavanje osobe</em>, <em>rast šiljaka</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> <em>sniježna oluja</em>, <em>usporiti</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> <em>sloboda kretanja</em>, <em>ledena oluja</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> <em>zajednica sa prirodom</em>, <em>konus hladnoće</em>
+      </td>
+   </tr>
 </table>
-
-
 
 ##### **Obala**
 
-
 <table>
-  <tr>
-   <td> <strong>Druid Level</strong>
-   </td>
-   <td> <strong>Čarolije</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> <em> zrcalna slika </em>, <em> zamagljeni korak </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> <em> disanje vodom </em>, <em> šetnja vodom </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 7
-   </td>
-   <td> <em> kontrola vode </em>, <em> sloboda kretanja </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> <em> dočarati elementarno </em>, <em> prskati </em>
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo Druida</strong>
+      </td>
+      <td> <strong>Čarolije</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> <em>odraz</em>, <em>zamagljeni korak</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> <em>disanje vodom</em>, <em>šetnja vodom</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> <em>kontrola vode</em>, <em>sloboda kretanja</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> <em>dočarati elementarno</em>, <em>prskati</em>
+      </td>
+   </tr>
 </table>
-
-
 
 ##### **Pustinja**
 
-
 <table>
-  <tr>
-   <td> <strong>Druid Level</strong>
-   </td>
-   <td> <strong>Čarolije</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> <em> zamućenje </em>, <em> tišina </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> <em> stvorite hranu i vodu </em>, <em> zaštitu od energije </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 7
-   </td>
-   <td> <em> mrlja </em>, <em> halucinacioni teren </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> <em> kuga insekata </em>, <em> kameni zid </em>
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo Druida</strong>
+      </td>
+      <td> <strong>Čarolije</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> <em>zamućenje</em>, <em>tišina</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> <em>stvorite hranu i vodu</em>, <em>zaštita od energije</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> <em>sjaj</em>, <em>halucinacioni teren</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> <em>kuga insekata</em>, <em>kameni zid</em>
+      </td>
+   </tr>
 </table>
-
-
 
 ##### **Šuma**
 
-
 <table>
-  <tr>
-   <td> <strong>Druid Level</strong>
-   </td>
-   <td> <strong>Čarolije</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> <em> koža od kože </em>, <em> uspon pauka </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> <em> pozovite munju </em>, <em> rast biljaka </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 7
-   </td>
-   <td> <em> gatanje </em>, <em> sloboda kretanja </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> <em> zajednica sa prirodom </em>, <em> korak drveta </em>
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo Druida</strong>
+      </td>
+      <td> <strong>Čarolije</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> <em>koža od kože</em>, <em>uspon pauka</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> <em>pozovite munju</em>, <em>rast biljaka</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> <em>gatanje</em>, <em>sloboda kretanja</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> <em>zajednica sa prirodom</em>, <em>korak drveta</em>
+      </td>
+   </tr>
 </table>
-
-
 
 ##### **Travnjak**
 
-
 <table>
-  <tr>
-   <td> <strong>Druid Level</strong>
-   </td>
-   <td> <strong>Čarolije</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> <em> nevidljivost </em>, <em> prolazak bez traga </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> <em> dnevno svetlo </em>, <em> žurba </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 7
-   </td>
-   <td> <em> gatanje </em>, <em> sloboda kretanja </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> <em> san </em>, <em> kuga insekata </em>
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo Druida</strong>
+      </td>
+      <td> <strong>Čarolije</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> <em>nevidljivost</em>, <em>prolazak bez traga</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> <em>dnevno svetlo</em>, <em>žurba</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> <em>gatanje</em>, <em>sloboda kretanja</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> <em>san</em>, <em>kuga insekata</em>
+      </td>
+   </tr>
 </table>
-
-
 
 ##### **Planina**
 
-
 <table>
-  <tr>
-   <td> <strong>Druid Level</strong>
-   </td>
-   <td> <strong>Čarolije</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> <em> uspon pauka </em>, <em> rast šiljaka </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> <em> munja </em>, <em> stopljena u kamen </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 7
-   </td>
-   <td> <em> oblik kamena </em>, <em> kamen od kože </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> <em> passvall </em>, <em> kameni zid </em>
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo Druida</strong>
+      </td>
+      <td> <strong>Čarolije</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> <em>uspon pauka</em>, <em>rast šiljaka</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> <em>munja</em>, <em>stopljeno u kamen</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> <em>oblik kamena</em>, <em>kamen od kože</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> <em>prolaz na zidu</em>, <em>kameni zid</em>
+      </td>
+   </tr>
 </table>
 
 ##### **Močvara**
 
-
 <table>
-  <tr>
-   <td> <strong>Druid Level</strong>
-   </td>
-   <td> <strong>Čarolije</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> <em> mrak </em>, <em> Melfova kiselinska strelica </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> <em> šetnja vodom </em>, <em> smrdljivi oblak </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 7
-   </td>
-   <td> <em> sloboda kretanja </em>, <em> pronađite stvorenje </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> <em> kuga insekata </em>, <em> prštanje </em>
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo Druida</strong>
+      </td>
+      <td> <strong>Čarolije</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> <em>mrak</em>, <em>Melfova kiselinska strelica</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> <em>šetnja vodom</em>, <em>smrdljivi oblak</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> <em>sloboda kretanja</em>, <em>pronađite stvorenje</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> <em>kuga insekata</em>, <em>prštanje</em>
+      </td>
+   </tr>
 </table>
 
-
-
-##### **Underdark**
-
+##### **Podzemlje**
 
 <table>
-  <tr>
-   <td> <strong>Druid Level</strong>
-   </td>
-   <td> <strong>Čarolije</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> <em> uspon pauka </em>, <em> mreža </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> <em> gasoviti oblik </em>, <em> smrdljivi oblak </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 7
-   </td>
-   <td> <em> veća nevidljivost </em>, <em> oblik kamena </em>
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> <em> ubijanje oblaka </em>, <em> kuga insekata </em>
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo Druida</strong>
+      </td>
+      <td> <strong>Čarolije</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> <em>uspon pauka</em>, <em>mreža</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> <em>gasoviti oblik</em>, <em>smrdljivi oblak</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> <em>veća nevidljivost</em>, <em>oblik kamena</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> <em>ubijanje oblaka</em>, <em>kuga insekata</em>
+      </td>
+   </tr>
 </table>
 
+#### **Hod po zemlji**
+
+Počevši od 6. nivoa, kretanje nemagičnim teškim terenom ne košta vas dodatno kretanje. Takođe možete proći kroz nemagične biljke, a da vas one ne usporavaju i ne primajući štetu ako imaju bodlje ili sličnu opasnost.
+
+Pored toga, imate prednost u uštedi bacanja protiv biljaka koje su magično stvorene ili manipulisane da spreče kretanje, poput onih stvorenih čarolijom _upetljati_.
 
 
-#### **Land’s Stride**
-
-Počevši od 6. nivoa, kretanje nemagično teškim terenom ne košta vas dodatno kretanje. Takođe možete proći kroz nemagične biljke, a da ih one ne usporavaju i ne uzimajući im štetu ako imaju bodlje, bodlje ili sličnu opasnost.
-
-Pored toga, imate prednost u uštedi bacanja protiv biljaka koje su magično stvorene ili manipulisane da spreče kretanje, poput onih stvorenih čarolijom _entangle_.
-
-
-#### **Nature's Vard**
+#### **Štićenik prirode**
 
 Kada dostignete 10. nivo, ne mogu vas očarati ni uplašiti elementali ili fej, a imuni ste na otrov i bolesti.
 
-
 #### **Prirodno svetilište**
 
-Kada dostignete 14. nivo, stvorenja iz prirodnog sveta osete vašu povezanost sa prirodom i oklevaju da vas napadnu. Kada vas zver ili biljno biće napadne, to stvorenje mora da izvrši spasonosno bacanje Mudrosti protiv vaše čarolije druida da spasi DC. U slučaju neuspelog spremanja, stvorenje mora izabrati drugu metu, ili napad automatski promašuje. Nakon uspešnog spašavanja, stvorenje je imuno na ovaj efekat 24 sata.
+Kada dostignete 14. nivo, stvorenja iz prirodnog sveta osete vašu povezanost sa prirodom i oklevaju da vas napadnu. Kada vas zvijer ili biljno biće napadne, to stvorenje mora da izvrši spasonosno bacanje Mudrosti protiv vaše druidovog DC spasa od čarolije. U slučaju neuspelog spasavalja, stvorenje mora izabrati drugu metu, ili napad automatski promašuje. Nakon uspešnog spašavanja, stvorenje je imuno na ovaj efekat 24 sata.
 
 Stvorenje je svesno ovog efekta pre nego što izvrši napad na vas.
 
-**DRUIDI I BOGOVI**
-
-Neki druidi i sami poštuju prirodne sile, ali većina druida je posvećena jednom od mnogih prirodnih božanstava koja se obožavaju u multiverzumu (spiskovi bogova u dodatku B uključuju mnoga takva božanstva). Obožavanje ovih božanstava često se smatra drevnijom tradicijom od vera sveštenika i urbanizovanih naroda. U stvari, u svetu Greihavka, druidska vera se naziva Stara vera i ona tvrdi da je mnogo pristalica među poljoprivrednicima, šumarima, ribarima i drugima koji blisko žive sa prirodom. Ova tradicija uključuje obožavanje Prirode kao iskonske sile koja nije personifikacija, ali takođe uključuje i obožavanje Beori, Oerth Majke, kao i poklonika Obad-Hai, Ehlonne i Ulae.
-
-U svetovima Greihavka i zaboravljenih carstava, druidski krugovi obično nisu povezani sa verom jednog božanstva prirode. Bilo koji dati krug u Zaboravljenim carstvima, na primer, može uključivati druide koji poštuju Silvanusa, Mielikkija, Eldatha, Chaunteu ili čak oštre Bogove bijesa: Talos, Malar, Auril i Umberlee. Ove bogove prirode često nazivaju Prvim krugom, prvim među druidima, a većina druida ih sve (čak i nasilne) broji kao dostojne poštovanja.
-
-Druidi iz Eberrona drže animistička verovanja potpuno nepovezana sa Suverenom Hostijom, Mračnom šestorkom ili bilo kojom drugom religijom sveta. Oni veruju da svako živo biće i svaki prirodni fenomen - sunce, mesec, vetar, vatra i sam svet - imaju duh. Njihove čarolije su, dakle, sredstvo za komunikaciju i upravljanje tim duhovima. Različite druidske sekte, međutim, drže različite filozofije o pravilnom odnosu ovih duhova jedni prema drugima i prema civilizacijskim silama. Na primer, Ashbound veruju da je tajna magija odvratnost protiv prirode, deca zime poštuju sile smrti, a čuvari vrata čuvaju drevne tradicije namenjene zaštiti sveta od upada aberacija.
-
-
-## Fighter
+>**DRUIDI I BOGOVI**
+>
+>Neki druidi i sami poštuju prirodne sile, ali većina druida je posvećena jednom od mnogih prirodnih božanstava koja se obožavaju u multiverzumu (spiskovi bogova u dodatku B uključuju mnoga takva božanstva). Obožavanje ovih božanstava često se smatra drevnijom tradicijom od vera sveštenika i urbanizovanih naroda. U stvari, u svetu Greihavka, druidska vera se naziva Stara vera i ona tvrdi da je mnogo pristalica među poljoprivrednicima, šumarima, ribarima i drugima koji blisko žive sa prirodom. Ova tradicija uključuje obožavanje Prirode kao iskonske sile koja nije personifikacija, ali takođe uključuje i obožavanje Beori, Oerth Majke, kao i poklonika Obad-Hai, Ehlonne i Ulae.
+>
+>U svetovima Greihavka i zaboravljenih carstava, druidski krugovi obično nisu povezani sa verom jednog božanstva prirode. Bilo koji dati krug u Zaboravljenim carstvima, na primer, može uključivati druide koji poštuju Silvanusa, Mielikkija, Eldatha, Chaunteu ili čak oštre Bogove bijesa: Talos, Malar, Auril i Umberlee. Ove bogove prirode često nazivaju Prvim krugom, prvim među druidima, a većina druida ih sve (čak i nasilne) broji kao dostojne poštovanja.
+>
+>Druidi iz Eberrona drže animistička verovanja potpuno nepovezana sa Suverenom Hostijom, Mračnom šestorkom ili bilo kojom drugom religijom sveta. Oni veruju da svako živo biće i svaki prirodni fenomen - sunce, mesec, vetar, vatra i sam svet - imaju duh. Njihove čarolije su, dakle, sredstvo za komunikaciju i upravljanje tim duhovima. Različite druidske sekte, međutim, drže različite filozofije o pravilnom odnosu ovih duhova jedni prema drugima i prema civilizacijskim silama. Na primer, Ashbound veruju da je tajna magija odvratnost protiv prirode, deca zime poštuju sile smrti, a čuvari vrata čuvaju drevne tradicije namenjene zaštiti sveta od upada aberacija.
 
 
 
+## Borac
 
 Čovek u zveketom od tanjirastog oklopa drži svoj štit pred sobom dok trči prema masovnim goblinima. Vilenjak iza nje, obučen u kožni oklop sa čavlima, papriča gobline strelama oslobođenim od njegovog izvrsnog luka. Polu-ork u blizini izvikuje naređenja, pomažući dvojici boraca da koordiniraju svoj napad u najbolju korist.
 
@@ -3353,7 +3247,6 @@ Patuljak u lancu postavlja svoj štit između ogrjevog palice i njegovog pratioc
 Gladijator se bori za sport u areni, gospodar sa svojim trozupcem i mrežom, vešt u rušenju neprijatelja i pomeranju ih na oduševljenje gomile - i sopstvenu taktičku prednost. Mač njegovog protivnika plamti plavom svetlošću trenutak pre nego što ona pošalje munju koja mu bljesne da ga udari.
 
 Svi ovi heroji su borci, možda najrazličitija klasa likova u svetu Dungeons & Dragons. U potrazi za vitezovima, osvajanjem gospodara, kraljevskim šampionima, elitnim pešacima, okorjelim plaćenicima i razbojničkim kraljevima - svi kao borci dele neprikosnoveno majstorstvo sa oružjem i oklopom i temeljno znanje viještina borbe. I oni su dobro upoznati sa smrću, i susreću je i prkosno je zure u lice.
-
 
 ### Dobro zaobljeni stručnjaci
 
@@ -3378,7 +3271,7 @@ Možda ste uživali u formalnom treningu u plemićkoj vojsci ili u lokalnoj mil
 
 #### **Brza izrada**
 
-Možete brzo napraviti borca prateći ove predloge. Prvo, neka snaga ili spretnost budu vaša najveća ocena sposobnosti, u zavisnosti od toga da li želite da se usredsredite na mele oružje ili na streličarstvo (ili fino oružje). Sledeći najviši rezultat bi vam trebao biti Građa ili obaveštajni podaci ako planirate da usvojite borilački arhetip Eldritch Knight. Drugo, odaberite pozadinu vojnika.
+Možete brzo napraviti borca prateći ove predloge. Prvo, neka snaga ili spretnost budu vaša najveća ocijena sposobnosti, u zavisnosti od toga da li želite da se usredsredite na mele oružje ili na streličarstvo (ili fino oružje). Sledeći najviši rezultat bi vam trebao biti Građa ili obaveštajni podaci ako planirate da usvojite borilački arhetip Eldritch Knight. Drugo, odaberite pozadinu vojnika.
 
 
 <table>
@@ -3421,7 +3314,7 @@ Možete brzo napraviti borca prateći ove predloge. Prvo, neka snaga ili spretn
    </td>
    <td> +2
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -3453,7 +3346,7 @@ Možete brzo napraviti borca prateći ove predloge. Prvo, neka snaga ili spretn
    </td>
    <td> +3
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -3485,7 +3378,7 @@ Možete brzo napraviti borca prateći ove predloge. Prvo, neka snaga ili spretn
    </td>
    <td> +4
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -3501,7 +3394,7 @@ Možete brzo napraviti borca prateći ove predloge. Prvo, neka snaga ili spretn
    </td>
    <td> +5
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -3517,7 +3410,7 @@ Možete brzo napraviti borca prateći ove predloge. Prvo, neka snaga ili spretn
    </td>
    <td> +5
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -3541,7 +3434,7 @@ Možete brzo napraviti borca prateći ove predloge. Prvo, neka snaga ili spretn
    </td>
    <td> +6
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -3647,9 +3540,9 @@ Jednom kada koristite ovu funkciju, morate da završite kraći ili duži odmor 
 Na trećem nivou odabirete arhetip koji želite da oponašate u svojim borbenim stilovima i tehnikama. Izaberite Šampiona, Borbenog majstora ili Eldritch viteza, sve detaljno na kraju opisa klase. Arhetip koji odaberete dodeljuje vam karakteristike na 3. nivou i ponovo na 7., 10., 15. i 18. nivou.
 
 
-### Poboljšanje ocene sposobnosti
+### Poboljšanje ocijena sposobnosti
 
-Kada dostignete 4. nivo, i ponovo na 6., 8., 12., 14., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2 ili možete da povećate dvije ocene sposobnosti po svom izboru za 1. Kao i obično , ne možete povećati skor sposobnosti iznad 20 pomoću ove funkcije.
+Kada dostignete 4. nivo, i ponovo na 6., 8., 12., 14., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2 ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
 
 ### Dodatni napad
@@ -3825,7 +3718,7 @@ Možete se brzo zamonašiti prateći ove predloge. Prvo, neka spretnost bude va
    </td>
    <td> +10 ft.
    </td>
-   <td> Poboljšanje ocene sposobnosti, polagan pad
+   <td> Poboljšanje ocijena sposobnosti, polagan pad
    </td>
   </tr>
   <tr>
@@ -3881,7 +3774,7 @@ Možete se brzo zamonašiti prateći ove predloge. Prvo, neka spretnost bude va
    </td>
    <td> +15 ft.
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -3937,7 +3830,7 @@ Možete se brzo zamonašiti prateći ove predloge. Prvo, neka spretnost bude va
    </td>
    <td> +20 ft.
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -3993,7 +3886,7 @@ Možete se brzo zamonašiti prateći ove predloge. Prvo, neka spretnost bude va
    </td>
    <td> +25 ft.
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -4035,7 +3928,7 @@ Možete se brzo zamonašiti prateći ove predloge. Prvo, neka spretnost bude va
    </td>
    <td> +30 ft.
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -4160,9 +4053,9 @@ Počevši od 3. nivoa, možete koristiti svoju reakciju za odbijanje ili hvatanj
 Ako štetu smanjite na 0, možete uhvatiti raketu ako je dovoljno mala da je možete držati u jednoj ruci i ako imate bar jednu ruku slobodnu. Ako na ovaj način uhvatite raketu, možete potrošiti 1 ki bod da izvršite napad na daljinu oružjem ili komadom municije koje ste upravo ulovili, kao deo iste reakcije. Ovaj napad vršite sa veštinom, bez obzira na vaše znanje, a projektil se računa kao monaško oružje za napad, koji ima normalan domet od 20 stopa i dugačak domet od 60 stopa.
 
 
-### Poboljšanje ocene sposobnosti
+### Poboljšanje ocijena sposobnosti
 
-Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocene sposobnosti po svom izboru za 1. Kao i obično, t povećajte skor sposobnosti iznad 20 koristeći ovu funkciju.
+Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
 
 ### Sporo pada
@@ -4313,7 +4206,7 @@ Kao čuvari sile zla, paladini retko imaju bilo kakvo zlo. Većina njih korača
 
 #### **Brza izrada**
 
-Paladin možete brzo da napravite prateći ove predloge. Prvo, snaga bi trebalo da bude vaša najveća ocena sposobnosti, a zatim harizma. Drugo, odaberite plemenitu pozadinu.
+Paladin možete brzo da napravite prateći ove predloge. Prvo, snaga bi trebalo da bude vaša najveća ocijena sposobnosti, a zatim harizma. Drugo, odaberite plemenitu pozadinu.
 
 
 <table>
@@ -4400,7 +4293,7 @@ Paladin možete brzo da napravite prateći ove predloge. Prvo, snaga bi trebalo
    </td>
    <td> +2
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 3
    </td>
@@ -4472,7 +4365,7 @@ Paladin možete brzo da napravite prateći ove predloge. Prvo, snaga bi trebalo
    </td>
    <td> +3
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 4
    </td>
@@ -4544,7 +4437,7 @@ Paladin možete brzo da napravite prateći ove predloge. Prvo, snaga bi trebalo
    </td>
    <td> +4
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 4
    </td>
@@ -4616,7 +4509,7 @@ Paladin možete brzo da napravite prateći ove predloge. Prvo, snaga bi trebalo
    </td>
    <td> +5
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 4
    </td>
@@ -4670,7 +4563,7 @@ Paladin možete brzo da napravite prateći ove predloge. Prvo, snaga bi trebalo
    </td>
    <td> +6
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 4
    </td>
@@ -4787,7 +4680,7 @@ Kada bacite 1 ili 2 na matičnu štetu za napad koji napravite mele-oružjem koj
 Kada stvorenje koje možete videti napada drugu metu koja se nalazi na udaljenosti od 5 stopa od vas, možete da upotrebite svoju reakciju da biste nametnuli nedostatak na kolu za napad. Sigurno poseduješ štit.
 
 
-### Pravopis
+### Korištenje magije
 
 Do 2. nivoa ste naučili da crtate na božanskoj magiji meditacijom i molitvom kako biste bacali uroke kao što to čini sveštenik. Pogledajte poglavlje 10 za opšta pravila pravopisa i poglavlje 11 za spis čarolija paladina.
 
@@ -4803,13 +4696,13 @@ Na primer, ako ste paladin 5. nivoa, imate četiri slota za uroke 1. i 2. nivoa.
 Spisak pripremljenih čarolija možete promeniti kada završite duži odmor. Za pripremu nove liste čarolija paladina potrebno je vreme provedeno u molitvi i meditaciji: najmanje 1 minut po nivou čarolije za svaku čaroliju na vašoj listi.
 
 
-#### **Sposobnost pravopisa**
+#### **Sposobnost korištenja magije**
 
 harizma je vaša sposobnost čarolije za vaše čarolije paladina, jer njihova moć potiče iz snage vaših uverenja. Koristite svoju harizmu kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj Charisma modifikator koristite kada postavljate DC spasilačkog bacanja za čaroliju paladina koju ste bacili i kada pravite napadački zamah jednim.
 
-**Spell save DC** = 8 + vaš bonus za znanje + vaš modifikator harizme
+**DC spasa od čarolije** = 8 + vaš bonus za znanje + vaš modifikator harizme
 
-**Modifikator pravopisnog napada** = vaš bonus za znanje + vaš modifikator harizme
+**Modifikator napada čarolijom** = vaš bonus za znanje + vaš modifikator harizme
 
 
 #### **Fokusiranje pravopisa**
@@ -4850,9 +4743,9 @@ Kada koristite svoj kanal Diviniti, vi birate koju ćete opciju koristiti. Zati
 Neki efekti Diviniti Channel-a zahtevaju štednja. Kada koristite takav efekat iz ove klase, DC je jednak vašoj čaroliji paladina, osim DC.
 
 
-### Poboljšanje ocene sposobnosti
+### Poboljšanje ocijena sposobnosti
 
-Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocene sposobnosti po svom izboru za 1. Kao i obično, t povećajte skor sposobnosti iznad 20 koristeći ovu funkciju.
+Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
 
 ### Dodatni napad
@@ -4937,31 +4830,31 @@ Steknete zakletve na navedenim nivoima paladina.
   <tr>
    <td> 3
    </td>
-   <td> <em> zaštita od zla i dobra </em>, <em> utočište </em>
+   <td> <em>zaštita od zla i dobra</em>, <em>utočište</em>
    </td>
   </tr>
   <tr>
    <td> 5.
    </td>
-   <td> <em> manja restauracija </em>, <em> zona istine </em>
+   <td> <em>manja restauracija</em>, <em>zona istine</em>
    </td>
   </tr>
   <tr>
    <td> 9
    </td>
-   <td> <em> svetionik nade </em>, <em> rastura magiju </em>
+   <td> <em>svetionik nade</em>, <em>rastura magiju</em>
    </td>
   </tr>
   <tr>
    <td> 13
    </td>
-   <td> <em> sloboda kretanja </em>, <em> čuvar vere </em>
+   <td> <em>sloboda kretanja</em>, <em>čuvar vere</em>
    </td>
   </tr>
   <tr>
    <td> 17th
    </td>
-   <td> <em> komuna </em>, <em> udar plamena </em>
+   <td> <em>komuna</em>, <em>udar plamena</em>
    </td>
   </tr>
 </table>
@@ -5018,7 +4911,7 @@ Daleko od gradske vreve, pored živih ograda koje štite najudaljenije farme od 
 
 ### Smrtonosni lovci
 
-Ratnici divljine, rendžeri su se specijalizovali za lov na čudovišta koja ugrožavaju ivice civilizacije - humanoidne pljačkaše, bijesne zveri i grdosije, strašne divove i smrtonosne zmajeve. Nauče da prate svoj kamenolom kao što to čini predator, krišom se krećući kroz divljinu i skrivajući se u četkama i ruševinama. Rendžeri fokusiraju svoju borbenu obuku na tehnike koje su posebno korisne protiv njihovih omiljenih neprijatelja.
+Ratnici divljine, rendžeri su se specijalizovali za lov na čudovišta koja ugrožavaju ivice civilizacije - humanoidne pljačkaše, bijesne zvijeri i grdosije, strašne divove i smrtonosne zmajeve. Nauče da prate svoj kamenolom kao što to čini predator, krišom se krećući kroz divljinu i skrivajući se u četkama i ruševinama. Rendžeri fokusiraju svoju borbenu obuku na tehnike koje su posebno korisne protiv njihovih omiljenih neprijatelja.
 
 Zahvaljujući poznavanju divljine, rendžeri stiču sposobnost da bacaju uroke koji koriste snagu prirode, baš kao što to radi i druid. Njihove čarolije, poput njihovih borbenih sposobnosti, ističu brzinu, prikrivenost i lov. Talenati i sposobnosti rendžera usavršeni su sa smrtonosnim fokusom na mračni zadatak zaštite pograničnih krajeva.
 
@@ -5135,7 +5028,7 @@ Možete brzo napraviti čuvara prateći ove predloge. Prvo, neka spretnost bude
    </td>
    <td> +2
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 3
    </td>
@@ -5215,7 +5108,7 @@ Možete brzo napraviti čuvara prateći ove predloge. Prvo, neka spretnost bude
    </td>
    <td> +3
    </td>
-   <td> Poboljšanje ocene sposobnosti, Land’s Stride
+   <td> Poboljšanje ocijena sposobnosti, Land’s Stride
    </td>
    <td> 5
    </td>
@@ -5295,7 +5188,7 @@ Možete brzo napraviti čuvara prateći ove predloge. Prvo, neka spretnost bude
    </td>
    <td> +4
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 7
    </td>
@@ -5375,7 +5268,7 @@ Možete brzo napraviti čuvara prateći ove predloge. Prvo, neka spretnost bude
    </td>
    <td> +5
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 9
    </td>
@@ -5435,7 +5328,7 @@ Možete brzo napraviti čuvara prateći ove predloge. Prvo, neka spretnost bude
    </td>
    <td> +6
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 11
    </td>
@@ -5516,7 +5409,7 @@ Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
 
 Počevši od prvog nivoa, imate značajno iskustvo u proučavanju, praćenju, lovu, pa čak i razgovoru sa određenom vrstom neprijatelja.
 
-Izaberite vrstu favorizovanog neprijatelja: aberacije, zveri, nebijeske građevine, konstrukcije, zmajevi, elementali, fej, vragovi, džinovi, grdosije, izlivi, biljke ili nemrtvi. Alternativno, za favorizovane neprijatelje možete odabrati dvije rase humanoida (kao što su gnolovi i orci).
+Izaberite vrstu favorizovanog neprijatelja: aberacije, zvijeri, nebijeske građevine, konstrukcije, zmajevi, elementali, fej, vragovi, džinovi, grdosije, izlivi, biljke ili nemrtvi. Alternativno, za favorizovane neprijatelje možete odabrati dvije rase humanoida (kao što su gnolovi i orci).
 
 Imate prednost na proverama Mudrosti (preživljavanja) da biste pratili favorizovane neprijatelje, kao i na proverama obaveštajnih službi radi opoziva podataka o njima.
 
@@ -5570,7 +5463,7 @@ Kada u jednoj ruci držite ručno oružje, a ne drugim oružjem, dobijate +2 bon
 Kada se upustite u borbu sa dva oružja, možete dodati svoj modifikator sposobnosti na štetu drugog napada.
 
 
-### Pravopis
+### Korištenje magije
 
 Kad dostignete 2. nivo, naučili ste da koristite magijsku suštinu prirode da biste bacali uroke, baš kao što to radi i druid. Pogledajte poglavlje 10 za opšta pravila čarolije i poglavlje 11 za spisak čarolija čuvara.
 
@@ -5590,18 +5483,18 @@ Kolona „Poznate čarolije“ tabele Ranger prikazuje kada saznate više čarol
 Pored toga, kada steknete nivo u ovoj klasi, možete odabrati jednu od poznatih čarolija čuvara i zameniti je drugom čarolijom sa liste čarolija rendžera, koja takođe mora biti nivoa za koji imate slotove za čarolije.
 
 
-#### **Sposobnost pravopisa**
+#### **Sposobnost korištenja magije**
 
 Mudrost je vaša sposobnost pravljenja čarolija za vaše rendžerske čarolije, jer se vaša magija oslanja na vaše prilagođavanje prirodi. Koristite svoju Mudrost kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj modifikator Mudrosti koristite kada postavljate DC spasilačkog bacanja za čaroliju rendžera koju ste bacili i kada pravite napadački zamah jednim.
 
-**Spell save DC** = 8 + vaš bonus za stručnost + vaš modifikator Mudrosti
+**DC spasa od čarolije** = 8 + vaš bonus za stručnost + vaš modifikator Mudrosti
 
-**Modifikator pravopisnog napada** = vaš bonus za znanje + vaš modifikator Mudrosti
+**Modifikator napada čarolijom** = vaš bonus za znanje + vaš modifikator Mudrosti
 
 
 ### Arhetip Ranger-a
 
-Na 3. nivou odabirete arhetip na koji želite da se ugledate: Lovac ili Gospodar zveri, oboje detaljno na kraju opisa klase. Vaš izbor vam daje mogućnosti na 3. nivou i ponovo na 7., 11. i 15. nivou.
+Na 3. nivou odabirete arhetip na koji želite da se ugledate: Lovac ili Gospodar zvijeri, oboje detaljno na kraju opisa klase. Vaš izbor vam daje mogućnosti na 3. nivou i ponovo na 7., 11. i 15. nivou.
 
 
 ### Prvobitna svest
@@ -5609,9 +5502,9 @@ Na 3. nivou odabirete arhetip na koji želite da se ugledate: Lovac ili Gospodar
 Počevši od 3. nivoa, možete da iskoristite svoju akciju i potrošite jedan slot za čarolije rendžera da biste svoju svest usmerili na region oko sebe. Za 1 minut po nivou slota čarolija koji potrošite možete da osetite da li su sledeće vrste stvorenja prisutne u krugu od 1 milje od vas (ili u krugu do 6 milja ako se nalazite na svom omiljenom terenu): aberacije, nebijesa, zmajevi, elementali, fej, neprijatelji i nemrtvi. Ova funkcija ne otkriva lokaciju ili broj stvorenja.
 
 
-### Poboljšanje ocene sposobnosti
+### Poboljšanje ocijena sposobnosti
 
-Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocene sposobnosti po svom izboru za 1. Kao i obično, t povećajte skor sposobnosti iznad 20 koristeći ovu funkciju.
+Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
 
 ### Dodatni napad
@@ -5652,7 +5545,7 @@ Na 20. nivou postajete lovac na neprijatelje bez premca. Jednom u svakom svom ok
 
 ## Ranger arhetipovi
 
-Ideal rendžera ima dva klasična izraza: lovac i gospodar zveri.
+Ideal rendžera ima dva klasična izraza: lovac i gospodar zvijeri.
 
 
 ### Hunter
@@ -5736,7 +5629,7 @@ Dok stvarate svog nevaljalog lika, razmotrite odnos lika prema zakonu. Da li ima
 
 #### **Brza izrada**
 
-Možete brzo da napravite prevaranta prateći ove predloge. Prvo, spretnost treba da bude vaša najveća ocena sposobnosti. Neka Inteligencija bude vaša sledeća najviša vrednost ako želite da se istaknete u istrazi ili planirate da zauzmete arhetip Arcane Trickster. Umesto toga, odaberite harizmu ako planirate da naglasite obmanu i socijalnu interakciju. Drugo, odaberite šarlatan pozadinu.
+Možete brzo da napravite prevaranta prateći ove predloge. Prvo, spretnost treba da bude vaša najveća ocijena sposobnosti. Neka Inteligencija bude vaša sledeća najviša vrednost ako želite da se istaknete u istrazi ili planirate da zauzmete arhetip Arcane Trickster. Umesto toga, odaberite harizmu ako planirate da naglasite obmanu i socijalnu interakciju. Drugo, odaberite šarlatan pozadinu.
 
 
 <table>
@@ -5791,7 +5684,7 @@ Možete brzo da napravite prevaranta prateći ove predloge. Prvo, spretnost tre
    </td>
    <td> 2d6
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -5831,7 +5724,7 @@ Možete brzo da napravite prevaranta prateći ove predloge. Prvo, spretnost tre
    </td>
    <td> 4d6
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -5851,7 +5744,7 @@ Možete brzo da napravite prevaranta prateći ove predloge. Prvo, spretnost tre
    </td>
    <td> 5d6
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -5871,7 +5764,7 @@ Možete brzo da napravite prevaranta prateći ove predloge. Prvo, spretnost tre
    </td>
    <td> 6d6
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -5911,7 +5804,7 @@ Možete brzo da napravite prevaranta prateći ove predloge. Prvo, spretnost tre
    </td>
    <td> 8d6
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -5941,7 +5834,7 @@ Možete brzo da napravite prevaranta prateći ove predloge. Prvo, spretnost tre
    </td>
    <td> 10d6
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
   </tr>
   <tr>
@@ -6029,9 +5922,9 @@ Počevši od 2. nivoa, vaše brzo razmišljanje i okretnost omogućavaju vam br
 Na 3. nivou odabirete arhetip na koji se ugledate u vežbanju svojih skitničkih sposobnosti. Arhetip Lopov je ovde detaljno opisan; pogledajte _Plaier's Handbook_ za ostale arhetipove. Vaš izbor vam daje funkcije na 3. nivou, a zatim ponovo na 9., 13. i 17. nivou.
 
 
-### Poboljšanje ocene sposobnosti
+### Poboljšanje ocijena sposobnosti
 
-Kada dostignete 4. nivo, i ponovo na 8., 10., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocene sposobnosti po svom izboru za 1. Kao i obično, ne može povećati skor sposobnosti iznad 20 pomoću ove funkcije.
+Kada dostignete 4. nivo, i ponovo na 8., 10., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
 
 ### Neobičan Dodge
@@ -6144,7 +6037,7 @@ Kako se osećate zbog magične moći koja teče kroz vas? Da li je prihvatate,
 
 #### **Brza izrada**
 
-Možete brzo stvoriti vrača prateći ove predloge. Prvo, harizma bi trebala biti vaša najveća ocena sposobnosti, a zatim i Građa. Drugo, odaberite pustinjačku pozadinu. Treće, odaberite _light_, _prestidigitation_, _rai of frost_ i _shocking grass_ cantrips, zajedno sa čarolijama 1. nivoa _shield_ i _magic missile_.
+Možete brzo stvoriti vrača prateći ove predloge. Prvo, harizma bi trebala biti vaša najveća ocijena sposobnosti, a zatim i Građa. Drugo, odaberite pustinjačku pozadinu. Treće, odaberite _light_, _prestidigitation_, _rai of frost_ i _shocking grass_ cantrips, zajedno sa čarolijama 1. nivoa _shield_ i _magic missile_.
 
 
 <table>
@@ -6295,7 +6188,7 @@ Možete brzo stvoriti vrača prateći ove predloge. Prvo, harizma bi trebala bi
    </td>
    <td> 4
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 5
    </td>
@@ -6423,7 +6316,7 @@ Možete brzo stvoriti vrača prateći ove predloge. Prvo, harizma bi trebala bi
    </td>
    <td> 8
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 5
    </td>
@@ -6551,7 +6444,7 @@ Možete brzo stvoriti vrača prateći ove predloge. Prvo, harizma bi trebala bi
    </td>
    <td> 12
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 6
    </td>
@@ -6679,7 +6572,7 @@ Možete brzo stvoriti vrača prateći ove predloge. Prvo, harizma bi trebala bi
    </td>
    <td> 16
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 6
    </td>
@@ -6775,7 +6668,7 @@ Možete brzo stvoriti vrača prateći ove predloge. Prvo, harizma bi trebala bi
    </td>
    <td> 19
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 6
    </td>
@@ -6873,7 +6766,7 @@ Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
 * Dva bodeža
 
 
-### Pravopis
+### Korištenje magije
 
 Događaj u vašoj prošlosti ili u životu roditelja ili pretka ostavio je na vas neizbrisiv trag, ulivajući vas u tajnu magiju. Ovaj font magije, bez obzira na poreklo, podstiče vaše čarolije. Pogledajte poglavlje 10 za opšta pravila čarolije i poglavlje 11 za spis čarolija čarobnjaka.
 
@@ -6899,13 +6792,13 @@ Kolona „Poznate čarolije“ tabele Čarobnjaka prikazuje kada saznate više �
 Pored toga, kada steknete nivo u ovoj klasi, možete da izaberete jednu od čarolija čarobnjaka koje poznajete i zamenite je drugom čarolijom sa liste čarobnjaka, koja takođe mora biti na nivou za koji imate slotove za čarolije.
 
 
-#### **Sposobnost pravopisa**
+#### **Sposobnost korištenja magije**
 
 harizma je vaša sposobnost čarolije za vaše čarobnjačke čarolije, jer se snaga vaše magije oslanja na vašu sposobnost da svoju volju projektujete u svet. Koristite svoju harizmu kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj modifikator harizme koristite kada postavljate DC spasilačkog bacanja za čaroliju čarobnjaka koju ste bacili i kada pravite napadački zamah jednim.
 
-**Spell save DC** = 8 + vaš bonus za znanje + vaš modifikator harizme
+**DC spasa od čarolije** = 8 + vaš bonus za znanje + vaš modifikator harizme
 
-**Modifikator pravopisnog napada** = vaš bonus za znanje + vaš modifikator harizme
+**Modifikator napada čarolijom** = vaš bonus za znanje + vaš modifikator harizme
 
 
 #### **Fokusiranje pravopisa**
@@ -7037,9 +6930,9 @@ Kada bacate čaroliju koja cilja samo jedno stvorenje i nema opseg sebe, možete
 Da bi ispunjavala uslove, čarolija mora biti nesposobna da cilja više stvorenja na trenutnom nivou čarolija. Na primer, _magične rakete_ i _krećući zrak_ ne ispunjavaju uslove, ali _red mraza_ i_hromatske kugle_ jesu.
 
 
-### Poboljšanje ocene sposobnosti
+### Poboljšanje ocijena sposobnosti
 
-Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocene sposobnosti po svom izboru za 1. Kao i obično, t povećajte skor sposobnosti iznad 20 koristeći ovu funkciju.
+Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
 
 ### Čarobna restauracija
@@ -7166,7 +7059,7 @@ Počevši od 18. nivoa, možete usmeriti strašno prisustvo svog pretka zmaja, u
 
 Sa pseudodragonom uvijenim na ramenu, mladi vilenjak u zlatnim odeždama toplo se smeši, uplećući magični šarm u svoje medene reči i savijajući stražarskog dvorca prema svojoj volji.
 
-Dok plamen oživljava u njenim rukama, osušeni čovek šapće tajno ime svog demonskog zaštitnika, ulivajući joj čaroliju zverskom magijom.
+Dok plamen oživljava u njenim rukama, osušeni čovek šapće tajno ime svog demonskog zaštitnika, ulivajući joj čaroliju zvijerskom magijom.
 
 Preusmeravajući pogled između pohabanog fonda i neobičnog poravnanja zvezda iznad njih, kravata divljih očiju opeva mistični ritual koji će otvoriti vrata u daleki svet.
 
@@ -7202,7 +7095,7 @@ Kako vaš pokrovitelj komunicira sa vama? Ako vam je poznat, možda povremeno go
 
 #### **Brza izrada**
 
-Možete brzo napraviti čarobnjak prateći ove predloge. Prvo, harizma bi trebala biti vaša najveća ocena sposobnosti, a zatim i Građa. Drugo, odaberite šarlatan pozadinu. Treće, odaberite _eldritch blast_ i _chill touch_ cantrips, zajedno sa čarolijama prvog nivoa _charm person_ i _vitch bolt_.
+Možete brzo napraviti čarobnjak prateći ove predloge. Prvo, harizma bi trebala biti vaša najveća ocijena sposobnosti, a zatim i Građa. Drugo, odaberite šarlatan pozadinu. Treće, odaberite _eldritch blast_ i _chill touch_ cantrips, zajedno sa čarolijama prvog nivoa _charm person_ i _vitch bolt_.
 
 
 <table>
@@ -7295,7 +7188,7 @@ Možete brzo napraviti čarobnjak prateći ove predloge. Prvo, harizma bi treba
    </td>
    <td> +2
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 3
    </td>
@@ -7367,7 +7260,7 @@ Možete brzo napraviti čarobnjak prateći ove predloge. Prvo, harizma bi treba
    </td>
    <td> +3
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 3
    </td>
@@ -7439,7 +7332,7 @@ Možete brzo napraviti čarobnjak prateći ove predloge. Prvo, harizma bi treba
    </td>
    <td> +4
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 4
    </td>
@@ -7511,7 +7404,7 @@ Možete brzo napraviti čarobnjak prateći ove predloge. Prvo, harizma bi treba
    </td>
    <td> +5
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 4
    </td>
@@ -7565,7 +7458,7 @@ Možete brzo napraviti čarobnjak prateći ove predloge. Prvo, harizma bi treba
    </td>
    <td> +6
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 4
    </td>
@@ -7668,13 +7561,13 @@ Kolona „Poznate čarolije“ u tabeli Varlock prikazuje kada saznate više ča
 Pored toga, kada steknete nivo u ovoj klasi, možete odabrati jednu od poznatih čarolija veštačenja i zameniti je drugom čarolijom sa spiska čarolija, koja takođe mora biti nivoa za koji imate slotove za čarolije.
 
 
-#### **Sposobnost pravopisa**
+#### **Sposobnost korištenja magije**
 
 harizma je vaša sposobnost čarolije za vaše čarolije vradžbine, tako da koristite svoju harizmu kad god se čarolija odnosi na vašu sposobnost čarolije. Pored toga, svoj Charisma modifikator koristite kada postavljate DC spasilačkog bacanja za čaroliju vetrenjače koju ste bacili i kada pravite napadački zamah jednim.
 
-**Spell save DC** = 8 + vaš bonus za znanje + vaš modifikator harizme
+**DC spasa od čarolije** = 8 + vaš bonus za znanje + vaš modifikator harizme
 
-**Modifikator pravopisnog napada** = vaš bonus za znanje + vaš modifikator harizme
+**Modifikator napada čarolijom** = vaš bonus za znanje + vaš modifikator harizme
 
 
 #### **Fokusiranje pravopisa**
@@ -7720,9 +7613,9 @@ Vaš pokrovitelj vam daje grimoar pod nazivom Knjiga senki. Kada dobijete ovu fu
 Ako izgubite Knjigu senki, možete obaviti jednosatnu ceremoniju da biste dobili zamenu od svog zaštitnika. Ova ceremonija se može obaviti tokom kratkog ili dužeg odmora i uništava prethodnu knjigu. Knjiga se pretvara u pepeo kad umreš.
 
 
-### Poboljšanje ocene sposobnosti
+### Poboljšanje ocijena sposobnosti
 
-Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocene sposobnosti po svom izboru za 1. Kao i obično, t povećajte skor sposobnosti iznad 20 koristeći ovu funkciju.
+Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
 
 ### Mistic Arcanum
@@ -7778,31 +7671,31 @@ Fiend vam omogućava da odaberete sa proširene liste čarolija kada naučite �
   <tr>
    <td> 1.
    </td>
-   <td> <em> paljenje ruku </em>, <em> naredba </em>
+   <td> <em>paljenje ruku</em>, <em>naredba</em>
    </td>
   </tr>
   <tr>
    <td> 2.
    </td>
-   <td> <em> slepilo / gluvoća </em>, <em> užareni zrak </em>
+   <td> <em>slepilo / gluvoća</em>, <em>užareni zrak</em>
    </td>
   </tr>
   <tr>
    <td> 3
    </td>
-   <td> <em> vatrena kugla </em>, <em> smrdljivi oblak </em>
+   <td> <em>vatrena kugla</em>, <em>smrdljivi oblak</em>
    </td>
   </tr>
   <tr>
    <td> 4.
    </td>
-   <td> <em> vatrogasni štit </em>, <em> vatreni zid </em>
+   <td> <em>vatrogasni štit</em>, <em>vatreni zid</em>
    </td>
   </tr>
   <tr>
    <td> 5.
    </td>
-   <td> <em> udar plamena </em>, <em> sveti </em>
+   <td> <em>udar plamena</em>, <em>sveti</em>
    </td>
   </tr>
 </table>
@@ -7859,7 +7752,7 @@ Možete da bacate _mage oklop_ na sebe po svojoj volji, bez trošenja slota za �
 Možete bacati _levitate_ na sebe po volji, bez trošenja slota za čarolije ili komponenata materijala.
 
 
-#### **Zverski govor**
+#### **zvijerski govor**
 
 Možete bacati _govorite sa životinjama_ po svojoj volji, bez trošenja slova za čarolije.
 
@@ -8077,7 +7970,7 @@ Stvaranje lika čarobnjaka zahteva prošlost u kojoj dominira bar jedan izvanred
 
 #### **Brza izrada**
 
-Možete brzo napraviti čarobnjaka prateći ove predloge. Prvo, inteligencija bi trebala biti vaša najveća ocena sposobnosti, a zatim je Građe ili spretnost. Ako planirate da se pridružite Školi začaravanja, neka vam harizma bude sledeći najbolji rezultat. Drugo, odaberite pozadinu kadulje. Treće, odaberite _mage hand_, _light_ i _rai of frost_ cantrips, zajedno sa sledećim čarolijama 1. nivoa za vašu knjigu čarolija: _burning hands_, _charm person_, _feather fall_, _mage armor_, _magic missile_ i _sleep_.
+Možete brzo napraviti čarobnjaka prateći ove predloge. Prvo, inteligencija bi trebala biti vaša najveća ocijena sposobnosti, a zatim je Građe ili spretnost. Ako planirate da se pridružite Školi začaravanja, neka vam harizma bude sledeći najbolji rezultat. Drugo, odaberite pozadinu kadulje. Treće, odaberite _mage hand_, _light_ i _rai of frost_ cantrips, zajedno sa sledećim čarolijama 1. nivoa za vašu knjigu čarolija: _burning hands_, _charm person_, _feather fall_, _mage armor_, _magic missile_ i _sleep_.
 
 
 <table>
@@ -8206,7 +8099,7 @@ Možete brzo napraviti čarobnjaka prateći ove predloge. Prvo, inteligencija b
    </td>
    <td> +2
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 4
    </td>
@@ -8318,7 +8211,7 @@ Možete brzo napraviti čarobnjaka prateći ove predloge. Prvo, inteligencija b
    </td>
    <td> +3
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 4
    </td>
@@ -8430,7 +8323,7 @@ Možete brzo napraviti čarobnjaka prateći ove predloge. Prvo, inteligencija b
    </td>
    <td> +4
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 5
    </td>
@@ -8542,7 +8435,7 @@ Možete brzo napraviti čarobnjaka prateći ove predloge. Prvo, inteligencija b
    </td>
    <td> +5
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 5
    </td>
@@ -8626,7 +8519,7 @@ Možete brzo napraviti čarobnjaka prateći ove predloge. Prvo, inteligencija b
    </td>
    <td> +6
    </td>
-   <td> Poboljšanje ocene sposobnosti
+   <td> Poboljšanje ocijena sposobnosti
    </td>
    <td> 5
    </td>
@@ -8745,13 +8638,13 @@ Na primer, ako ste čarobnjak za 3. nivo, imate četiri slota za pravopis za 1. 
 
 Spisak pripremljenih čarolija možete promeniti kada završite duži odmor. Priprema nove liste čarolija čarobnjaka zahteva vreme provedeno u proučavanju vaše knjige čarolija i pamćenju čarolija i gesta koje morate napraviti da biste izvršili čaroliju: najmanje 1 minut po nivou čarolije za svaku čaroliju na vašoj listi.
 
-#### **Sposobnost pravopisa**
+#### **Sposobnost korištenja magije**
 
 Inteligencija je vaša sposobnost čarolije za vaše čarobnjačke čarolije, jer svoje čarolije učite kroz posebno proučavanje i pamćenje. Koristite svoju inteligenciju kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj modifikator inteligencije koristite kada postavljate DC spasilačkog bacanja za čaroliju čarobnjaka koju ste bacili i kada pravite napadački zamah jednim.
 
-**Spell save DC** = 8 + vaš bonus za znanje + vaš modifikator inteligencije
+**DC spasa od čarolije** = 8 + vaš bonus za znanje + vaš modifikator inteligencije
 
-**Modifikator pravopisnog napada** = vaš bonus za stručnost + vaš modifikator inteligencije
+**Modifikator napada čarolijom** = vaš bonus za stručnost + vaš modifikator inteligencije
 
 
 #### **Ritualno livenje**
@@ -8799,9 +8692,9 @@ Kada dostignete 2. nivo, birate tajnu tradiciju, oblikujući svoju magijsku pra
 Vaš izbor vam daje mogućnosti na 2. nivou i ponovo na 6., 10. i 14. nivou.
 
 
-### Poboljšanje ocene sposobnosti
+### Poboljšanje ocijena sposobnosti
 
-Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocene sposobnosti po svom izboru za 1. Kao i obično, t povećajte skor sposobnosti iznad 20 koristeći ovu funkciju.
+Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
 ### Majstorstvo pravopisa
 
