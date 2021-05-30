@@ -1959,7 +1959,6 @@ Svaki domena ima spisak čarolija - čarolija svog domena - koje steknete na niv
 
 Ako imate čaroliju domena koja se ne pojavljuje na spisku čarolija sveštenika, čarolija je za vas ipak čarolija sveštenika.
 
-
 ### Kanalisanje božanstva
 
 Na drugom nivou stičete sposobnost da kanališete božansku energiju direktno od svog božanstva, koristeći tu energiju za podsticanje magičnih efekata. Počinjete sa dva takva efekta: Okretanje nemrtvih i efektom koji određuje vaš domen. Neki domeni vam omogućavaju dodatne efekte kako napredujete u nivoima, kao što je navedeno u opisu domena.
@@ -3240,219 +3239,208 @@ Stvorenje je svesno ovog efekta pre nego što izvrši napad na vas.
 
 ## Borac
 
-Čovek u zveketom od tanjirastog oklopa drži svoj štit pred sobom dok trči prema masovnim goblinima. Vilenjak iza nje, obučen u kožni oklop sa čavlima, papriča gobline strelama oslobođenim od njegovog izvrsnog luka. Polu-ork u blizini izvikuje naređenja, pomažući dvojici boraca da koordiniraju svoj napad u najbolju korist.
+Čovek u zveketavom tanjirastom oklopu drži svoj štit pred sobom dok trči prema masi goblina. Vilenjak iza njega, obučen u kožni oklop sa nitnama, biberi gobline strelama oslobođenim njegovim izvrsnim lukom. Polu-ork u blizini izvikuje naređenja, pomažući dvojici boraca da koordiniraju svoj napad u najbolju korist.
 
-Patuljak u lancu postavlja svoj štit između ogrjevog palice i njegovog pratioca, odbijajući smrtonosni udarac u stranu. Njegov pratilac, polu-vilenjak u oklopu, u zaslepljujućem vrtlogu zamahuje dvema scimitarima dok kruži oko Ogra tražeći slepu tačku u njegovoj odbrani.
+Patuljak u lančanom oklopu postavlja svoj štit između ogrjeve palice i njegovog pratioca, odbijajući smrtonosni udarac u stranu. Njegov pratilac, polu-vilenjak u oklopu, u zaslepljujućem vrtlogu zamahuje dvema scimitarima dok kruži oko Ogra tražeći slepu tačku u njegovoj odbrani.
 
-Gladijator se bori za sport u areni, gospodar sa svojim trozupcem i mrežom, vešt u rušenju neprijatelja i pomeranju ih na oduševljenje gomile - i sopstvenu taktičku prednost. Mač njegovog protivnika plamti plavom svetlošću trenutak pre nego što ona pošalje munju koja mu bljesne da ga udari.
+Gladijator se bori radi sporta u areni, gospodar sa svojim trozupcem i mrežom, vešt u rušenju neprijatelja i pomeranju ih na oduševljenje gomile - i sopstvenu taktičku prednost. Mač njegovog protivnika plamti plavom svetlošću trenutak pre nego što ona pošalje munju koja bljesne da ga udari.
 
-Svi ovi heroji su borci, možda najrazličitija klasa likova u svetu Dungeons & Dragons. U potrazi za vitezovima, osvajanjem gospodara, kraljevskim šampionima, elitnim pešacima, okorjelim plaćenicima i razbojničkim kraljevima - svi kao borci dele neprikosnoveno majstorstvo sa oružjem i oklopom i temeljno znanje viještina borbe. I oni su dobro upoznati sa smrću, i susreću je i prkosno je zure u lice.
+Svi ovi heroji su borci, možda najrazličitija klasa likova u svetu Dungeons & Dragons. Vitezi istraživači, gospodari osvajači, kraljevski šampioni, elitna pješadija, okorjeli plaćenici i razbojnički kraljevim - svi kao borci dele neprikosnoveno majstorstvo sa oružjem i oklopom i temeljno znanje viještina borbe. I oni su dobro upoznati sa smrću, i susreću je i prkosno joj zure u lice.
 
 ### Dobro zaobljeni stručnjaci
 
 Borci uče osnove svih borbenih stilova. Svaki borac može zamahnuti sekirom, ograditi se rapirom, nositi dugi ili veliki mač, koristiti luk, pa čak i zarobiti neprijatelje u mrežu sa određenim stepenom viještine. Isto tako, borac je spretan sa štitovima i svim oblicima oklopa. Pored osnovnog stepena poznavanja, svaki borac se specijalizovao za određeni stil borbe. Neki se koncentrišu na streljaštvo, neki na borbu sa dva oružja odjednom, a neki na uvećavanje svojih borilačkih viještina magijom. Ova kombinacija širokih opštih sposobnosti i opsežne specijalizacije čini borce superiornim borcima na bojnim poljima i u tamnicama.
 
-
 ### Obučen za opasnost
 
 Nije svaki pripadnik gradske straže, seoske milicije ili kraljičine vojske borac. Većina ovih trupa su relativno neobučeni vojnici sa samo najosnovnijim borbenim znanjem. Veterani vojnici, vojni oficiri, obučeni telohranitelji, posvećeni vitezovi i slične figure su borci.
 
-Neki borci se osećaju privlačno da svoj trening koriste kao avanturisti. Kopanje tamnice, ubijanje čudovišta i drugi opasni poslovi uobičajeni među avanturistima druga su priroda borca, ne toliko drugačija od života koji je on ili ona ostavio za sobom. Možda postoje veći rizici, ali i mnogo veće nagrade - malo boraca u gradskoj straži ima priliku da otkriju magični mač _plamenog jezika_, na primer.
-
+Neki borci se osećaju privlačno da svoj trening koriste kao avanturisti. Pretraživanje tamnica, ubijanje čudovišta i drugi opasni poslovi uobičajeni među avanturistima druga su priroda borca, ne toliko drugačija od života koji je on ili ona ostavio za sobom. Možda postoje veći rizici, ali i mnogo veće nagrade - malo boraca u gradskoj straži ima priliku da otkriju magični mač _plamenog jezika_, na primer.
 
 ### Stvaranje borca
-
-
 
 Dok gradite svog borca, razmislite o dva povezana elementa porekla vašeg lika: Gde ste stekli borbenu obuku i šta vas je izdvojilo od ovozemaljskih ratnika oko vas? Da li ste bili posebno nemilosrdni? Da li ste dobili dodatnu pomoć od mentora, možda zbog vaše izuzetne predanosti? Šta vas je uopšte nateralo na ovaj trening? Pretnja vašoj domovini, žeđ za osvetom ili potreba da se dokažete mogli su biti faktori.
 
 Možda ste uživali u formalnom treningu u plemićkoj vojsci ili u lokalnoj miliciji. Možda ste trenirali u ratnoj akademiji, učili strategiju, taktiku i vojnu istoriju. Ili ste samouk - neuglađen, ali dobro testiran. Da li ste mač uzeli za put da izbegnete granice života na farmi ili sledite ponosnu porodičnu tradiciju? Gde ste nabavili oružje i oklop? Možda su to bila vojna pitanja ili porodična nasledstva, ili ste možda godinama štedeli i štedeli da biste ih kupili. Vaše naoružanje je sada među vašim najvažnijim imanjima - jedino što stoji između vas i zagrljaja smrti.
 
-
 #### **Brza izrada**
 
-Možete brzo napraviti borca prateći ove predloge. Prvo, neka snaga ili spretnost budu vaša najveća ocijena sposobnosti, u zavisnosti od toga da li želite da se usredsredite na mele oružje ili na streličarstvo (ili fino oružje). Sledeći najviši rezultat bi vam trebao biti Građa ili obaveštajni podaci ako planirate da usvojite borilački arhetip Eldritch Knight. Drugo, odaberite pozadinu vojnika.
-
-
+Možete brzo napraviti borca prateći ove predloge. Prvo, neka Snaga ili Spretnost budu vaša najveća ocijena sposobnosti, u zavisnosti od toga da li želite da se usredsredite na oružje za blisku borbu ili na streličarstvo (ili fino oružje). Sledeći najviši rezultat bi vam trebao biti Građa ili Inteligencija ako planirate da usvojite borilački arhetip Tajanstvenog Viteza. Drugo, odaberite pozadinu vojnika.
 <table>
-  <tr>
-   <td> <strong>Nivo</strong>
-   </td>
-   <td> <strong>Stručnost</strong>
-
-<strong>Bonus</strong>
-   </td>
-   <td> <strong>Karakteristike</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 1.
-   </td>
-   <td> +2
-   </td>
-   <td> Borbeni stil, drugi vetar
-   </td>
-  </tr>
-  <tr>
-   <td> 2.
-   </td>
-   <td> +2
-   </td>
-   <td> Akcijski val (jednokratna upotreba)
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> +2
-   </td>
-   <td> Borbeni arhetip
-   </td>
-  </tr>
-  <tr>
-   <td> 4.
-   </td>
-   <td> +2
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> +3
-   </td>
-   <td> Dodatni napad
-   </td>
-  </tr>
-  <tr>
-   <td> 6.
-   </td>
-   <td> +3
-   </td>
-   <td> Abiliti Poboljšanje rezultata
-   </td>
-  </tr>
-  <tr>
-   <td> 7
-   </td>
-   <td> +3
-   </td>
-   <td> Martial Archetipe Feature
-   </td>
-  </tr>
-  <tr>
-   <td> 8.
-   </td>
-   <td> +3
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> +4
-   </td>
-   <td> Neukrotiv (jednokratna upotreba)
-   </td>
-  </tr>
-  <tr>
-   <td> 10.
-   </td>
-   <td> +4
-   </td>
-   <td> Martial Archetipe Feature
-   </td>
-  </tr>
-  <tr>
-   <td> 11.
-   </td>
-   <td> +4
-   </td>
-   <td> Dodatni napad (2)
-   </td>
-  </tr>
-  <tr>
-   <td> 12.
-   </td>
-   <td> +4
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 13
-   </td>
-   <td> +5
-   </td>
-   <td> Neukrotiv (dvije upotrebe)
-   </td>
-  </tr>
-  <tr>
-   <td> 14
-   </td>
-   <td> +5
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 15
-   </td>
-   <td> +5
-   </td>
-   <td> Martial Archetipe Feature
-   </td>
-  </tr>
-  <tr>
-   <td> 16
-   </td>
-   <td> +5
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 17th
-   </td>
-   <td> +6
-   </td>
-   <td> Akcijski nalet (dvije upotrebe), nesalomljiv (tri upotrebe)
-   </td>
-  </tr>
-  <tr>
-   <td> 18
-   </td>
-   <td> +6
-   </td>
-   <td> Martial Archetipe Feature
-   </td>
-  </tr>
-  <tr>
-   <td> 19
-   </td>
-   <td> +6
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 20.
-   </td>
-   <td> +6
-   </td>
-   <td> Dodatni napad (3)
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo</strong>
+      </td>
+      <td> <strong>Bonus</strong> <strong>Stručnosti</strong>
+      </td>
+      <td> <strong>Karakteristike</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 1.
+      </td>
+      <td> +2
+      </td>
+      <td> Borbeni stil, Drugi vjetar
+      </td>
+   </tr>
+   <tr>
+      <td> 2.
+      </td>
+      <td> +2
+      </td>
+      <td> Akcijski naboj (jednokratna upotreba)
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> +2
+      </td>
+      <td> Borbeni arhetip
+      </td>
+   </tr>
+   <tr>
+      <td> 4.
+      </td>
+      <td> +2
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> +3
+      </td>
+      <td> Dodatni napad
+      </td>
+   </tr>
+   <tr>
+      <td> 6.
+      </td>
+      <td> +3
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> +3
+      </td>
+      <td> Osobina borbenog arhetipa
+      </td>
+   </tr>
+   <tr>
+      <td> 8.
+      </td>
+      <td> +3
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> +4
+      </td>
+      <td> Neukrotiv (jednokratna upotreba)
+      </td>
+   </tr>
+   <tr>
+      <td> 10.
+      </td>
+      <td> +4
+      </td>
+      <td> Osobina borbenog arhetipa
+      </td>
+   </tr>
+   <tr>
+      <td> 11.
+      </td>
+      <td> +4
+      </td>
+      <td> Dodatni napad (2)
+      </td>
+   </tr>
+   <tr>
+      <td> 12.
+      </td>
+      <td> +4
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 13
+      </td>
+      <td> +5
+      </td>
+      <td> Neukrotiv (dvije upotrebe)
+      </td>
+   </tr>
+   <tr>
+      <td> 14
+      </td>
+      <td> +5
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 15
+      </td>
+      <td> +5
+      </td>
+      <td> osobina borbenog arhetip
+      </td>
+   </tr>
+   <tr>
+      <td> 16
+      </td>
+      <td> +5
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 17
+      </td>
+      <td> +6
+      </td>
+      <td> Akcijski nalet (dvije upotrebe), Nesalomljiv (tri upotrebe)
+      </td>
+   </tr>
+   <tr>
+      <td> 18
+      </td>
+      <td> +6
+      </td>
+      <td> Osobina borbenog arhetip
+      </td>
+   </tr>
+   <tr>
+      <td> 19
+      </td>
+      <td> +6
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 20.
+      </td>
+      <td> +6
+      </td>
+      <td> Dodatni napad (3)
+      </td>
+   </tr>
 </table>
-
 
 
 ## Karakteristike klase
 
 Kao borac stičete sledeće karakteristike klase.
-
 
 #### **Životni bodovi**
 
@@ -3461,7 +3449,6 @@ Kao borac stičete sledeće karakteristike klase.
 **Poeni na prvom nivou:** 10 + vaš modifikator Građe
 
 **Poeni na višim nivoima:** 1d10 (ili 6) + vaš modifikator Građe po nivou borca posle 1.
-
 
 #### **Stručnosti**
 
@@ -3473,77 +3460,61 @@ Kao borac stičete sledeće karakteristike klase.
 
 **Spasavanje bacanja:** Snaga, Građa
 
-**viještine:** Izaberite dvije viještine iz akrobacije, rukovanja životinjama, atletike, istorije, uvida, zastrašivanja, percepcije i preživljavanja
-
+**Viještine:** Izaberite dvije viještine iz AkrobacijA, Rukovanja životinjama, Atletika, Istorija, Uvid, Zastrašivanja, Percepcija i Preživljavanje
 
 #### **Oprema**
 
 Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
-
-
-
-* (a) lančana pošta ili (b) kožni oklop, dugačak luk i 20 strela
+* (a) lančani oklop ili (b) kožni oklop, dugačak luk i 20 strela
 * (a) borilačko oružje i štit ili (b) dva borilačka oružja
-* (a) lagani samostrel i 20 vijaka ili (b) dva handaksa
-* (a) tamničarski čopor ili (b) čopor istraživača
-
+* (a) lagani samostrel i 20 strijela ili (b) dvije ručne sjekire
+* (a) tamničarski paket ili (b) istraživački paket
 
 ### Borbeni stil
 
-Kao posebnost usvajate određeni stil borbe. Izaberite jednu od sledećih opcija. Ne možete više puta koristiti opciju Fighting Stile, čak i ako kasnije budete mogli ponovo da izaberete.
-
+Kao posebnost usvajate određeni stil borbe. Izaberite jednu od sledećih opcija. Ne možete više puta koristiti opciju Borbeni stil, čak i ako kasnije budete mogli ponovo da izaberete.
 
 #### **Streljaštvo**
 
-Dobijate +2 bonusa za napad na rolne koje pravite daljinskim oružjem.
-
+Dobijate +2 bonusa za napad na bacanja koje pravite oružjem za napad na daljinu.
 
 #### **Odbrana**
 
 Dok nosite oklop, dobijate +1 bonus za AC.
 
-
 #### **Dvoboj**
 
-Kada u jednoj ruci držite ručno oružje, a ne drugim oružjem, dobijate +2 bonusa za oštećenje koluta tim oružjem.
+Kada u jednoj ruci držite oružje za blisku borbu, a nemate drugo oružje, dobijate +2 bonusa za bacanja štete tim oružjem.
 
+#### **Borba sa velikim oružjem**
 
-#### **Velika borba sa oružjem**
-
-Kada bacite 1 ili 2 na kocku za štetu zbog napada koji napravite mele oružjem kojim rukujete sa dvije ruke, možete vratiti matricu i morate koristiti novi kolut, čak i ako je novi kolut 1 ili 2. Oružje mora imati dvoručno ili svestrano svojstvo da biste stekli ovu korist.
-
+Kada bacite 1 ili 2 na bacanju za štetu zbog napada koji napravite oružjem za blisku borbu kojim rukujete sa dvije ruke, možete bonovo baciti kockicu i morate koristiti novi rezultat, čak i ako je novi rezultat 1 ili 2. Oružje mora imati dvoručno ili svestrano svojstvo da biste stekli ovu korist.
 
 #### **Zaštita**
 
-Kada stvorenje koje možete videti napada drugu metu koja se nalazi na udaljenosti od 5 stopa od vas, možete da upotrebite svoju reakciju da biste nametnuli nedostatak na kolu za napad. Sigurno poseduješ štit.
-
+Kada stvorenje koje možete videti napada drugu metu koja se nalazi na udaljenosti od 5 stopa od vas, možete da upotrebite svoju reakciju da biste nametnuli nedostatak na bacanju za napad. Obavezno je nositi štit.
 
 #### **Borba sa dva oružja**
 
-Kada se upustite u borbu sa dva oružja, možete dodati svoj modifikator sposobnosti na štetu drugog napada.
-
+Kada se upustite u borbu sa dva oružja, možete dodati svoj modifikator Sposobnosti na štetu drugog napada.
 
 ### Drugi vetar
 
-Imate ograničen izvor izdržljivosti na koji možete da se oslonite kako biste se zaštitili od štete. Zauzvrat, možete iskoristiti bonus akciju da biste povratili pogodak jednak 1d10 + vaš nivo borca. Jednom kada koristite ovu funkciju, morate da završite kraći ili duži odmor da biste je mogli ponovo koristiti.
+Imate ograničen izvor izdržljivosti na koji možete da se oslonite kako biste se zaštitili od štete. na vašem potezu, možete iskoristiti bonus akciju da biste povratili životne bodove jednake 1d10 + vaš nivo borca. Jednom kada koristite ovu funkciju, morate da završite kraći ili duži odmor da biste je mogli ponovo koristiti.
 
-
-### Action Surge
+### Akcijski naboj
 
 Počevši od 2. nivoa, možete na trenutak da se pomerite preko svojih normalnih granica. Na svom potezu možete da preduzmete još jednu akciju povrh redovne akcije i moguće bonus akcije.
 
-Jednom kada koristite ovu funkciju, morate da završite kraći ili duži odmor da biste je mogli ponovo koristiti. Počevši od 17. nivoa, možete ga koristiti dva puta pre odmora, ali samo jednom na istom zavoju.
+Jednom kada koristite ovu funkciju, morate da završite kraći ili duži odmor da biste je mogli ponovo koristiti. Počevši od 17. nivoa, možete ga koristiti dva puta pre odmora, ali samo jednom na istom potezu.
 
+### Borilački Arhetip
 
-### Martial Archetipe
-
-Na trećem nivou odabirete arhetip koji želite da oponašate u svojim borbenim stilovima i tehnikama. Izaberite Šampiona, Borbenog majstora ili Eldritch viteza, sve detaljno na kraju opisa klase. Arhetip koji odaberete dodeljuje vam karakteristike na 3. nivou i ponovo na 7., 10., 15. i 18. nivou.
-
+Na trećem nivou odabirete arhetip koji želite da oponašate u svojim borbenim stilovima i tehnikama. Izaberite Šampiona, Borbenog majstora ili Tajanstvenog viteza, sve detaljno na kraju opisa klase. Arhetip koji odaberete dodeljuje vam karakteristike na 3. nivou i ponovo na 7., 10., 15. i 18. nivou.
 
 ### Poboljšanje ocijena sposobnosti
 
 Kada dostignete 4. nivo, i ponovo na 6., 8., 12., 14., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2 ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
-
 
 ### Dodatni napad
 
@@ -3551,82 +3522,68 @@ Počevši od 5. nivoa, možete napadati dva puta, umesto jednom, svaki put kada 
 
 Broj napada se povećava na tri kada dostignete 11. nivo u ovoj klasi i na četiri kada dođete do 20. nivoa u ovoj klasi.
 
-
 ### Neukrotiv
 
-Počevši od 9. nivoa, možete da vratite spasilačko bacanje koje ne uspete. Ako to učinite, morate da koristite novu rolnu i ne možete ponovo da koristite ovu funkciju dok ne završite duži odmor.
+Počevši od 9. nivoa, možete da vratite spasilačko bacanje koje ne uspete. Ako to učinite, morate da koristite novo bacanje i ne možete ponovo da koristite ovu funkciju dok ne završite duži odmor.
 
-Ovu funkciju možete koristiti dva puta između dugih odmora koji počinju na 13. nivou i tri puta između dugih odmora koji počinju na 17. nivou.
+Ovu funkciju možete koristiti dva puta između dugih odmora koji počev od 13. nivoa i tri puta između dugih odmora koji počev od 17. nivoa.
 
 
 ## Borbeni arhetipovi
 
 Različiti borci biraju različite pristupe usavršavanju svojih borbenih sposobnosti. Borbeni arhetip koji ste izabrali da oponašate odražava vaš pristup.
 
-
 ### Šampion
 
 Arhetipski Šampion se fokusira na razvoj sirove fizičke moći usavršene do smrtonosnog savršenstva. Oni koji se modeliraju na ovom arhetipu kombinuju rigorozni trening sa fizičkom izvrsnošću da bi zadali razorne udarce.
 
-
 #### **Poboljšana kritičnost**
 
-Počevši od odabira ovog arhetipa na 3. nivou, vaši napadi na oružje postižu kritičan pogodak na bacanju od 19 ili 20.
-
+Počevši od odabira ovog arhetipa na 3. nivou, vaši napadi vašeg oružja postižu kritičan pogodak na bacanju od 19 ili 20.
 
 #### **Izvanredni sportista**
 
-Počevši od 7. nivoa, možete dodati polovinu bonusa za stručnost (zaokruživanje) bilo kojoj proveri Snage, Spretnosti ili Građe koju već koristite i koja već ne koristi vaš bonus za stručnost.
+Počevši od 7. nivoa, možete dodati polovinu bonusa za stručnost (zaokruživanje na gore) bilo kojoj proveri Snage, Spretnosti ili Građe koju već koristite i koja već ne koristi vaš bonus za stručnost.
 
 Pored toga, kada napravite trkački skok u dalj, rastojanje koje možete preći povećava se za broj stopa jednak vašem modifikatoru Snage.
 
-
 #### **Dodatni stil borbe**
 
-Na 10. nivou, možete odabrati drugu opciju iz funkcije klase Fighting Stile.
+Na 10. nivou, možete odabrati drugu opciju iz funkcije klase Stil borbe.
 
+#### **Superiorni kritični**
 
-#### **Superior Critical**
-
-Počevši od 15. nivoa, vaši napadi na oružje postižu kritičan pogodak u bacanju od 18-20.
-
+Počevši od 15. nivoa, vaši napadi vašeg oružja postižu kritičan pogodak u bacanju od 18-20.
 
 #### **Preživeli**
 
-Na 18. nivou dostižete vrhunac otpornosti u borbi. Na početku svakog vašeg poteza vraćate pogođene poene jednake 5 + vašeg modifikatora Građe ako vam nije preostalo više od polovine pogodaka. Ovu pogodnost ne ostvarujete ako imate 0 pogodaka.
+Na 18. nivou dostižete vrhunac otpornosti u borbi. Na početku svakog vašeg poteza vraćate životne bodove jednake 5 + vaš modifikator Građe ako vam nije preostalo više od polovine životnih bodova. Ovu pogodnost ne ostvarujete ako imate 0 životnih bodova.
+
 
 
 ## Monah
 
+Šake joj se zamagljuju dok odbijaju dolazeću kišu strela, polu-vilenjak izvire iznad barikade i baca se u masovne redove hobgoblina na drugoj strani. Ona se kovitla među njima, odbijajući njihove udarce u stranu i slažući ih dok napokon ne ostane jedina na nogama.
 
+Duboko udahnuvši, čovek pokriven tetovažama smiri se u borbeni stav. Kad nalete prvi orci koji jurišaju, izdahne i iz njegovih usta tutnji eksplozija vatre koja zahvaća njegove neprijatlje.
 
+Krećući se noćnom tišinom, odeven u crno polutan ulazi u senku ispod luka i izlazi iz druge mastiljaste senke na balkonu udaljenom samo jedan kamen. Ona provuče oštricu od korica umotanih u platno i viri kroz otvoreni prozor prema princu tiraninu, tako ranjivom u zagrljaju sna.
 
-Šakama joj se zamagljuje dok odbijaju dolazeću tuču strela, polu-vilenjak izvire iznad barikade i baca se u masovne redove hobgoblina na drugoj strani. Ona se kovitla među njima, odbijajući njihove udarce u stranu i šaljući ih dok se napokon ne usamljuje.
-
-Duboko udahnuvši, čovek pokriven tetovažama smiri se u borbeni stav. Kad ga dođu prvi orci koji pune, izdahne i iz njegovih usta zaori grana vatre koja ga zahvaća.
-
-Krećući se noćnom tišinom, odeven u crno polufilm ulazi u senku ispod luka i izlazi iz druge mastiljaste senke na balkonu udaljenom samo jedan kamen. Ona provuče oštricu od korica umotanih u platno i viri kroz otvoreni prozor prema princu tiraninu, tako ranjivom u zagrljaju sna.
-
-Kakva god bila njihova disciplina, monasi su ujedinjeni u svojoj sposobnosti da magično iskoriste energiju koja teče u njihovim telima. Bez obzira da li je kanalizovana kao upečatljiv prikaz borbene snage ili suptilniji fokus odbrambene sposobnosti i brzine, ova energija uliva sve ono što monah radi.
-
+Kakva god bila njihova disciplina, monasi su ujedinjeni u svojoj sposobnosti da magično iskoriste energiju koja teče u njihovim telima. Bez obzira da li je kanalisana kao upečatljiv prikaz borbene snage ili suptilniji fokus odbrambene sposobnosti i brzine, ova energija uliva sve ono što monah radi.
 
 ### Čarolija Ki
 
-Monasi pažljivo proučavaju magijsku energiju koju većina monaških tradicija naziva** ki**. Ova energija je element magije koja prožima multiverzum - konkretno, element koji teče kroz živa tela. Monasi koriste ovu moć u sebi kako bi stvorili magične efekte i premašili fizičke mogućnosti svojih tela, a neki od njihovih posebnih napada mogu ometati protok ki kod njihovih protivnika. Koristeći ovu energiju, monasi usmeravaju neobičnu brzinu i snagu u svoje nenaoružane udare. Kako stiču iskustvo, njihov borilački trening i njihovo vladanje kirom daju im veću moć nad njihovim telima i telima njihovih neprijatelja.
-
+Monasi pažljivo proučavaju magijsku energiju koju većina monaških tradicija naziva **ki**. Ova energija je element magije koja prožima multiverzum - konkretno, element koji teče kroz živa tela. Monasi koriste ovu moć u sebi kako bi stvorili magične efekte i premašili fizičke mogućnosti svojih tela, a neki od njihovih posebnih napada mogu ometati protok ki kod njihovih protivnika. Koristeći ovu energiju, monasi usmeravaju neobičnu brzinu i snagu u svoje nenaoružane udare. Kako stiču iskustvo, njihov borilački trening i njihovo vladanje ki-om daju im veću moć nad njihovim telima i telima njihovih neprijatelja.
 
 ### Obuka i asketizam
 
-
-
-Mali klauzurni klauzurni talasi krajolike svetova D&D, sićušna skloništa od toka običnog života, gde vreme kao da stoji. Monasi koji tamo žive traže lično savršenstvo kroz kontemplaciju i rigoroznu obuku. Mnogi su ušli u manastir kao deca, poslati da tamo žive kad su im roditelji umrli, kada se nije mogla naći hrana za njihovo izdržavanje ili za uzvrat za neku dobrotu koju su monasi učinili za svoje porodice.
+Mali klauzurni talasi krajolike svetova D&D, sićušna skloništa od toka običnog života, gde vreme kao da stoji. Monasi koji tamo žive traže lično savršenstvo kroz kontemplaciju i rigoroznu obuku. Mnogi su ušli u manastir kao deca, poslati da tamo žive kad su im roditelji umrli, kada se nije mogla naći hrana za njihovo izdržavanje ili za uzvrat za neku dobrotu koju su monasi učinili za svoje porodice.
 
 Neki monasi žive potpuno odvojeno od okolnog stanovništva, odvojeni od svega toga može da im ometa duhovni napredak. Drugi su se zakleli na izolaciju, izlazeći samo da bi služili kao špijuni ili atentatori na zapovest svog vođe, plemenitog zaštitnika ili neke druge smrtne ili božanske moći.
 
 Većina monaha ne izbegava svoje komšije, često posećujući obližnje gradove ili sela i zamenjujući svoje usluge za hranu i drugu robu. Kao svestrani ratnici, monasi često na kraju štite svoje komšije od čudovišta ili tirana.
 
 Za monaha postati avanturista znači napustiti strukturirani zajednički životni stil i postati lutalica. Ovo može biti težak prelaz i monasi ga ne preduzimaju olako. Oni koji napuste samostan, ozbiljno shvataju svoj posao, pristupajući svojim avanturama kao lični testovi svog fizičkog i duhovnog rasta. Po pravilu, monasi malo brinu o materijalnom bogatstvu i vođeni su željom da ostvare veću misiju od pukog ubijanja čudovišta i pljačkanja njihovog blaga.
-
 
 ### Stvaranje monaha
 
@@ -3636,323 +3593,309 @@ Razmislite zašto ste otišli. Da li vas je poglavar manastira izabrao za posebn
 
 Kao rezultat strukturiranog života monaške zajednice i discipline koja je potrebna za uprezanje ki, monasi su gotovo uvek legalno usklađeni.
 
-
 #### **Brza izrada**
 
-Možete se brzo zamonašiti prateći ove predloge. Prvo, neka spretnost bude vaš najveći rezultat, a zatim mudrost. Drugo, odaberite pustinjačku pozadinu.
-
-
+Možete se brzo zamonašiti prateći ove predloge. Prvo, neka Spretnost bude vaš najveći rezultat, a zatim Mudrost. Drugo, odaberite pustinjačku pozadinu.
 <table>
-  <tr>
-   <td> <strong>Nivo</strong>
-   </td>
-   <td> <strong>Stručnost</strong>
-
-<strong>Bonus</strong>
-   </td>
-   <td> <strong>Vojni</strong>
-
-<strong>Umetnost</strong>
-   </td>
-   <td> <strong>Ki</strong>
-
-<strong>Poeni</strong>
-   </td>
-   <td> <strong>Neoklopljeni</strong>
-
-<strong>Kretanje</strong>
-   </td>
-   <td> <strong>Karakteristike</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 1.
-   </td>
-   <td> +2
-   </td>
-   <td> 1d4
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> Neoklopljena odbrana, borilačke viještine
-   </td>
-  </tr>
-  <tr>
-   <td> 2.
-   </td>
-   <td> +2
-   </td>
-   <td> 1d4
-   </td>
-   <td> 2
-   </td>
-   <td> +10 ft.
-   </td>
-   <td> Ki, Neoklopljeni pokret
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> +2
-   </td>
-   <td> 1d4
-   </td>
-   <td> 3
-   </td>
-   <td> +10 ft.
-   </td>
-   <td> Monaška tradicija, odbijte rakete
-   </td>
-  </tr>
-  <tr>
-   <td> 4.
-   </td>
-   <td> +2
-   </td>
-   <td> 1d4
-   </td>
-   <td> 4
-   </td>
-   <td> +10 ft.
-   </td>
-   <td> Poboljšanje ocijena sposobnosti, polagan pad
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> +3
-   </td>
-   <td> 1d6
-   </td>
-   <td> 5
-   </td>
-   <td> +10 ft.
-   </td>
-   <td> Dodatni napad, zapanjujući udarac
-   </td>
-  </tr>
-  <tr>
-   <td> 6.
-   </td>
-   <td> +3
-   </td>
-   <td> 1d6
-   </td>
-   <td> 6
-   </td>
-   <td> +15 ft.
-   </td>
-   <td> Štrajkovi sa moćima Ki, karakter monaške tradicije
-   </td>
-  </tr>
-  <tr>
-   <td> 7
-   </td>
-   <td> +3
-   </td>
-   <td> 1d6
-   </td>
-   <td> 7
-   </td>
-   <td> +15 ft.
-   </td>
-   <td> Utaja, tišina uma
-   </td>
-  </tr>
-  <tr>
-   <td> 8.
-   </td>
-   <td> +3
-   </td>
-   <td> 1d6
-   </td>
-   <td> 8
-   </td>
-   <td> +15 ft.
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> +4
-   </td>
-   <td> 1d6
-   </td>
-   <td> 9
-   </td>
-   <td> +15 ft.
-   </td>
-   <td> Poboljšanje neoklopljenog pokreta
-   </td>
-  </tr>
-  <tr>
-   <td> 10.
-   </td>
-   <td> +4
-   </td>
-   <td> 1d6
-   </td>
-   <td> 10
-   </td>
-   <td> +20 ft.
-   </td>
-   <td> Čistoća tela
-   </td>
-  </tr>
-  <tr>
-   <td> 11.
-   </td>
-   <td> +4
-   </td>
-   <td> 1d8
-   </td>
-   <td> 11
-   </td>
-   <td> +20 ft.
-   </td>
-   <td> Monaška tradicija
-   </td>
-  </tr>
-  <tr>
-   <td> 12.
-   </td>
-   <td> +4
-   </td>
-   <td> 1d8
-   </td>
-   <td> 12
-   </td>
-   <td> +20 ft.
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 13
-   </td>
-   <td> +5
-   </td>
-   <td> 1d8
-   </td>
-   <td> 13
-   </td>
-   <td> +20 ft.
-   </td>
-   <td> Jezik Sunca i Meseca
-   </td>
-  </tr>
-  <tr>
-   <td> 14
-   </td>
-   <td> +5
-   </td>
-   <td> 1d8
-   </td>
-   <td> 14
-   </td>
-   <td> +25 ft.
-   </td>
-   <td> Dijamantska duša
-   </td>
-  </tr>
-  <tr>
-   <td> 15
-   </td>
-   <td> +5
-   </td>
-   <td> 1d8
-   </td>
-   <td> 15
-   </td>
-   <td> +25 ft.
-   </td>
-   <td> Bezvremeno telo
-   </td>
-  </tr>
-  <tr>
-   <td> 16
-   </td>
-   <td> +5
-   </td>
-   <td> 1d8
-   </td>
-   <td> 16
-   </td>
-   <td> +25 ft.
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 17th
-   </td>
-   <td> +6
-   </td>
-   <td> 1d10
-   </td>
-   <td> 17
-   </td>
-   <td> +25 ft.
-   </td>
-   <td> Monaška tradicija
-   </td>
-  </tr>
-  <tr>
-   <td> 18
-   </td>
-   <td> +6
-   </td>
-   <td> 1d10
-   </td>
-   <td> 18
-   </td>
-   <td> +30 ft.
-   </td>
-   <td> Prazno telo
-   </td>
-  </tr>
-  <tr>
-   <td> 19
-   </td>
-   <td> +6
-   </td>
-   <td> 1d10
-   </td>
-   <td> 19
-   </td>
-   <td> +30 ft.
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 20.
-   </td>
-   <td> +6
-   </td>
-   <td> 1d10
-   </td>
-   <td> 20
-   </td>
-   <td> +30 ft.
-   </td>
-   <td> Savršeno Ja
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo</strong>
+      </td>
+      <td> <strong>Bonus</strong> <strong>Stručnosti</strong>
+      </td>
+      <td> <strong>Vojna</strong> <strong>Umetnost</strong>
+      </td>
+      <td> <strong>Ki</strong> <strong>Poeni</strong>
+      </td>
+      <td> <strong>Neoklopljeno</strong> <strong>Kretanje</strong>
+      </td>
+      <td> <strong>Karakteristike</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 1.
+      </td>
+      <td> +2
+      </td>
+      <td> 1d4
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> Neoklopljena odbrana, Borilačke viještine
+      </td>
+   </tr>
+   <tr>
+      <td> 2.
+      </td>
+      <td> +2
+      </td>
+      <td> 1d4
+      </td>
+      <td> 2
+      </td>
+      <td> +10 ft.
+      </td>
+      <td> Ki, Neoklopljeni pokret
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> +2
+      </td>
+      <td> 1d4
+      </td>
+      <td> 3
+      </td>
+      <td> +10 ft.
+      </td>
+      <td> Monaška tradicija, Odbijnje projektila
+      </td>
+   </tr>
+   <tr>
+      <td> 4.
+      </td>
+      <td> +2
+      </td>
+      <td> 1d4
+      </td>
+      <td> 4
+      </td>
+      <td> +10 ft.
+      </td>
+      <td> Poboljšanje ocijena sposobnosti, Polagan pad
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> +3
+      </td>
+      <td> 1d6
+      </td>
+      <td> 5
+      </td>
+      <td> +10 ft.
+      </td>
+      <td> Dodatni napad, Zapanjujući udarac
+      </td>
+   </tr>
+   <tr>
+      <td> 6.
+      </td>
+      <td> +3
+      </td>
+      <td> 1d6
+      </td>
+      <td> 6
+      </td>
+      <td> +15 ft.
+      </td>
+      <td> Udarci sa moćima Ki, Karakter monaške tradicije
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> +3
+      </td>
+      <td> 1d6
+      </td>
+      <td> 7
+      </td>
+      <td> +15 ft.
+      </td>
+      <td> Izvjegavanje, Tišina uma
+      </td>
+   </tr>
+   <tr>
+      <td> 8.
+      </td>
+      <td> +3
+      </td>
+      <td> 1d6
+      </td>
+      <td> 8
+      </td>
+      <td> +15 ft.
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> +4
+      </td>
+      <td> 1d6
+      </td>
+      <td> 9
+      </td>
+      <td> +15 ft.
+      </td>
+      <td> Poboljšanje neoklopljenog pokreta
+      </td>
+   </tr>
+   <tr>
+      <td> 10.
+      </td>
+      <td> +4
+      </td>
+      <td> 1d6
+      </td>
+      <td> 10
+      </td>
+      <td> +20 ft.
+      </td>
+      <td> Čistoća tijela
+      </td>
+   </tr>
+   <tr>
+      <td> 11.
+      </td>
+      <td> +4
+      </td>
+      <td> 1d8
+      </td>
+      <td> 11
+      </td>
+      <td> +20 ft.
+      </td>
+      <td> Monaška tradicija
+      </td>
+   </tr>
+   <tr>
+      <td> 12.
+      </td>
+      <td> +4
+      </td>
+      <td> 1d8
+      </td>
+      <td> 12
+      </td>
+      <td> +20 ft.
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 13
+      </td>
+      <td> +5
+      </td>
+      <td> 1d8
+      </td>
+      <td> 13
+      </td>
+      <td> +20 ft.
+      </td>
+      <td> Jezik Sunca i Meseca
+      </td>
+   </tr>
+   <tr>
+      <td> 14
+      </td>
+      <td> +5
+      </td>
+      <td> 1d8
+      </td>
+      <td> 14
+      </td>
+      <td> +25 ft.
+      </td>
+      <td> Dijamantska duša
+      </td>
+   </tr>
+   <tr>
+      <td> 15
+      </td>
+      <td> +5
+      </td>
+      <td> 1d8
+      </td>
+      <td> 15
+      </td>
+      <td> +25 ft.
+      </td>
+      <td> Bezvremeno telo
+      </td>
+   </tr>
+   <tr>
+      <td> 16
+      </td>
+      <td> +5
+      </td>
+      <td> 1d8
+      </td>
+      <td> 16
+      </td>
+      <td> +25 ft.
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 17
+      </td>
+      <td> +6
+      </td>
+      <td> 1d10
+      </td>
+      <td> 17
+      </td>
+      <td> +25 ft.
+      </td>
+      <td> Monaška tradicija
+      </td>
+   </tr>
+   <tr>
+      <td> 18
+      </td>
+      <td> +6
+      </td>
+      <td> 1d10
+      </td>
+      <td> 18
+      </td>
+      <td> +30 ft.
+      </td>
+      <td> Prazno telo
+      </td>
+   </tr>
+   <tr>
+      <td> 19
+      </td>
+      <td> +6
+      </td>
+      <td> 1d10
+      </td>
+      <td> 19
+      </td>
+      <td> +30 ft.
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 20.
+      </td>
+      <td> +6
+      </td>
+      <td> 1d10
+      </td>
+      <td> 20
+      </td>
+      <td> +30 ft.
+      </td>
+      <td> Savršeni Ja
+      </td>
+   </tr>
 </table>
-
-
 
 ## Karakteristike klase
 
 Kao monah steknete sledeće karakteristike klase.
-
 
 #### **Životni bodovi**
 
@@ -3960,8 +3903,7 @@ Kao monah steknete sledeće karakteristike klase.
 
 **Poeni na prvom nivou:** 8 + vaš modifikator Građe
 
-**Poeni na višim nivoima:** 1d8 (ili 5) + vaš modifikator konstitucije po nivou monaha nakon 1. stepena
-
+**Poeni na višim nivoima:** 1d8 (ili 5) + vaš modifikator Građe po nivou monaha nakon 1. nivoa
 
 #### **Stručnosti**
 
@@ -3971,201 +3913,167 @@ Kao monah steknete sledeće karakteristike klase.
 
 **Alati:** Izaberite jednu vrstu zanatskih alata ili jedan muzički instrument
 
-**Spašavanje bacanja:** Snaga, spretnost
+**Spašavanje bacanja:** Snaga, Spretnost
 
-**viještine:** Izaberite dvije iz akrobatike, atletike, istorije, uvida, religije i stelta
-
+**viještine:** Izaberite dvije iz Akrobatika, Atletika, Istorija, Uvid, Religija i Skrivanje
 
 #### **Oprema**
 
 Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
-
-
-
 * (a) kratka mač ili (b) bilo koje jednostavno oružje
-* (a) tamničarski čopor ili (b) čopor istraživača
+* (a) tamničarski paket ili (b) istraživački paket
 * 10 strelica
-
 
 ### Neoklopljena odbrana
 
 Počevši od 1. nivoa, dok nemate oklop i ne koristite štit, vaš AC je jednak 10 + vaš modifikator Spretnosti + vaš modifikator Mudrosti.
 
-
 ### Borilačke viještine
 
-Na 1. nivou, vežbanje borilačkih viještina daje vam majstorstvo u borbenim stilovima koji koriste nenaoružane udare i monaško oružje, a to su kratke mačeve i bilo koje jednostavno ručno oružje koje nema dvoručno ili teško svojstvo.
+Na 1. nivou, vežbanje borilačkih viještina daje vam majstorstvo u borbenim stilovima koji koriste nenaoružane udarce i monaško oružje, a to su kratki mačevi i bilo koje jednostavno ručno oružje koje nema dvoručno ili teško svojstvo.
 
 Dobijate sledeće pogodnosti dok ste nenaoružani ili nosite samo monaško oružje i ne nosite oklop ili štit:
-
-
-
-* Spretnost umesto Snage možete koristiti za napad i oštetiti kolute svojih nenaoružanih udaraca i monaškog oružja.
-* Možete da kotrljate d4 umesto uobičajene štete vašeg nenaoružanog udarnog ili monaškog oružja. Ova kocka se menja kako dobijate nivo monaha, kao što je prikazano u koloni borilačkih viještina tabele Monk.
-* Kada na svom potezu koristite akciju Napad sa nenaoružanim udarom ili monaškim oružjem, možete da izvršite jedan nenaoružani udar kao bonus akciju. Na primer, ako preduzmete akciju Napad i napadnete četvorkom štaba, takođe možete da izvršite nenaoružani štrajk kao bonus akciju, pod pretpostavkom da još niste preduzeli bonus akciju na ovom potezu.
+* Spretnost umesto Snage možete koristiti za napad i bacanja štete svojih nenaoružanih udaraca i monaškog oružja.
+* Možete da bacate d4 umesto uobičajene štete vašeg nenaoružanog udarnca ili monaškog oružja. Ova kocka se menja kako dobijate nivo monaha, kao što je prikazano u koloni borilačkih viještina tabele Monah.
+* Kada na svom potezu koristite akciju Napad sa nenaoružanim udarcem ili monaškim oružjem, možete da izvršite jedan nenaoružani udarac kao bonus akciju. Na primer, ako preduzmete akciju Napad i napadnete motkom, takođe možete da izvršite nenaoružani napad kao bonus akciju, pod pretpostavkom da još niste preduzeli bonus akciju na ovom potezu.
 
 Pojedini manastiri koriste specijalizovane oblike monaškog oružja. Na primer, možete da koristite palicu koja je dvije dužine drveta povezana kratkim lancem (koji se naziva nunčaku) ili srp sa kraćom, ravnijom oštricom (koja se naziva kama). Bilo koje ime da koristite za monaško oružje, možete koristiti statistiku igre za oružje u poglavlju 5, „Oprema“.
 
-
 ### Ki
 
-Počevši od 2. nivoa, vaš trening vam omogućava da iskoristite mističnu energiju ki. Vaš pristup ovoj energiji predstavljen je brojem ki bodova. Vaš nivo monaha određuje broj bodova koje imate, kao što je prikazano u koloni Ki Points tabele Monk.
+Počevši od 2. nivoa, vaš trening vam omogućava da iskoristite mističnu energiju ki. Vaš pristup ovoj energiji predstavljen je brojem ki bodova. Vaš nivo monaha određuje broj bodova koje imate, kao što je prikazano u koloni Ki poeni tabele Monah.
 
 Možete potrošiti ove bodove da biste podstakli razne ki funkcije. Počinjete da znate tri takve karakteristike: Nalet udara, Odbrana pacijenta i Korak vetra. Naučite više ki funkcija tokom sticanja nivoa u ovoj klasi.
 
-Kada potrošite ki ki, ona je nedostupna dok ne završite kraći ili duži odmor, na kraju kojeg sav potrošeni ki ponovo uvlačite u sebe. Morate provesti najmanje 30 minuta odmora meditirajući da biste povratili ki poene.
+Kada potrošite ki poene, ona je nedostupna dok ne završite kraći ili duži odmor, na kraju kojeg sav potrošeni ki ponovo uvlačite u sebe. Morate provesti najmanje 30 minuta odmora meditirajući da biste povratili ki poene.
 
-Neke od vaših ki karakteristika zahtevaju da vaša meta izvrši spasonosno bacanje kako bi se oduprla efektima funkcije. DC štednog bacanja izračunava se na sledeći način:
+Neke od vaših ki karakteristika zahtevaju da vaša meta izvrši spasonosno bacanje kako bi se oduprla efektima funkcije. DC bacanja za štetu izračunava se na sledeći način:
 
-**Ki save DC** = 8 + vaš bonus za znanje + vaš modifikator Mudrosti
+**DC sapasa od Ki** = 8 + vaš bonus stručnost + vaš modifikator Mudrosti
 
 #### **Nalet udaraca**
 
-Neposredno nakon što na svom potezu preduzmete akciju Attack, možete potrošiti 1 ki bod da napravite dva nenaoružana udarca kao bonus akciju.
-
+Neposredno nakon što na svom potezu preduzmete akciju Napad, možete potrošiti 1 ki bod da napravite dva nenaoružana udarca kao bonus akciju.
 
 #### **Odbrana pacijenta**
 
-Možete potrošiti 1 ki bod da biste izvršili Dodge akciju kao bonus akciju na svom potezu.
-
+Možete potrošiti 1 ki bod da biste izvršili Izbiječi akciju kao bonus akciju na svom potezu.
 
 #### **Korak vetra**
 
-Možete potrošiti 1 ki bod da biste pokrenuli akciju Otkačivanje ili Crtica kao bonus akciju na svom okretu, a vaša razdaljina skoka se udvostručuje za okret.
-
+Možete potrošiti 1 ki bod da biste pokrenuli akciju Otkazivanje ili Juriš kao bonus akciju na svom okretu, a vaša razdaljina skoka se udvostručuje za potez.
 
 ### Neoklopljeni pokret
 
-Počevši od 2. nivoa, brzina se povećava za 10 stopa dok niste u oklopu ili štitite. Ovaj bonus se povećava kada dostignete određene nivoe monaha, kao što je prikazano u tabeli Monah.
+Počevši od 2. nivoa, brzina se povećava za 10 stopa dok niste u oklopu ili ne nosite štit. Ovaj bonus se povećava kada dostignete određene nivoe monaha, kao što je prikazano u tabeli Monah.
 
-Na 9. nivou steknete sposobnost kretanja po vertikalnim površinama i po tečnostima u svom okretu bez pada tokom kretanja.
+Na 9. nivou steknete sposobnost kretanja po vertikalnim površinama i po tečnostima u svom potezu bez pada tokom kretanja.
 
+### Monaška tradicija
 
-### Monaško predanje
+Kada dostignete 3. nivo, obavezujete se na monašku tradiciju: Put otvorene ruke, Put sjene ili Put četiri elementa, a sve je to detaljno na kraju opisa klase. Vaša tradicija vam daje karakteristike na 3. nivou i ponovo na 6., 11. i 17. nivou.
 
-Kada dostignete 3. nivo, obavezujete se na monašku tradiciju: Put otvorene ruke, Put sjene ili Put četiri elementa, a sve je to detaljno na kraju opisa časa. Vaša tradicija vam daje karakteristike na 3. nivou i ponovo na 6., 11. i 17. nivou.
+### Uklonite projektile
 
+Počevši od 3. nivoa, možete koristiti svoju reakciju za odbijanje ili hvatanje projektila kada vas pogodi napad oružja na daljinu. Kada to učinite, šteta koju pretrpite u napadu smanjuje se za 1d10 + vaš modifikator Spretnosti + vaš nivo monaha.
 
-### Uklonite rakete
-
-Počevši od 3. nivoa, možete koristiti svoju reakciju za odbijanje ili hvatanje projektila kada vas pogodi napad daljinskog oružja. Kada to učinite, šteta koju pretrpite u napadu smanjuje se za 1d10 + vaš modifikator Spretnosti + vaš nivo monaha.
-
-Ako štetu smanjite na 0, možete uhvatiti raketu ako je dovoljno mala da je možete držati u jednoj ruci i ako imate bar jednu ruku slobodnu. Ako na ovaj način uhvatite raketu, možete potrošiti 1 ki bod da izvršite napad na daljinu oružjem ili komadom municije koje ste upravo ulovili, kao deo iste reakcije. Ovaj napad vršite sa veštinom, bez obzira na vaše znanje, a projektil se računa kao monaško oružje za napad, koji ima normalan domet od 20 stopa i dugačak domet od 60 stopa.
-
+Ako štetu smanjite na 0, možete uhvatiti projektil ako je dovoljno mali da je možete držati u jednoj ruci i ako imate bar jednu ruku slobodnu. Ako na ovaj način uhvatite projektil, možete potrošiti 1 ki bod da izvršite napad na daljinu oružjem ili komadom municije koje ste upravo ulovili, kao deo iste reakcije. Ovaj napad vršite sa veštinom, bez obzira na vaše znanje, a projektil se računa kao monaško oružje za napad, koji ima normalan domet od 20 stopa i dugačak domet od 60 stopa.
 
 ### Poboljšanje ocijena sposobnosti
 
 Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
+### Spor pad
 
-### Sporo pada
-
-Počevši od 4. nivoa, možete da upotrebite svoju reakciju kada padnete da biste smanjili eventualnu štetu koja vam padne za iznos jednak pet puta većem od nivoa monaha.
-
+Počevši od 4. nivoa, možete da upotrebite svoju reakciju kada padnete da biste smanjili eventualnu štetu prilikom padne za iznos jednak pet puta većem od nivoa monaha.
 
 ### Dodatni napad
 
 Počevši od 5. nivoa, možete napadati dva puta, umesto jednom, svaki put kada preduzmete akciju Napad na svom potezu.
 
+### Zapanjujući udarac
 
-### Zapanjujući štrajk
+Počev od 5. nivoa, možete ometati protok ki u telu protivnika. Kada pogodiš neko drugo stvorenje napadom oružja za blisku borbu, možeš potrošiti 1 ki bod da pokušaš zapanjujući udar. Cilj mora uspeti u spasilačkom bacanju ili biti omamljen do kraja vašeg sledećeg poteza.
 
-Počev od 5. nivoa, možete ometati protok ki u telu protivnika. Kada pogodiš neko drugo stvorenje napadom ručnog oružja, možeš potrošiti 1 ki bod da pokušaš zapanjujući udar. Cilj mora uspeti u spasilačkom bacanju ili biti omamljen do kraja vašeg sledećeg poteza.
-
-
-### Ki-Empovered Strikes
+### Udarci pojačani sa Ki
 
 Počevši od 6. nivoa, vaši nenaoružani udari se smatraju čarobnim u svrhu prevazilaženja otpora i imuniteta na nemagične napade i štetu.
 
+### Izbjegavanje
 
-### Utaja
-
-Na 7. nivou, vaša instinktivna okretnost vam omogućava da izbegnete određene efekte područja, poput daha munje plavog zmaja ili čarolije _fireball_. Kada ste podvrgnuti efektu koji vam omogućava da napravite spretno bacanje da biste uzeli samo pola štete, umesto toga nećete pretrpeti štetu ako uspete u spasilačkom bacanju, a samo pola štete ako ne uspete.
-
+Na 7. nivou, vaša instinktivna okretnost vam omogućava da izbegnete određene efekte područja, poput daha munje plavog zmaja ili čarolije _batrena lopta_. Kada ste podvrgnuti efektu koji vam omogućava da napravite bacanje spasa Spretnosti da biste uzeli samo pola štete, umesto toga nećete pretrpeti štetu ako uspete u spasilačkom bacanju, a samo pola štete ako ne uspete.
 
 ### Tišina uma
 
-Počevši od 7. nivoa, možete da koristite svoju akciju da biste zaGrađaili jedan efekat na sebe zbog kojeg ćete biti očarani ili uplašeni.
-
+Počevši od 7. nivoa, možete da koristite svoju akciju da biste zaustavili jedan efekat na sebe zbog kojeg ćete biti očarani ili uplašeni.
 
 ### Čistoća tela
 
-Na 10. nivou, vaše vladanje kijem koji prolazi kroz vas čini vas imunim na bolesti i otrove.
-
+Na 10. nivou, vaše vladanje ki-jem koji prolazi kroz vas čini vas imunim na bolesti i otrove.
 
 ### Jezik Sunca i Meseca
 
 Počevši od 13. nivoa, naučite da dodirujete ki drugih umova tako da razumete sve govorne jezike. Štaviše, svako stvorenje koje razume jezik može razumeti ono što kažete.
 
-
 ### Dijamantska duša
 
-Počevši od 14. nivoa, vaše vladanje ki vam daje znanje u svim štednim bacanjima.
+Počevši od 14. nivoa, vaše vladanje ki vam daje znanje u svim bacanjima za štetu.
 
-Pored toga, kad god napravite spasonosno bacanje i ne uspete, možete potrošiti 1 ki bod da biste ga premotali i uzeli drugi rezultat.
-
+Pored toga, kad god napravite spasonosno bacanje i ne uspete, možete potrošiti 1 ki bod da biste ga ponovo bacali i uzeli drugi rezultat.
 
 ### Bezvremeno telo
 
-Na 15. nivou vas ki izdržava tako da ne trpite ništa od starosti i ne možete čarobno da ostarite. Međutim, i dalje možete umreti od starosti. Pored toga, više vam nije potrebna ni hrana ni voda.
-
+Na 15. nivou vas ki izdržava tako da ne trpite nus pojave starosti i ne možete čarobno da ostarite. Međutim, i dalje možete umreti od starosti. Pored toga, više vam nije potrebna ni hrana ni voda.
 
 ### Prazno telo
 
-Počevši od 18. nivoa, možete da iskoristite svoju akciju da potrošite 4 ki poena da biste postali nevidljivi 1 minut. Za to vreme imate i otpor prema svim oštećenjima, ali prisilnim oštećenjima.
+Počevši od 18. nivoa, možete da iskoristite svoju akciju da potrošite 4 ki poena da biste postali nevidljivi 1 minut. Za to vreme imate i otpor prema svim oštećenjima, osim oštećenja silom.
 
 Pored toga, možete potrošiti 8 ki poena da biste bacili čaroliju _astralne projekcije_, bez potrebe za materijalnim komponentama. Kada to učinite, ne možete povesti sa sobom bilo koja druga stvorenja.
 
+### Savršeni Ja
 
-### Savršeno Ja
-
-Na 20. nivou, kada se zalažete za inicijativu i nemate preostalih ki bodova, vraćate 4 ki poena.
+Na 20. nivou, kada se bacate za inicijativu i nemate preostalih ki bodova, vraćate 4 ki poena.
 
 
-## Monaška predanja
+## Monaška tradicija
 
 Tri tradicije monaškog bavljenja česte su u manastirima raštrkanim po multiverzumu. Većina manastira praktikuje isključivo jednu tradiciju, ali nekolicina poštuje tri tradicije i upućuje svakog monaha u skladu sa njegovim sklonostima i interesovanjima. Sve tri tradicije oslanjaju se na iste osnovne tehnike, razilazeći se kako učenik postaje spretniji. Dakle, monah treba da odabere tradiciju tek kada dostigne 3. nivo.
-
 
 ### Put otvorene ruke
 
 Monasi na putu otvorene ruke su vrhunski majstori borilačkih viještina, bilo naoružani ili nenaoružani. Uče tehnike guranja i sapletanja protivnika, manipulišu ki kako bi zacelili štetu na telima i vežbaju naprednu meditaciju koja ih može zaštititi od štete.
 
-
 #### **Tehnika otvorenih ruku**
 
-Počevši od odabira ove tradicije na 3. nivou, možete manipulisati kišom svog neprijatelja kada iskoristite svoju. Kad god pogodite stvorenje jednim od napada koje vam odobri Vaš Šut udaraca, možete nametnuti jedan od sledećih efekata na tu metu:
-
-
-
-* Mora uspeti u spremanju za spretnost ili biti sklon.
-* Mora da izvede bacanje Snage. Ako ne uspe, možete da je gurnete do 15 stopa od sebe.
-* Ne mogu potrajati reakcije do kraja vašeg sledećeg poteza.
-
-
+Počevši od odabira ove tradicije na 3. nivou, možete manipulisati ki-jom svog neprijatelja kada iskoristite svoj. Kad god pogodite stvorenje jednim od napada koje vam odobri vaš Nalet udaraca, možete nametnuti jedan od sledećih efekata na tu metu:
+* Mora uspeti u bacanju spasa Spretnosti ili biti oboren u ležeći položaj.
+* Mora da izvede bacanje spasa Snage. Ako ne uspe, možete da ga gurnete do 15 stopa od sebe.
+* Ne mogu koristiti reakcije do kraja vašeg sledećeg poteza.
+ 
 #### **Celovitost tela**
 
-Na 6. nivou steknete sposobnost da se izlečite. Kao akciju možete da vratite poene pogodne tri puta više od nivoa monaha. Morate završiti duži odmor da biste mogli ponovo da koristite ovu funkciju.
-
+Na 6. nivou steknete sposobnost da se izlečite. Kao akciju možete da vratite životne bodove tri puta više od nivoa monaha. Morate završiti duži odmor da biste mogli ponovo da koristite ovu funkciju.
 
 #### **Spokoj**
 
-Počevši od 11. nivoa, možete ući u posebnu meditaciju koja vas okružuje aurom mira. Na kraju dugog odmora dobijate efekat čarolije _svetišta_ koja traje do početka vašeg sledećeg dugog odmora (čarolija se može završiti ranije kao obično). Spasonosno bacanje DC za čaroliju jednako je 8 + vaš modifikator Mudrosti + vaš bonus za znanje.
-
+Počevši od 11. nivoa, možete ući u posebnu meditaciju koja vas okružuje aurom mira. Na kraju dugog odmora dobijate efekat čarolije _svetišta_ koja traje do početka vašeg sledećeg dugog odmora (čarolija se može završiti ranije kao obično). Spasonosno bacanje DC za čaroliju jednako je 8 + vaš modifikator Mudrosti + vaš bonus za stručnost.
 
 #### **Drhtaj dlanova**
 
-Na 17. nivou stičete sposobnost postavljanja smrtonosnih vibracija u nečijem telu. Kada udarite stvorenje nenaoružanim udarcem, možete potrošiti 3 ki poena da biste pokrenuli ove neprimetne vibracije, koje traju nekoliko dana jednake vašem nivou monaha. Vibracije su bezopasne ukoliko ne upotrebite svoju akciju da ih zaGrađaite. Da biste to uradili, vi i meta morate biti na istoj ravni postojanja. Kada koristite ovu akciju, stvorenje mora da napravi spasonosno bacanje. Ako ne uspe, smanjuje se na 0 pogodaka. Ako uspe, treba 10d10 nekrotičnih oštećenja.
+Na 17. nivou stičete sposobnost postavljanja smrtonosnih vibracija u nečijem telu. Kada udarite stvorenje nenaoružanim udarcem, možete potrošiti 3 ki poena da biste pokrenuli ove neprimetne vibracije, koje traju nekoliko dana jednake vašem nivou monaha. Vibracije su bezopasne ukoliko ne upotrebite svoju akciju da ih zaustavite. Da biste to uradili, vi i meta morate biti na istoj ravni postojanja. Kada koristite ovu akciju, stvorenje mora da napravi spasonosno bacanje Građe. Ako ne uspe, smanjuje se na 0 pogodaka. Ako uspe, prima 10d10 nekrotičnog oštećenja.
 
-Možete istovremeno imati samo jedno biće pod dejstvom ove funkcije. Možete izabrati da neškodljivo zaGrađaite vibracije bez upotrebe radnje.
+Možete istovremeno imati samo jedno biće pod dejstvom ove funkcije. Možete izabrati da neškodljivo zaustavite vibracije bez upotrebe radnje.
 
-**MONASTIČKI POREDCI**
+>**MONASTIČKI POREDCI**
+>
+>Svetovi D&D sadrže mnoštvo manastira i monaških tradicija. U zemljama sa azijskim kulturnim ukusom, kao što je Šou Lung daleko na istoku Zaboravljenih carstava, ovi manastiri su povezani sa filozofskim tradicijama i borilačkim veštinama. Škola gvozdene ruke, Škola pet zvezda, Škola severne pesnice i Škola južnih zvezda Šou Lunga podučavaju različite pristupe fizičkim, mentalnim i duhovnim disciplinama monaha. Neki od ovih manastira proširili su se na zapadne zemlje Faerun, posebno u mestima sa velikim imigrantskim zajednicama šoua, poput Theska i Vestgejta.
+>
+>Ostale monaške tradicije povezane su sa božanstvima koja podučavaju vrednost fizičke izvrsnosti i mentalne discipline. U Zaboravljenim carstvima, poredak Tamnog Meseca čine monasi posvećeni Šaru (boginji gubitka), koji održavaju tajne zajednice u udaljenim brdima, zadnjim saveznicima i podzemnim skrovištima. Manastiri Ilmater (bog izdržljivosti) nazvani su po cveću, a njihovi redovi nose imena velikih heroja vere; učenici Svetog Solara Dvaput mučenika borave u manastiru Žute ruže kod Damare. Manastiri Eberron kombinuju proučavanje borilačkih viještina sa naučnim životom. Većina je posvećena božanstvima Suverenog Domaćina. U svetu Zmaja, većina monaha je posvećena Majereu, bogu meditacije i misli. U Greihavku su mnogi manastiri posvećeni Ksan Iae, boginji sumraka i superiornosti uma nad materijom, ili Zuokenu, bogu mentalnog i fizičkog ovladavanja.
+>
+>Zli monasi Skarletnog bratstva u svetu Greihavka svoju fanatičnu revnost ne crpe iz predanosti bogu, već u posvećenosti principima svoje nacije i svoje rase - uverenju da je suelski niz čovečanstva namenjen da vlada svetom.
 
-Svetovi D&D sadrže mnoštvo manastira i monaških tradicija. U zemljama sa azijskim kulturnim ukusom, kao što je Šou Lung daleko na istoku Zaboravljenih carstava, ovi manastiri su povezani sa filozofskim tradicijama i borilačkim veštinama. Škola gvozdene ruke, Škola pet zvezda, Škola severne pesnice i Škola južnih zvezda Šou Lunga podučavaju različite pristupe fizičkim, mentalnim i duhovnim disciplinama monaha. Neki od ovih manastira proširili su se na zapadne zemlje Faerun, posebno u mestima sa velikim imigrantskim zajednicama šoua, poput Theska i Vestgatea.
 
-Ostale monaške tradicije povezane su sa božanstvima koja podučavaju vrednost fizičke izvrsnosti i mentalne discipline. U Zaboravljenim carstvima, poredak Tamnog Meseca čine monasi posvećeni Šaru (boginji gubitka), koji održavaju tajne zajednice u udaljenim brdima, zadnjim saveznicima i podzemnim skrovištima. Manastiri Ilmater (bog izdržljivosti) nazvani su po cveću, a njihovi redovi nose imena velikih heroja vere; učenici Svetog Solara Dvaput mučenika borave u manastiru Žute ruže kod Damare. Manastiri Eberron kombinuju proučavanje borilačkih viještina sa naučnim životom. Većina je posvećena božanstvima Suverenog Domaćina. U svetu Zmaja, većina monaha je posvećena Majereu, bogu meditacije i misli. U Greihavku su mnogi manastiri posvećeni Ksan Iae, boginji sumraka i superiornosti uma nad materijom, ili Zuokenu, bogu mentalnog i fizičkog ovladavanja.
-
-Zli monasi Skarletnog bratstva u svetu Greihavka svoju fanatičnu revnost ne crpe iz predanosti bogu, već u posvećenosti principima svoje nacije i svoje rase - uverenju da je suelski niz čovečanstva namenjen da vlada svetom.
 
 ## Paladin
 
