@@ -6239,7 +6239,7 @@ Možete brzo stvoriti vrača prateći ove predloge. Prvo, karizma bi trebala bi
    </td>
    <td rowspan = "2"> <strong> Karakteristike </strong>
    </td>
-   <td rovpan = "2"> <strong> Cantrips </strong>
+   <td rowspan = "2"> <strong> Cantrips </strong>
 
 <strong> Poznato </strong>
    </td>
@@ -8168,7 +8168,7 @@ Možete brzo napraviti čarobnjaka prateći ove predloge. Prvo, inteligencija b
    </td>
    <td rowspan = "2"> <strong> Karakteristike </strong>
    </td>
-   <td rovpan = "2"> <strong> Cantrips </strong>
+   <td rowspan = "2"> <strong> Cantrips </strong>
 
 <strong> Poznato </strong>
    </td>
