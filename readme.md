@@ -21,6 +21,7 @@
 * [Dio 3 - Pravilo magije](https://joxgit.github.io/DnD-Osnovna-Pravila/dio3)
     * [Poglavlje 10: Čaranje](https://joxgit.github.io/DnD-Osnovna-Pravila/dio3#poglavlje-10-%C4%8Daranje)
     * [Poglavlje 11: Čarolije](https://joxgit.github.io/DnD-Osnovna-Pravila/dio3#poglavlje-11-%C4%8Darolije)
+* [Dodatak A - Stanja](https://joxgit.github.io/DnD-Osnovna-Pravila/dodatakA#Dodatak%20A:%20Stanja)
 * [List karaktera](https://github.com/JoxGit/DnD-Osnovna-Pravila/blob/main/List%20karaktera.docx?raw=true)
 
 
