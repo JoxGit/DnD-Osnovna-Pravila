@@ -1832,7 +1832,7 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
       </td>
    </tr>
    <tr>
-      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Warlock">Veštac</a></strong>
+      <td><strong><a href="https://www.dndbeyond.com/sources/basic-rules/classes#Warlock">Viještac</a></strong>
       </td>
       <td>Upravljač magije koji je izvedena iz dogovora sa ekstraplanarnim entitetom
       </td>
@@ -1902,7 +1902,7 @@ Dvanaest osnovnih klasa - navedene u tabeli Klase - nalaze se u gotovo svakom D&
 [Sorcerer](https://www.dndbeyond.com/sources/basic-rules/classes#Sorcerer)
 
 
-## Veštac
+## Viještac
 [Warlock](https://www.dndbeyond.com/sources/basic-rules/classes#Warlock)
 
 
@@ -6048,7 +6048,7 @@ Ovaj odeljak opisuje predmete koje imaju posebna pravila ili zahtevaju dalja obj
 
 **Antitoksin**. Stvorenje koje pije ovu bočicu sa tečnošću dobija prednost pri spasilačkom bacanju protiv otrova tokom 1 sata. Ne donosi korist nemrtvima ili konstrukcijama.
 
-**Arkanski fokus**. Tajanstveni fokus je posebni predmet - kugla, kristal, šipka, posebno konstruisan štap, drvo nalik štapiću ili neki sličan predmet - dizajnirano da kanališe snagu arkaskih čarolija. Vrač, veštac ili čarobnjak mogu da koriste takvu stvar kao fokus čarolije, kao što je opisano u poglavlju 10.
+**Arkanski fokus**. Tajanstveni fokus je posebni predmet - kugla, kristal, šipka, posebno konstruisan štap, drvo nalik štapiću ili neki sličan predmet - dizajnirano da kanališe snagu arkaskih čarolija. Vrač, viještac ili čarobnjak mogu da koriste takvu stvar kao fokus čarolije, kao što je opisano u poglavlju 10.
 
 **Ležajevi**. Kao akciju, ove sitne metalne kuglice možete prosuti iz njihove torbice kako biste pokrili ravnu, kvadratnu površinu od 10 stopa. Stvorenje koje se kreće kroz pokriveno područje mora uspeti u DC 10 bacanju spasa ili padu. Biće koje se kreće kroz područje sa pola brzine ne treba da napravi spasonosno bacanje.
 
@@ -8155,7 +8155,7 @@ Da biste se kvalifikovali za novu klasu, morate da ispunite bodove sposobnosti k
       </td>
    </tr>
    <tr>
-      <td>Veštac
+      <td>Viještac
       </td>
       <td>Harizma 13
       </td>
@@ -8262,7 +8262,7 @@ Kada steknete nivo u klasi koji nije vaša po;etna, vi steknite samo neka počet
       </td>
    </tr>
    <tr>
-      <td>Veštac
+      <td>Viještac
       </td>
       <td>Laki oklop, jednostavno oružje
       </td>
@@ -8302,7 +8302,7 @@ Ako imate više od jedne klase čaranja, ova tabela vam može dati slotove čaro
 
 Na primer, ako ste pomenuti rendžer 4 / čarobnjak 3, računate se kao lik 5. nivoa pri određivanju slotova čarolija: imate četiri slota 1. nivoa, tri slota 2. nivoa i dva slota 3. nivoa. Međutim, ne znate nijednu čaroliju 3. nivoa, niti poznajete bilo koju čaroliju rendžera 2. nivoa. Možete koristiti slotove za čarolije tih nivoa da biste bacili čarolije koje znate - i potencijalno poboljšali njihove efekte.
 
-**Pakt magije.** Ako imate i sposobnosti klase čaranja i sposobnosti klase Pakt Magije iz klase veštac, možete koristiti slotove za čarolije koje steknete od sa Paktom Magije da biste bacali čarolije koje znate ili ste ih pripremili iz klase sa sposobnostima Čaranja, a može da koristi i slotove za čarolije koje steknete pomoću klase sa sposobnostima Čaranja da biste bacali čarolije veštca koje znate.
+**Pakt magije.** Ako imate i sposobnosti klase čaranja i sposobnosti klase Pakt Magije iz klase viještac, možete koristiti slotove za čarolije koje steknete od sa Paktom Magije da biste bacali čarolije koje znate ili ste ih pripremili iz klase sa sposobnostima Čaranja, a može da koristi i slotove za čarolije koje steknete pomoću klase sa sposobnostima Čaranja da biste bacali čarolije veštca koje znate.
 
 **Višeklasni bacač čarolija**
 

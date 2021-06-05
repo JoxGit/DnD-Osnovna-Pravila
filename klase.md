@@ -240,7 +240,7 @@ Možete brzo napraviti varvara slijedeći ove predloge. Prvo stavite svoj najvi�
       </td>
    </tr>
    <tr>
-      <td> 17th
+      <td> 17
       </td>
       <td> +6
       </td>
@@ -617,7 +617,7 @@ Možete brzo napraviti bard prateći ove predloge. Prvo, Harizma bi trebalo da 
       </td>
       <td> +3
       </td>
-      <td> Bardska inspiracija (d8), Font inspiracije
+      <td> Bardska inspiracija (d8), Izvor inspiracije
       </td>
       <td> 3
       </td>
@@ -973,7 +973,7 @@ Možete brzo napraviti bard prateći ove predloge. Prvo, Harizma bi trebalo da 
       </td>
    </tr>
    <tr>
-      <td> 17th
+      <td> 17
       </td>
       <td> +6
       </td>
@@ -1199,7 +1199,7 @@ Na 10. nivou možete odabrati još dvije viještina da biste stekli ovu korist.
 
 Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
-### Font inspiracije
+### Izvor inspiracije
 
 Počevši od 5. nivoa, vraćate sve svoje potrošene Bardske insiracije kada završite kraći ili duži odmor.
 
@@ -1267,7 +1267,6 @@ Iskorištavanje božanske magije ne oslanja se na učenje ili trening. Svešteni
 
 Sveštenici kombinuju korisnu magiju iscjeljenja i nadahnuća svojih saveznika s čarolijama koje štete i ometaju neprijatelje. Mogu izazvati strahopoštovanje i strah, položiti kletve kuge ili otrova, pa čak i pozvati plamen s neba da pogube svoje neprijatelje. Za one zlikovce koji će od mace po glavi imati najviše koristi, sveštenici zavise o svojoj borbenoj obuci i dopuštaju im da uđu u borbu prsa u prasa snagom bogova na svojoj strani.
 
-
 ### Božanski agenti
 
 Nije svaki akolit ili službenik u hramu ili svetištu sveštenik. Neki su sveštenici pozvani na jednostavan život u hramu, izvršavajući volju svojih bogova molitvom i žrtvom, a ne magijom i snagom oružja. U nekim gradovima sveštenstvo predstavlja političku službu, na koju se gleda kao na odskočnu dasku ka višim položajima vlasti i uopšte ne uključuje zajednicu s bogom. Istinski sveštenici su rijetki u većini hijerarhija.
@@ -1275,7 +1274,6 @@ Nije svaki akolit ili službenik u hramu ili svetištu sveštenik. Neki su sveš
 Kad sveštenik započne pustolovni život, to je obično zato što to zahtijeva njegov ili njezin bog. Slijeđenje ciljeva bogova često uključuje privlačenje opasnosti izvan civilizacijskih zidova, uništavanje zla ili traženje svetih relikvija u drevnim grobnicama. Očekuje se da će i mnogi sveštenici zaštititi sledbenike svojih božanstava, što može značiti borbu protiv razuzdanih orkova, pregovaranje o miru između zaraćenih nacija ili zatvaranje portala koji će omogućiti princu demonima da uđe u svijet.
 
 Većina avanturističkih sveštenika održava određenu vezu sa utvrđenim hramovima i redovima svojih vjera. Hram bi mogao zatražiti pomoć sveštenika ili bi prvosveštenik mogao biti u mogućnosti da je zatraži.
-
 
 ### Stvaranje sveštenika
 
@@ -1769,7 +1767,7 @@ Možete brzo postati sveštenik prateći ove predloge. Prvo, mudrost bi trebalo
       </td>
    </tr>
    <tr>
-      <td> 17th
+      <td> 17
       </td>
       <td> +6
       </td>
@@ -2439,7 +2437,7 @@ Sledeći ove predloge možete brzo stvoriti druida. Prvo, Mudrost bi trebalo da
       </td>
       <td> +4
       </td>
-      <td>Osobina krugova druida
+      <td> Osobina krugova druida
       </td>
       <td> 4
       </td>
@@ -4065,7 +4063,7 @@ Na 17. nivou stičete sposobnost postavljanja smrtonosnih vibracija u nečijem t
 
 Možete istovremeno imati samo jedno biće pod dejstvom ove funkcije. Možete izabrati da neškodljivo zaustavite vibracije bez upotrebe radnje.
 
->**MONASTIČKI POREDCI**
+>**MONAŠKI POREDCI**
 >
 >Svetovi D&D sadrže mnoštvo manastira i monaških tradicija. U zemljama sa azijskim kulturnim ukusom, kao što je Šou Lung daleko na istoku Zaboravljenih carstava, ovi manastiri su povezani sa filozofskim tradicijama i borilačkim veštinama. Škola gvozdene ruke, Škola pet zvezda, Škola severne pesnice i Škola južnih zvezda Šou Lunga podučavaju različite pristupe fizičkim, mentalnim i duhovnim disciplinama monaha. Neki od ovih manastira proširili su se na zapadne zemlje Faerun, posebno u mestima sa velikim imigrantskim zajednicama šoua, poput Theska i Vestgejta.
 >
@@ -4077,16 +4075,13 @@ Možete istovremeno imati samo jedno biće pod dejstvom ove funkcije. Možete i
 
 ## Paladin
 
+Odeven u pločasti oklop koji blista na sunčevoj svetlosti uprkos prašini i prljavštini dugih putovanja, čovek polaže mač i štit i polaže ruke na smrtno ranjenog čoveka. Iz njenih ruku sija božanski sjaj, čovekove rane se zatvaraju, a oči mu se širom otvaraju od čuđenja.
 
+Patuljak čuči iza izdanka, njegov crni ogrtač čini ga gotovo nevidljivim noću i posmatra orkanski orkestar koji slavi svoju nedavnu pobedu. Šuteći, uvlači se u njihovu sredinu i šapće zakletvu, i dva orka su mrtva pre nego što su i shvatili da je tamo.
 
-Odeven u tanjir oklop koji blista na sunčevoj svetlosti uprkos prašini i prljavštini dugih putovanja, čovek polaže mač i štit i polaže ruke na smrtno ranjenog čoveka. Iz njenih ruku sija božanski sjaj, čovekove rane pletene zatvorene, a oči mu se širom otvaraju od čuđenja.
-
-Patuljak čuči iza izdanka, njegov crni ogrtač čini ga gotovo nevidljivim noću i posmatra orkanski orkestar koji slavi svoju nedavnu pobedu. Šuteći se uvlači u njihovu sredinu i šapće zakletvu, a dva orka su mrtva pre nego što su i shvatili da je tamo.
-
-Srebrna kosa koja blista u snopu svetlosti koja kao da obasjava samo njega, vilenjak se smeje sa ushićenjem. Koplje mu bljesne poput očiju dok iznova udara u izvijenog giganta, dok konačno njegova svetlost ne savlada svoj grozni mrak.
+Srebrna kosa koja blista u snopu svetlosti koja kao da obasjava samo njega, vilenjak se smeje sa ushićenjem. Koplje mu bljesne poput očiju dok iznova udara u izvijenog giganta, dok konačno njegova svetlost ne savlada njegov grozni mrak.
 
 Bez obzira na njihovo poreklo i misiju, paladine ujedinjuju zakletve da se suprotstave silama zla. Bilo da su položeni pred božjim oltarom i svedokom sveštenika, na svetom proplanku pred duhovima prirode i fej bićima ili u trenutku očaja i tuge sa mrtvima kao jedinim svedokom, zakletva paladina moćna je veza. To je izvor moći koji pretvara pobožnog ratnika u blaženog prvaka.
-
 
 ### Uzrok ispravnosti
 
@@ -4094,431 +4089,421 @@ Paladin se zaklinje da će podržavati pravdu i pravednost, da će se suprotst
 
 Paladini godinama treniraju kako bi naučili viještine borbe, savladavajući raznoliko oružje i oklop. Uprkos tome, njihove borilačke viještine su sekundarne u odnosu na magičnu moć kojom raspolažu: moć lečenja bolesnih i povređenih, udaranje zlih i nemrtvih i zaštita nevinih i onih koji im se pridruže u borbi za pravdu.
 
-
 ### Iza svakodnevnog života
-
 
 Gotovo po definiciji, život paladina je avanturistički život. Ukoliko ga trajna povreda neko vreme nije udaljila od avanture, svaki paladin živi na prvim linijama kosmičke borbe protiv zla. Borci su dovoljno retki među redovima milicija i vojski sveta, ali još manje ljudi može tvrditi da je istinski poziv paladina. Kada prime poziv, ovi ratnici se okreću od svojih bivših zanimanja i podižu oružje u borbu protiv zla. Ponekad ih zakletve vode u službu krune kao vođe elitnih viteških grupa, ali čak i tada je njihova odanost prvenstveno cilju pravednosti, a ne kruni i državi.
 
 Paladini avanturisti ozbiljno shvataju svoj posao. Udubljenje u drevnu ruševinu ili prašnjavu kriptu može biti potraga vođena višom svrhom od sticanja blaga. Zlo vreba u tamnicama i prašumama, pa čak i najmanja pobeda protiv njega kosmičku ravnotežu može nagnuti od zaborava.
 
-
 ### Kreiranje Paladina
 
-Najvažniji aspekt lika paladina je priroda njegove svete potrage. Iako se karakteristike klase povezane sa vašom zakletvom pojavljuju tek kada dostignete 3. nivo, unapred planirajte taj izbor čitajući opise zakletve na kraju časa. Da li ste predani sluga dobra, odan bogovima pravde i časti, sveti vitez u sjajnom oklopu koji se usuđuje da ubije zlo? Jeste li vi slavni prvak svetlosti, negujući sve lepo što stoji protiv senke, vitez čija zakletva potiče iz tradicija starijih od mnogih bogova? Ili ste ogorčeni usamljenik koji se zakleo da će se osvetiti onima koji su počinili veliko zlo, poslani od bogova kao anđeo smrti ili vođeni vašom potrebom za osvetom? U dodatku B navedena su mnoga božanstva koja su obožavali paladini širom multiverzuma, kao što su Torm, Tir, Heironeous, Paladine, Kiri-Jolith, Dol Arrah, Silver Flame, Bahamut, Athena, Re-Horakhti i Heimdall.
+Najvažniji aspekt lika paladina je priroda njegove svete potrage. Iako se karakteristike klase povezane sa vašom zakletvom pojavljuju tek kada dostignete 3. nivo, unapred planirajte taj izbor čitajući opise zakletve na kraju klase. Da li ste predani sluga dobra, odan bogovima pravde i časti, sveti vitez u sjajnom oklopu koji se usuđuje da ubije zlo? Jeste li vi slavni prvak svetlosti, negujući sve lepo što stoji protiv senke, vitez čija zakletva potiče iz tradicija starijih od mnogih bogova? Ili ste ogorčeni usamljenik koji se zakleo da će se osvetiti onima koji su počinili veliko zlo, poslani od bogova kao anđeo smrti ili vođeni vašom potrebom za osvetom? U dodatku B navedena su mnoga božanstva koja su obožavali paladini širom multiverzuma, kao što su Torm, Tir, Heironeous, Paladine, Kiri-Jolith, Dol Arrah, Silver Flame, Bahamut, Athena, Re-Horakhti i Heimdall.
 
 Kako ste doživeli poziv da služite kao paladin? Jeste li čuli šapat neviđenog boga ili anđela dok ste bili na molitvi? Da li je drugi paladin osetio potencijal u vama i odlučio da vas obuči za štitonošu? Ili vas je neki strašni događaj - možda uništenje vašeg doma - naterao na vaše zadatke? Možda ste naleteli na sveti gaj ili skrivenu vilenjačku enklavu i našli se pozvanim da zaštitite sva takva utočišta dobrote i lepote. Ili ste možda znali iz najranijih sećanja da je život paladina bio vaš poziv, gotovo kao da ste poslani u svet s tom namerom utisnutom u vašu dušu.
 
 Kao čuvari sile zla, paladini retko imaju bilo kakvo zlo. Većina njih korača stazama milosrđa i pravde. Razmislite kako vaše poravnavanje boji način na koji nastavljate svoju svetu potragu i način na koji se ponašate pred bogovima i smrtnicima. Vaša zakletva i usklađenost mogu biti u skladu ili vaša zakletva može predstavljati standarde ponašanja koje još uvek niste postigli.
 
-
 #### **Brza izrada**
 
-Paladin možete brzo da napravite prateći ove predloge. Prvo, snaga bi trebalo da bude vaša najveća ocijena sposobnosti, a zatim harizma. Drugo, odaberite plemenitu pozadinu.
-
+Paladin možete brzo da napravite prateći ove predloge. Prvo, Snaga bi trebalo da bude vaša najveća ocijena sposobnosti, a zatim Harizma. Drugo, odaberite plemenitu pozadinu.
 
 <table>
-  <tr>
-   <td rowspan = "2"> <strong>Nivo</strong>
-   </td>
-   <td rowspan = "2"> <strong>Stručnost</strong>
-
-<strong>Bonus</strong>
-   </td>
-   <td rowspan = "2"> <strong>Karakteristike</strong>
-   </td>
-   <td colspan = "5"> <strong>- Slotovi za pravopis po nivou pravopisa -</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> <strong>1.</strong>
-   </td>
-   <td> <strong>2.</strong>
-   </td>
-   <td> <strong>3.</strong>
-   </td>
-   <td> <strong>4.</strong>
-   </td>
-   <td> <strong>5.</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 1.
-   </td>
-   <td> +2
-   </td>
-   <td> Božanski smisao, položi ruke
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 2.
-   </td>
-   <td> +2
-   </td>
-   <td> Borbeni stil, pravopis, Divine Smite
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> +2
-   </td>
-   <td> Božansko zdravlje, sveta zakletva
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 4.
-   </td>
-   <td> +2
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> +3
-   </td>
-   <td> Dodatni napad
-   </td>
-   <td> 4
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 6.
-   </td>
-   <td> +3
-   </td>
-   <td> Aura zaštite
-   </td>
-   <td> 4
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 7th
-   </td>
-   <td> +3
-   </td>
-   <td> Sveto obeležje zakletve
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 8.
-   </td>
-   <td> +3
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> +4
-   </td>
-   <td> -
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 10.
-   </td>
-   <td> +4
-   </td>
-   <td> Aura hrabrosti
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 11th
-   </td>
-   <td> +4
-   </td>
-   <td> Poboljšana božanska smita
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 12.
-   </td>
-   <td> +4
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 13
-   </td>
-   <td> +5
-   </td>
-   <td> -
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 14
-   </td>
-   <td> +5
-   </td>
-   <td> Čišćenje dodirom
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 15.
-   </td>
-   <td> +5
-   </td>
-   <td> Sveto obeležje zakletve
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 16
-   </td>
-   <td> +5
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 17th
-   </td>
-   <td> +6
-   </td>
-   <td> -
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 18
-   </td>
-   <td> +6
-   </td>
-   <td> Poboljšanja aure
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 19
-   </td>
-   <td> +6
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-  </tr>
-  <tr>
-   <td> 20.
-   </td>
-   <td> +6
-   </td>
-   <td> Sveto obeležje zakletve
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-  </tr>
+   <tr>
+      <td rowspan="2"> <strong>Nivo</strong>
+      </td>
+      <td rowspan="2"> <strong>Bonus</strong> <strong>Stručnosti</strong>s
+      </td>
+      <td rowspan="2"> <strong>Karakteristike</strong>
+      </td>
+      <td colspan="5"> <strong>- Slotovi za čarolije po nivou čarolija -</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> <strong>1.</strong>
+      </td>
+      <td> <strong>2.</strong>
+      </td>
+      <td> <strong>3.</strong>
+      </td>
+      <td> <strong>4.</strong>
+      </td>
+      <td> <strong>5.</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 1.
+      </td>
+      <td> +2
+      </td>
+      <td> Božanski smisao, Položi ruke
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 2.
+      </td>
+      <td> +2
+      </td>
+      <td> Borbeni stil, Bacanje čarolija, Božanski udarac
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> +2
+      </td>
+      <td> Božansko zdravlje, Sveta zakletva
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 4.
+      </td>
+      <td> +2
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> +3
+      </td>
+      <td> Dodatni napad
+      </td>
+      <td> 4
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 6.
+      </td>
+      <td> +3
+      </td>
+      <td> Aura zaštite
+      </td>
+      <td> 4
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> +3
+      </td>
+      <td> Sveto obeležje zakletve
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 8.
+      </td>
+      <td> +3
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> +4
+      </td>
+      <td> -
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 10.
+      </td>
+      <td> +4
+      </td>
+      <td> Aura hrabrosti
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 11
+      </td>
+      <td> +4
+      </td>
+      <td> Poboljšana božanskog udarca
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 12.
+      </td>
+      <td> +4
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 13
+      </td>
+      <td> +5
+      </td>
+      <td> -
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 14
+      </td>
+      <td> +5
+      </td>
+      <td> Čišćenje dodirom
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 15.
+      </td>
+      <td> +5
+      </td>
+      <td> Sveto obeležje zakletve
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 16
+      </td>
+      <td> +5
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 17
+      </td>
+      <td> +6
+      </td>
+      <td> -
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 18
+      </td>
+      <td> +6
+      </td>
+      <td> Poboljšanja aure
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 19
+      </td>
+      <td> +6
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+   </tr>
+   <tr>
+      <td> 20.
+      </td>
+      <td> +6
+      </td>
+      <td> Sveto obeležje zakletve
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+   </tr>
 </table>
-
 
 
 ## Karakteristike klase
 
 Kao paladin dobijate sledeće karakteristike klase.
 
-
 #### **Životni bodovi**
 
 **Kockice života:** 1d10 po nivou paladina
 
-**Poeni na prvom nivou:** 10 + vaš modifikator Građe
+**Životni bodovi na prvom nivou:** 10 + vaš modifikator Građe
 
-**Poeni na višim nivoima:** 1d10 (ili 6) + vaš modifikator Građe po paladin nivo posle 1.
-
+**Životni bodovi na višim nivoima:** 1d10 (ili 6) + vaš modifikator Građe po paladin nivo posle 1.
 
 #### **Stručnosti**
 
@@ -4528,145 +4513,122 @@ Kao paladin dobijate sledeće karakteristike klase.
 
 **Alati:** Nijedan
 
-**Spašavanje bacanja:** Mudrost, harizma
+**Spašavanje bacanja:** Mudrost, Harizma
 
-**viještine:** Izaberite dvije od atletike, uvida, zastrašivanja, medicine, ubeđivanja i religije
-
+**Viještine:** Izaberite dvije od Atletika, Uvid, Zastrašivanje, Medicina, Ubijeđivanje i Religija
 
 #### **Oprema**
 
 Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
-
-
-
 * (a) borilačko oružje i štit ili (b) dva borilačka oružja
-* (a) pet koplja ili (b) bilo koje jednostavno ručno oružje
-* (a) sveštenički čopor ili (b) čopor istraživača
-* Lančana pošta i sveti simbol
+* (a) pet kopalja ili (b) bilo koje jednostavno ručno oružje
+* (a) sveštenički paket ili (b) istraživački paket
+* Lančani oklop i sveti simbol
 
+### Božansko čulo
 
-### Božanski smisao
+Prisustvo jakog zla registruje se u vašim čulima poput štetnog mirisa, a moćno dobro zvoni poput nebijeske muzike u vašim ušima. Kao akciju možete otvoriti svoju svest da biste otkrili takve sile. Do kraja vašeg sledećeg poteza, znate lokaciju bilo kog nebeskog, vražjeg ili neumrlog stvorenja u krugu od 60 stopa od vas koji nije iza totalnog zaklona. Znate vrstu (nebeskog, vražjeg ili nemrtvog) bilo kog bića čije prisustvo osećate, ali ne i njegov identitet (na primer vampir grof Strahd fon Zarkovič). U okviru istog radijusa takođe otkrivate prisustvo bilo kog mesta ili predmeta koji su osveštani ili oskrnavljeni, kao što je to slučaj sa čarolijom _sveti_.
 
-Prisustvo jakog zla registruje se u vašim čulima poput štetnog mirisa, a moćno dobro zvoni poput nebijeske muzike u vašim ušima. Kao akciju možete otvoriti svoju svest da biste otkrili takve sile. Do kraja vašeg sledećeg zavoja, znate lokaciju bilo kog nebijeskog, zaručnika ili neumrlog u krugu od 60 stopa od vas koji nije iza totalnog pokrivača. Znate vrstu (nebijeskog, neprijateljskog ili nemrtvog) bilo kog bića čije prisustvo osećate, ali ne i njegov identitet (na primer vampir grof Strahd fon Zarovič). U okviru istog radijusa takođe otkrivate prisustvo bilo kog mesta ili predmeta koji su osvećeni ili oskrnavljeni, kao što je to slučaj sa čarolijom _halov_.
-
-Ovu funkciju možete koristiti nekoliko puta jednako 1 + vašem modifikatoru harizme. Kada završite duži odmor, povratićete sve potrošene namene.
-
+Ovu funkciju možete koristiti nekoliko puta jednako 1 + vašem modifikatoru Harizme. Kada završite duži odmor, povratićete sve potrošene upotrebe.
 
 ### Položite ruke
 
-Vaš blagosloveni dodir može zaceliti rane. Imate bazen lekovite moći koji se obnavlja kada se dugo odmorite. Pomoću tog bazena možete da vratite ukupan broj pogodaka jednak nivou vašeg paladina × 5.
+Vaš blagosloveni dodir može zaceliti rane. Imate bazen lekovite moći koji se obnavlja nakon dugog odmora. Pomoću tog bazena možete da vratite ukupan broj životnih bodova jednak nivou vašeg paladina × 5.
 
-Kao akciju možete dodirnuti stvorenje i izvući snagu iz bazena da biste tom stvorenju vratili broj pogodaka, do maksimalne preostale količine u vašem bazenu.
+Kao akciju možete dodirnuti stvorenje i izvući snagu iz bazena da biste tom stvorenju vratili broj životnih bodova, do maksimalne preostale količine u vašem bazenu.
 
-Možete i da potrošite 5 pogodaka iz vašeg bazena za lečenje da biste izlečili metu jedne bolesti ili neutralizovali jedan otrov koji na nju deluje. Možete da izlečite više bolesti i da neutrališete više otrova jednom upotrebom Lai on Hands, trošeći pogođene poene odvojeno za svaku od njih.
+Možete i da potrošite 5 životnih bodova iz vašeg bazena za lečenje da biste izlečili metu jedne bolesti ili neutralizovali jedan otrov koji na nju deluje. Možete da izlečite više bolesti i da neutrališete više otrova jednom upotrebom Položiti ruke, trošeći životne bodove odvojeno za svaku od njih.
 
 Ova karakteristika nema uticaja na nemrtve i konstrukcije.
 
-
 ### Borbeni stil
 
-Na 2. nivou usvajate stil borbe kao svoju specijalnost. Izaberite jednu od sledećih opcija. Ne možete više puta da odaberete opciju Fighting Stile, čak i ako kasnije budete mogli ponovo da izaberete.
-
+Na 2. nivou usvajate stil borbe kao svoju specijalnost. Izaberite jednu od sledećih opcija. Ne možete više puta da odaberete opciju Borbeni stil, čak i ako kasnije budete mogli ponovo da izaberete.
 
 #### **Odbrana**
 
 Dok nosite oklop, dobijate +1 bonus za AC.
 
-
 #### **Dvoboj**
 
-Kada u jednoj ruci držite ručno oružje, a ne drugim oružjem, dobijate +2 bonusa za oštećenje koluta tim oružjem.
+Kada u jednoj ruci držite oružje za blisku borbu, i bez drugog oružija, dobijate +2 bonusa za bacanje štete tim oružjem.
 
+#### **Borba sa velikim oružjem**
 
-#### **Velika borba sa oružjem**
-
-Kada bacite 1 ili 2 na matičnu štetu za napad koji napravite mele-oružjem kojim rukujete sa dvije ruke, možete vratiti matricu i morate koristiti novi kolut. Da biste stekli ovu korist, oružje mora imati dvoručno ili svestrano svojstvo.
-
+Kada bacite 1 ili 2 na bacanju štete za napad koji napravite oružjem za blisku borbu kojim rukujete sa dvije ruke, možete vratiti matricu i morate koristiti novi kolut. Da biste stekli ovu korist, oružje mora imati dvoručno ili svestrano svojstvo.
 
 #### **Zaštita**
 
-Kada stvorenje koje možete videti napada drugu metu koja se nalazi na udaljenosti od 5 stopa od vas, možete da upotrebite svoju reakciju da biste nametnuli nedostatak na kolu za napad. Sigurno poseduješ štit.
-
+Kada stvorenje koje možete videti napada drugu metu koja se nalazi na udaljenosti od 5 stopa od vas, možete da upotrebite svoju reakciju da biste nametnuli nedostatak na bacanju za napad. Sigurno poseduješ štit.
 
 ### Korištenje magije
 
-Do 2. nivoa ste naučili da crtate na božanskoj magiji meditacijom i molitvom kako biste bacali uroke kao što to čini sveštenik. Pogledajte poglavlje 10 za opšta pravila pravopisa i poglavlje 11 za spis čarolija paladina.
+Do 2. nivoa ste naučili da crtate na božanskoj magiji meditacijom i molitvom kako biste bacali čarolije kao što to čini sveštenik. Pogledajte poglavlje 10 za opšta pravila korištenja magije i poglavlje 11 za spisak čarolija paladina.
 
+#### **Priprema i bacanje čarolija**
 
-#### **Priprema i bačanje čarolija**
+Tabela Paladin pokazuje koliko slotova za čarolije imate da bacate čarolije paladina. Da biste izvršili jednu od svojih čarolija paladina prvog ili višeg nivoa, morate potrošiti slot nivoa čarolije ili više. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
 
-Tabela Paladin pokazuje koliko slotova za čarolije morate da napravite svoje čarolije za paladin. Da biste izvršili jednu od svojih čarolija paladina prvog ili višeg nivoa, morate potrošiti slot nivoa čarolije ili više. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
+Pripremate listu čarolija koje su vam dostupne za izvođenje, birajući sa liste čarolija za paladina. Kada to radite, odaberite broj čarolija paladina jednak vašem modifikatoru Harizme + polovinu nivoa paladina, zaokruženo nadole (najmanje jedna čarolija). Čarolije moraju biti na nivou za koji imate slotove za čarolije.
 
-Pripremate listu čarolija za paladin koje su vam dostupne za izvođenje, birajući sa liste čarolija za paladin. Kada to učinite, odaberite broj čarolija paladina jednak vašem modifikatoru harizme + polovinu nivoa paladina, zaokruženo nadole (najmanje jedna čarolija). Čarolije moraju biti na nivou za koji imate slotove za čarolije.
-
-Na primer, ako ste paladin 5. nivoa, imate četiri slota za uroke 1. i 2. nivoa. Sa harizmom od 14, vaša lista pripremljenih čarolija može sadržati četiri čarolija 1. ili 2. nivoa, u bilo kojoj kombinaciji. Ako pripremite čaroliju 1. nivoa _bezbedne rane_, možete je naneti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
+Na primer, ako ste paladin 5. nivoa, imate četiri slota za črolije 1. i 2. nivoa. Sa Harizmom od 14, vaša lista pripremljenih čarolija može sadržati četiri čarolije 1. ili 2. nivoa, u bilo kojoj kombinaciji. Ako pripremite čaroliju 1. nivoa _liječenje ranas_, možete je baciti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
 
 Spisak pripremljenih čarolija možete promeniti kada završite duži odmor. Za pripremu nove liste čarolija paladina potrebno je vreme provedeno u molitvi i meditaciji: najmanje 1 minut po nivou čarolije za svaku čaroliju na vašoj listi.
 
-
 #### **Sposobnost korištenja magije**
 
-harizma je vaša sposobnost čarolije za vaše čarolije paladina, jer njihova moć potiče iz snage vaših uverenja. Koristite svoju harizmu kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj Charisma modifikator koristite kada postavljate DC spasilačkog bacanja za čaroliju paladina koju ste bacili i kada pravite napadački zamah jednim.
+Harizma je vaša sposobnost čarolije za vaše čarolije paladina, jer njihova moć potiče iz snage vaših uverenja. Koristite svoju harizmu kad god se čarolija odnosi na vašu sposobnost korištenja čarolije. Pored toga, svoj modifikator Harizme koristite kada postavljate DC spasilačkog bacanja za čaroliju paladina koju ste bacili i kada pravite napadačko bacanje.
 
-**DC spasa od čarolije** = 8 + vaš bonus za znanje + vaš modifikator harizme
+**DC spasa od čarolije** = 8 + vaš bonus za stručnost + vaš modifikator Harizme
 
-**Modifikator napada čarolijom** = vaš bonus za znanje + vaš modifikator harizme
+**Modifikator napada čarolijom** = vaš bonus za stručnost + vaš modifikator Harizme
 
+#### **Fokusiranje korištenja magije**
 
-#### **Fokusiranje pravopisa**
+Možete da koristite sveti simbol (pogledajte poglavlje 5, „Oprema“) kao fokus za bacanje čarolije paladina.
 
-Možete da koristite sveti simbol (pogledajte poglavlje 5, „Oprema“) kao fokus za pravopis za vaše čarolije paladina.
+### Božanski udarac
 
-
-### Divine Smite
-
-Počevši od 2. nivoa, kada pogodiš stvorenje napadom ručnog oružja, možeš potrošiti jedan slot za čarolije da bi naneo blistavu štetu cilju, pored oštećenja oružja. Dodatna šteta je 2d8 za slot za čaroliju prvog nivoa, plus 1d8 za svaki nivo čarolije viši od 1., do maksimalno 5d8. Šteta se povećava za 1d8 ako je meta nemrtva ili neprijatelj, na najviše 6d8.
-
+Počevši od 2. nivoa, kada pogodiš stvorenje napadom oružja za blisku borbu, možeš potrošiti jedan slot za čarolije da bi nanijeo blistavu štetu cilju, pored oštećenja oružja. Dodatna šteta je 2d8 za slot za čaroliju prvog nivoa, plus 1d8 za svaki nivo čarolije viši od 1., do maksimalno 5d8. Šteta se povećava za 1d8 ako je meta nemrtva ili vrag, na najviše 6d8.
 
 ### Božansko zdravlje
 
 Do trećeg nivoa, božanska magija koja prolazi kroz vas čini vas imunim na bolesti.
 
-
 ### Sveta zakletva
 
-Kad dostignete 3. nivo, polažete zakletvu koja vas zauvek vezuje kao paladina. Do ovog trenutka bili ste u pripremnoj fazi, posvećeni stazi, ali još uvek joj se niste zakleli. Sada ste izabrali zakletvu predanosti, zakletvu starih ili zakletvu osvete, sve detaljno opisane na kraju opisa časa.
+Kad dostignete 3. nivo, polažete zakletvu koja vas zauvek vezuje kao paladina. Do ovog trenutka bili ste u pripremnoj fazi, posvećeni stazi, ali još uvek joj se niste zakleli. Sada ste izabrali Zakletvu Predanosti, Zakletvu Starih ili Zakletvu Osvete, sve detaljno opisane na kraju opisa klase.
 
-Vaš izbor vam daje mogućnosti na 3. nivou i ponovo na 7., 15. i 20. nivou. Te karakteristike uključuju uroke zakletve i funkciju Channel Diviniti.
+Vaš izbor vam daje mogućnosti na 3. nivou i ponovo na 7., 15. i 20. nivou. Te karakteristike uključuju čarolije zakletve i funkciju Kanalisanje božanstva.
 
 
-#### **Zakletve uroke**
+#### **Čarolije zakletve**
 
 Svaka zakletva ima spisak povezanih čarolija. Pristup ovim čarolijama dobijate na nivoima navedenim u opisu zakletve. Jednom kada dobijete pristup zakletvi, uvek je imate pripremljenu. Čarolije zakletve ne računaju se prema broju čarolija koje možete pripremiti svakog dana.
 
-Ako steknete čaroliju zakletve koja se ne pojavljuje na spisku čarolija paladina, čini se da je čarolija za vas paladin.
+Ako steknete čaroliju zakletve koja se ne pojavljuje na spisku čarolija paladina, ta je čarolija za vas čarolija paladina.
 
+#### **Kanalisanje božanstva**
 
-#### **Channel Diviniti**
+Zakletva vam omogućava da kanališete božansku energiju za podsticanje magičnih efekata. Svaka opcija analisanje božanstva koju pruža vaša zakletva objašnjava kako je koristiti.
 
-Zakletva vam omogućava da kanalizujete božansku energiju za podsticanje magičnih efekata. Svaka opcija Diviniti Channel koju pruža vaša zakletva objašnjava kako je koristiti.
+Kada koristite svoje Kanalisanje božanstva, vi birate koju ćete opciju koristiti. Zatim morate završiti kraći ili duži odmor da biste ponovo koristili svoje Kanalisanje božanstva.
 
-Kada koristite svoj kanal Diviniti, vi birate koju ćete opciju koristiti. Zatim morate završiti kraći ili duži odmor da biste ponovo koristili svoj Channel Diviniti.
-
-Neki efekti Diviniti Channel-a zahtevaju štednja. Kada koristite takav efekat iz ove klase, DC je jednak vašoj čaroliji paladina, osim DC.
-
+Neki efekti Kanalisanje božanstva zahtevaju bacanje spasa. Kada koristite takav efekat iz ove klase, DC je jednak vašem DC spasa od čarolije paladina.
 
 ### Poboljšanje ocijena sposobnosti
 
 Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
-
 ### Dodatni napad
 
 Počevši od 5. nivoa, možete napadati dva puta, umesto jednom, svaki put kada preduzmete akciju Napad na svom potezu.
 
-
 ### Aura zaštite
 
-Počev od 6. nivoa, kad god vi ili prijateljsko stvorenje u krugu od 10 stopa od vas morate da napravite spasonosno bacanje, stvorenje dobija bonus za spasonosno bacanje jednak vašem modifikatoru harizme (sa minimalnim bonusom od +1). Morate biti svesni da dodelite ovaj bonus.
+Počev od 6. nivoa, kad god vi ili prijateljsko stvorenje u krugu od 10 stopa od vas napravite spasonosno bacanje, stvorenje dobija bonus za spasonosno bacanje jednak vašem modifikatoru Harizme (sa minimalnim bonusom od +1). Morate biti svesni da bi dali ovaj bonus.
 
 Na 18. nivou domet ove aure se povećava na 30 stopa.
-
 
 ### Aura hrabrosti
 
@@ -4674,36 +4636,31 @@ Počevši od 10. nivoa, vi i prijateljska stvorenja na razdaljini od 10 stopa ne
 
 Na 18. nivou domet ove aure se povećava na 30 stopa.
 
+### Poboljšan božanski udarac
 
-### Poboljšana božanska smita
-
-Do 11. nivoa ste toliko ispunjeni pravednom snagom da svi vaši udari iz melee oružja nose božansku moć sa sobom. Kad god pogodite stvorenje melee oružjem, stvorite dodatnih 1d8 blistave štete.
-
+Do 11. nivoa ste toliko ispunjeni pravednom snagom da svi vaši udarci oružje, za blisku borbu nose božansku moć sa sobom. Kad god pogodite stvorenje oružjem za blisku borbu, stvorite dodatnih 1d8 blistave štete.
 
 ### Čišćenje dodirom
 
-Počevši od 14. nivoa, svojom akcijom možete da završite jednu čaroliju na sebi ili na jednom voljnom stvorenju kojeg dodirnete.
+Počevši od 14. nivoa, svojom akcijom možete da završite jednu svoju čaroliju ili jednog svojevoljnog stvorenja kojeg dodirnete.
 
-Ovu funkciju možete da koristite nekoliko puta jednako vašem modifikatoru harizme (najmanje jednom). Potrošene upotrebe vraćate kada završite duži odmor.
-
+Ovu funkciju možete da koristite nekoliko puta jednako vašem modifikatoru Harizme (najmanje jednom). Potrošene upotrebe vraćate kada završite duži odmor.
 
 ## Svete zakletve
 
-Postati paladin podrazumeva polaganje zaveta kojima se paladin obavezuje u svrhu pravednosti, aktivan put borbe protiv zloće. Konačna zakletva položena kada dostigne treći nivo, vrhunac je celokupne paladinove obuke. Neki likovi iz ove klase ne smatraju se pravim paladinima dok ne dostignu 3. nivo i polože ovu zakletvu. Za druge je stvarno polaganje zakletve formalnost, zvanični pečat onoga što je uvek bilo tačno u srcu paladina.
+Postati paladin podrazumeva polaganje zaveta kojima se paladin obavezuje u svrhu pravednosti, aktivan put borbe protiv zlikovaca. Konačna zakletva položena kada dostigne treći nivo, vrhunac je celokupne paladinove obuke. Neki likovi iz ove klase ne smatraju se pravim paladinima dok ne dostignu 3. nivo i polože ovu zakletvu. Za druge je stvarno polaganje zakletve formalnost, zvanični pečat onoga što je uvek bilo tačno u srcu paladina.
 
-**KRŠENJE ZAKLETVE**
-
-Paladin pokušava da se drži najviših standarda ponašanja, ali čak je i najvredniji paladin pogrešiv. Ponekad se ispostavi da je ispravan put previše zahtevan, ponekad situacija zahteva manje od dva zla, a ponekad vrelina osećanja prouzrokuje da paladin prekrši svoju zakletvu.
-
-Paladin koji je prekršio zavet obično traži oproštaj od sveštenika koji deli njegovu veru ili od drugog paladina istog reda. Paladin bi mogao provesti celonoćno bdenije u molitvi u znak pokajanja ili preduzeti brz ili sličan čin samoodricanja. Posle obreda ispovesti i oproštaja, paladin započinje sveže.
-
-Ako paladin namerno krši svoju zakletvu i ne pokaže znake pokajanja, posledice mogu biti ozbiljnije. Po nahođenju DM-a, nepokajani paladin možda će biti primoran da napusti ovu klasu i usvoji drugu, ili možda da uzme opciju za paladin Oathbreaker koja se pojavljuje u _Vodiču za majstore tamnice._
-
+>**KRŠENJE ZAKLETVE**
+>
+>Paladin pokušava da se drži najviših standarda ponašanja, ali čak je i najvredniji paladin pogrešiv. Ponekad se ispostavi da je ispravan put previše zahtevan, ponekad situacija zahteva manje od dva zla, a ponekad vrelina osećanja prouzrokuje da paladin prekrši svoju zakletvu.
+>
+>Paladin koji je prekršio zavet obično traži oproštaj od sveštenika koji deli njegovu veru ili od drugog paladina istog reda. Paladin bi mogao provesti celonoćno bdenije u molitvi u znak pokajanja ili preduzeti brz ili sličan čin samoodricanja. Posle obreda ispovesti i oproštaja, paladin započinje svijež.
+>
+>Ako paladin namerno krši svoju zakletvu i ne pokaže znake pokajanja, posledice mogu biti ozbiljnije. Po nahođenju DM-a, nepokajani paladin možda će biti primoran da napusti ovu klasu i usvoji drugu, ili možda da uzme opciju za paladin Oathbreaker koja se pojavljuje u _Vodiču za gospodare tamnice._
 
 ### Zakletva predanosti
 
 Zakletva predanosti veže paladina za najviše ideale pravde, vrline i poretka. Ponekad zvani kavaliri, beli vitezovi ili sveti ratnici, ovi paladini ispunjavaju ideal viteza u sjajnom oklopu, delujući časno u potrazi za pravdom i većim dobrom. Oni se pridržavaju najviših standarda ponašanja, a neki, u dobru i zlu, isti ostatak sveta. Mnogi koji polože ovu zakletvu odani su bogovima zakona i dobra i koriste načela svojih bogova kao merilo svoje odanosti. Oni za svoje ideale drže anđele - savršene sluge dobra - i u svoje kacige ili grbove ugrađuju slike anđeoskih krila.
-
 
 #### **Svrhe odanosti**
 
@@ -4719,14 +4676,11 @@ Iako se tačne reči i strikture Zakletve predanosti razlikuju, paladini ove zak
 
 **Dužnost.** Budite odgovorni za svoje postupke i njihove posledice, zaštitite one koji su vam povereni i pokoravajte se onima koji imaju samo vlast nad vama.
 
+#### **Čarolije zakletve**
 
-#### **Zakletve uroke**
-
-Steknete zakletve na navedenim nivoima paladina.
-
+Stičete čarolije zakletve na navedenim nivoima paladina.
 
 ##### **Čarolije zakletve predanosti**
-
 
 <table>
   <tr>
@@ -4760,7 +4714,7 @@ Steknete zakletve na navedenim nivoima paladina.
    </td>
   </tr>
   <tr>
-   <td> 17th
+   <td> 17
    </td>
    <td> <em>komuna</em>, <em>udar plamena</em>
    </td>
@@ -4768,19 +4722,17 @@ Steknete zakletve na navedenim nivoima paladina.
 </table>
 
 
+#### **Kanalisanje božanstva**
 
-#### **Channel Diviniti**
+Kada položite ovu zakletvu na 3. nivou, dobijate sledeće dvije opcije Kanalisanja božanstva.
 
-Kada položite ovu zakletvu na 3. nivou, dobijate sledeće dvije opcije Diviniti Channel.
+**Sveto oružje.** Kao akciju, možete jedno oružje koje držite prožeti pozitivnom energijom koristeći svoje Kanalisanje božanstva. Na 1 minutu dodajete svoj modifikator Harizme za bacanja napada napravljene tim oružjem (uz minimalni bonus od +1). Oružje takođe emituje jaku svetlost u radijusu od 20 stopa i prigušenu svetlost na 20 stopa iznad toga. Ako oružje već nije magično, ono postaje magično za vreme trajanja.
 
-**Sveto oružje.** Kao akciju, možete jedno oružje koje držite prožeti pozitivnom energijom koristeći svoj Channel Diviniti. Na 1 minutu dodajete svoj modifikator harizme za napad na rolne napravljene tim oružjem (uz minimalni bonus od +1). Oružje takođe emituje jaku svetlost u radijusu od 20 stopa i prigušenu svetlost na 20 stopa iznad toga. Ako oružje već nije magično, ono postaje magično za vreme trajanja.
+Ovaj efekat možete prekinuti na svom potezu kao deo bilo koje druge akcije. Ako više ne držite ili ne nosite ovo oružje ili ako padnete u nesvest, ovaj efekat se završava.
 
-Ovaj efekat možete prekinuti na svoj red kao deo bilo koje druge akcije. Ako više ne držite ili ne nosite ovo oružje ili ako padnete u nesvest, ovaj efekat se završava.
+**Okrenite Nesvetog.** Kao akciju predstavljate svoj sveti simbol i izgovarate molitvu ukoravajući vragove i neumrle, koristeći svoje Kanalisanje božanstva. Svaki vrag ili nemrtvac koji vas može videti ili čuti u krugu od 30 stopa od vas mora izvršiti spasonosno bacanje Mudrosti. Ako stvorenje ne uspe u svom spasilačkom bacanju, okreće se na minut ili dok ne primi štetu.
 
-**Okrenite Nesvetog.** Kao akciju predstavljate svoj sveti simbol i izgovarate molitvu ukoravajući zlebove i neumrle, koristeći svoje Kanalsko božanstvo. Svaki neprijatelj ili mrtvac koji vas može videti ili čuti u krugu od 30 stopa od vas mora izvršiti spasonosno bacanje Mudrosti. Ako stvorenje ne uspe u svom spasilačkom bacanju, okreće se na minut ili dok ne nanese štetu.
-
-Okrenuto stvorenje mora da provodi svoje zavoje pokušavajući da se odmakne što dalje od vas i ne može se dragovoljno preseliti u prostor unutar 30 stopa od vas. Takođe ne može da podnese reakcije. Za svoju akciju može da koristi samo akciju Crtica ili da pokuša da pobegne od efekta koji sprečava njeno pomeranje. Ako nema gde da se pomeri, stvorenje može da koristi Dodge akciju.
-
+Okrenuto stvorenje mora da provodi svoje poteze pokušavajući da se odmakne što dalje od vas i ne može se dobrovoljno preseliti u prostor unutar 30 stopa od vas. Takođe ne može da podnese reakcije. Za svoju akciju može da koristi samo akciju Juriš ili da pokuša da pobegne od efekta koji sprečava njegovo kretanje. Ako nema gde da se pomeri, stvorenje može da koristi akciju Izvijeći.
 
 #### **Aura predanosti**
 
@@ -4792,487 +4744,476 @@ Na 18. nivou domet ove aure se povećava na 30 stopa.
 
 Počevši od 15. nivoa, uvek ste pod efektom _zaštite od čarolija zla i dobra_.
 
-
 #### **Sveti Nimbus**
 
 Na 20. nivou, kao akciju, možete emitovati auru sunčeve svetlosti. Na 1 minut iz vas sija jarka svetlost u radijusu od 30 stopa, a slaba svetlost na 30 stopa dalje od toga.
 
 Kad god neprijateljsko stvorenje započne svoj red pri jakom svetlu, stvorenje napravi 10 blistavih šteta.
 
-Pored toga, tokom trajanja imate prednost u uštedi bacanja protiv čarolija koje su izvršili neprijatelji ili neumrli.
+Pored toga, tokom trajanja imate prednost u bacanjima spasa protiv čarolija koje su izvršili vrazi ili neumrli.
 
 Jednom kada koristite ovu funkciju, ne možete je ponovo koristiti dok ne završite duži odmor.
 
 
-## Ranger
 
+## Rendžer
 
+Grubog i divljeg izgleda, čovek se sam provlači kroz senke drveća, loveći orke za koje zna da planiraju raciju na obližnju farmu. Uhvativši kratku mač u svakoj ruci, on postaje vihor od čelika, sekući jednog neprijatelja za drugim.
 
-Grubog i divljeg izgleda, čovek se sam provlači kroz senke drveća, loveći orke za koje zna da planiraju raciju na obližnju farmu. Uhvativši kratku mač u svakoj ruci, on postaje vijak od čelika, sekući jednog neprijatelja za drugim.
+Nakon što se odkotrljao od kupe smrzavajućeg vazduha, vilenjakinje se vraća na noge i povlači luk da bi ispalio strijelu prema bijelom zmaju. Odmičući se od talasa straha koji zrači iz zmaja poput hladnoće daha, ona šalje jednu strijelu za drugom kako bi pronašla praznine između zmaje guste krljušti.
 
-Nakon što se spustio sa čunja smrzavajućeg vazduha, vilenjak pronalazi njena stopala i povlači luk da bi pustio strelu prema belom zmaju. Odmičući se od talasa straha koji zrači iz zmaja poput hladnoće daha, ona šalje jednu strelicu za drugom kako bi pronašla praznine između zmajevih gustih vaga.
-
-Držeći visoko ruku, polu-vilenjak zviždi jastrebu koji kruži visoko iznad njega, dozivajući pticu na svoju stranu. Šapćući uputstva na vilinskom jeziku, pokazuje na sovu kojeg je pratio i šalje sokola da mu odvrati pažnju dok priprema luk.
+Držeći visoko ruku, polu-vilenjak zviždi jastrebu koji kruži visoko iznad njega, dozivajući pticu na svoju stranu. Šapćući uputstva na vilinskom jeziku, pokazuje na sovamedvijeda kojeg je pratio i šalje sokola da mu odvrati pažnju dok priprema luk.
 
 Daleko od gradske vreve, pored živih ograda koje štite najudaljenije farme od divljih strahova, usred gustog drveća nečuvenih šuma i po širokim i praznim ravnicama, čuvari straže neprestano paze.
 
-
 ### Smrtonosni lovci
 
-Ratnici divljine, rendžeri su se specijalizovali za lov na čudovišta koja ugrožavaju ivice civilizacije - humanoidne pljačkaše, bijesne zvijeri i grdosije, strašne divove i smrtonosne zmajeve. Nauče da prate svoj kamenolom kao što to čini predator, krišom se krećući kroz divljinu i skrivajući se u četkama i ruševinama. Rendžeri fokusiraju svoju borbenu obuku na tehnike koje su posebno korisne protiv njihovih omiljenih neprijatelja.
+Ratnici divljine, rendžeri su se specijalizovali za lov na čudovišta koja ugrožavaju ivice civilizacije - humanoidne pljačkaše, bijesne zvijeri i grdosije, strašne divove i smrtonosne zmajeve. Nauče da prate svoj kamenolom kao što to čini predatora, krišom se krećući kroz divljinu i skrivajući se u žbunju i ruševinama. Rendžeri fokusiraju svoju borbenu obuku na tehnike koje su posebno korisne protiv njihovih omiljenih neprijatelja.
 
-Zahvaljujući poznavanju divljine, rendžeri stiču sposobnost da bacaju uroke koji koriste snagu prirode, baš kao što to radi i druid. Njihove čarolije, poput njihovih borbenih sposobnosti, ističu brzinu, prikrivenost i lov. Talenati i sposobnosti rendžera usavršeni su sa smrtonosnim fokusom na mračni zadatak zaštite pograničnih krajeva.
-
+Zahvaljujući poznavanju divljine, rendžeri stiču sposobnost da bacaju čarolije koji koriste snagu prirode, baš kao što to radi i druid. Njihove čarolije, poput njihovih borbenih sposobnosti, ističu brzinu, prikrivenost i lov. Talenati i sposobnosti rendžera usavršeni su sa smrtonosnim fokusom na mračni zadatak zaštite pograničnih krajeva.
 
 ### Nezavisni avanturisti
 
-Iako bi rendžer mogao zarađivati za život kao lovac, vodič ili tragač, pravi poziv rendžera je da odbrani periferiju civilizacije od pustoši čudovišta i humanoidnih hordi koje se pritišću iz divljine. Ponegde se rendžeri okupljaju u tajnim naredbama ili udružuju snage sa druidskim krugovima. Mnogi rendžeri su, međutim, nezavisni gotovo sa greškom, znajući da, kada zmaj ili grupa orkova napadnu, rendžer može biti prva - a možda i poslednja - linija odbrane.
+Iako bi rendžer mogao zarađivati za život kao lovac, vodič ili tragač, pravi poziv rendžera je da odbrani periferiju civilizacije od pustoši čudovišta i humanoidnih hordi koje pritišću iz divljine. Ponegde se rendžeri okupljaju u tajnim naredbama ili udružuju snage sa druidskim krugovima. Mnogi rendžeri su, međutim, nezavisni gotovo sa greškom, znajući da, kada zmaj ili grupa orkova napadnu, rendžer može biti prva - a možda i poslednja - linija odbrane.
 
-Ova žestoka nezavisnost čini čuvare pogodnim za avanture, jer su navikli na život daleko od udobnosti suvog kreveta i vruće kupke. Suočeni sa gradskim avanturistima koji gutaju i kukaju zbog divljih nedaća, rendžeri odgovaraju smešom zabave, frustracije i saosećanja. Ali brzo saznaju da su ostali avanturisti koji mogu nositi svoju težinu u borbi protiv neprijatelja civilizacije vredni dodatnog tereta. Maženi gradski ljudi možda ne znaju kako da se prehrane ili pronađu svežu vodu u divljini, ali to nadoknađuju na druge načine.
-
+Ova žestoka nezavisnost čini čuvare pogodnim za avanture, jer su navikli na život daleko od udobnosti suvog kreveta i vruće kupke. Suočeni sa gradskim avanturistima koji gutaju i kukaju zbog divljih nedaća, rendžeri odgovaraju smeškom zabave, frustracije i saosećanja. Ali brzo saznaju da su ostali avanturisti koji mogu nositi svoju težinu u borbi protiv neprijatelja civilizacije vredni dodatnog tereta. Maženi gradski ljudi možda ne znaju kako da se prehrane ili pronađu svežu vodu u divljini, ali to nadoknađuju na druge načine.
 
 ### Kreiranje rendžera
 
-Dok kreirate svoj karakter rendžera, uzmite u obzir prirodu treninga koji vam je dao vaše posebne sposobnosti. Da li ste trenirali sa jednim mentorom, lutajući divljinom zajedno dok ne savladate puteve čuvara? Da li ste napustili naukovanje ili je vašeg mentora ubio - možda ista ona vrsta čudovišta koje je postalo vaš omiljeni neprijatelj? Ili ste možda svoje viještine naučili kao deo grupe rendžera povezanih sa druidskim krugom, obučenih u mističnim stazama kao i u divljini. Možda ste samouk, osamljenik koji je naučio borbene viještine, praćenje, pa čak i magičnu vezu sa prirodom kroz potrebu za preživljavanjem u divljini.
+Dok kreirate svoj lik rendžera, uzmite u obzir prirodu treninga koji vam je dao vaše posebne sposobnosti. Da li ste trenirali sa jednim mentorom, lutajući divljinom zajedno dok ne savladate puteve čuvara? Da li ste napustili naukovanje ili je vašeg mentora ubila - možda ista ona vrsta čudovišta koje je postalo vaš omiljeni neprijatelj? Ili ste možda svoje viještine naučili kao deo grupe rendžera povezanih sa druidskim krugom, obučenih u mističnim stazama kao i u divljini. Možda ste samouk, osamljenik koji je naučio borbene viještine, praćenje, pa čak i magičnu vezu sa prirodom kroz potrebu za preživljavanjem u divljini.
 
 Šta je izvor vaše posebne mržnje prema određenoj vrsti neprijatelja? Da li je čudovište ubilo nekoga koga ste voleli ili uništilo vaše rodno selo? Ili ste videli previše uništenja koje su ta čudovišta prouzrokovali i obavezali se da ćete obuzdati njihove pogibije? Da li je vaša avanturistička karijera nastavak vašeg rada na zaštiti pograničnih područja ili značajna promena? Zbog čega ste se pridružili grupi avanturista? Da li vam je izazov podučavati nove saveznike putevima divljine ili pozdravljate olakšanje zbog samoće koje oni nude?
 
 #### **Brza izrada**
 
-Možete brzo napraviti čuvara prateći ove predloge. Prvo, neka spretnost bude vaš najveći rezultat, a zatim mudrost. (Neki rendžeri koji se fokusiraju na borbu sa dva oružja povećavaju snagu od Spretnosti.) Drugo, odaberite pozadinu izvanzemaljaca.
-
+Možete brzo napraviti rendžera prateći ove predloge. Prvo, neka Spretnost bude vaš najveći rezultat, a zatim Mudrost. (Neki rendžeri koji se fokusiraju na borbu sa dva oružja čune Snagu većom od Spretnosti.) Drugo, odaberite pozadinu tuđinca.
 
 <table>
-  <tr>
-   <td rowspan = "2"> <strong>Nivo</strong>
-   </td>
-   <td rowspan = "2"> <strong>Stručnost</strong>
-
-<strong>Bonus</strong>
-   </td>
-   <td rowspan = "2"> <strong>Karakteristike</strong>
-   </td>
-   <td rowspan = "2"> <strong>Čarolije</strong>
-
-<strong>Poznato</strong>
-   </td>
-   <td colspan = "5"> <strong>- Slotovi za pravopis po nivou pravopisa -</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> <strong>1.</strong>
-   </td>
-   <td> <strong>2.</strong>
-   </td>
-   <td> <strong>3.</strong>
-   </td>
-   <td> <strong>4.</strong>
-   </td>
-   <td> <strong>5.</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 1.
-   </td>
-   <td> +2
-   </td>
-   <td> Favorizovani neprijatelj, Natural Ekplorer
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 2.
-   </td>
-   <td> +2
-   </td>
-   <td> Stil borbe, pravopis
-   </td>
-   <td> 2
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> +2
-   </td>
-   <td> Arhetip Ranger-a, prvobitna svest
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 4.
-   </td>
-   <td> +2
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> +3
-   </td>
-   <td> Dodatni napad
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 6.
-   </td>
-   <td> +3
-   </td>
-   <td> Poboljšanja neprijatelja i prirodnog istraživača
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 7th
-   </td>
-   <td> +3
-   </td>
-   <td> Ranger arhetipska karakteristika
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 8.
-   </td>
-   <td> +3
-   </td>
-   <td> Poboljšanje ocijena sposobnosti, Land’s Stride
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> +4
-   </td>
-   <td> -
-   </td>
-   <td> 6
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 10.
-   </td>
-   <td> +4
-   </td>
-   <td> Poboljšanje prirodnog istraživača, sakrij se u vidnom polju
-   </td>
-   <td> 6
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 11th
-   </td>
-   <td> +4
-   </td>
-   <td> Arhetipska karakteristika Ranger-a
-   </td>
-   <td> 7
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 12.
-   </td>
-   <td> +4
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 7
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 13
-   </td>
-   <td> +5
-   </td>
-   <td> -
-   </td>
-   <td> 8
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 14
-   </td>
-   <td> +5
-   </td>
-   <td> Favorizovano poboljšanje neprijatelja, Vanish
-   </td>
-   <td> 8
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 15.
-   </td>
-   <td> +5
-   </td>
-   <td> Ranger arhetipska karakteristika
-   </td>
-   <td> 9
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 16
-   </td>
-   <td> +5
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 9
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 17th
-   </td>
-   <td> +6
-   </td>
-   <td> -
-   </td>
-   <td> 10
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 18
-   </td>
-   <td> +6
-   </td>
-   <td> Divlja čula
-   </td>
-   <td> 10
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 19
-   </td>
-   <td> +6
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 11
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-  </tr>
-  <tr>
-   <td> 20.
-   </td>
-   <td> +6
-   </td>
-   <td> Ubica neprijatelja
-   </td>
-   <td> 11
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-  </tr>
+   <tr>
+      <td rowspan="2"> <strong>Nivo</strong>
+      </td>
+      <td rowspan="2"> <strong>Bonus</strong> <strong>Stručnosti</strong>
+      </td>
+      <td rowspan="2"> <strong>Karakteristike</strong>
+      </td>
+      <td rowspan="2"> <strong>Poznate</strong> <strong>Čarolije</strong>
+      </td>
+      <td colspan="5"> <strong>- Slotovi za čarolije po nivou čarolija -</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> <strong>1.</strong>
+      </td>
+      <td> <strong>2.</strong>
+      </td>
+      <td> <strong>3.</strong>
+      </td>
+      <td> <strong>4.</strong>
+      </td>
+      <td> <strong>5.</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 1.
+      </td>
+      <td> +2
+      </td>
+      <td> Favorizovani neprijatelj, Prirodni istraživač
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 2.
+      </td>
+      <td> +2
+      </td>
+      <td> Stil borbe, Bacanje čarolija
+      </td>
+      <td> 2
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> +2
+      </td>
+      <td> Arhetip rendžera, Drevna svojest
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 4.
+      </td>
+      <td> +2
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> +3
+      </td>
+      <td> Dodatni napad
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 6.
+      </td>
+      <td> +3
+      </td>
+      <td> Poboljšanja neprijatelja i prirodnog istraživača
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> +3
+      </td>
+      <td> Arhetipska karakteristika rendžera
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 8.
+      </td>
+      <td> +3
+      </td>
+      <td> Poboljšanje ocijena sposobnosti, Hod po zemlji
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> +4
+      </td>
+      <td> -
+      </td>
+      <td> 6
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 10.
+      </td>
+      <td> +4
+      </td>
+      <td> Poboljšanje prirodnog istraživača, Sakrij se u vidnom polju
+      </td>
+      <td> 6
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 11
+      </td>
+      <td> +4
+      </td>
+      <td> Arhetipska karakteristika rendžera
+      </td>
+      <td> 7
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 12.
+      </td>
+      <td> +4
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 7
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 13
+      </td>
+      <td> +5
+      </td>
+      <td> -
+      </td>
+      <td> 8
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 14
+      </td>
+      <td> +5
+      </td>
+      <td> Favorizovano poboljšanje neprijatelja, Nestani
+      </td>
+      <td> 8
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 15.
+      </td>
+      <td> +5
+      </td>
+      <td> Arhetipska karakteristika rendžera
+      </td>
+      <td> 9
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 16
+      </td>
+      <td> +5
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 9
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 17
+      </td>
+      <td> +6
+      </td>
+      <td> -
+      </td>
+      <td> 10
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 18
+      </td>
+      <td> +6
+      </td>
+      <td> Divlja čula
+      </td>
+      <td> 10
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 19
+      </td>
+      <td> +6
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 11
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+   </tr>
+   <tr>
+      <td> 20.
+      </td>
+      <td> +6
+      </td>
+      <td> Ubica neprijatelja
+      </td>
+      <td> 11
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+   </tr>
 </table>
-
 
 
 ## Karakteristike klase
@@ -5287,7 +5228,6 @@ Kao rendžer dobijate sledeće karakteristike klase.
 
 **Poeni na višim nivoima:** 1d10 (ili 6) + vaš modifikator Građe po nivou rendžera nakon 1. nivoa
 
-
 #### **Stručnosti**
 
 **Oklop:** Laki oklop, srednji oklop, štitovi
@@ -5296,481 +5236,439 @@ Kao rendžer dobijate sledeće karakteristike klase.
 
 **Alati:** Nijedan
 
-**Spašavanje bacanja:** Snaga, spretnost
+**Spašavanje bacanja:** Snaga, Spretnost
 
-**viještine:** Izaberite tri iz rukovanja životinjama, atletike, uvida, istraživanja, prirode, percepcije, stelta i preživljavanja
-
+**viještine:** Izaberite tri iz Rukovanje životinjama, Atletika, Uvid, Istraživanje, Priroda, Percepcija, Skrivanje i Preživljavanje
 
 #### **Oprema**
 
 Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
-
-
-
-* (a) poštanska vaga ili (b) kožni oklop
-* (a) dvije kratke mačeve ili (b) dva jednostavna melee oružja
-* (a) tamničarski čopor ili (b) čopor istraživača
-* Dug luk i tobolac od 20 strela
-
+* (a) krljušt oklop ili (b) kožni oklop
+* (a) dva kratka mača ili (b) dva jednostavna oružja za blisku borbu
+* (a) tamničarski pribor ili (b) istraživački pribor
+* Dug luk i tobolac od 20 strijela
 
 ### Favorizovani neprijatelj
 
 Počevši od prvog nivoa, imate značajno iskustvo u proučavanju, praćenju, lovu, pa čak i razgovoru sa određenom vrstom neprijatelja.
 
-Izaberite vrstu favorizovanog neprijatelja: aberacije, zvijeri, nebijeske građevine, konstrukcije, zmajevi, elementali, fej, vragovi, džinovi, grdosije, izlivi, biljke ili nemrtvi. Alternativno, za favorizovane neprijatelje možete odabrati dvije rase humanoida (kao što su gnolovi i orci).
+Izaberite vrstu favorizovanog neprijatelja: aberacije, zvijeri, nebeske, konstrukcije, zmajevi, elementali, fej, vragovi, džinovi, grdosije, izlivi, biljke ili nemrtvi. Alternativno, za favorizovane neprijatelje možete odabrati dvije rase humanoida (kao što su gnolovi i orci).
 
-Imate prednost na proverama Mudrosti (preživljavanja) da biste pratili favorizovane neprijatelje, kao i na proverama obaveštajnih službi radi opoziva podataka o njima.
+Imate prednost na proverama Mudrosti (Preživljavanja) da biste pratili favorizovane neprijatelje, kao i na proverama inteligencije radi prisjećanja podataka o njima.
 
 Kada dobijete ovu funkciju, naučite i jedan jezik po vašem izboru kojim govore vaši favorizovani neprijatelji, ako oni uopšte govore jedan.
 
 Vi birate još jednog omiljenog neprijatelja, kao i pridruženi jezik, na 6. i 14. nivou. Kako budete osvajali nivo, vaši izbori bi trebali odražavati vrste čudovišta sa kojima ste se susretali u svojim avanturama.
 
+### Prirodni istraživač
 
-### Natural Ekplorer
-
-Posebno vam je poznat jedan tip prirodnog okruženja i vični ste putovanju i preživljavanju u takvim regionima. Izaberite jednu vrstu favorizovanog terena: Arktik, obala, pustinja, šuma, travnjak, planina, močvara ili Underdark. Kada izvršite provijeru inteligencije ili Mudrosti u vezi sa vašim omiljenim terenom, bonus za stručnost se udvostručuje ako koristite veštinu u kojoj ste vešti.
+Posebno vam je poznat jedan tip prirodnog okruženja i vješti ste putovanju i preživljavanju u takvim regionima. Izaberite jednu vrstu favorizovanog terena: Arktik, obala, pustinja, šuma, travnjak, planina, močvara ili podezemlje. Kada izvršite provijeru Inteligencije ili Mudrosti u vezi sa vašim omiljenim terenom, bonus za stručnost se udvostručuje ako koristite veštinu u kojoj ste vešti.
 
 Dok putujete sat vremena ili više po favorizovanom terenu, postižete sledeće pogodnosti:
-
-
-
 * Težak teren ne usporava putovanja vaše grupe.
 * Vaša grupa se ne može izgubiti osim čarobnim sredstvima.
 * Čak i kada se tokom putovanja bavite nekom drugom aktivnošću (poput pronalaženja hrane, navigacije ili praćenja), i dalje ostajete na oprezu.
 * Ako putujete sami, možete se kretati kradom normalnim tempom.
 * Kada nađete hranu, nađete dvostruko više hrane nego što biste je normalno pronašli.
-* Dok pratite druga bića, saznaćete i njihov tačan broj, veličinu i koliko su vremena prošla kroz to područje.
+* Dok pratite druga bića, saznaćete i njihov tačan broj, veličinu i prije koliko vremena su prošla kroz to područje.
 
 Vi birate dodatne favorizovane vrste terena na 6. i 10. nivou.
-
 
 ### Borbeni stil
 
 Na 2. nivou usvajate određeni stil borbe kao svoju specijalnost. Izaberite jednu od sledećih opcija.
 
-Ne možete više puta da odaberete opciju Fighting Stile, čak i ako kasnije budete mogli ponovo da izaberete.
-
+Ne možete više puta da odaberete opciju Borbeni stil, čak i ako kasnije budete mogli ponovo da izaberete.
 
 #### **Streljaštvo**
 
-Dobijate +2 bonusa za napad na rolne koje pravite daljinskim oružjem.
-
+Dobijate +2 bonusa na bacanja za napad koje pravite oružjem za borbu na daljinu.
 
 #### **Odbrana**
 
 Dok nosite oklop, dobijate +1 bonus za AC.
 
-
 #### **Dvoboj**
 
-Kada u jednoj ruci držite ručno oružje, a ne drugim oružjem, dobijate +2 bonusa za oštećenje koluta tim oružjem.
-
+Kada u jednoj ruci držite ručno oružje, a nemate drugo oružjes, dobijate +2 bonusa za bacanja štete tim oružjem.
 
 #### **Borba sa dva oružja**
 
 Kada se upustite u borbu sa dva oružja, možete dodati svoj modifikator sposobnosti na štetu drugog napada.
 
-
 ### Korištenje magije
 
-Kad dostignete 2. nivo, naučili ste da koristite magijsku suštinu prirode da biste bacali uroke, baš kao što to radi i druid. Pogledajte poglavlje 10 za opšta pravila čarolije i poglavlje 11 za spisak čarolija čuvara.
+Kad dostignete 2. nivo, naučili ste da koristite magijsku suštinu prirode da biste bacali črolije, baš kao što to radi i druid. Pogledajte poglavlje 10 za opšta pravila čarolije i poglavlje 11 za spisak čarolija rendžera.
 
+#### **Slotovi za čarolije**
 
-#### **Slovovi za pravopis**
+Tabela Ranger pokazuje koliko slotova za čarolije imater da izvodite svoje rendžerske čarolije 1. nivoa i više. Da biste izvršili jednu od ovih čarolija, morate potrošiti slot nivoa čarolije ili veći. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
 
-Tabela Ranger pokazuje koliko slotova za čarolije morate da izvodite svoje rendžerske čarolije 1. nivoa i više. Da biste izvršili jednu od ovih čarolija, morate potrošiti slot nivoa čarolije ili veći. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
-
-Na primer, ako poznajete čaroliju _ nivoa života _životinjsko prijateljstvo_ i imate na raspolaganju slot za čaroliju prvog i drugog nivoa, možete baciti _životinjsko prijateljstvo_ pomoću bilo kog slota.
+Na primer, ako poznajete čaroliju prvog nivoa _životinjsko prijateljstvo_ i imate na raspolaganju slot za čaroliju prvog i drugog nivoa, možete baciti _životinjsko prijateljstvo_ pomoću bilo kog slota.
 
 #### **Čarolije poznate od prvog i višeg nivoa**
 
 Znate dvije čarolije 1. nivoa po vašem izboru sa liste čarolija rendžera.
 
-Kolona „Poznate čarolije“ tabele Ranger prikazuje kada saznate više čarolija rendžera po vašem izboru. Svaka od ovih čarolija mora biti na nivou za koji imate slotove za čarolije. Na primer, kada dostignete 5. nivo u ovoj klasi, možete naučiti jednu novu čaroliju 1. ili 2. nivoa.
+Kolona „Poznate čarolije“ tabele Rendžer prikazuje kada saznate više čarolija rendžera po vašem izboru. Svaka od ovih čarolija mora biti na nivou za koji imate slotove za čarolije. Na primer, kada dostignete 5. nivo u ovoj klasi, možete naučiti jednu novu čaroliju 1. ili 2. nivoa.
 
-Pored toga, kada steknete nivo u ovoj klasi, možete odabrati jednu od poznatih čarolija čuvara i zameniti je drugom čarolijom sa liste čarolija rendžera, koja takođe mora biti nivoa za koji imate slotove za čarolije.
-
+Pored toga, kada steknete nivo u ovoj klasi, možete odabrati jednu od poznatih čarolija rendžeras i zameniti je drugom čarolijom sa liste čarolija rendžera, koja takođe mora biti nivoa za koji imate slotove za čarolije.
 
 #### **Sposobnost korištenja magije**
 
-Mudrost je vaša sposobnost pravljenja čarolija za vaše rendžerske čarolije, jer se vaša magija oslanja na vaše prilagođavanje prirodi. Koristite svoju Mudrost kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj modifikator Mudrosti koristite kada postavljate DC spasilačkog bacanja za čaroliju rendžera koju ste bacili i kada pravite napadački zamah jednim.
+Mudrost je vaša sposobnost pravljenja čarolija za vaše rendžerske čarolije, jer se vaša magija oslanja na vaše prilagođavanje prirodi. Koristite svoju Mudrost kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj modifikator Mudrosti koristite kada postavljate DC spasilačkog bacanja za čaroliju rendžera koju ste bacili i kada pravite napadački zamah.
 
 **DC spasa od čarolije** = 8 + vaš bonus za stručnost + vaš modifikator Mudrosti
 
-**Modifikator napada čarolijom** = vaš bonus za znanje + vaš modifikator Mudrosti
+**Modifikator napada čarolijom** = vaš bonus za stručnost + vaš modifikator Mudrosti
 
-
-### Arhetip Ranger-a
+### Arhetip Rendžera
 
 Na 3. nivou odabirete arhetip na koji želite da se ugledate: Lovac ili Gospodar zvijeri, oboje detaljno na kraju opisa klase. Vaš izbor vam daje mogućnosti na 3. nivou i ponovo na 7., 11. i 15. nivou.
 
-
 ### Prvobitna svest
 
-Počevši od 3. nivoa, možete da iskoristite svoju akciju i potrošite jedan slot za čarolije rendžera da biste svoju svest usmerili na region oko sebe. Za 1 minut po nivou slota čarolija koji potrošite možete da osetite da li su sledeće vrste stvorenja prisutne u krugu od 1 milje od vas (ili u krugu do 6 milja ako se nalazite na svom omiljenom terenu): aberacije, nebijesa, zmajevi, elementali, fej, neprijatelji i nemrtvi. Ova funkcija ne otkriva lokaciju ili broj stvorenja.
-
+Počevši od 3. nivoa, možete da iskoristite svoju akciju i potrošite jedan slot za čarolije rendžera da biste svoju svest usmerili na region oko sebe. Za 1 minut po nivou slota čarolija koji potrošite možete da osetite da li su sledeće vrste stvorenja prisutne u krugu od 1 milje od vas (ili u krugu do 6 milja ako se nalazite na svom omiljenom terenu): aberacije, nebesa, zmajevi, elementali, fej, vragovi i nemrtvi. Ova funkcija ne otkriva lokaciju ili broj stvorenja.
 
 ### Poboljšanje ocijena sposobnosti
 
 Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
-
 ### Dodatni napad
 
 Počevši od 5. nivoa, možete napadati dva puta, umesto jednom, svaki put kada preduzmete akciju Napad na svom potezu.
 
+### Hod po zemlji
 
-### Land’s Stride
+Počevši od 8. nivoa, kretanje nemagičnim teškim terenom ne košta vas dodatno kretanje. Takođe možete proći kroz nemagične biljke, a da vas one ne usporavaju i ne primajuči im štetu ako imaju bodlje, trnje ili sličnu opasnost.
 
-Počevši od 8. nivoa, kretanje nemagično teškim terenom ne košta vas dodatno kretanje. Takođe možete proći kroz nemagične biljke, a da ih one ne usporavaju i ne uzimajući im štetu ako imaju bodlje, bodlje ili sličnu opasnost.
+Pored toga, imate prednost u bacanju spasa protiv biljaka koje su magično stvorene ili manipulisane da ometaju kretanje, poput onih stvorenih čarolijom _zaplesti_.
 
-Pored toga, imate prednost u uštedi bacanja protiv biljaka koje su magično stvorene ili manipulisane da ometaju kretanje, poput onih stvorenih čarolijom _entangle_.
-
-
-### Sakrij u vidnom polju
+### Skivanje u vidnom polju
 
 Počevši od 10. nivoa, možete provesti 1 minut stvarajući sebi maskirnu odeću. Morate imati pristup svežem blatu, prljavštini, biljkama, čađi i drugim prirodnim materijalima pomoću kojih ćete stvoriti svoju kamuflažu.
 
-Jednom kada se kamuflirate na ovaj način, možete pokušati da se sakrijete pritiskajući se na čvrstu površinu, poput drveta ili zida, koja je visoka najmanje i široka kao i vi. Dobijate +10 bonusa na Spretnosti (Stealth) čekovima sve dok ostanete tamo bez pomeranja ili preduzimanja radnji. Jednom kada se pomerite ili preduzmete neku akciju ili reakciju, morate se ponovo kamuflirati da biste stekli ovu korist.
+Jednom kada se kamuflirate na ovaj način, možete pokušati da se sakrijete pritiskajući se na čvrstu površinu, poput drveta ili zida, koja je visoka najmanje i široka kao i vi. Dobijate +10 bonusa na Spretnosti (Skrivanje) čekovima sve dok ostanete tamo bez pomeranja ili preduzimanja radnji. Jednom kada se pomerite ili preduzmete neku akciju ili reakciju, morate se ponovo kamuflirati da biste stekli ovu korist.
 
+### Nestati
 
-### Vanish
-
-Počevši od 14. nivoa, akciju Sakrij možete koristiti kao bonus akciju na svom potezu. Takođe, ne možete vas pratiti nemagijskim sredstvima, osim ako ne odlučite da ostavite trag.
-
+Počevši od 14. nivoa, akciju Sakrij možete koristiti kao bonus akciju na svom potezu. Takođe, ne možete biti praćeni nemagijskim sredstvima, osim ako ne odlučite da ostavite trag.
 
 ### Divlja čula
 
-Na 18. nivou stičete natprirodna čula koja vam pomažu u borbi protiv stvorenja koja ne vidite. Kada napadnete stvorenje koje ne možete da vidite, vaša nemogućnost da ga vidite ne predstavlja štetu vašem napadu koji se okreće protiv njega.
+Na 18. nivou stičete natprirodna čula koja vam pomažu u borbi protiv stvorenja koja ne vidite. Kada napadnete stvorenje koje ne možete da vidite, vaša nemogućnost da ga vidite ne predstavlja nedostatak vašem napadu koji se bacate protiv njega.
 
 Takođe ste svesni lokacije bilo kog nevidljivog stvorenja u krugu od 30 stopa od vas, pod uslovom da to stvorenje nije skriveno od vas i da niste oslepeli ili ogluveli.
 
+### Ubica neprijatelja
 
-### Foe Slaier
+Na 20. nivou postajete lovac na neprijatelje bez premca. Jednom u svakom svom potezu, možete dodati svoj modifikator Mudrosti u bacanje napada ili u bacanje štete napada koji napravite protiv jednog od vaših omiljenih neprijatelja. Možete da odaberete da koristite ovu funkciju pre ili posle bacanja, ali pre nego što se primene bilo kakvi efekti bacanja.
 
-Na 20. nivou postajete lovac na neprijatelje bez premca. Jednom u svakom svom okretu, možete dodati svoj modifikator Mudrosti u svitak napada ili u spisak štete napada koji napravite protiv jednog od vaših omiljenih neprijatelja. Možete da odaberete da koristite ovu funkciju pre ili posle role, ali pre nego što se primene bilo kakvi efekti role.
+## Arhetipovi rendžera
 
+Ideal rendžera ima dva klasična izraza: Lovac i Gospodar zvijeri.
 
-## Ranger arhetipovi
+### Lovac
 
-Ideal rendžera ima dva klasična izraza: lovac i gospodar zvijeri.
+Ugledati se na arhetipa Lovca znači prihvatiti svoje mesto kao bedem između civilizacije i strahova u divljini. Dok koračate lovačkim putem, naučite specijalizovane tehnike za borbu protiv pretnji sa kojima se suočavate, od divljih ogrova i horda orkova do visokih divova i zastrašujućih zmajeva.
 
-
-### Hunter
-
-Ugledati se na arhetipa Huntera znači prihvatiti svoje mesto kao bedem između civilizacije i strahova u divljini. Dok koračate lovačkim putem, naučite specijalizovane tehnike za borbu protiv pretnji sa kojima se suočavate, od divljih ogrova i horda orkova do visokih divova i zastrašujućih zmajeva.
-
-#### **Hunter’s Prei**
+#### **Lovčev plijen**
 
 Na 3. nivou dobijate jednu od sledećih karakteristika po vašem izboru.
 
-**Colossus Slaier.** Vaša postojanost može iscrpiti najmoćnije neprijatelje. Kad pogodiš stvorenje napadom oružja, stvorit će dodatnih 1d8 štete ako je ispod maksimalne tačke pogotka. Ovu dodatnu štetu možete naneti samo jednom po potezu.
+**Kolosalni ubica** Vaša postojanost može iscrpiti najmoćnije neprijatelje. Kad pogodiš stvorenje napadom oružja, stvorenje će pretrpijeti dodatnih 1d8 štete ako je ispod maksimalnog broja životnih bodova. Ovu dodatnu štetu možete naneti samo jednom po potezu.
 
-**Giant Killer.** Kada veliko ili veće stvorenje u krugu od 5 stopa od vas pogodi ili vas propusti napadom, možete da upotrebite svoju reakciju da napadnete to stvorenje odmah nakon napada, pod uslovom da ga možete videti.
+**Ubica divova** Kada veliko ili veće stvorenje u krugu od 5 stopa od vas pogodi ili vas promaši napadom, možete da upotrebite svoju reakciju da napadnete to stvorenje odmah nakon napada, pod uslovom da ga možete videti.
 
-**Horde Breaker.** Jednom u svakom vašem okretu kada izvršite napad oružjem, možete izvršiti još jedan napad istim oružjem protiv drugog stvorenja koje je unutar 5 stopa od originalne mete i unutar dometa vašeg oružja.
-
+**Razbijač hordi** Jednom u svakom vašem potezu kada izvršite napad oružjem, možete izvršiti još jedan napad istim oružjem protiv drugog stvorenja koje je unutar 5 stopa od originalne mete i unutar dometa vašeg oružja.
 
 #### **Odbrambena taktika**
 
 Na 7. nivou dobijate jednu od sledećih karakteristika po vašem izboru.
 
-**Pobjegnite iz Horde.** Napadi na vas, koji se vrše u nepovoljnom položaju.
+**Pobjegnite od Horde.** Prilike za napad na vas, bacaju se sa nepovoljnošću.
 
 **Odbrana od više napada.** Kada vas stvorenje pogodi napadom, dobijate +4 bonusa za AC protiv svih narednih napada koje je to stvorenje izvršilo do kraja poteza.
 
-**Čelična volja.** Imate prednost u uštedama u odnosu na strah.
+**Čelična volja.** Imate prednost u bacanjima spasa u odnosu na strah.
 
 
-#### **Multiattack**
+#### **Višestruki napad**
 
 Na 11. nivou dobijate jednu od sledećih karakteristika po vašem izboru.
 
-**Odbojka.** Svojom akcijom možete izvršiti napad na daljinu protiv bilo kog broja stvorenja u krugu od 10 stopa od tačke koju vidite u dometu vašeg oružja. Morate imati municiju za svaku metu, kao i obično, i za svaku metu napravite poseban valjak za napad.
+**Paljba.** Svojom akcijom možete izvršiti napad na daljinu protiv bilo kog broja stvorenja u krugu od 10 stopa od tačke koju vidite u dometu vašeg oružja. Morate imati municiju za svaku metu, kao i obično, i za svaku metu napravite posebano bacanje za napad.
 
-**Napad vihora.** Možete da upotrebite svoju akciju da izvršite napad iz blizine na bilo koji broj stvorenja u krugu od 5 stopa od vas, sa odvojenim valjkom za svaku metu.
+**Napad vihora.** Možete da upotrebite svoju akciju da izvršite napad iz blizine na bilo koji broj stvorenja u krugu od 5 stopa od vas, sa odvojenim bacanjem za svaku metu.
 
-
-#### **Superior Hunter's Defense**
+#### **Superiorna odbara lovca**
 
 Na 15. nivou dobijate jednu od sledećih karakteristika po vašem izboru.
 
-**Utaja.** Kada ste podvrgnuti efektu, kao što je vatreni dah crvenog zmaja ili čarolija _ munje_, koja vam omogućava da napravite spretno bacanje Spretnosti da biste odneli samo pola štete, umesto toga nećete oštetiti ako uspete u spasilačkom bacanju , i samo pola štete ako ne uspete.
+**Izbjegavanje.** Kada ste podvrgnuti efektu, kao što je vatreni dah crvenog zmaja ili čarolija _munja_, koja vam omogućava da napravite spasonosno bacanje Spretnosti da biste odneli samo pola štete, umesto toga nećete primiti štetu ako uspete u spasilačkom bacanju, i samo pola štete ako ne uspete.
 
-**Stanite protiv plima.** Kada vas neprijateljsko stvorenje propusti pri ručnom napadu, možete iskoristiti svoju reakciju da primorate to stvorenje da ponovi isti napad na drugo stvorenje (osim sebe) po vašem izboru.
+**Stanite protiv plima.** Kada vas neprijateljsko stvorenje promaši pri napadu oružijem za blisku borbu, možete iskoristiti svoju reakciju da primorate to stvorenje da ponovi isti napad na drugo stvorenje (osim sebe) po vašem izboru.
 
-**Neobičan Dodge.** Kada vas napadač koji vidite udari napadom, možete da upotrebite svoju reakciju da prepolovite štetu koja napada u vama.
-
-
-## Rogue
+**Neobičo izbjegavanje.** Kada vas napadač koji vidite udari napadom, možete da upotrebite svoju reakciju da prepolovite štetu koja vas napada.
 
 
-Dajući znak svojim saputnicima da sačekaju, polutka se provlači napred kroz tamnicu. Ona pritisne uvo na vrata, a zatim izvadi komplet alata i u tren oka pokupi bravu. Zatim ona nestaje u senci dok se njen prijatelj borac kreće napred da bi otvorio vrata.
 
-Čovek se vreba u senci uličice dok se njegov saučesnik priprema za njen deo u zasedi. Kada njihova meta - ozloglašeni rob - prođe uličicu, saučesnik zavapi, rob dođe da istraži, a oštrica atentatora mu prereže grlo pre nego što začuje.
+## Odmetnik
 
-Suzbijajući kikot, gnome maše prstima i magično podiže privezak sa pojasa stražara. Za trenutak su ključevi u njenoj ruci, vrata ćelije su otvorena i ona i njeni pratioci mogu slobodno da pobegnu.
+Dajući znak svojim saputnicima da sačekaju, polutan se provlači napred kroz tamnicu. Ona pritisne uvo na vrata, a zatim izvadi komplet alata i u tren oka obije bravu. Zatim ona nestaje u senci dok se njen prijatelj borac kreće napred da bi otvorio vrata.
 
-Nevaljalci se u bilo kojoj situaciji oslanjaju na viještine, skrivenost i ranjivosti svojih neprijatelja. Oni imaju sposobnost da pronađu rešenje za bilo koji problem, pokazujući snalažljivost i svestranost koja je kamen temeljac bilo koje uspešne avanturističke zabave.
+Čovek se vreba u senci uličice dok se njegov saučesnik priprema za njegov deo u zasedi. Kada njihova meta - ozloglašeni robovlasnik - prođe uličicu, saučesnik zavapi, robovlasnik dođe da istraži, a oštrica atentatora mu prereže grlo pre nego što uspiej pustiti zvuk.
 
+Suzbijajući kikot, gnom maše prstima i magično podiže privezak sa pojasa stražara. Za trenutak su ključevi u njenoj ruci, vrata ćelije su otvorena i ona i njeni pratioci mogu slobodno da pobegnu.
 
-### viještina i preciznost
-
-Razbojnici posvećuju onoliko truda savladavanju upotrebe različitih viještina koliko i usavršavanju svojih borbenih sposobnosti, pružajući im široku stručnost sa kojom se malo koji drugi lik može podudarati. Mnogi prevaranti se fokusiraju na prikrivanje i obmanu, dok drugi usavršavaju viještine koje im pomažu u tamnici, poput penjanja, pronalaženja i razoružavanja zamki i otvaranja brava.
-
-Kada je borba u pitanju, lupeži daju prednost lukavosti nad grubom snagom. Lupež bi radije izvršio jedan precizan udarac, postavljajući ga tačno tamo gde će napad najviše povrediti metu, nego što će iscrpiti protivnika nizom napada. Nevaljalci imaju gotovo natprirodnu sposobnost da izbegnu opasnost, a nekolicina uči magične trikove da dopune svoje druge sposobnosti.
+Odmetnici se u bilo kojoj situaciji oslanjaju na viještine, skrivenost i ranjivosti svojih neprijatelja. Oni imaju sposobnost da pronađu rešenje za bilo koji problem, pokazujući snalažljivost i svestranost koja je kamen temeljac bilo koje uspešne avanturističke družine.
 
 
-### Shadi Living
+### Viještina i preciznost
 
-Svaki grad i grad ima svoj udeo lupeža. Većina njih živi prema najgorim stereotipima klase, zarađujući za život kao provalnici, atentatori, prestupnici i prevaranti. Često su ovi nitkovi organizovani u cehove lopova ili porodice zločinaca. Dosta prevaranata deluje nezavisno, ali čak i oni ponekad regrutuju šegrte da im pomognu u njihovim prevarama i pljačkama. Nekoliko lupeža pošteno zarađuju kao bravari, istražitelji ili istrebljivači, što može biti opasan posao u svetu u kojem strašni pacovi - i otpadnici - proganjaju kanalizaciju.
+Odmetnici posvećuju onoliko truda savladavanju upotrebe različitih viještina koliko i usavršavanju svojih borbenih sposobnosti, pružajući im široku stručnost sa kojom se malo koji drugi lik može podudarati. Mnogi odmetnici se fokusiraju na prikrivanje i obmanu, dok drugi usavršavaju viještine koje im pomažu u tamnici, poput penjanja, pronalaženja i razoružavanja zamki i obijanja brava.
 
-Kao avanturisti, prevaranti padaju na obe strane zakona. Neki su okorjeli kriminalci koji odluče potražiti sreću u ostavama blaga, dok drugi odlaze u avanturistički život da bi pobegli od zakona. Neki su učili i usavršavali svoje viještine sa izričitom svrhom infiltriranja u drevne ruševine i skrivene kripte u potrazi za blagom.
+Kada je borba u pitanju, odmetnici daju prednost lukavosti nad grubom snagom. Odmetnik bi radije izvršio jedan precizan udarac, postavljajući ga tačno tamo gde će napad najviše povrediti metu, nego što će iscrpijeti protivnika nizom napada. Odmetnici imaju gotovo natprirodnu sposobnost da izbegnu opasnost, a nekolicina uči magične trikove da dopune svoje druge sposobnosti.
 
+### Sumnjiv život
 
-### Stvaranje nevaljalca
+Svako mjesto i grad ima svoj udeo odmetnika. Većina njih živi prema najgorim stereotipima klase, zarađujući za život kao provalnici, atentatori, prestupnici i prevaranti. Često su ovi nitkovi organizovani u grupacije lopova ili porodice zločinaca. Dosta odmetnika deluje nezavisno, ali čak i oni ponekad regrutuju šegrte da im pomognu u njihovim prevarama i pljačkama. Nekoliko odmetnika pošteno zarađuju kao bravari, istražitelji ili istrebljivači, što može biti opasan posao u svetu u kojem strašni pacovi - i vereratovi - proganjaju kanalizaciju.
 
-Dok stvarate svog nevaljalog lika, razmotrite odnos lika prema zakonu. Da li imate zločinačku prošlost - ili sadašnjost? Da li ste u bekstvu od zakona ili od majstora cehovitih ljutih lopova? Ili ste napustili svoj ceh u potrazi za većim rizicima i većim nagradama? Da li vas u vašim avanturama pokreće pohlepa ili neka druga želja ili ideal?
+Kao avanturisti, prevaranti pripadaju na obe strane zakona. Neki su okorjeli kriminalci koji odluče potražiti sreću u riznicama blaga, dok drugi odlaze u avanturistički život da bi pobegli od zakona. Neki su učili i usavršavali svoje viještine sa izričitom svrhom infiltriranja u drevne ruševine i skrivene kripte u potrazi za blagom.
 
-Šta je bio okidač koji vas je udaljio od prethodnog života? Da li vam je velika prevara ili pljačka strašno pogrešila zbog čega ste preispitali karijeru? Možda ste imali sreće i uspešna pljačka vam je dala novčić potreban za beg iz bede svog života. Da li vas je lutalica napokon pozvala od kuće? Možda ste se iznenada našli odsečeni od porodice ili mentora i morali ste da pronađete novo sredstvo za podršku. Ili ste možda stekli novog prijatelja - drugog člana vaše avanturističke stranke - koji vam je pokazao nove mogućnosti za zarađivanje za život i zapošljavanje vaših posebnih talenata.
+### Stvaranje odmetnika
 
+Dok stvarate svog odmetničkog lika, razmotrite odnos lika prema zakonu. Da li imate zločinačku prošlost - ili sadašnjost? Da li ste u bekstvu od zakona ili od gospodara grupacije ljutih lopova? Ili ste napustili svoju grupaciju u potrazi za većim rizicima i većim nagradama? Da li vas u vašim avanturama pokreće pohlepa ili neka druga želja ili ideal?
 
-#### **Brza izrada**
+Šta je bio okidač koji vas je udaljio od prethodnog života? Da li vam je velika prevara ili pljačka otišla strašno pogrešno zbog čega ste preispitali karijeru? Možda ste imali sreće i uspešna pljačka vam je dala novac potreban za beg iz bede svog života. Da li vas je žudnja za lutanjem napokon pozvala od kuće? Možda ste se iznenada našli odsečeni od porodice ili mentora i morali ste da pronađete novo sredstvo za podršku. Ili ste možda stekli novog prijatelja - drugog člana vaše avanturističke družine - koji vam je pokazao nove mogućnosti za zarađivanje za život i zapošljavanje vaših posebnih talenata.
 
-Možete brzo da napravite prevaranta prateći ove predloge. Prvo, spretnost treba da bude vaša najveća ocijena sposobnosti. Neka Inteligencija bude vaša sledeća najviša vrednost ako želite da se istaknete u istrazi ili planirate da zauzmete arhetip Arcane Trickster. Umesto toga, odaberite harizmu ako planirate da naglasite obmanu i socijalnu interakciju. Drugo, odaberite šarlatan pozadinu.
+#### **Brzo pravljenje**
 
-
+Možete brzo da napravite odmetnika prateći ove predloge. Prvo, Spretnost treba da bude vaša najveća ocijena sposobnosti. Neka Inteligencija bude vaša sledeća najviša vrednost ako želite da se istaknete u istraživanju ili planirate da zauzmete arhetip Arlanski Varalica. U suprotnom, odaberite Harizmu ako planirate da naglasite obmanu i socijalnu interakciju. Drugo, odaberite šarlatan pozadinu.
 <table>
-  <tr>
-   <td> <strong>Nivo</strong>
-   </td>
-   <td> <strong>Stručnost</strong>
-
-<strong>Bonus</strong>
-   </td>
-   <td> <strong>Šunjanje</strong>
-
-<strong>Napad</strong>
-   </td>
-   <td> <strong>Karakteristike</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 1.
-   </td>
-   <td> +2
-   </td>
-   <td> 1d6
-   </td>
-   <td> Stručnost, Sneak Attack, Thieves ’Cant
-   </td>
-  </tr>
-  <tr>
-   <td> 2.
-   </td>
-   <td> +2
-   </td>
-   <td> 1d6
-   </td>
-   <td> Lukava akcija
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> +2
-   </td>
-   <td> 2d6
-   </td>
-   <td> Roguish Arhetipe
-   </td>
-  </tr>
-  <tr>
-   <td> 4.
-   </td>
-   <td> +2
-   </td>
-   <td> 2d6
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> +3
-   </td>
-   <td> 3d6
-   </td>
-   <td> Neobičan Dodge
-   </td>
-  </tr>
-  <tr>
-   <td> 6.
-   </td>
-   <td> +3
-   </td>
-   <td> 3d6
-   </td>
-   <td> Stručnost
-   </td>
-  </tr>
-  <tr>
-   <td> 7th
-   </td>
-   <td> +3
-   </td>
-   <td> 4d6
-   </td>
-   <td> Utaja
-   </td>
-  </tr>
-  <tr>
-   <td> 8.
-   </td>
-   <td> +3
-   </td>
-   <td> 4d6
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> +4
-   </td>
-   <td> 5d6
-   </td>
-   <td> Roguish Arhetipe Feature
-   </td>
-  </tr>
-  <tr>
-   <td> 10.
-   </td>
-   <td> +4
-   </td>
-   <td> 5d6
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 11th
-   </td>
-   <td> +4
-   </td>
-   <td> 6d6
-   </td>
-   <td> Pouzdan talenat
-   </td>
-  </tr>
-  <tr>
-   <td> 12.
-   </td>
-   <td> +4
-   </td>
-   <td> 6d6
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 13
-   </td>
-   <td> +5
-   </td>
-   <td> 7d6
-   </td>
-   <td> Roguish Arhetipe Feature
-   </td>
-  </tr>
-  <tr>
-   <td> 14
-   </td>
-   <td> +5
-   </td>
-   <td> 7d6
-   </td>
-   <td> Blindsense
-   </td>
-  </tr>
-  <tr>
-   <td> 15.
-   </td>
-   <td> +5
-   </td>
-   <td> 8d6
-   </td>
-   <td> Klizav um
-   </td>
-  </tr>
-  <tr>
-   <td> 16
-   </td>
-   <td> +5
-   </td>
-   <td> 8d6
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 17th
-   </td>
-   <td> +6
-   </td>
-   <td> 9d6
-   </td>
-   <td> Roguish Arhetipe Feature
-   </td>
-  </tr>
-  <tr>
-   <td> 18
-   </td>
-   <td> +6
-   </td>
-   <td> 9d6
-   </td>
-   <td> Neuhvatljivo
-   </td>
-  </tr>
-  <tr>
-   <td> 19
-   </td>
-   <td> +6
-   </td>
-   <td> 10d6
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-  </tr>
-  <tr>
-   <td> 20.
-   </td>
-   <td> +6
-   </td>
-   <td> 10d6
-   </td>
-   <td> Udar sreće
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo</strong>
+      </td>
+      <td> <strong>Bonus</strong> <strong>Stručnosti</strong>
+      </td>
+      <td> <strong>Napad</strong> <strong>Šunjanjem</strong>         
+      </td>
+      <td> <strong>Karakteristike</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 1.
+      </td>
+      <td> +2
+      </td>
+      <td> 1d6
+      </td>
+      <td> Stručnost, Napad šunjanjem, Lopovski govor
+      </td>
+   </tr>
+   <tr>
+      <td> 2.
+      </td>
+      <td> +2
+      </td>
+      <td> 1d6
+      </td>
+      <td> Lukava akcija
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> +2
+      </td>
+      <td> 2d6
+      </td>
+      <td> Odmetnički Arhetip
+      </td>
+   </tr>
+   <tr>
+      <td> 4.
+      </td>
+      <td> +2
+      </td>
+      <td> 2d6
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> +3
+      </td>
+      <td> 3d6
+      </td>
+      <td> Neobičano izbjegavanje
+      </td>
+   </tr>
+   <tr>
+      <td> 6.
+      </td>
+      <td> +3
+      </td>
+      <td> 3d6
+      </td>
+      <td> Stručnost
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> +3
+      </td>
+      <td> 4d6
+      </td>
+      <td> Izbjegavanje
+      </td>
+   </tr>
+   <tr>
+      <td> 8.
+      </td>
+      <td> +3
+      </td>
+      <td> 4d6
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> +4
+      </td>
+      <td> 5d6
+      </td>
+      <td> Sposobnost odmetničkog arhetipa
+      </td>
+   </tr>
+   <tr>
+      <td> 10.
+      </td>
+      <td> +4
+      </td>
+      <td> 5d6
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 11
+      </td>
+      <td> +4
+      </td>
+      <td> 6d6
+      </td>
+      <td> Pouzdan talenat
+      </td>
+   </tr>
+   <tr>
+      <td> 12.
+      </td>
+      <td> +4
+      </td>
+      <td> 6d6
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 13
+      </td>
+      <td> +5
+      </td>
+      <td> 7d6
+      </td>
+      <td> Sposobnost odmetničkog arhetipa
+      </td>
+   </tr>
+   <tr>
+      <td> 14
+      </td>
+      <td> +5
+      </td>
+      <td> 7d6
+      </td>
+      <td> Slijepi osjećaj
+      </td>
+   </tr>
+   <tr>
+      <td> 15.
+      </td>
+      <td> +5
+      </td>
+      <td> 8d6
+      </td>
+      <td> Klizav um
+      </td>
+   </tr>
+   <tr>
+      <td> 16
+      </td>
+      <td> +5
+      </td>
+      <td> 8d6
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 17
+      </td>
+      <td> +6
+      </td>
+      <td> 9d6
+      </td>
+      <td> Sposobnost odmetničkog arhetipa
+      </td>
+   </tr>
+   <tr>
+      <td> 18
+      </td>
+      <td> +6
+      </td>
+      <td> 9d6
+      </td>
+      <td> Neuhvatljivo
+      </td>
+   </tr>
+   <tr>
+      <td> 19
+      </td>
+      <td> +6
+      </td>
+      <td> 10d6
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+   </tr>
+   <tr>
+      <td> 20.
+      </td>
+      <td> +6
+      </td>
+      <td> 10d6
+      </td>
+      <td> Udar sreće
+      </td>
+   </tr>
 </table>
-
-
 
 ## Karakteristike klase
 
-Kao lupež imate sledeće karakteristike klase.
-
+Kao odmetnik imate sledeće karakteristike klase.
 
 #### **Životni bodovi**
 
-**Kockice života:** 1d8 po nivou prevaranta
+**Kockice života:** 1d8 po nivou odmetnika
 
 **Poeni na prvom nivou:** 8 + vaš modifikator Građe
 
-**Poeni na višim nivoima:** 1d8 (ili 5) + vaš modifikator Građe po nevaljalom nivou posle 1.
+**Poeni na višim nivoima:** 1d8 (ili 5) + vaš modifikator Građe po nivou odmetnika posle 1.
 
 #### **Stručnosti**
 
@@ -5780,22 +5678,17 @@ Kao lupež imate sledeće karakteristike klase.
 
 **Alati:** Alati za lopove
 
-**Spremanje bacanja:** spretnost, inteligencija
+**Spremanje bacanja:** Spretnost, Inteligencija
 
-**viještine:** Izaberite četiri iz akrobatike, atletike, obmane, uvida, zastrašivanja, istrage, percepcije, performansi, ubeđivanja, uglađenosti i nevidljivosti
-
+**viještine:** Izaberite četiri iz Akrobatika, Atletika, Obmana, Uvid, Zastrašivanje, Istraga, Percepcija, Nastup, Ubeđivanje, Vješte ruke i Skrivanje
 
 #### **Oprema**
 
 Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
-
-
-
-* (a) reper ili (b) kratka mač
-* (a) kratka luka i tobolac od 20 strelica ili (b) kratka mač
-* (a) čopor provalnika, (b) čopor Dungeoneera ili (c) čopor istraživača
+* (a) reper ili (b) kratki mač
+* (a) kratak luka i tobolac od 20 strijela ili (b) kratki mač
+* (a) paket provalnika, (b) tamničarski paket ili (c) istraživački paket
 * Kožni oklop, dva bodeža i alati za lopove
-
 
 ### Ekspertiza
 
@@ -5803,842 +5696,810 @@ Na 1. nivou odaberite dvije svoje viještine ili jednu od svojih viještina i sv
 
 Na šestom nivou možete da izaberete još dvije svoje viještine (u veštinama ili pomoću alata lopova) da biste stekli ovu korist.
 
+### Napad šunjanjem
 
-### Sneak Attack
+Počevši od 1. nivoa, znate kako suptilno da napadate i iskoristite neprijateljsku distrakciju. Jednom po potezu možete naneti dodatnih 1d6 štete jednom stvorenju kojeg pogodite napadom ako imate prednost na bacanju za napad. U napadu se mora koristiti finoća ili oružje dometa.
 
-Počevši od 1. nivoa, znate kako suptilno da štrajkate i iskoristite neprijateljsku distrakciju. Jednom po potezu možete naneti dodatnih 1d6 štete jednom stvorenju kojeg pogodiš napadom ako imaš prednost na kolu za napad. U napadu se mora koristiti finoća ili oružje dometa.
+Ne treba vam prednost na bacanjima napada ako je drugi neprijatelj mete unutar 5 stopa od nje, taj neprijatelj nije onesposobljen i nemate nedostatak na bacanju za napad.
 
-Ne treba vam prednost na jurišnom kolu ako je drugi neprijatelj mete unutar 5 stopa od nje, taj neprijatelj nije onesposobljen i nemate nedostatak na valjku za napad.
+Iznos dodatne štete se povećava kako osvajate nivoe u ovoj klasi, kao što je prikazano u koloni Napad šunjanjem u tabeli Odmetnik.
 
-Iznos dodatne štete se povećava kako osvajate nivoe u ovoj klasi, kao što je prikazano u koloni Sneak Attack u tabeli Rogue.
+### Lopovski govor
 
+Tokom svog treninga za prevarante naučili ste Lopovski govor, tajnu mešavinu dijalekta, žargona i šifri koji vam omogućava da sakrijete poruke u naizgled normalnom razgovoru. Samo drugo stvorenje koje zna da Lopovski govor može da razume takve poruke. Potrebno je četiri puta duže da se takva poruka prenese, nego da se ista ideja govori otvoreno.
 
-### Thieves ’Cant
-
-Tokom svog treninga za prevarante naučili ste kradljivče, tajnu mešavinu dijalekta, žargona i koda koja vam omogućava da sakrijete poruke u naizgled normalnom razgovoru. Samo još jedno stvorenje koje zna da kradljivci ne mogu da razume takve poruke. Potrebno je četiri puta duže da se takva poruka prenese, nego da se ista ideja govori otvoreno.
-
-Pored toga, razumete skup tajnih znakova i simbola koji se koriste za prenošenje kratkih, jednostavnih poruka, na primer, da li je neko područje opasno ili je teritorija lopovskog ceha, da li je plen u blizini ili su ljudi u nekoj oblasti lako marki ili će obezbediti sigurnu kuću za lopove u begu.
-
+Pored toga, razumete skup tajnih znakova i simbola koji se koriste za prenošenje kratkih, jednostavnih poruka, na primer, da li je neko područje opasno ili je teritorija lopovske grupacije, da li je plen u blizini ili su ljudi u nekoj oblasti lake mete ili će obezbediti sigurnu kuću za lopove u begu.
 
 ### Lukava akcija
 
-Počevši od 2. nivoa, vaše brzo razmišljanje i okretnost omogućavaju vam brzo kretanje i delovanje. Možete da preduzmete bonus akciju na svakom svom okretu u borbi. Ova akcija se može koristiti samo za preduzimanje radnje Crtica, Isključivanje ili Sakrivanje.
+Počevši od 2. nivoa, vaše brzo razmišljanje i okretnost omogućavaju vam brzo kretanje i delovanje. Možete da preduzmete bonus akciju na svakom svom potezu u borbi. Ova akcija se može koristiti samo za preduzimanje radnje Juriš, Isključivanje ili Sakrivanje.
 
+### Odmetnički Arhetipovi
 
-### Roguish Archetipe
-
-Na 3. nivou odabirete arhetip na koji se ugledate u vežbanju svojih skitničkih sposobnosti. Arhetip Lopov je ovde detaljno opisan; pogledajte _Plaier's Handbook_ za ostale arhetipove. Vaš izbor vam daje funkcije na 3. nivou, a zatim ponovo na 9., 13. i 17. nivou.
-
+Na 3. nivou odabirete arhetip na koji se ugledate u vežbanju svojih odmetničkih sposobnosti. Arhetip Lopov je ovde detaljno opisan; pogledajte _Priručnik za igrača_ za ostale arhetipove. Vaš izbor vam daje funkcije na 3. nivou, a zatim ponovo na 9., 13. i 17. nivou.
 
 ### Poboljšanje ocijena sposobnosti
 
 Kada dostignete 4. nivo, i ponovo na 8., 10., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
+### Neobičano izbjegavanje
 
-### Neobičan Dodge
+Počevši od 5. nivoa, kada vas napadač koji vidite udari napadom, možete da upotrebite svoju reakciju da prepolovite štetu koju nanosi taj napad.
 
-Počevši od 5. nivoa, kada vas napadač koji vidite napadne napadom, možete da upotrebite svoju reakciju da prepolovite štetu koja napada u vama.
+### Izbjegavanje
 
-
-### Utaja
-
-Počevši od 7. nivoa, možete spretno da izbegnete određene efekte područja, kao što je vatreni dah crvenog zmaja ili čarolija _ ledene oluje. Kada ste podvrgnuti efektu koji vam omogućava da napravite spretno bacanje da biste uzeli samo polovinu štete, umesto toga ne podnosite štetu ako uspete u spasilačkom bacanju, a samo polovinu štete ako ne uspete.
-
+Počevši od 7. nivoa, možete spretno da izbegnete određene efekte područja, kao što je vatreni dah crvenog zmaja ili čarolija _ledena oluja_. Kada ste podvrgnuti efektu koji vam omogućava da napravite bacanje spasa Spretnosti da biste uzeli samo polovinu štete, umesto toga ne podnosite štetu ako uspete u spasilačkom bacanju, a samo polovinu štete ako ne uspete.
 
 ### Pouzdan talenat
 
 Do 11. nivoa usavršavali ste odabrane viještine dok se ne približe savršenstvu. Kad god izvršite provijeru sposobnosti koja vam omogućava da dodate bonus za stručnost, bacanje d20 od 9 ili niže možete tretirati kao 10.
 
-
-### Blindsense
+### Slijepo čulo
 
 Počevši od 14. nivoa, ako ste u stanju da čujete, svesni ste lokacije bilo kog skrivenog ili nevidljivog stvorenja u krugu od 10 stopa od vas.
 
+### Klizav um
 
-### Slipperi Mind
-
-Do 15. nivoa stekli ste veću mentalnu snagu. Steknete znanje bacanja Mudrosti.
-
+Do 15. nivoa stekli ste veću mentalnu snagu. Stičete vještinu u bacanjima spsa Mudrosti.
 
 ### Neuhvatljivo
 
-Počevši od 18. nivoa, toliko ste izbegavani da napadači retko dobijaju prednost nad vama. Nijedan napadački valjak nema prednost protiv vas dok niste onesposobljeni.
-
+Počevši od 18. nivoa, toliko ste sposobni da izbjegavate da napadači retko dobijaju prednost nad vama. Nijedano napadačko bacanje nema prednost protiv vas dok niste onesposobljeni.
 
 ### Udar sreće
 
-Na 20. nivou imate čudan smisao za uspeh kada to trebate. Ako vaš napad promaši metu u dometu, promašaj možete pretvoriti u pogodak. Ako ne uspete na proveri sposobnosti, rolu d20 možete tretirati kao 20.
+Na 20. nivou imate čudan smisao za uspeh kada to trebate. Ako vaš napad promaši metu u dometu, promašaj možete pretvoriti u pogodak. Alternativno, ako ne uspete na proveri sposobnosti, bacanje d20 možete tretirati kao 20.
 
 Jednom kada koristite ovu funkciju, ne možete je ponovo koristiti dok ne završite kraći ili duži odmor.
 
-## Roguish Archetipes
+## Odmetnički arhetipovi
 
-Nevaljalci imaju mnogo zajedničkih osobina, uključujući naglasak na usavršavanju svojih viještina, precizan i smrtonosan pristup borbi i sve brže reflekse. Ali različiti prevaranti usmeravaju te talente u različitim pravcima, otelotvoreni odmetničkim arhetipovima. Vaš izbor arhetipa je odraz vašeg fokusa - ne nužno pokazatelj odabrane profesije, već opis vaših omiljenih tehnika.
-
+Odmetnici imaju mnogo zajedničkih osobina, uključujući naglasak na usavršavanju svojih viještina, precizan i smrtonosan pristup borbi i sve brže reflekse. Ali različiti odmetnici usmeravaju te talente u različitim pravcima, otelotvoreni odmetničkim arhetipovima. Vaš izbor arhetipa je odraz vašeg fokusa - ne nužno pokazatelj odabrane profesije, već opis vaših omiljenih tehnika.
 
 ### Lopov
 
-Usavršavate svoje viještine u divnoj umetnosti. Provalnici, razbojnici, prestupnici i drugi kriminalci obično slede ovaj arhetip, ali to čine i prevaranti koji više vole da o sebi misle kao o profesionalnim tragačima za blagom, istraživačima, istražiteljima i istražiteljima. Pored poboljšanja svoje okretnosti i nevidljivosti, naučite viještine korisne za zalaženje u drevne ruševine, čitanje nepoznatih jezika i korišćenje magičnih predmeta koje obično niste mogli da koristite.
-
+Usavršavate svoje viještine u divnoj umetnosti. Provalnici, razbojnici, prestupnici i drugi kriminalci obično slede ovaj arhetip, ali to čine i odmetnici koji više vole da o sebi misle kao o profesionalnim tragačima za blagom, istraživačima i istražiteljima. Pored poboljšanja svoje okretnosti i nevidljivosti, naučite viještine korisne za zalaženje u drevne ruševine, čitanje nepoznatih jezika i korišćenje magičnih predmeta koje obično niste mogli da koristite.
 
 #### **Brze ruke**
 
-Počevši od 3. nivoa, možete koristiti bonus akciju koju vam dodeljuje vaša Lukava akcija da biste izvršili provijeru Spretnosti (Spretnosti ruke), koristili alate lopova da biste razoružali zamku ili otvorili bravu ili preduzeli radnju Koristi objekat.
+Počevši od 3. nivoa, možete koristiti bonus akciju koju vam dodeljuje vaša Lukava akcija da biste izvršili provijeru Spretnosti (Spretne ruke), koristili alate lopova da biste onesposobilis zamku ili obili bravu ili preduzeli radnju Koristi objekat.
 
-
-#### **Druga priča**
+#### **Posao na drugom spratu**
 
 Kada odaberete ovaj arhetip na 3. nivou, stičete sposobnost penjanja brže nego obično; penjanje vas više ne košta dodatnog kretanja.
 
 Pored toga, kada napravite skok u trčanju, rastojanje koje pređete povećava se za broj stopa jednak vašem modifikatoru Spretnosti.
 
+#### **Superiorno prikradanje**
 
-#### **Supreme Sneak**
-
-Počevši od 9. nivoa, imate prednost na proveri Spretnosti (Stealth) ako ne krećete više od polovine brzine u istom zavoju.
-
+Počevši od 9. nivoa, imate prednost na proveri Spretnosti (Skrivanje) ako se ne krećete više od polovine brzine u istom potezu.
 
 #### **Korišćenje čarobnog uređaja**
 
 Do 13. nivoa ste naučili dovoljno o ​​delovanju magije da možete improvizovati upotrebu predmeta čak i kada nisu namenjeni vama. Zanemarujete sve zahteve klase, rase i nivoa upotrebe čarobnih predmeta.
 
+#### **Regleksi lopova**
 
-#### **Thief’s Reflekes**
-
-Kada dostignete 17. nivo, postajete vešti u postavljanju zaseda i brzom izbegavanju opasnosti. Možete se dva puta okrenuti tokom prve runde bilo koje borbe. Prvi put skrećete normalnom inicijativom, a drugi potez minus 10. Ovu funkciju ne možete da koristite kada ste iznenađeni.
+Kada dostignete 17. nivo, postajete vešti u postavljanju zaseda i brzom izbegavanju opasnosti. Možete imati dva poteza tokom prve runde bilo koje borbe. Prvo potez koristite vašom normalnom inicijativom, a drugi potez inicijtiva minus 10. Ovu funkciju ne možete da koristite kada ste iznenađeni.
 
 
-## Čarobnjak
 
-Zlatne oči blistaju, čovek joj pruža ruku i oslobađa zmajevsku vatru koja joj gori u žilama. Dok pakao bijesni oko njenih neprijatelja, kožna krila se šire sa njenih leđa i ona odlazi u vazduh.
+## Vrač
 
-Dugu kosu šibanu začaranim vetrom, polu-vilenjak raširi ruke i zabaci glavu unazad. Podignuvši ga na trenutak sa zemlje, val magije se probija u njemu, kroz njega i izlazi iz njega u snažnoj eksploziji groma.
+Zlatne oči blistaju, žena pruža ruku i oslobađa zmajevsku vatru koja joj gori u žilama. Dok pakao bijesni oko njenih neprijatelja, kožna krila se šire sa njenih leđa i ona odlazi u vazduh.
 
-Čučeći iza stalagmita, polutalac pokazuje prstom na troglodita koji se puni. Eksplozija vatre izvire iz njenog prsta da udari u stvorenje. Ona se sa osmehom sagne iza stenovite formacije, nesvesna da joj je njena divlja magija pretvorila svetlo plavu kožu.
+Duga kosa šibana začaranim vetrom, polu-vilenjak raširi ruke i zabaci glavu unazad. Podignuvši ga na trenutak sa zemlje, val magije se navire u njemu, kroz njega i izlazi iz njega u snažnoj eksploziji groma.
 
-Čarobnjaci nose magično prvorodstvo koje im dodeljuje egzotična krvna linija, neki onostrani uticaj ili izloženost nepoznatim kosmičkim silama. Ne može se proučavati vračanje dok se uči jezik, kao što se više ne može naučiti da živi legendarni život. Niko ne bira vračanje; moć bira vrača.
+Čučeći iza stalagmita, polutan pokazuje prstom na troglodita koji juriša. Eksplozija vatre izvire iz njenog prsta da udari u stvorenje. Ona se sa osmehom sagne iza stenovite formacije, nesvesna da joj je njena divlja magija pretvorila kožu u svijetlo plavu.
 
+Vračevi nose magično naslijeđe po rođenju koje im dodeljuje egzotična krvna linija, neki onostrani uticaj ili izloženost nepoznatim kosmičkim silama. Ne može se proučavati vračanje kao što se uči jezik, niti više nego se može naučiti živjeti legendarni život. Niko ne bira vračanje; moć bira vrača.
 
 ### Sirova magija
 
-Magija je deo svakog vrača, prožetog telom, umom i duhom sa latentnom snagom koja čeka da se tapka. Neki čarobnjaci koriste magiju koja izvire iz drevne krvne linije prožete čarolijom zmajeva. Drugi u sebi nose sirovu, nekontrolisanu magiju, haotičnu oluju koja se manifestuje na neočekivani način.
+Magija je deo svakog vrača, prožeta tijelom, umom i duhom sa latentnom snagom koja čeka da se iskoristi. Neki vračevi koriste magiju koja izvire iz drevne krvne linije prožete čarolijom zmajeva. Drugi u sebi nose sirovu, nekontrolisanu magiju, haotičnu oluju koja se manifestuje na neočekivani način.
 
 Pojava čarobnjačkih moći je divlje nepredvidiva. Neke drakonske krvne linije proizvode tačno jednog vrača u svakoj generaciji, ali u drugim linijama porekla svaki pojedinac je vrač. Većinom se talenti čaranja pojavljuju kao prividne slučajnosti. Neki čarobnjaci ne mogu da imenuju poreklo svoje moći, dok ga drugi prate čudnim događajima u sopstvenom životu. Dodir demona, blagoslov drijade pri rođenju bebe ili ukus vode iz misterioznog izvora mogli bi da izazovu dar čaranja. Tako i dar božanstva magije, izlaganje elementarnim silama Unutrašnjih ravni ili izbezumljeni haos Limba ili pogled u unutrašnje delovanje stvarnosti.
 
-Čarobnjaci nemaju koristi od knjiga čarolija i drevnih toma magije, na koje se čarobnjaci oslanjaju, niti se oslanjaju na pokrovitelja koji im daje čarolije kao što to čine veštice. Učeći da iskoriste i kanališu svoju urođenu magiju, mogu otkriti nove i zapanjujuće načine da oslobode tu moć.
+Vračevi nemaju koristi od knjiga čarolija i drevnih toma magije, na koje se čarobnjaci oslanjaju, niti se oslanjaju na pokrovitelja koji im daje čarolije kao što to čine viještice. Učeći da iskoriste i kanališu svoju urođenu magiju, mogu otkriti nove i zapanjujuće načine da oslobode tu moć.
 
 ### Neobjašnjive moći
 
+Vračevi su retki u svetu i neobično je pronaći vrača koji na neki način nije umešan u avanturistički život. Ljudi sa magičnom snagom koja kipi u žilama ubrzo otkrivaju da sila ne voli da ćuti. Vračeva magija želi da se njome upravlja i ona ima tendenciju da se razlije na nepredvidive načine ako se na nju ne poziva.
 
-
-Čarobnjaci su retki u svetu i neobično je pronaći vrača koji na neki način nije umešan u avanturistički život. Ljudi sa magičnom snagom koja kipi u žilama ubrzo otkrivaju da sila ne voli da ćuti. Čarobnjačka magija želi da se njome upravlja i ona ima tendenciju da se razlije na nepredvidive načine ako se na nju ne poziva.
-
-Vračevi često imaju nejasne ili donkihotske motive koji ih vode u avanturu. Neki traže veće razumevanje magijske sile koja ih uliva ili odgovor na misteriju njenog porekla. Drugi se nadaju da će pronaći način da se toga reše ili da će osloboditi njegov puni potencijal. Bez obzira na ciljeve, vračevi su avanturističkoj zabavi jednako korisni kao i čarobnjaci, nadoknađujući uporedni nedostatak širine svog magijskog znanja ogromnom fleksibilnošću u korišćenju čarolija koje znaju.
-
+Vračevi često imaju nejasne ili donkihotske motive koji ih vode u avanturu. Neki traže veće razumevanje magijske sile koja ih uliva ili odgovor na misteriju njenog porekla. Drugi se nadaju da će pronaći način da se toga reše ili da će osloboditi njegov puni potencijal. Bez obzira na ciljeve, vračevi su avanturističkoj družini jednako korisni kao i čarobnjaci, nadoknađujući uporedni nedostatak širine svog magijskog znanja ogromnom fleksibilnošću u korišćenju čarolija koje znaju.
 
 ### Stvaranje vrača
 
 Najvažnije pitanje koje treba uzeti u obzir prilikom stvaranja svog vrača je poreklo vaše moći. Kao početni lik ćete odabrati poreklo koje je povezano sa drakonskom krvnom lozom ili uticajem divlje magije, ali tačan izvor vaše moći zavisi od vas. Da li je to porodično prokletstvo, preneto na vas od dalekih predaka? Ili vas je neki izvanredni događaj blagoslovio urođenom magijom, ali možda i ožiljcima?
 
-Kako se osećate zbog magične moći koja teče kroz vas? Da li je prihvatate, pokušavate da savladate ili uživate u njenoj nepredvidivoj prirodi? Da li je to blagoslov ili prokletstvo? Jeste li ga tražili ili je pronašao vas? Da li ste imali mogućnost da to odbijete i želite li da imate? Šta nameravate da uradite s tim? Možda se osećate kao da ste dobili ovu moć u neku visoku svrhu. Ili biste mogli odlučiti da vam moć daje pravo da radite šta želite, da uzimate ono što želite od onih kojima takva snaga nedostaje. Možda vas vaša snaga veže za moćnog pojedinca na svetu - fej stvorenje koje vas je blagoslovilo pri rođenju, zmaja koji vam je stavio kap krvi u vene, liša koji vas je stvorio kao eksperiment ili božanstva koje vas je izabralo da nosi ovu moć.
-
+Kako se osećate zbog magične moći koja teče kroz vas? Da li je prihvatate, pokušavate da savladate ili uživate u njenoj nepredvidivoj prirodi? Da li je to blagoslov ili prokletstvo? Jeste li ga tražili ili je pronašao vas? Da li ste imali mogućnost da to odbijete i želite li da imate? Šta nameravate da uradite s tim? Možda se osećate kao da ste dobili ovu moć u neku visoku svrhu. Ili biste mogli odlučiti da vam moć daje pravo da radite šta želite, da uzimate ono što želite od onih kojima takva snaga nedostaje. Možda vas vaša snaga veže za moćnog pojedinca na svetu - fej stvorenje koje vas je blagoslovilo pri rođenju, zmaja koji vam je stavio kap krvi u vene, liča koji vas je stvorio kao eksperiment ili božanstva koje vas je izabralo da nosi ovu moć.
 
 #### **Brza izrada**
 
-Možete brzo stvoriti vrača prateći ove predloge. Prvo, harizma bi trebala biti vaša najveća ocijena sposobnosti, a zatim i Građa. Drugo, odaberite pustinjačku pozadinu. Treće, odaberite _light_, _prestidigitation_, _rai of frost_ i _shocking grass_ cantrips, zajedno sa čarolijama 1. nivoa _shield_ i _magic missile_.
-
+Možete brzo stvoriti vrača prateći ove predloge. Prvo, Harizma bi trebala biti vaša najveća ocijena sposobnosti, a zatim i Građa. Drugo, odaberite pustinjačku pozadinu. Treće, odaberite _svijetlo_, _prestidigitatacija_, _ledeni zrak_ i _šokantno hvtanje_ kantripe, zajedno sa čarolijama 1. nivoa _štit_ i _magični projektil_.
 
 <table>
-  <tr>
-   <td rowspan = "2"> <strong>Nivo</strong>
-   </td>
-   <td rowspan = "2"> <strong>Stručnost</strong>
-
-<strong>Bonus</strong>
-   </td>
-   <td rowspan = "2"> <strong>Vračanje</strong>
-
-<strong>Poeni</strong>
-   </td>
-   <td rowspan = "2"> <strong>Karakteristike</strong>
-   </td>
-   <td rowspan = "2"> <strong>Cantrips</strong>
-
-<strong>Poznato</strong>
-   </td>
-   <td rowspan = "2"> <strong>Čarolije</strong>
-
-<strong>Poznato</strong>
-   </td>
-   <td colspan = "9"> <strong>- Slotovi za pravopis po nivou pravopisa -</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> <strong>1.</strong>
-   </td>
-   <td> <strong>2.</strong>
-   </td>
-   <td> <strong>3.</strong>
-   </td>
-   <td> <strong>4.</strong>
-   </td>
-   <td> <strong>5.</strong>
-   </td>
-   <td> <strong>6.</strong>
-   </td>
-   <td> <strong>7.</strong>
-   </td>
-   <td> <strong>8.</strong>
-   </td>
-   <td> <strong>9.</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 1.
-   </td>
-   <td> +2
-   </td>
-   <td> -
-   </td>
-   <td> Pravopis, čarobno poreklo
-   </td>
-   <td> 4
-   </td>
-   <td> 2
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 2.
-   </td>
-   <td> +2
-   </td>
-   <td> 2
-   </td>
-   <td> Font čarolije
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> +2
-   </td>
-   <td> 3
-   </td>
-   <td> Metamagic
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 4.
-   </td>
-   <td> +2
-   </td>
-   <td> 4
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 5
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> +3
-   </td>
-   <td> 5
-   </td>
-   <td> -
-   </td>
-   <td> 5
-   </td>
-   <td> 6
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 6.
-   </td>
-   <td> +3
-   </td>
-   <td> 6
-   </td>
-   <td> Čarobno poreklo
-   </td>
-   <td> 5
-   </td>
-   <td> 7
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 7th
-   </td>
-   <td> +3
-   </td>
-   <td> 7
-   </td>
-   <td> -
-   </td>
-   <td> 5
-   </td>
-   <td> 8
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 8.
-   </td>
-   <td> +3
-   </td>
-   <td> 8
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 5
-   </td>
-   <td> 9
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> +4
-   </td>
-   <td> 9
-   </td>
-   <td> -
-   </td>
-   <td> 5
-   </td>
-   <td> 10
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 10.
-   </td>
-   <td> +4
-   </td>
-   <td> 10
-   </td>
-   <td> Metamagic
-   </td>
-   <td> 6
-   </td>
-   <td> 11
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 11th
-   </td>
-   <td> +4
-   </td>
-   <td> 11
-   </td>
-   <td> -
-   </td>
-   <td> 6
-   </td>
-   <td> 12
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 12.
-   </td>
-   <td> +4
-   </td>
-   <td> 12
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 6
-   </td>
-   <td> 12
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 13
-   </td>
-   <td> +5
-   </td>
-   <td> 13
-   </td>
-   <td> -
-   </td>
-   <td> 6
-   </td>
-   <td> 13
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 14
-   </td>
-   <td> +5
-   </td>
-   <td> 14
-   </td>
-   <td> Čarobno poreklo
-   </td>
-   <td> 6
-   </td>
-   <td> 13
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 15.
-   </td>
-   <td> +5
-   </td>
-   <td> 15
-   </td>
-   <td> -
-   </td>
-   <td> 6
-   </td>
-   <td> 14
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 16
-   </td>
-   <td> +5
-   </td>
-   <td> 16
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 6
-   </td>
-   <td> 14
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 17th
-   </td>
-   <td> +6
-   </td>
-   <td> 17
-   </td>
-   <td> Metamagic
-   </td>
-   <td> 6
-   </td>
-   <td> 15
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 18
-   </td>
-   <td> +6
-   </td>
-   <td> 18
-   </td>
-   <td> Čarobno poreklo
-   </td>
-   <td> 6
-   </td>
-   <td> 15
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 19
-   </td>
-   <td> +6
-   </td>
-   <td> 19
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 6
-   </td>
-   <td> 15
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 20.
-   </td>
-   <td> +6
-   </td>
-   <td> 20
-   </td>
-   <td> Čarobna restauracija
-   </td>
-   <td> 6
-   </td>
-   <td> 15
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
+   <tr>
+      <td rowspan="2"> <strong>Nivo</strong>
+      </td>
+      <td rowspan="2"> <strong>Bonus</strong> <strong>Stručnosti</strong>
+      </td>
+      <td rowspan="2"> <strong>Bodovi</strong> <strong>Vračanja</strong>
+      </td>
+      <td rowspan="2"> <strong>Karakteristike</strong>
+      </td>
+      <td rowspan="2"> <strong>Poznati</strong> <strong>Kantripi</strong>
+      </td>
+      <td rowspan="2"> <strong>Poznate</strong> <strong>Čarolije</strong>
+      </td>
+      <td colspan="9"> <strong>- Slotovi za čarolije po nivou čarolija -</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> <strong>1.</strong>
+      </td>
+      <td> <strong>2.</strong>
+      </td>
+      <td> <strong>3.</strong>
+      </td>
+      <td> <strong>4.</strong>
+      </td>
+      <td> <strong>5.</strong>
+      </td>
+      <td> <strong>6.</strong>
+      </td>
+      <td> <strong>7.</strong>
+      </td>
+      <td> <strong>8.</strong>
+      </td>
+      <td> <strong>9.</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 1.
+      </td>
+      <td> +2
+      </td>
+      <td> -
+      </td>
+      <td> Bacanje čarolija, Čarobno porijeklo
+      </td>
+      <td> 4
+      </td>
+      <td> 2
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 2.
+      </td>
+      <td> +2
+      </td>
+      <td> 2
+      </td>
+      <td> Izvor čarolije
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> +2
+      </td>
+      <td> 3
+      </td>
+      <td> Metamagija
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 4.
+      </td>
+      <td> +2
+      </td>
+      <td> 4
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 5
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> +3
+      </td>
+      <td> 5
+      </td>
+      <td> -
+      </td>
+      <td> 5
+      </td>
+      <td> 6
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 6.
+      </td>
+      <td> +3
+      </td>
+      <td> 6
+      </td>
+      <td> Osobina čarobnog porijekla
+      </td>
+      <td> 5
+      </td>
+      <td> 7
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> +3
+      </td>
+      <td> 7
+      </td>
+      <td> -
+      </td>
+      <td> 5
+      </td>
+      <td> 8
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 8.
+      </td>
+      <td> +3
+      </td>
+      <td> 8
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 5
+      </td>
+      <td> 9
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> +4
+      </td>
+      <td> 9
+      </td>
+      <td> -
+      </td>
+      <td> 5
+      </td>
+      <td> 10
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 10.
+      </td>
+      <td> +4
+      </td>
+      <td> 10
+      </td>
+      <td> Metamagic
+      </td>
+      <td> 6
+      </td>
+      <td> 11
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 11
+      </td>
+      <td> +4
+      </td>
+      <td> 11
+      </td>
+      <td> -
+      </td>
+      <td> 6
+      </td>
+      <td> 12
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 12.
+      </td>
+      <td> +4
+      </td>
+      <td> 12
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 6
+      </td>
+      <td> 12
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 13
+      </td>
+      <td> +5
+      </td>
+      <td> 13
+      </td>
+      <td> -
+      </td>
+      <td> 6
+      </td>
+      <td> 13
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 14
+      </td>
+      <td> +5
+      </td>
+      <td> 14
+      </td>
+      <td> Osobina čarobnog porijekla
+      </td>
+      <td> 6
+      </td>
+      <td> 13
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 15.
+      </td>
+      <td> +5
+      </td>
+      <td> 15
+      </td>
+      <td> -
+      </td>
+      <td> 6
+      </td>
+      <td> 14
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 16
+      </td>
+      <td> +5
+      </td>
+      <td> 16
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 6
+      </td>
+      <td> 14
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 17
+      </td>
+      <td> +6
+      </td>
+      <td> 17
+      </td>
+      <td> Metamagija
+      </td>
+      <td> 6
+      </td>
+      <td> 15
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 18
+      </td>
+      <td> +6
+      </td>
+      <td> 18
+      </td>
+      <td> Osobina čarobnog porijekla
+      </td>
+      <td> 6
+      </td>
+      <td> 15
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 19
+      </td>
+      <td> +6
+      </td>
+      <td> 19
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 6
+      </td>
+      <td> 15
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 20.
+      </td>
+      <td> +6
+      </td>
+      <td> 20
+      </td>
+      <td> Čarobna restauracija
+      </td>
+      <td> 6
+      </td>
+      <td> 15
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
 </table>
 
 ## Karakteristike klase
 
 Kao vrač, dobijate sledeće karakteristike klase.
-
 
 #### **Životni bodovi**
 
@@ -6648,71 +6509,59 @@ Kao vrač, dobijate sledeće karakteristike klase.
 
 **Poeni na višim nivoima:** 1d6 (ili 4) + vaš modifikator Građe po nivou vrača posle 1.
 
-
 #### **Stručnosti**
 
 **Oklop:** Nema
 
-**Oružje:** Bodeži, pikado, praćke, štapovi, laki samostreli
+**Oružje:** Bodeži, strelice, praćke, štapovi, laki samostreli
 
 **Alati:** Nijedan
 
-**Spašavanje bacanja:** Građa, harizma
+**Spašavanje bacanja:** Građa, Harizma
 
-**viještine:** Izaberite dvije od tajnih, obmana, uvida, zastrašivanja, ubeđivanja i religije
-
+**Viještine:** Izaberite dvije od Arkana, Obmana, Uvid, Zastrašivanje, Ubijeđivanje i Religija
 
 #### **Oprema**
 
 Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
-
-
-
-* (a) lagani samostrel i 20 vijaka ili (b) bilo koje jednostavno oružje
-* (a) kesica sa komponentama ili (b) fokus arkana
-* (a) tamničarski čopor ili (b) čopor istraživača
+* (a) lagani samostrel i 20 strijela ili (b) bilo koje jednostavno oružje
+* (a) kesica sa komponentama ili (b) arkanski fokus
+* (a) tamničarski paket ili (b) istraživački paket
 * Dva bodeža
-
 
 ### Korištenje magije
 
-Događaj u vašoj prošlosti ili u životu roditelja ili pretka ostavio je na vas neizbrisiv trag, ulivajući vas u tajnu magiju. Ovaj font magije, bez obzira na poreklo, podstiče vaše čarolije. Pogledajte poglavlje 10 za opšta pravila čarolije i poglavlje 11 za spis čarolija čarobnjaka.
+Događaj u vašoj prošlosti ili u životu roditelja ili pretka ostavio je na vas neizbrisiv trag, ulivajući vas u tajnu magiju. Ovaj izvor magije, bez obzira na poreklo, podstiče vaše čarolije. Pogledajte poglavlje 10 za opšta pravila čarolije i poglavlje 11 za spis čarolija čarobnjaka.
 
+#### **Kantripi**
 
-#### **Cantrips**
+Na prvom nivou znate četiri kantripa po vašem izboru sa liste čarolija vrača. Učite dodatne ksntripe vrača po vašem izboru na višim nivoima, kao što je prikazano u koloni Poznati Kantripi u tabeli Vrača.
 
-Na prvom nivou znate četiri putovanja po vašem izboru sa liste čarolija čarobnjaka. Učite dodatne čarobnjake po vašem izboru na višim nivoima, kao što je prikazano u koloni Poznato iz Cantripsa u tabeli Čarobnjaka.
+#### **Slotovi za čarolije**
 
+Tabela vrača pokazuje koliko slotova čarolija imate da izvodite čarolije vrača prvog i višeg nivoa. Da biste izvršili jednu od ovih čarolija vrača, morate potrošiti slot nivoa čarolije ili veći. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
 
-#### **Slovovi za pravopis**
-
-Tabela čarobnjaka pokazuje koliko slotova čarolija morate da izvodite čarolije čarobnjaka prvog i višeg nivoa. Da biste izvršili jednu od ovih čarolija čarobnjaka, morate potrošiti slot nivoa čarolije ili veći. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
-
-Na primer, ako znate ruke za spaljivanje čarolija prvog nivoa i ako vam je na raspolaganju slot za uroke 1. i 2. nivoa, možete da bacate _gorele ruke_ pomoću bilo kog od njih.
-
+Na primer, ako znate čaroliju prvog nivoa, goreće ruke i ako vam je na raspolaganju slot za čarolije 1. i 2. nivoa, možete da bacate _goreće ruke_ pomoću bilo kog od njih.
 
 #### **Čarolije poznate od prvog i višeg nivoa**
 
-Znate dvije čarolije 1. nivoa po vašem izboru sa liste čarolija čarobnjaka.
+Znate dvije čarolije 1. nivoa po vašem izboru sa liste čarolija vrača.
 
-Kolona „Poznate čarolije“ tabele Čarobnjaka prikazuje kada saznate više čarobnjačkih čarolija po vašem izboru. Svaka od ovih čarolija mora biti na nivou za koji imate slotove za čarolije. Na primer, kada dostignete 3. nivo u ovoj klasi, možete naučiti jednu novu čaroliju 1. ili 2. nivoa.
+Kolona „Poznate čarolije“ tabele Vrača prikazuje kada saznate više vračevih čarolija po vašem izboru. Svaka od ovih čarolija mora biti na nivou za koji imate slotove za čarolije. Na primer, kada dostignete 3. nivo u ovoj klasi, možete naučiti jednu novu čaroliju 1. ili 2. nivoa.
 
-Pored toga, kada steknete nivo u ovoj klasi, možete da izaberete jednu od čarolija čarobnjaka koje poznajete i zamenite je drugom čarolijom sa liste čarobnjaka, koja takođe mora biti na nivou za koji imate slotove za čarolije.
-
+Pored toga, kada steknete nivo u ovoj klasi, možete da izaberete jednu od čarolija vrača koje poznajete i zamenite je drugom čarolijom sa liste vrača, koja takođe mora biti na nivou za koji imate slotove za čarolije.
 
 #### **Sposobnost korištenja magije**
 
-harizma je vaša sposobnost čarolije za vaše čarobnjačke čarolije, jer se snaga vaše magije oslanja na vašu sposobnost da svoju volju projektujete u svet. Koristite svoju harizmu kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj modifikator harizme koristite kada postavljate DC spasilačkog bacanja za čaroliju čarobnjaka koju ste bacili i kada pravite napadački zamah jednim.
+Harizma je vaša sposobnost čarolije za vaše čarolije vrača, jer se snaga vaše magije oslanja na vašu sposobnost da svoju volju projektujete u svet. Koristite svoju Harizmu kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj modifikator Harizme koristite kada postavljate DC spasilačkog bacanja za čaroliju vrala koju ste bacili i kada pravite napadački zamah.
 
-**DC spasa od čarolije** = 8 + vaš bonus za znanje + vaš modifikator harizme
+**DC spasa od čarolije** = 8 + vaš bonus za vještinu + vaš modifikator Harizme
 
-**Modifikator napada čarolijom** = vaš bonus za znanje + vaš modifikator harizme
+**Modifikator napada čarolijom** = vaš bonus za vještinu + vaš modifikator Harizme
 
+#### **Fokusiranje čarolije**
 
-#### **Fokusiranje pravopisa**
-
-Možete koristiti tajni fokus (pogledajte poglavlje 5, „Oprema“) kao fokus za proricanje čarolija za vaše čarobnjačke čarolije.
-
+Možete koristiti arkanski fokus (pogledajte poglavlje 5, „Oprema“) kao fokus za bacanje čarolija za vaše čarolije vrača.
 
 ### Čarobno poreklo
 
@@ -6720,34 +6569,29 @@ Izaberite čarobno poreklo, koje opisuje izvor vaše urođene magične moći, k
 
 Vaš izbor vam daje karakteristike kada ga odaberete na 1. nivou i ponovo na 6., 14. i 18. nivou.
 
+### Izvor čarolije
 
-### Font čarolije
+Na 2. nivou dotaknete se dubokog izvora magije u sebi. Ovaj izvor predstavljaju vračarske tačke koje vam omogućavaju stvaranje različitih magičnih efekata.
 
-Na 2. nivou dotaknete se dubokog izvora magije u sebi. Ovaj izvor izvora predstavljaju čarobnjačke tačke koje vam omogućavaju stvaranje različitih magičnih efekata.
+#### **Bodovi vračanja**
 
+Imate 2 boda vračanja, a stičete više dostizanjem viših nivoa, kao što je prikazano u koloni Bodovi vračanje tabele Vrača. Nikada ne možete imati više bodova vračanja nego što je prikazano u tabeli za vaš nivo. Vraćate sve potrošene bodove vračanja kada završite duži odmor.
 
-#### **Čarobnjački bodovi**
+#### **Fleksibilno bacanje**
 
-Imate 2 čarobnjačka boda, a vi steknete više dostizanjem viših nivoa, kao što je prikazano u koloni Čarobnjački bodovi tabele Čarobnjaci. Nikada ne možete imati više čarobnjačkih bodova nego što je prikazano na stolu za vaš nivo. Vraćate sve potrošene čarobnjačke bodove kada završite duži odmor.
+Možete koristiti svoje bodove vračanja da biste stekli dodatne slotove za čarolije ili žrtvovali slotove za čarolije da biste stekli dodatne bodove vračanja. Učite druge načine kako da koristite svoje bodove vračanja dok dostižete viši nivo.
 
-
-#### **Fleksibilno livenje**
-
-Možete koristiti svoje čarobnjačke bodove da biste stekli dodatne slotove za čarolije ili žrtvovali slotove za čarolije da biste stekli dodatne čarobne bodove. Naučite druge načine kako da koristite svoje čarobnjačke bodove dok dostižete viši nivo.
-
-**Pravljenje slotova za čarolije.** Možete da transformišete neiskorišćene čarobnjačke bodove u jedan slot za čarolije kao bonus akciju na svom potezu. Tabela Stvaranje slotova za čarolije prikazuje troškove stvaranja slova za čarolije datog nivoa. Možete napraviti slotove za čarolije ne više od nivoa 5.
+**Pravljenje slotova za čarolije.** Možete da transformišete neiskorišćene bodove vračanja u jedan slot za čarolije kao bonus akciju na svom potezu. Tabela Stvaranje slotova za čarolije prikazuje troškove stvaranja slova za čarolije datog nivoa. Možete napraviti slotove za čarolije ne više od nivoa 5.
 
 Bilo koji slot za čarolije koji napravite pomoću ove funkcije nestaje kada završite duži odmor.
 
-
-#### **Pravljenje slotova za pravopis**
-
+#### **Pravljenje slotova čarolije**
 
 <table>
   <tr>
-   <td> <strong>Nivo slova za pravopis</strong>
+   <td> <strong>Nivo slotova čarolije</strong>
    </td>
-   <td> <strong>Cena čarobnjaštva</strong>
+   <td> <strong>Bodovi vračanja</strong>
    </td>
   </tr>
   <tr>
@@ -6782,636 +6626,600 @@ Bilo koji slot za čarolije koji napravite pomoću ove funkcije nestaje kada za
   </tr>
 </table>
 
-**Pretvaranje slota za čarolije u čarobnjačke poene.** Kao bonus radnju na svom potezu možete potrošiti jedan slot za čarolije i steći broj čarobnih poena jednak nivou slota.
+**Pretvaranje slota za čarolije u bodove vračanja.** Kao bonus radnju na svom potezu možete potrošiti jedan slot za čarolije i steći broj bodove vračanja jednak nivou slota.
 
+### Metamagijas
 
-### Metamagic
+Na 3. nivou stičete sposobnost izvrtanja čarolija prema vašim potrebama. Dobijate dvije od sledećih Metamagijskih opcija po vašem izboru. Dobijate još jedan na 10. i 17. nivou.
 
-Na 3. nivou stičete sposobnost izvrtanja čarolija prema vašim potrebama. Dobijate dvije od sledećih Metamagic opcija po vašem izboru. Dobijate još jedan na 10. i 17. nivou.
-
-Kada pravite čaroliju, možete koristiti samo jednu opciju Metamagic, osim ako nije drugačije naznačeno.
-
+Kada pravite čaroliju, možete koristiti samo jednu opciju Metamagije, osim ako nije drugačije naznačeno.
 
 #### **Pažljiva čarolija**
 
-Kada bacate čaroliju koja primorava druga bića na spasonosno bacanje, možete zaštititi neka od tih bića od pune snage čarolije. Da biste to uradili, potrošite 1 čarobnjačku tačku i odaberite broj tih stvorenja do vašeg modifikatora harizme (najmanje jedno stvorenje). Izabrano stvorenje automatski uspeva u svom spasilačkom bacanju protiv čarolija.
-
+Kada bacate čaroliju koja primorava druga bića na spasonosno bacanje, možete zaštititi neka od tih bića od pune snage čarolije. Da biste to uradili, potrošite 1 bod vračanja i odaberite broj tih stvorenja do vašeg modifikatora Harizme (najmanje jedno stvorenje). Izabrano stvorenje automatski uspeva u svom spasilačkom bacanju protiv čarolija.
 
 #### **Udaljena čarolija**
 
-Kada bacate čaroliju koja ima opseg od 5 stopa ili više, možete potrošiti 1 čarobnu tačku da biste udvostručili opseg čarolije.
+Kada bacate čaroliju koja ima opseg od 5 stopa ili više, možete potrošiti 1 bod vračanja da biste udvostručili opseg čarolije.
 
-Kada bacate čaroliju koja ima opseg dodira, možete potrošiti 1 čarobnu tačku da biste domet čarolija učinili 30 stopa.
-
+Kada bacate čaroliju koja ima opseg dodira, možete potrošiti 1 bod vračanja da biste domet čarolija učinili 30 stopa.
 
 #### **Ojačana čarolija**
 
-Kada bacite štetu za čaroliju, možete potrošiti 1 čarobnjačku tačku da biste vratili određeni broj kockica oštećenja do vašeg modifikatora harizme (najmanje jedan). Morate koristiti nove kiflice.
+Kada bacite štetu za čaroliju, možete potrošiti 1 bod vračanja da biste ponovo bacali određeni broj kockica oštećenja do vašeg modifikatora Harizme (najmanje jedan). Morate koristiti novo dobijene rezultate.
 
-Možete koristiti opunomoćenu čaroliju čak i ako ste već koristili drugu opciju Metamagic tokom izricanja čarolije.
-
+Možete koristiti ojačanu čaroliju čak i ako ste već koristili drugu opciju Metamagije tokom izricanja čarolije.
 
 #### **Proširena čarolija**
 
-Kada bacate čaroliju koja traje 1 minut ili duže, možete potrošiti 1 čarobnu tačku da biste je udvostručili, na maksimalno trajanje od 24 sata.
-
+Kada bacate čaroliju koja traje 1 minut ili duže, možete potrošiti 1 bod vračanja da biste je udvostručili, na maksimalno trajanje od 24 sata.
 
 #### **Povećana čarolija**
 
-Kada bacate čaroliju koja primorava stvorenje da izvrši spasonosno bacanje da bi se oduprlo njegovim efektima, možete potrošiti 3 čarobnjačka poena da biste dali jednu metu čarolije nedostatak pri prvom spasilačkom bacanju izvršenom protiv čarolija.
-
+Kada bacate čaroliju koja primorava stvorenje da izvrši spasonosno bacanje da bi se oduprlo njenim efektima, možete potrošiti 3 boda vračanja da biste dali jednoj metu čarolije nedostatak pri prvom spasilačkom bacanju izvršenom protiv čarolija.
 
 #### **Ubrzana čarolija**
 
-Kada bacate čaroliju koja ima vreme bačenja 1 akciju, možete potrošiti 2 čarobnjačka poena da biste promenili vreme bačenja na 1 bonus akciju za ovo bacanje.
-
+Kada bacate čaroliju koja ima vreme bacanja 1 akciju, možete potrošiti 2 boda vračanja da biste promenili vreme bačenja na 1 bonus akciju za ovo bacanje.
 
 #### **Suptilna čarolija**
 
-Kada bacate čaroliju, možete potrošiti 1 čarobnu tačku da biste je bacili bez bilo kakvih somatskih ili verbalnih komponenti.
+Kada bacate čaroliju, možete potrošiti 1 bod vračanja da biste je bacili bez bilo kakvih somatskih ili verbalnih komponenti.
 
+#### **Blizanačka čarolija**
 
-#### **Tvinned Spell**
+Kada bacate čaroliju koja cilja samo jedno stvorenje i nema opseg sebe, možete potrošiti nekoliko bodova vračanja jednakih nivou črolije da biste ciljali drugo biće u dometu sa istom čarolijom (1 bof vračanja ako je čarolija kantrip).
 
-Kada bacate čaroliju koja cilja samo jedno stvorenje i nema opseg sebe, možete potrošiti nekoliko čarobnjačkih bodova jednakih nivou čarolije da biste ciljali drugo biće u dometu sa istom čarolijom (1 čarobnjačka tačka ako čarolija je cantrip).
-
-Da bi ispunjavala uslove, čarolija mora biti nesposobna da cilja više stvorenja na trenutnom nivou čarolija. Na primer, _magične rakete_ i _krećući zrak_ ne ispunjavaju uslove, ali _red mraza_ i_hromatske kugle_ jesu.
-
+Da bi ispunjavala uslove, čarolija mora biti nesposobna da cilja više stvorenja na trenutnom nivou čarolija. Na primer, _magični projektil_ i _pržeći zrak_ ne ispunjavaju uslove, ali _red mraza_ i _hromatske kugle_  isponjavaju.
 
 ### Poboljšanje ocijena sposobnosti
 
 Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
-
 ### Čarobna restauracija
 
 Na 20. nivou vraćate 4 potrošena čarobnjačka poena kad god završite kratak odmor.
 
-
 ## Čarobno poreklo
 
-Različiti vračevi tvrde da imaju različito poreklo zbog urođene magije, poput drakonske krvne loze.
-
+Različiti vračevi tvrde da imaju različito poreklo zbog urođene magije, poput drakonske krvne linije.
 
 ### Drakonska krvna linija
 
-Vaša urođena magija potiče od drakonske magije koja se pomešala s vašom krvlju ili s vašom predakom. Najčešće čarobnjaci ovog porekla vuku poreklo od moćnog vrača drevnih vremena koji se nagodio sa zmajem ili koji je čak mogao da zatraži roditelja zmaja. Neke od ovih krvnih linija su dobro uspostavljene u svetu, ali većina je nejasna. Bilo koji vrač mogao je biti prvi iz nove krvne linije, kao rezultat pakta ili neke druge izuzetne okolnosti.
+Vaša urođena magija potiče od drakonske magije koja se pomešala s vašom krvlju ili s vašom predakom. Najčešće vračevi ovog porekla vuku poreklo od moćnog vrača drevnih vremena koji se nagodio sa zmajem ili koji je čak mogao da zatraži roditelja zmaja. Neke od ovih krvnih linija su dobro uspostavljene u svetu, ali većina je nejasna. Bilo koji vrač mogao je biti prvi iz nove krvne linije, kao rezultat pakta ili neke druge izuzetne okolnosti.
 
-
-#### **Dragon Ancestor**
+#### **Naslijednici zmajeva**
 
 Na 1. nivou odabirete jednu vrstu zmaja za svog pretka. Tip oštećenja povezan sa svakim zmajem koristi se od karakteristika koje kasnije steknete.
 
-
-#### **Draconic Ancestri**
-
+#### **Zmajevi preci**
 
 <table>
-  <tr>
-   <td> <strong>Zmaj</strong>
-   </td>
-   <td> <strong>Vrsta oštećenja</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> Crna
-   </td>
-   <td> Kiselina
-   </td>
-  </tr>
-  <tr>
-   <td> Plava
-   </td>
-   <td> Munja
-   </td>
-  </tr>
-  <tr>
-   <td> Mesing
-   </td>
-   <td> Vatra
-   </td>
-  </tr>
-  <tr>
-   <td> Bronza
-   </td>
-   <td> Munja
-   </td>
-  </tr>
-  <tr>
-   <td> Bakar
-   </td>
-   <td> Kiselina
-   </td>
-  </tr>
-  <tr>
-   <td> Zlato
-   </td>
-   <td> Vatra
-   </td>
-  </tr>
-  <tr>
-   <td> Zeleno
-   </td>
-   <td> Otrov
-   </td>
-  </tr>
-  <tr>
-   <td> Crvena
-   </td>
-   <td> Vatra
-   </td>
-  </tr>
-  <tr>
-   <td> Srebro
-   </td>
-   <td> Hladno
-   </td>
-  </tr>
-  <tr>
-   <td> bela
-   </td>
-   <td> Hladno
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Zmaj</strong>
+      </td>
+      <td> <strong>Vrsta oštećenja</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> Crni
+      </td>
+      <td> Kiselina
+      </td>
+   </tr>
+   <tr>
+      <td> Plavi
+      </td>
+      <td> Munja
+      </td>
+   </tr>
+   <tr>
+      <td> Mesingani
+      </td>
+      <td> Vatra
+      </td>
+   </tr>
+   <tr>
+      <td> Bronzani
+      </td>
+      <td> Munja
+      </td>
+   </tr>
+   <tr>
+      <td> Bakreni
+      </td>
+      <td> Kiselina
+      </td>
+   </tr>
+   <tr>
+      <td> Zlatni
+      </td>
+      <td> Vatra
+      </td>
+   </tr>
+   <tr>
+      <td> Zeleni
+      </td>
+      <td> Otrov
+      </td>
+   </tr>
+   <tr>
+      <td> Crveni
+      </td>
+      <td> Vatra
+      </td>
+   </tr>
+   <tr>
+      <td> Srebrni
+      </td>
+      <td> Hladnoća
+      </td>
+   </tr>
+   <tr>
+      <td> Bijeli
+      </td>
+      <td> Hladnća
+      </td>
+   </tr>
 </table>
 
 
-Možete govoriti, čitati i pisati drakonski. Pored toga, svaki put kada napravite harizmatski ček tokom interakcije sa zmajevima, vaš bonus za stručnost se udvostručuje ako se odnosi na ček.
+Možete govoriti, čitati i pisati drakonski. Pored toga, svaki put kada napravite provjeru Harizme tokom interakcije sa zmajevima, vaš bonus za stručnost se udvostručuje ako se odnosi na provjeru.
 
 #### **Drakonska otpornost**
 
-Dok magija teče kroz vaše telo, ona uzrokuje pojavu fizičkih osobina vaših zmajevih predaka. Na 1. nivou, maksimalan broj pogodaka se povećava za 1 i ponovo povećava za 1 svaki put kada postignete nivo u ovoj klasi.
+Dok magija teče kroz vaše telo, ona uzrokuje pojavu fizičkih osobina vaših zmajevih predaka. Na 1. nivou, maksimalan broj životnih bodova se povećava za 1 i ponovo povećava za 1 svaki put kada postignete nivo u ovoj klasi.
 
-Pored toga, delovi vaše kože prekriveni su tankim sjajem ljuskica sličnih zmajevima. Kada ne nosite oklop, vaš AC je jednak 13 + vašeg modifikatora Spretnosti.
-
+Pored toga, delovi vaše kože prekriveni su tankim sjajem ljuskica sličnih zmajevima. Kada ne nosite oklop, vaš AC je jednak 13 + vaš modifikator Spretnosti.
 
 #### **Elementarna sklonost**
 
-Počevši od 6. nivoa, kada bacate čaroliju koja nanosi štetu tipu povezanom sa vašim drakonskim poreklom, možete dodati svoj modifikator harizme u jedan kolut oštećenja te čarolije. U isto vreme možete potrošiti 1 čarobnjačku tačku da biste stekli otpor prema toj vrsti oštećenja tokom 1 sata.
+Počevši od 6. nivoa, kada bacate čaroliju koja nanosi štetu tipa povezanog sa vašim drakonskim poreklom, možete dodati svoj modifikator Harizme u jedno bacanje oštećenja te čarolije. U isto vreme možete potrošiti 1 bod vračanja da biste stekli otpor prema toj vrsti oštećenja tokom 1 sata.
 
-
-#### **Dragon Vings**
+#### **Zmajeva krila**
 
 Na 14. nivou stičete sposobnost da iz leđa nikne par zmajevih krila, postižući brzinu letenja jednaku vašoj trenutnoj brzini. Ova krila možete stvoriti kao bonus akciju na svom potezu. Traju dok ih ne odbacite kao bonus akciju na svom potezu.
 
 Ne možete manifestovati svoja krila dok nosite oklop, osim ako je oklop napravljen da ih primi, a odeća koja nije napravljena da primi vaša krila može biti uništena kada ih manifestujete.
 
-
 #### **Drakonsko prisustvo**
 
-Počevši od 18. nivoa, možete usmeriti strašno prisustvo svog pretka zmaja, uzrokujući da oni oko vas postanu strahopoštovani ili uplašeni. Kao akciju možete potrošiti 5 čarobnjačkih poena da biste se okoristili ovom snagom i odali auru strahopoštovanja ili straha (po vašem izboru) na udaljenost od 60 stopa. Tokom jednog minuta ili dok ne izgubite koncentraciju (kao da bacate čaroliju koncentracije), svako neprijateljsko stvorenje koje započne svoj red u ovoj auri mora uspeti u spasilačkom bacanju Mudrosti ili biti očarano (ako ste odabrali strahopoštovanje) ili uplašeno (ako izabrali ste strah) dok se aura ne završi. Biće koje uspe u ovom spasilačkom bacanju imuno je na vašu auru 24 sata.
+Počevši od 18. nivoa, možete usmeriti strašno prisustvo svog pretka zmaja, uzrokujući da oni oko vas postanu strahopoštovani ili uplašeni. Kao akciju možete potrošiti 5 bodova vračanja da biste se okoristili ovom snagom i odali auru strahopoštovanja ili straha (po vašem izboru) na udaljenost od 60 stopa. Tokom jednog minuta ili dok ne izgubite koncentraciju (kao da bacate čaroliju koncentracije), svako neprijateljsko stvorenje koje započne svoj red u ovoj auri mora uspeti u spasilačkom bacanju Mudrosti ili biti očarano (ako ste odabrali strahopoštovanje) ili uplašeno (ako izabrali ste strah) dok se aura ne završi. Biće koje uspe u ovom spasilačkom bacanju imuno je na vašu auru 24 sata.
 
 
-## Varlock
+
+## Viještac
 
 
-Sa pseudodragonom uvijenim na ramenu, mladi vilenjak u zlatnim odeždama toplo se smeši, uplećući magični šarm u svoje medene reči i savijajući stražarskog dvorca prema svojoj volji.
+Sa pseudozmajem uvijenim na ramenu, mladi vilenjak u zlatnim odeždama toplo se smeši, uplećući magični šarm u svoje medene reči i savijajući stražarskog dvorca prema svojoj volji.
 
-Dok plamen oživljava u njenim rukama, osušeni čovek šapće tajno ime svog demonskog zaštitnika, ulivajući joj čaroliju zvijerskom magijom.
+Dok plamen oživljava u njenim rukama, osušena žena šapće tajno ime svog demonskog zaštitnika, ulivajući joj čaroliju zvijerskom magijom.
 
-Preusmeravajući pogled između pohabanog fonda i neobičnog poravnanja zvezda iznad njih, kravata divljih očiju opeva mistični ritual koji će otvoriti vrata u daleki svet.
+Preusmeravajući pogled između pohabanog fonda i neobičnog poravnanja zvezda iznad njih, tifling divljih očiju opeva mistični ritual koji će otvoriti vrata u daleki svet.
 
-Čarobnjaci su tragači za znanjem koje se krije u tkivu multiverzuma. Kroz pakte sklopljene sa misterioznim bićima natprirodne moći, veštaci zaključavaju magične efekte, suptilne i spektakularne. Oslanjajući se na drevna znanja o bićima kao što su fej plemići, demoni, đavoli, hagovi i vanzemaljski entiteti Dalekog carstva, veštaci sastavljaju tajne tajne da bi ojačale svoju moć.
+Viještci su tragači za znanjem koje se krije u tkivu multiverzuma. Kroz pakte sklopljene sa misterioznim bićima natprirodne moći, viještci zaključavaju magične efekte, suptilne i spektakularne. Oslanjajući se na drevna znanja o bićima kao što su fej plemići, demoni, đavoli, hagovi i vanzemaljski entiteti Dalekog carstva, viještci sastavljaju akkanske tajne da bi ojačale svoju moć.
 
+### Zakleti i obavezani
 
-### Zakleti i Beholden
+Vradžbina je definisana paktom sa onostranim bićem. Ponekad su odnosi između viještaca i pokrovitelja slični odnosima sveštenika i božanstva, mada bića koja služe kao pokrovitelji veštica nisu bogovi. Vradžbina može da vodi kult posvećen demonskom princu, nadđavolu ili potpuno vanzemaljskom entitetu - bićima kojima tiričari obično ne služe. Međutim, češće je raspored sličan onom između majstora i šegrta. Viještac uči i raste na vlasti, po cenu povremenih usluga koje se obavljaju u ime pokrovitelja.
 
-Vradžbina je definisana paktom sa onostranim bićem. Ponekad su odnosi između veštaca i pokrovitelja slični odnosima sveštenika i božanstva, mada bića koja služe kao pokrovitelji veštica nisu bogovi. Vradžbina može da vodi kult posvećen demonskom princu, nadđavolu ili potpuno vanzemaljskom entitetu - bićima kojima tiričari obično ne služe. Međutim, češće je raspored sličan onom između majstora i šegrta. Čarobnjak uči i raste na vlasti, po cenu povremenih usluga koje se obavljaju u ime pokrovitelja.
-
-Magija koja se daje čarobnjaku kreće se od manjih, ali trajnih promena do bića veštaca (poput mogućnosti gledanja u mraku ili čitanja bilo kog jezika) do pristupa moćnim čarolijama. Za razliku od knjižnih čarobnjaka, veštaci dopunjuju svoju magiju nekim objektom u borbi prsa o prsa. Udobno im je u laganom oklopu i znaju da koriste jednostavno oružje.
-
+Magija koja se daje viještcu kreće se od manjih, ali trajnih promena do bića viještaka (poput mogućnosti gledanja u mraku ili čitanja bilo kog jezika) do pristupa moćnim čarolijama. Za razliku od knjižnih čarobnjaka, viještci dopunjuju svoju magiju nekim objektom u borbi prsa o prsa. Udobno im je u laganom oklopu i znaju da koriste jednostavno oružje.
 
 ### Udubljivanje u tajne
 
-Čarobnjake pokreće nezasitna potreba za znanjem i moći, što ih primorava na njihove pakte i oblikuje njihov život. Ova žeđ ubacuje veštace u njihove pakte i oblikuje i njihovu kasniju karijeru.
+Viještce pokreće nezasita potreba za znanjem i moći, što ih primorava na njihove pakte i oblikuje njihov život. Ova žeđ ubacuje viještke u njihove pakte i oblikuje i njihovu kasniju karijeru.
 
-Priče o veštacima koje su se vezale za neprijatelje nadaleko su poznate. Ali mnoge čarobnice služe pokroviteljima koji nisu zli. Ponekad putnik u divljini dođe do neobično lepe kule, sretne svog fej gospodara ili damu i spotakne se u pakt a da toga nije potpuno svestan. A ponekad, dok se nadvija nad tomovima zabranjenog znanja, briljantni, ali izluđeni studentski um otvara se stvarnostima izvan materijalnog sveta i vanzemaljskim bićima koja prebivaju u spoljašnjoj praznini.
+Priče o viješticima koje su se vezale za neprijatelje nadaleko su poznate. Ali mnoge viještice služe pokroviteljima koji nisu zli. Ponekad putnik u divljini dođe do neobično lepe kule, sretne svog fej gospodara ili damu i spotakne se u pakt a da toga nije potpuno svestan. A ponekad, dok se nadvija nad tomovima zabranjenog znanja, briljantni, ali izluđeni studentski um otvara se stvarnostima izvan materijalnog sveta i vanzemaljskim bićima koja prebivaju u spoljašnjoj praznini.
 
-Jednom kada se sklopi pakt, žeđ vetrenjače za znanjem i moći ne može se utažiti pukim proučavanjem i istraživanjem. Niko ne sklapa pakt sa tako moćnim pokroviteljem ako on ili ona ne namerava da koristi tako stečenu moć. Umesto toga, velika većina čarobnjaka svoje dane provodi u aktivnoj potrazi za svojim ciljevima, što obično znači neku vrstu avanture. Štaviše, zahtevi njihovih pokrovitelja vode čarobnjake ka avanturi.
+Jednom kada se sklopi pakt, žeđ viještca za znanjem i moći ne može se utažiti pukim proučavanjem i istraživanjem. Niko ne sklapa pakt sa tako moćnim pokroviteljem ako on ili ona ne namerava da koristi tako stečenu moć. Umesto toga, velika većina viještaka svoje dane provodi u aktivnoj potrazi za svojim ciljevima, što obično znači neku vrstu avanture. Štaviše, zahtijevi njihovih pokrovitelja vode viještce ka avanturi.
 
 
-### Kreiranje veštice
+### Kreiranje viještice
 
 Dok pravite svoj lik veštice, provedite neko vreme razmišljajući o svom zaštitniku i obavezama koje vam vaš pakt nameće. Šta vas je navelo da sklopite pakt i kako ste stupili u kontakt sa svojim pokroviteljem? Da li ste bili zavedeni da prizovete đavola ili ste tražili ritual koji bi vam omogućio kontakt sa vanzemaljskim starijim bogom? Da li ste tražili svog zaštitnika ili vas je zaštitnik pronašao i izabrao? Da li trpite obaveze iz vašeg pakta ili služite radosno očekujući nagrade koje su vam obećane?
 
 Radite sa svojim DM-om da biste utvrdili koliku će ulogu vaš pakt igrati u avanturističkoj karijeri vašeg lika. Zahtevi vašeg pokrovitelja mogu vas odvesti u avanture ili se u potpunosti sastoje od malih usluga koje možete učiniti između avantura.
 
-Kakav ste odnos sa svojim pokroviteljem? Da li je prijateljski, antagonistički, nelagodan ili romantičan? Koliko vas važan smatra vaš pokrovitelj? Koju ulogu igrate u planovima vašeg zaštitnika? Da li poznajete druge sluge svog zaštitnika?
+Kakav odnos imate sa svojim pokroviteljem? Da li je prijateljski, antagonistički, nelagodan ili romantičan? Koliko vas važnim smatra vaš pokrovitelj? Koju ulogu igrate u planovima vašeg zaštitnika? Da li poznajete druge sluge svog zaštitnika?
 
-Kako vaš pokrovitelj komunicira sa vama? Ako vam je poznat, možda povremeno govori glasom vašeg zaštitnika. Neke vetrenjače pronalaze poruke svojih zaštitnika urezane na drveću, pomešane među listovima čaja ili odlazeće u oblake - poruke koje samo veštac može videti. Drugi veštaci razgovaraju sa svojim pokroviteljima u snovima ili budnim vizijama ili imaju posla samo sa posrednicima.
-
+Kako vaš pokrovitelj komunicira sa vama? Ako vam je poznat, možda povremeno govori glasom vašeg zaštitnika. Neke viještice pronalaze poruke svojih zaštitnika urezane na drveću, pomešane među listovima čaja ili odlazeće u oblake - poruke koje samo viještac može videti. Drugi viještci razgovaraju sa svojim pokroviteljima u snovima ili budnim vizijama ili imaju posla samo sa posrednicima.
 
 #### **Brza izrada**
 
-Možete brzo napraviti čarobnjak prateći ove predloge. Prvo, harizma bi trebala biti vaša najveća ocijena sposobnosti, a zatim i Građa. Drugo, odaberite šarlatan pozadinu. Treće, odaberite _eldritch blast_ i _chill touch_ cantrips, zajedno sa čarolijama prvog nivoa _charm person_ i _vitch bolt_.
-
+Možete brzo napraviti viještca prateći ove predloge. Prvo, Harizma bi trebala biti vaša najveća ocijena sposobnosti, a zatim i Građa. Drugo, odaberite šarlatan pozadinu. Treće, odaberite _tajanstvena eksplozija_ i _hladni dodir_ kantripe, zajedno sa čarolijama prvog nivoa _šarmiraj osobu_ i _viješticina strijela_.
 
 <table>
-  <tr>
-   <td> <strong>Nivo</strong>
-   </td>
-   <td> <strong>Stručnost</strong>
-
-<strong>Bonus</strong>
-   </td>
-   <td> <strong>Karakteristike</strong>
-   </td>
-   <td> <strong>Cantrips</strong>
-
-<strong>Poznato</strong>
-   </td>
-   <td> <strong>Čarolije</strong>
-
-<strong>Poznato</strong>
-   </td>
-   <td> <strong>Pravopis</strong>
-
-<strong>Slotovi</strong>
-   </td>
-   <td> <strong>Slot</strong>
-
-<strong>Nivo</strong>
-   </td>
-   <td> <strong>Pozivi</strong>
-
-<strong>Poznato</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 1.
-   </td>
-   <td> +2
-   </td>
-   <td> Onostrani pokrovitelj, Pact Magic
-   </td>
-   <td> 2
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1.
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 2.
-   </td>
-   <td> +2
-   </td>
-   <td> Eldritch pozivi
-   </td>
-   <td> 2
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1.
-   </td>
-   <td> 2
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> +2
-   </td>
-   <td> Pact Boon
-   </td>
-   <td> 2
-   </td>
-   <td> 4
-   </td>
-   <td> 2
-   </td>
-   <td> 2.
-   </td>
-   <td> 2
-   </td>
-  </tr>
-  <tr>
-   <td> 4.
-   </td>
-   <td> +2
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 3
-   </td>
-   <td> 5
-   </td>
-   <td> 2
-   </td>
-   <td> 2.
-   </td>
-   <td> 2
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> +3
-   </td>
-   <td> -
-   </td>
-   <td> 3
-   </td>
-   <td> 6
-   </td>
-   <td> 2
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-  </tr>
-  <tr>
-   <td> 6.
-   </td>
-   <td> +3
-   </td>
-   <td> Ostvareni pokrovitelj
-   </td>
-   <td> 3
-   </td>
-   <td> 7
-   </td>
-   <td> 2
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-  </tr>
-  <tr>
-   <td> 7th
-   </td>
-   <td> +3
-   </td>
-   <td> -
-   </td>
-   <td> 3
-   </td>
-   <td> 8
-   </td>
-   <td> 2
-   </td>
-   <td> 4.
-   </td>
-   <td> 4
-   </td>
-  </tr>
-  <tr>
-   <td> 8.
-   </td>
-   <td> +3
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 3
-   </td>
-   <td> 9
-   </td>
-   <td> 2
-   </td>
-   <td> 4.
-   </td>
-   <td> 4
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> +4
-   </td>
-   <td> -
-   </td>
-   <td> 3
-   </td>
-   <td> 10
-   </td>
-   <td> 2
-   </td>
-   <td> 5.
-   </td>
-   <td> 5
-   </td>
-  </tr>
-  <tr>
-   <td> 10.
-   </td>
-   <td> +4
-   </td>
-   <td> Ostvareni pokrovitelj
-   </td>
-   <td> 4
-   </td>
-   <td> 10
-   </td>
-   <td> 2
-   </td>
-   <td> 5.
-   </td>
-   <td> 5
-   </td>
-  </tr>
-  <tr>
-   <td> 11th
-   </td>
-   <td> +4
-   </td>
-   <td> Mistični arkan (6. nivo)
-   </td>
-   <td> 4
-   </td>
-   <td> 11
-   </td>
-   <td> 3
-   </td>
-   <td> 5.
-   </td>
-   <td> 5
-   </td>
-  </tr>
-  <tr>
-   <td> 12.
-   </td>
-   <td> +4
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 4
-   </td>
-   <td> 11
-   </td>
-   <td> 3
-   </td>
-   <td> 5.
-   </td>
-   <td> 6
-   </td>
-  </tr>
-  <tr>
-   <td> 13
-   </td>
-   <td> +5
-   </td>
-   <td> Mistic Arcanum (7. nivo)
-   </td>
-   <td> 4
-   </td>
-   <td> 12
-   </td>
-   <td> 3
-   </td>
-   <td> 5.
-   </td>
-   <td> 6
-   </td>
-  </tr>
-  <tr>
-   <td> 14
-   </td>
-   <td> +5
-   </td>
-   <td> Ostvareni pokrovitelj
-   </td>
-   <td> 4
-   </td>
-   <td> 12
-   </td>
-   <td> 3
-   </td>
-   <td> 5.
-   </td>
-   <td> 6
-   </td>
-  </tr>
-  <tr>
-   <td> 15.
-   </td>
-   <td> +5
-   </td>
-   <td> Mistic Arcanum (8. nivo)
-   </td>
-   <td> 4
-   </td>
-   <td> 13
-   </td>
-   <td> 3
-   </td>
-   <td> 5.
-   </td>
-   <td> 7
-   </td>
-  </tr>
-  <tr>
-  <td> 16
-   </td>
-   <td> +5
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 4
-   </td>
-   <td> 13
-   </td>
-   <td> 3
-   </td>
-   <td> 5.
-   </td>
-   <td> 7
-   </td>
-  </tr>
-  <tr>
-   <td> 17th
-   </td>
-   <td> +6
-   </td>
-   <td> Mistic Arcanum (9. nivo)
-   </td>
-   <td> 4
-   </td>
-   <td> 14
-   </td>
-   <td> 4
-   </td>
-   <td> 5.
-   </td>
-   <td> 7
-   </td>
-  </tr>
-  <tr>
-   <td> 18
-   </td>
-   <td> +6
-   </td>
-   <td> -
-   </td>
-   <td> 4
-   </td>
-   <td> 14
-   </td>
-   <td> 4
-   </td>
-   <td> 5.
-   </td>
-   <td> 8
-   </td>
-  </tr>
-  <tr>
-   <td> 19
-   </td>
-   <td> +6
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 4
-   </td>
-   <td> 15
-   </td>
-   <td> 4
-   </td>
-   <td> 5.
-   </td>
-   <td> 8
-   </td>
-  </tr>
-  <tr>
-   <td> 20.
-   </td>
-   <td> +6
-   </td>
-   <td> Eldritch Master
-   </td>
-   <td> 4
-   </td>
-   <td> 15
-   </td>
-   <td> 4
-   </td>
-   <td> 5.
-   </td>
-   <td> 8
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo</strong>
+      </td>
+      <td> <strong>Bonus</strong> <strong>Stručnosti</strong>
+      </td>
+      <td> <strong>Karakteristike</strong>
+      </td>
+      <td> <strong>Poznati</strong> <strong>kantripi</strong>  
+      </td>
+      <td> <strong>Poznate</strong> <strong>Čarolije</strong>
+      </td>
+      <td> <strong>Slotovi</strong>n<strong>Čarolija</strong>         
+      </td>
+      <td> <strong>Nivo</strong> <strong>Slota</strong> 
+      </td>
+      <td> <strong>Poznata</strong> <strong>Prizivanja</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 1.
+      </td>
+      <td> +2
+      </td>
+      <td> Nadzemaljski pokrovitelj, Magija pakta
+      </td>
+      <td> 2
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1.
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 2.
+      </td>
+      <td> +2
+      </td>
+      <td> Tajanstvena prizivanja
+      </td>
+      <td> 2
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1.
+      </td>
+      <td> 2
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> +2
+      </td>
+      <td> Pakt Blagodati
+      </td>
+      <td> 2
+      </td>
+      <td> 4
+      </td>
+      <td> 2
+      </td>
+      <td> 2.
+      </td>
+      <td> 2
+      </td>
+   </tr>
+   <tr>
+      <td> 4.
+      </td>
+      <td> +2
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 3
+      </td>
+      <td> 5
+      </td>
+      <td> 2
+      </td>
+      <td> 2.
+      </td>
+      <td> 2
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> +3
+      </td>
+      <td> -
+      </td>
+      <td> 3
+      </td>
+      <td> 6
+      </td>
+      <td> 2
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+   </tr>
+   <tr>
+      <td> 6.
+      </td>
+      <td> +3
+      </td>
+      <td> Osobina nadzemaljskog pokrovitelja
+      </td>
+      <td> 3
+      </td>
+      <td> 7
+      </td>
+      <td> 2
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> +3
+      </td>
+      <td> -
+      </td>
+      <td> 3
+      </td>
+      <td> 8
+      </td>
+      <td> 2
+      </td>
+      <td> 4.
+      </td>
+      <td> 4
+      </td>
+   </tr>
+   <tr>
+      <td> 8.
+      </td>
+      <td> +3
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 3
+      </td>
+      <td> 9
+      </td>
+      <td> 2
+      </td>
+      <td> 4.
+      </td>
+      <td> 4
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> +4
+      </td>
+      <td> -
+      </td>
+      <td> 3
+      </td>
+      <td> 10
+      </td>
+      <td> 2
+      </td>
+      <td> 5.
+      </td>
+      <td> 5
+      </td>
+   </tr>
+   <tr>
+      <td> 10.
+      </td>
+      <td> +4
+      </td>
+      <td> Osobina nadzemaljskog pokrovitelja
+      </td>
+      <td> 4
+      </td>
+      <td> 10
+      </td>
+      <td> 2
+      </td>
+      <td> 5.
+      </td>
+      <td> 5
+      </td>
+   </tr>
+   <tr>
+      <td> 11
+      </td>
+      <td> +4
+      </td>
+      <td> Mistični arkan (6. nivo)
+      </td>
+      <td> 4
+      </td>
+      <td> 11
+      </td>
+      <td> 3
+      </td>
+      <td> 5.
+      </td>
+      <td> 5
+      </td>
+   </tr>
+   <tr>
+      <td> 12.
+      </td>
+      <td> +4
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 4
+      </td>
+      <td> 11
+      </td>
+      <td> 3
+      </td>
+      <td> 5.
+      </td>
+      <td> 6
+      </td>
+   </tr>
+   <tr>
+      <td> 13
+      </td>
+      <td> +5
+      </td>
+      <td> Mistični arkan (7. nivo)
+      </td>
+      <td> 4
+      </td>
+      <td> 12
+      </td>
+      <td> 3
+      </td>
+      <td> 5.
+      </td>
+      <td> 6
+      </td>
+   </tr>
+   <tr>
+      <td> 14
+      </td>
+      <td> +5
+      </td>
+      <td> Osobina nadzemaljskog pokrovitelja
+      </td>
+      <td> 4
+      </td>
+      <td> 12
+      </td>
+      <td> 3
+      </td>
+      <td> 5.
+      </td>
+      <td> 6
+      </td>
+   </tr>
+   <tr>
+      <td> 15.
+      </td>
+      <td> +5
+      </td>
+      <td> Mistični Arkan (8. nivo)
+      </td>
+      <td> 4
+      </td>
+      <td> 13
+      </td>
+      <td> 3
+      </td>
+      <td> 5.
+      </td>
+      <td> 7
+      </td>
+   </tr>
+   <tr>
+      <td> 16
+      </td>
+      <td> +5
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 4
+      </td>
+      <td> 13
+      </td>
+      <td> 3
+      </td>
+      <td> 5.
+      </td>
+      <td> 7
+      </td>
+   </tr>
+   <tr>
+      <td> 17
+      </td>
+      <td> +6
+      </td>
+      <td> Mistični arkan (9. nivo)
+      </td>
+      <td> 4
+      </td>
+      <td> 14
+      </td>
+      <td> 4
+      </td>
+      <td> 5.
+      </td>
+      <td> 7
+      </td>
+   </tr>
+   <tr>
+      <td> 18
+      </td>
+      <td> +6
+      </td>
+      <td> -
+      </td>
+      <td> 4
+      </td>
+      <td> 14
+      </td>
+      <td> 4
+      </td>
+      <td> 5.
+      </td>
+      <td> 8
+      </td>
+   </tr>
+   <tr>
+      <td> 19
+      </td>
+      <td> +6
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 4
+      </td>
+      <td> 15
+      </td>
+      <td> 4
+      </td>
+      <td> 5.
+      </td>
+      <td> 8
+      </td>
+   </tr>
+   <tr>
+      <td> 20.
+      </td>
+      <td> +6
+      </td>
+      <td> Gospodar tajnovitosti
+      </td>
+      <td> 4
+      </td>
+      <td> 15
+      </td>
+      <td> 4
+      </td>
+      <td> 5.
+      </td>
+      <td> 8
+      </td>
+   </tr>
 </table>
 
 ## Karakteristike klase
 
 Kao veštac dobijate sledeće karakteristike klase.
 
-
 #### **Životni bodovi**
 
-**Kockice života:** 1d8 po nivou vetrenjače
+**Kockice života:** 1d8 po nivou viještca
 
 **Poeni na prvom nivou:** 8 + vaš modifikator Građe
 
-**Poeni na višim nivoima:** 1d8 (ili 5) + vaš modifikator Građe po nivou vetrenjače posle 1.
-
+**Poeni na višim nivoima:** 1d8 (ili 5) + vaš modifikator Građe po nivou viještca posle 1.
 
 #### **Stručnosti**
 
@@ -7421,420 +7229,365 @@ Kao veštac dobijate sledeće karakteristike klase.
 
 **Alati:** Nijedan
 
-**Spašavanje bacanja:** Mudrost, harizma
+**Spašavanje bacanja:** Mudrost, Harizma
 
-**viještine:** Izaberite dvije viještine iz tajne, obmane, istorije, zastrašivanja, istrage, prirode i religije
-
+**viještine:** Izaberite dvije viještine iz Arkana, Obmana, Istorija, Zastrašivanje, Istraga, Priroda i Religija
 
 #### **Oprema**
 
 Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
-
-
-
-* (a) lagani samostrel i 20 vijaka ili (b) bilo koje jednostavno oružje
-* (a) kesica sa komponentama ili (b) fokus arkana
-* (a) naučni paket ili (b) tamnica
+* (a) lagani samostrel i 20 strijlla ili (b) bilo koje jednostavno oružje
+* (a) kesica sa komponentama ili (b) arkasnki fokus
+* (a) naučni paket ili (b) tamničarski paket
 * Kožni oklop, bilo koje jednostavno oružje i dva bodeža
 
+### Nadzemaljski pokrovitelj
 
-### Pokrivač drugog sveta
+Na 1. nivou ste sklopili pogodbu sa madzemaljski bićem po vašem izboru: Arhfei, Vrag ili Veliki Stari, od kojih je svaki detaljno opisan na kraju opisa klase. Vaš izbor vam daje karakteristike na 1. nivou i ponovo na 6., 10. i 14. nivou.
 
-Na 1. nivou ste sklopili pogodbu sa onostranim bićem po vašem izboru: Archfei, Fiend ili Great Old, od kojih je svaki detaljno opisan na kraju opisa časa. Vaš izbor vam daje karakteristike na 1. nivou i ponovo na 6., 10. i 14. nivou.
+### Magija pakta
 
+Vaša tajna istraživanja i magija koju vam je podario vaš pokrovitelj dali su vam čarolije. Pogledajte poglavlje 10 za opšta pravila čarolije i poglavlje 11 za spis čarolija viještac.
 
-### Pact Magic
+#### **Kantripi**
 
-Vaša tajna istraživanja i magija koju vam je podario vaš pokrovitelj dali su vam čarolije. Pogledajte poglavlje 10 za opšta pravila čarolije i poglavlje 11 za spis čarolija veštac.
+Sa spiska čarolija viještca znate dva kantripa po vašem izboru. Učite dodatne kantripe viještca po vašem izboru na višim nivoima, kao što je prikazano u koloni Poznati Kantripi u tabeli Viještac.
 
+#### **Slotovi za čaročije**
 
-#### **Cantrips**
+Tabela Vijetac prikazuje koliko slotova za čarolije imate da bacate čarolije od 1. do 5. nivoa. Tabela takođe pokazuje koliki je nivo tih slotova; svi vaši slotovi za čarolije su istog nivoa. Da biste izvršili jednu od svojih čarolija viještca prvog ili višeg nivoa, morate potrošiti slot za čarolije. Vraćate sve utrošene slotove za čarolije kada završite kraći ili duži odmor.
 
-Sa spiska čarolija veštaka znate dva putovanja po vašem izboru. Učite dodatna potiskivanja vetrenjača po vašem izboru na višim nivoima, kao što je prikazano u koloni Cantrips Knovn u tabeli Varlock.
-
-
-#### **Slovovi za pravopis**
-
-Tabela Varlock prikazuje koliko slotova za čarolije morate da bacate čarolije od 1. do 5. nivoa. Tabela takođe pokazuje koliki je nivo tih slotova; svi vaši slotovi za čarolije su istog nivoa. Da biste izvršili jednu od svojih čarolija veštica prvog ili višeg nivoa, morate potrošiti slot za čarolije. Vraćate sve utrošene slotove za čarolije kada završite kraći ili duži odmor.
-
-Na primer, kada ste 5. nivo, imate dva slota za čaroliju 3. nivoa. Da biste bacili čaroliju 1. nivoa _vitch bolt_, morate potrošiti jedan od tih slotova i bacili ste je kao čaroliju 3. nivoa.
-
+Na primer, kada ste 5. nivo, imate dva slota za čaroliju 3. nivoa. Da biste bacili čaroliju 1. nivoa _viješticina sstrijela_, morate potrošiti jedan od tih slotova i bacili ste je kao čaroliju 3. nivoa.
 
 #### **Čarolije poznate od prvog i višeg nivoa**
 
 Na 1. nivou znate dvije čarolije 1. nivoa po vašem izboru sa liste čarolija.
 
-Kolona „Poznate čarolije“ u tabeli Varlock prikazuje kada saznate više čarolija veštačenja po vašem izboru 1. i više nivoa. Čarolija koju odaberete mora biti na nivou koji nije viši od onoga što je prikazano u koloni nivoa slota tabele za vaš nivo. Na primer, kada dostignete 6. nivo, naučite novu čaroliju veštačenja, koja može biti 1., 2. ili 3. nivo.
+Kolona „Poznate čarolije“ u tabeli Viještac prikazuje kada saznate više čarolija za vještca po vašem izboru 1. i više nivoa. Čarolija koju odaberete mora biti na nivou koji nije viši od onoga što je prikazano u koloni nivoa slota tabele za vaš nivo. Na primer, kada dostignete 6. nivo, naučite novu čaroliju viještca, koja može biti 1., 2. ili 3. nivo.
 
-Pored toga, kada steknete nivo u ovoj klasi, možete odabrati jednu od poznatih čarolija veštačenja i zameniti je drugom čarolijom sa spiska čarolija, koja takođe mora biti nivoa za koji imate slotove za čarolije.
-
+Pored toga, kada steknete nivo u ovoj klasi, možete odabrati jednu od poznatih čarolija viještca i zamijeniti je drugom čarolijom sa spiska čarolija, koja takođe mora biti nivoa za koji imate slotove za čarolije.
 
 #### **Sposobnost korištenja magije**
 
-harizma je vaša sposobnost čarolije za vaše čarolije vradžbine, tako da koristite svoju harizmu kad god se čarolija odnosi na vašu sposobnost čarolije. Pored toga, svoj Charisma modifikator koristite kada postavljate DC spasilačkog bacanja za čaroliju vetrenjače koju ste bacili i kada pravite napadački zamah jednim.
+Harizma je vaša sposobnost korištenja magije za vaše čarolije viještca, tako da koristite svoju Harizmu kad god se čarolija odnosi na vašu sposobnost čarolije. Pored toga, svoj Harizma modifikator koristite kada postavljate DC spasilačkog bacanja za čaroliju viještca koju ste bacili i kada pravite napadački zamah.
 
-**DC spasa od čarolije** = 8 + vaš bonus za znanje + vaš modifikator harizme
+**DC spasa od čarolije** = 8 + vaš bonus viještine + vaš modifikator Harizme
 
-**Modifikator napada čarolijom** = vaš bonus za znanje + vaš modifikator harizme
+**Modifikator napada čarolijom** = vaš bonus viještine + vaš modifikator Harizme
 
+#### **Fokusiranje čarolija**
 
-#### **Fokusiranje pravopisa**
+Možete koristiti arkasnki fokus (pogledajte poglavlje 5, „Oprema“) kao fokus za čaroliju za vaše čarolije viještca.
 
-Možete koristiti tajni fokus (pogledajte poglavlje 5, „Oprema“) kao fokus za čaroliju za vaše čarolije veštačenja.
+### Tajanstveni prizivanja
 
+U svom proučavanju okultnih umotvorina otkrili ste tajnovite prizive, fragmente zabranjenog znanja koji vas prožimaju trajnom magičnom sposobnošću.
 
-### Eldritch Pozivi
+Na 2. nivou dobijate dva tajanstvena prizivanja po vašem izboru. Opcije poziva su detaljno opisane na kraju opisa klase. Kada dostignete određene nivoe viještca, dobijate dodatne pozive po svom izboru, kao što je prikazano u koloni Poznata prizivanja u tabeli vijestca.
 
-U svom proučavanju okultnih umotvorina otkrili ste eldričke prizive, fragmente zabranjenog znanja koji vas prožimaju trajnom magičnom sposobnošću.
+Pored toga, kada steknete nivo u ovoj klasi, možete da izaberete jedan od prizivanja koje znate i zamenite ga drugim prizivanjem koji biste mogli da naučite na tom nivou.
 
-Na 2. nivou dobijate dva eldritch poziva po vašem izboru. Opcije poziva su detaljno opisane na kraju opisa klase. Kada dostignete određene nivoe vetrenjače, dobijate dodatne pozive po svom izboru, kao što je prikazano u koloni Poznate prizive u tabeli veštačenja.
-
-Pored toga, kada steknete nivo u ovoj klasi, možete da izaberete jedan od poziva koje znate i zamenite ga drugim pozivom koji biste mogli da naučite na tom nivou.
-
-
-### Pact Boon
+### Pakt Blagodati
 
 Na 3. nivou, vaš onostrani pokrovitelj daruje vam poklon za vašu lojalnu službu. Dobijate jednu od sledećih karakteristika po vašem izboru.
 
+#### **Pakt Lanca**
 
-#### **Pakt o lancu**
+Naučite čaroliju _nađite poznanika_ i možete je izvesti kao ritual. Čarolija se ne ubraja u vaš broj poznatih čarolija.
 
-Naučite čaroliju _nađite poznatu_ i možete je izvesti kao ritual. Čarolija se ne ubraja u vaš broj poznatih čarolija.
-
-Kada bacate čaroliju, možete da izaberete jedan od uobičajenih oblika za svoj poznati ili jedan od sledećih posebnih oblika: imp, pseudodragon, kvazit ili sprite.
+Kada bacate čaroliju, možete da izaberete jedan od uobičajenih oblika za svog pozntog ili jedan od sledećih posebnih oblika: imp, pseudozmaj, kvazit ili sprite.
 
 Pored toga, kada preduzmete akciju Napad, možete se odreći jednog od svojih napada kako biste omogućili poznanicima da izvrše jedan svoj napad svojom reakcijom.
 
-#### **Pakt oštrice**
+#### **Pakt Oštrice**
 
-Svojom akcijom možete stvoriti oružje za pakt u praznoj ruci. Možete odabrati oblik ovog mele oružja svaki put kada ga napravite (pogledajte poglavlje 5 za opcije oružja). Vi ste u stanju sa tim dok njime vladate. Ovo oružje se smatra magičnim u svrhu prevazilaženja otpora i imuniteta na nemagične napade i oštećenja.
+Svojom akcijom možete stvoriti oružje pakta u praznoj ruci. Možete odabrati oblik ovog oružja za blisku borbu svaki put kada ga napravite (pogledajte poglavlje 5 za opcije oružja). Vi ste viješti sa tim oružijem dok njime vladate. Ovo oružje se smatra magičnim u svrhu prevazilaženja otpora i imuniteta na nemagične napade i oštećenja.
 
-Vaše oružje za pakt nestaje ako je udaljeno više od 5 stopa od vas na 1 minut ili više. Takođe nestaje ako ponovo koristite ovu funkciju, ako odbacite oružje (nije potrebna radnja) ili ako umrete.
+Vaše oružje pakta nestaje ako je udaljeno više od 5 stopa od vas na 1 minut ili više. Takođe nestaje ako ponovo koristite ovu funkciju, ako odbacite oružje (nije potrebna radnja) ili ako umrete.
 
-Jedno čarobno oružje možete transformisati u svoje oružje iz pakta izvođenjem posebnog rituala dok držite oružje. Ritual izvodite tokom jednog sata, što se može uraditi tokom kratkog odmora. Zatim možete odbaciti oružje, preusmerivši ga u ekstradimenzionalni prostor, a ono se pojavi svaki put kada nakon toga kreirate svoje oružje za pakt. Na ovaj način ne možete uticati na artefakt ili osetljivo oružje. Oružje prestaje da bude vaše oružje za pakt ako umrete, ako izvodite jednosatni ritual na drugom oružju ili ako koristite jednosatni ritual da biste prekinuli vezu s njim. Oružje se pojavljuje pred vašim nogama ako se nalazi u ekstradimenzionalnom prostoru kada veza prekida.
+Jedno čarobno oružje možete transformisati u svoje oružje iz pakta izvođenjem posebnog rituala dok držite oružje. Ritual izvodite tokom jednog sata, što se može uraditi tokom kratkog odmora. Zatim možete odbaciti oružje, preusmerivši ga u ekstradimenzionalni prostor, a ono se pojavi svaki put kada nakon toga kreirate svoje oružje pakta. Na ovaj način ne možete uticati na artefakt ili osetljivo oružje. Oružje prestaje da bude vaše oružje za pakt ako umrete, ako izvodite jednosatni ritual na drugom oružju ili ako koristite jednosatni ritual da biste prekinuli vezu s njim. Oružje se pojavljuje pred vašim nogama ako se nalazi u ekstradimenzionalnom prostoru kada se veza prekida.
 
+#### **Pakt Toma**
 
-#### **Pakt o Tome**
-
-Vaš pokrovitelj vam daje grimoar pod nazivom Knjiga senki. Kada dobijete ovu funkciju, odaberite tri putovanja sa liste čarolija bilo koje klase (tri ne moraju biti sa iste liste). Dok je knjiga na vašoj osobi, možete ih prebaciti po svojoj volji. Ne računaju se prema vašem broju poznatih izleta. Ako se ne pojave na listi čarolija, ipak su za vas čarolije.
+Vaš pokrovitelj vam daje grimoar pod nazivom Knjiga senki. Kada dobijete ovu funkciju, odaberite tri kantripa sa liste čarolija bilo koje klase (tri ne moraju biti sa iste liste). Dok je knjiga kod vas, možete ih bacati kantripe po svojoj volji. Ne računaju se prema vašem broju poznatih kantripa. Ako se ne pojave na listi čarolija vještca, ipak su za vas čarolije viještca.
 
 Ako izgubite Knjigu senki, možete obaviti jednosatnu ceremoniju da biste dobili zamenu od svog zaštitnika. Ova ceremonija se može obaviti tokom kratkog ili dužeg odmora i uništava prethodnu knjigu. Knjiga se pretvara u pepeo kad umreš.
-
 
 ### Poboljšanje ocijena sposobnosti
 
 Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
 
-### Mistic Arcanum
+### Mistični Arkan
 
 Na 11. nivou, vaš zaštitnik vam odaje magičnu tajnu koja se naziva arkan. Izaberite jednu čaroliju 6. nivoa sa spiska čarolija kao ovaj arkan.
 
 Možete jednom da bacate čaroliju arkana bez trošenja slota čarolije. Morate završiti duži odmor da biste to mogli ponovo učiniti.
 
-Na višim nivoima dobijate više čarolija po vašem izboru koje se mogu izvesti na ovaj način: jedna čarolija 7. nivoa na 13. nivou, jedna čarolija 8. nivoa na 15. nivou i jedna čarolija 9. nivoa na 17. nivou. Vraćate sve upotrebe Mistic Arcanuma kada završite duži odmor.
+Na višim nivoima dobijate više čarolija po vašem izboru koje se mogu izvesti na ovaj način: jedna čarolija 7. nivoa na 13. nivou, jedna čarolija 8. nivoa na 15. nivou i jedna čarolija 9. nivoa na 17. nivou. Vraćate sve upotrebe Mistične arkane kada završite duži odmor.
 
+### Gospodar tajnovitosti
 
-### Eldritch Master
+Na 20. nivou možete da privučete svoju unutrašnju rezervu mistične moći dok molite svog zaštitnika da povrati utrošene slotove čarolija. Možete provesti 1 minut moleći svog zaštitnika za pomoć da biste povratili sve svoje utrošene slotove za čarolije iz funkcije Magija pakta. Jednom kada vratite slotove za čarolije sa ovom funkcijom, morate završiti duži odmor da biste to mogli ponovo učiniti.
 
-Na 20. nivou možete da privučete svoju unutrašnju rezervu mistične moći dok molite svog zaštitnika da povrati utrošene slotove čarolija. Možete provesti 1 minut moleći svog zaštitnika za pomoć da biste povratili sve svoje utrošene slotove za čarolije iz funkcije Pact Magic. Jednom kada vratite slotove za čarolije sa ovom funkcijom, morate završiti duži odmor da biste to mogli ponovo učiniti.
-
-**VAŠA PAKTA**
-
-Svaka opcija Pact Boon proizvodi posebno stvorenje ili predmet koji odražava prirodu vašeg zaštitnika.
-
-**_ Pakt o lancu. _** Tvoj poznati je lukaviji od tipičnog poznatog. Njegov zadati oblik može biti odraz vašeg zaštitnika, sa spritovima i pseudodragonima vezanim za Archfei i imps i kvazitama vezanim za Fienda. Budući da je priroda Velikog Starog nesaglediva, svaki poznati oblik je pogodan za nju.
-
-**_ Pakt oštrice. _** Ako je vaš pokrovitelj Archfei, vaše oružje može biti vitka oštrica umotana u lisnatu lozu. Ako služite Fiendu, vaše oružje može biti sekira izrađena od crnog metala i ukrašena ukrasnim plamenom. Ako je vaš zaštitnik Veliki Stari, vaše oružje bi moglo biti koplje drevnog izgleda, sa dragim kamenom ugrađenim u glavu, urezanim tako da izgleda kao užasno oko koje ne trepće.
-
-**_ Pakt o Tome ._** Vaša Knjiga senki možda je lep, pozlaćen tom sa čarolijama očaravanja i iluzija, koje vam je darovao gospodski Archfei. To bi mogao biti težak tom uvezan u demonsku kožu načičkanu gvožđem, koji drži čarolije zakletosti i bogatstvo zabranjenog znanja o zlokobnim delovima kosmosa, dar Vrata. Ili bi to mogao biti otrcani dnevnik luđaka koji je izbezumljen kontaktom sa Velikim Starim, držeći komade čarolija koje vam samo vaše rastuće ludilo omogućava da razumete i bacite.
+>**VAŠ PAKT BLAGODATI**
+>
+>Svaka opcija pakta blagodati proizvodi posebno stvorenje ili predmet koji odražava prirodu vašeg zaštitnika.
+>
+>**_Pakt lanca._** Tvoj poznati je lukaviji od tipičnog poznatog. Njegov zadati oblik može biti odraz vašeg zaštitnika, sa spritovima i pseuzmajevima vezanim za Archfei i impove i kvazitama vezanim za vraga. Budući da je priroda Velikog Starog nesaglediva, svaki poznati oblik je pogodan za nju.
+>
+>**_Pakt Oštrice._** Ako je vaš pokrovitelj Archfei, vaše oružje može biti vitka oštrica umotana u lisnatu lozu. Ako služite Vragu, vaše oružje može biti sjekira izrađena od crnog metala i ukrašena ukrasnim plamenom. Ako je vaš zaštitnik Veliki Stari, vaše oružje bi moglo biti koplje drevnog izgleda, sa dragim kamenom ugrađenim u glavu, urezanim tako da izgleda kao užasno oko koje ne trepće.
+>
+>**_Pakt Toma._** Vaša Knjiga senki možda je lep, pozlaćen tom sa čarolijama očaravanja i iluzija, koje vam je darovao gospodski Archfei. To bi mogao biti težak tom uvezan u demonsku kožu načičkanu gvožđem, koji drži čarolije zakletosti i bogatstvo zabranjenog znanja o zlokobnim delovima kosmosa, dar Vrga. Ili bi to mogao biti otrcani dnevnik luđaka koji je izbezumljen kontaktom sa Velikim Starim, držeći komade čarolija koje vam samo vaše rastuće ludilo omogućava da razumete i bacite.
 
 ## Nezemaljski pokrovitelji
 
-Bića koja služe kao pokrovitelji vetrenjača su moćni stanovnici drugih nivoa postojanja - ne bogovi, već gotovo bogoliki u svojoj moći. Razni pokrovitelji daju svojim čarobnjacima pristup različitim moćima i prizivima, a zauzvrat očekuju značajne usluge.
+Bića koja služe kao pokrovitelji Viještaka su moćni stanovnici drugih nivoa postojanja - ne bogovi, već gotovo bogoliki u svojoj moći. Razni pokrovitelji daju svojim vještacima pristup različitim moćima i prizivima, a zauzvrat očekuju značajne usluge.
 
-Neki pokrovitelji sakupljaju veštačke brave, raznoseći mistično znanje relativno slobodno ili se hvale svojom sposobnošću da vežu smrtnike za svoju volju. Ostali pokrovitelji samo nevoljko poklanjaju svoju moć i mogu sklopiti pakt sa samo jednim veštačenjem. Čarobnjaci koji služe istom zaštitniku mogu jedni druge gledati kao na saveznike, braću i sestre ili rivale.
+Neki pokrovitelji sakupljaju viještake, raznoseći mistično znanje relativno slobodno ili se hvale svojom sposobnošću da vežu smrtnike za svoju volju. Ostali pokrovitelji samo nevoljno poklanjaju svoju moć i mogu sklopiti pakt sa samo jednim viještakom. Viještci koji služe istom zaštitniku mogu jedni druge gledati kao na saveznike, braću i sestre ili rivale.
 
+### Vrag
 
-### The Fiend
+Sklopili ste pakt sa vragom sa nižih nivoa postojanja, bićem čiji su ciljevi zli, čak i ako se borite protiv tih ciljeva. Takva bića žele korupciju ili uništenje svih stvari, na kraju uključujući i vas. Dovoljno moćni vragovi da sklope pakt uključuju lordove demona kao što su Demogorgon, Orcus, Fraz’Urb-luu i Baphomet; arhiđavoli kao što su Asmodeus, Dispater, Mephistopheles i Belial; jamski vragovi i balori koji su posebno moćni; i ultroloti i drugi gospodari jugolota.
 
-Sklopili ste pakt sa vragom sa nižih nivoa postojanja, bićem čiji su ciljevi zli, čak i ako se borite protiv tih ciljeva. Takva bića žele korupciju ili uništenje svih stvari, na kraju uključujući i vas. Dovoljno moćni zlostavljači da sklope pakt uključuju lordove demona kao što su Demogorgon, Orcus, Fraz’Urb-luu i Baphomet; arhiđavoli kao što su Asmodeus, Dispater, Mephistopheles i Belial; jamski vragovi i balori koji su posebno moćni; i ultroloti i drugi gospodari jugolota.
+#### **Proširena lista čarolija**
 
-
-#### **Proširena lista pravopisa**
-
-Fiend vam omogućava da odaberete sa proširene liste čarolija kada naučite čaroliju veštac. Sledeće čarolije su dodate na listu čarolija za vas.
+Vrag vam omogućava da odaberete sa proširene liste čarolija kada naučite čarolije viještca. Sledeće čarolije su dodate na listu čarolija za vas.
 
 
-##### **Fiend Ekpanded Spells**
-
+##### **Priširena lista čarolija vraga*
 
 <table>
-  <tr>
-   <td> <strong>Nivo pravopisa</strong>
-   </td>
-   <td> <strong>Čarolije</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 1.
-   </td>
-   <td> <em>paljenje ruku</em>, <em>naredba</em>
-   </td>
-  </tr>
-  <tr>
-   <td> 2.
-   </td>
-   <td> <em>slepilo / gluvoća</em>, <em>užareni zrak</em>
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> <em>vatrena kugla</em>, <em>smrdljivi oblak</em>
-   </td>
-  </tr>
-  <tr>
-   <td> 4.
-   </td>
-   <td> <em>vatrogasni štit</em>, <em>vatreni zid</em>
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> <em>udar plamena</em>, <em>sveti</em>
-   </td>
-  </tr>
+   <tr>
+      <td> <strong>Nivo čarolije</strong>
+      </td>
+      <td> <strong>Čarolije</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 1.
+      </td>
+      <td> <em>goruće ruke</em>, <em>naredba</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 2.
+      </td>
+      <td> <em>slepilo / gluvoća</em>, <em>užareni zrak</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> <em>vatrena kugla</em>, <em>smrdljivi oblak</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 4.
+      </td>
+      <td> <em>vatreni štit</em>, <em>vatreni zid</em>
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> <em>udar plamena</em>, <em>sveti</em>
+      </td>
+   </tr>
 </table>
 
+#### **Blagoslov Mračnoga**
 
+Počevši od 1. nivoa, kada smanjite neprijateljsko stvorenje na 0 životnih bodova, dobijate privremene životne bodove jednake vašem modifikatoru Harizme + nivou viještca (minimalno 1).
 
-#### **Taman blagoslov**
+#### **Sreća Mračnoga**
 
-Počevši od 1. nivoa, kada smanjite neprijateljsko stvorenje na 0 poena pogodaka, dobijate privremene poene pogodnosti jednake vašem modifikatoru harizme + nivou veštačenja (minimalno 1).
-
-
-#### **Dark One's Ovn Luck**
-
-Počevši od 6. nivoa, možete pozvati svog zaštitnika da promeni sudbinu u vašu korist. Kada izvršite provijeru sposobnosti ili spasilačko bacanje, možete da koristite ovu funkciju za dodavanje d10 u rolnu. To možete da uradite nakon što vidite početno namotavanje, ali pre nego što se desi bilo koji efekat rolne.
+Počevši od 6. nivoa, možete pozvati svog zaštitnika da promeni sudbinu u vašu korist. Kada izvršite provijeru sposobnosti ili spasilačko bacanje, možete da koristite ovu funkciju za dodavanje d10 svom bacanju. To možete da uradite nakon što vidite početno bacanje, ali pre nego što se desi bilo koji efekat bacanja.
 
 Jednom kada koristite ovu funkciju, ne možete je ponovo koristiti dok ne završite kraći ili duži odmor.
 
-
-#### **Fiendish Resilience**
+#### **Vraška izdržljivost**
 
 Počevši od 10. nivoa, možete odabrati jednu vrstu oštećenja kada završite kraći ili duži odmor. Postižete otpor prema toj vrsti oštećenja dok ne odaberete drugu sa ovom karakteristikom. Šteta od magičnog ili srebrnog oružja ignoriše ovaj otpor.
 
-
-#### **Hurl Through Hell**
+#### **Put kroz pakao**
 
 Počevši od 14. nivoa, kada napadnete stvorenje napadom, možete da koristite ovu funkciju za trenutni transport cilja kroz donje ravni. Stvorenje nestaje i projuri kroz pejzaž noćne more.
 
-Na kraju vašeg sledećeg skretanja, cilj se vraća u prostor koji je prethodno zauzimao, ili u najbliži nenaseljeni prostor. Ako meta nije vrag, treba joj 10d10 psihičke štete dok se odmiče od svog užasnog iskustva.
+Na kraju vašeg sledećeg poteza, cilj se vraća u prostor koji je prethodno zauzimao, ili u najbliži nenaseljeni prostor. Ako meta nije vrag, prima joj 10d10 psihičke štete dok se odmiče od svog užasnog iskustva.
 
 Jednom kada koristite ovu funkciju, ne možete je ponovo koristiti dok ne završite duži odmor.
 
+## Tajanstvena prizivanja
 
-## Eldritch Pozivi
+Ako tajanstveno prizivanje ima preduslove, morate ih ispuniti da biste ga naučili. Prizivanje možete naučiti istovremeno kada ispunjavate njegove preduslove. Preduslov za nivo odnosi se na vaš nivo u ovoj klasi.
 
-Ako prizivanje eldritcha ima preduslove, morate ih ispuniti da biste ga naučili. Pozivanje možete naučiti istovremeno kada ispunjavate njegove preduslove. Preduslov za nivo odnosi se na vaš nivo u ovoj klasi.
+#### **Agonizujuća eksplozija**
 
+**Preduslov:** tajanstvena eksplozija kantrip
 
-#### **Agonizing Blast**
-
-**Preduslov:** eldritch blast cantrip
-
-Kada bacite _eldritch blast_, dodajte svoj modifikator harizme šteti koju nanese na pogotku.
-
+Kada bacite _tajanstvena eksplozija_, dodajte svoj modifikator Harizme šteti koju nanese na pogotku.
 
 #### **Oklop senki**
 
-Možete da bacate _mage oklop_ na sebe po svojoj volji, bez trošenja slota za čarolije ili materijalnih komponenti.
-
+Možete da bacate _čarobnjakov oklop_ na sebe po svojoj volji, bez trošenja slota za čarolije ili materijalnih komponenti.
 
 #### **Uzlazni korak**
 
 **Preduslov:** 9. nivo
 
-Možete bacati _levitate_ na sebe po volji, bez trošenja slota za čarolije ili komponenata materijala.
+Možete bacati _levitirati_ na sebe po volji, bez trošenja slota za čarolije ili materijalnih komponenti.
 
-
-#### **zvijerski govor**
+#### **Zvijerski govor**
 
 Možete bacati _govorite sa životinjama_ po svojoj volji, bez trošenja slova za čarolije.
 
-
 #### **Zavodljiv uticaj**
 
-Steknete znanje viještine prevara i ubeđivanja.
-
+Steknete viještine prevara i ubeđivanja.
 
 #### **Očaravajuće šaputanje**
 
 **Preduslov:** 7. nivo
 
-Možete jednom da bacate _compulsion_ koristeći slot za čaroliju veštice. Ne možete to ponoviti dok ne završite duži odmor.
+Možete jednom da bacate _prinuda_ koristeći slot za čaroliju viještca. Ne možete to ponoviti dok ne završite duži odmor.
 
 #### **Knjiga drevnih tajni**
 
-**Preduslov:** Pakt funkcije Tome
+**Preduslov:** Karakteristika Pakt Toma
 
-Sada možete upisati magične rituale u svoju Knjigu senki. Izaberite dvije čarolije prvog nivoa koje imaju ritualnu oznaku sa liste čarolija bilo koje klase (dvije ne moraju biti sa iste liste). Čarolije se pojavljuju u knjizi i ne računaju se prema broju čarolija koje znate. Sa svojom Knjigom senki u ruci, odabrane čarolije možete da bacate kao rituale. Čarolije ne možete izvoditi osim kao rituale, osim ako ih niste naučili na neki drugi način. Takođe možete izvesti čaroliju veštice koju znate kao ritual ako ima ritualnu oznaku.
+Sada možete upisati magične rituale u svoju Knjigu senki. Izaberite dvije čarolije prvog nivoa koje imaju ritualnu oznaku sa liste čarolija bilo koje klase (dvije ne moraju biti sa iste liste). Čarolije se pojavljuju u knjizi i ne računaju se prema broju čarolija koje znate. Sa svojom Knjigom senki u ruci, odabrane čarolije možete da bacate kao rituale. Čarolije ne možete izvoditi osim kao rituale, osim ako ih niste naučili na neki drugi način. Takođe možete izvesti čaroliju viještca koju znate kao ritual ako ima ritualnu oznaku.
 
-U svojim avanturama možete dodati druge ritualne čarolije u svoju Knjigu senki. Kada pronađete takvu čaroliju, možete je dodati u knjigu ako je nivo čarolije jednak ili manji od polovine nivoa vetrenjače (zaokruženo) i ako možete da odvojite vreme za transkripciju čarolije. Za svaki nivo čarolije, postupak transkripcije traje 2 sata i košta 50 gp za retka mastila potrebna za njegovo upisivanje.
-
+U svojim avanturama možete dodati druge ritualne čarolije u svoju Knjigu senki. Kada pronađete takvu čaroliju, možete je dodati u knjigu ako je nivo čarolije jednak ili manji od polovine nivoa viještca (zaokruženo na više) i ako možete da odvojite vreme za transkripciju čarolije. Za svaki nivo čarolije, postupak transkripcije traje 2 sata i košta 50 gp za retka mastila potrebna za njegovo upisivanje.
 
 #### **Lanci Carceri**
 
-**Preduslov:** 15. nivo, karakteristika Pact of Chain
+**Preduslov:** 15. nivo, karakteristika Pakt Lanca
 
-Možete bacati _država čudovište_ po svojoj volji - ciljajući nebijeskog, neprijateljskog ili elementarnog - bez trošenja slota za čarolije ili materijalnih komponenti. Morate završiti duži odmor da biste mogli ponovo da koristite ovaj poziv na istom stvorenju.
-
+Možete bacati _drži čudovište_ po svojoj volji - ciljajući nebijeskog, vraškog ili elementarnog - bez trošenja slota za čarolije ili materijalnih komponenti. Morate završiti duži odmor da biste mogli ponovo da koristite ovaj poziv na istom stvorenju.
 
 #### **Đavolja vizija**
 
 Možete normalno da vidite u mraku, magičnom i nemagičnom, na udaljenosti od 120 stopa.
 
-
 #### **Strašna reč**
 
 **Preduslov:** 7. nivo
 
-Možete jednom da bacite _confusion_ koristeći slot za čaroliju veštice. Ne možete to ponoviti dok ne završite duži odmor.
+Možete jednom da bacite _konfuzija_ koristeći slot za čaroliju viještca. Ne možete to ponoviti dok ne završite duži odmor.
 
+#### **Tajanstveni pogled**
 
-#### **Eldritch Sight**
+Možete da bacate _detektuj magiju_ po svojoj volji, bez trošenja slota za čarolije.
 
-Možete da bacate _detect magic_ po svojoj volji, bez trošenja slota za čarolije.
+#### **Tajanstveno koplje**
 
+**Preduslov:** tajanstvena eksplozija kantrip
 
-#### **Eldritch Spear**
-
-**Preduslov:** eldritch blast cantrip
-
-Kada bacite _eldritch blast_, domet mu je 300 stopa.
-
+Kada bacite _tajanstvena eksplozija_, domet mu je 300 stopa.
 
 #### **Oči čuvara runa**
 
-Možete čitati sve pisanje.
+Možete čitati sva pisanja.
 
+#### **Vraška snaga**
 
-#### **Fiendish Vigor**
-
-Možete baciti _ lažni život_ na sebe po volji kao čarolija prvog nivoa, bez trošenja slota za čaroliju ili komponenata materijala.
-
+Možete baciti _ lažni život_ na sebe po volji kao čaroliju prvog nivoa, bez trošenja slota za čaroliju ili materijalnih komponenati.
 
 #### **Pogled dva uma**
 
-Možete da upotrebite svoju akciju da dodirnete voljnog humanoida i opažate njegovim čulima do kraja vašeg sledećeg poteza. Sve dok je stvorenje na istoj ravni postojanja kao i vi, možete koristiti svoju akciju na sledećim zavojima da biste održali ovu vezu, produžavajući trajanje do kraja vašeg sledećeg zavoja. Dok opažate kroz čula drugog stvorenja, imate koristi od bilo kojih posebnih čula koja poseduje to stvorenje, a vi ste zaslepljeni i oglušili se za svoje okruženje.
+Možete da upotrebite svoju akciju da dodirnete voljnog humanoida i opažate njegovim čulima do kraja vašeg sledećeg poteza. Sve dok je stvorenje na istoj ravni postojanja kao i vi, možete koristiti svoju akciju na sledećim potezima da biste održali ovu vezu, produžavajući trajanje do kraja vašeg sledećeg poteza. Dok opažate kroz čula drugog stvorenja, imate koristi od bilo kojih posebnih čula koja poseduje to stvorenje, a vi ste slijepi i gluvi se za svoje okruženje.
 
+#### **Ispijač života**
 
-#### **Lifedrinker**
+**Preduslov:** 12. nivo, karakteristika Pakt Oružja
 
-**Preduslov:** 12. nivo, karakteristika Pact of the Blade
-
-Kada udariš stvorenje svojim oruđem za pakt, stvoriće dodatno nekrotično oštećenje jednako Vašem modifikatoru harizme (najmanje 1).
-
+Kada udariš stvorenje svojim oružjem pakta, stvoriće dodatno nekrotično oštećenje jednako vašem modifikatoru Harizme (najmanje 1).
 
 #### **Maska mnogih lica**
 
-Možete da zamenite sebe_ po volji, bez trošenja slova za čarolije.
+Možete da bacite _zamaskirajte sebe_ po volji, bez trošenja slotova za čarolije.
 
-
-#### **Master of Miriad Forms**
+#### **Gospodar bezbroj oblika**
 
 **Preduslov:** 15. nivo
 
-Možete da pravite _alter self_ po volji, bez trošenja slova za čarolije.
+Možete da bacite _promijeni sebe_ po volji, bez trošenja slotova za čarolije.
 
-
-#### **Minions of Chaos**
+#### **Podanici Haosa**
 
 **Preduslov:** 9. nivo
 
-Možete jednom da bacite _conjure elemental_ koristeći slot za čaroliju. Ne možete to ponoviti dok ne završite duži odmor.
+Možete jednom da bacite _prizvati elementala_ koristeći slot za čaroliju viještca. Ne možete to ponoviti dok ne završite duži odmor.
 
-
-#### **Mire the Mind**
+#### **Blato uma**
 
 **Preduslov:** 5. nivo
 
-Možete da bacite _slov_ jednom koristeći slot za čaroliju veštice. Ne možete to ponoviti dok ne završite duži odmor.
+Možete da bacite _spor_ jednom koristeći slot za čaroliju viještca. Ne možete to ponoviti dok ne završite duži odmor.
 
 
-#### **Misti Visions**
+#### **Maglovite vizije**
 
-Možete da emitujete _tihu sliku_ po volji, bez trošenja slota za čarolije ili komponenata materijala.
+Možete da emitujete _tiha slika_ po volji, bez trošenja slota za čarolije ili materijalnih komponenti.
 
-
-#### **Jedan sa senkama**
+#### **Jedan sa sijenkama**
 
 **Preduslov:** 5. nivo
 
 Kada se nalazite u području prigušenog svetla ili tame, možete da koristite svoju radnju da biste postali nevidljivi dok se ne pomerite ili preduzmete neku akciju ili reakciju.
 
-
-#### **Onogorski skok**
+#### **Nadzemaljski skok**
 
 **Preduslov:** 9. nivo
 
-Možete baciti _jump_ na sebe po volji, bez trošenja slota za čaroliju ili komponenata materijala.
+Možete baciti _skok_ na sebe po volji, bez trošenja slota za čaroliju ili materijalnih komponenti.
 
+#### **Odbijajuća eksplozija**
 
-#### **Repelling Blast**
+**Preduslov:** tajanstvena eksplozija kantrip
 
-**Preduslov:** eldritch blast cantrip
-
-Kada udarite stvorenje _eldritch blast_, možete ga gurnuti pravom linijom do 10 stopa od sebe.
-
+Kada udari stvorenje _etajanstvena eksplozija_, možete ga gurnuti pravom linijom do 10 stopa od sebe.
 
 #### **Vajar od mesa**
 
 **Preduslov:** 7. nivo
 
-Možete da bacite _polimorph_ jednom koristeći slot za čaroliju veštice. Ne možete to ponoviti dok ne završite duži odmor.
+Možete da bacite _polimorf_ jednom koristeći slot za čaroliju viještca. Ne možete to ponoviti dok ne završite duži odmor.
 
-
-#### **Znak bolesnog omena**
+#### **Znak bolesnog predkazanja**
 
 **Preduslov:** 5. nivo
 
-Možete jednom da bacate _bijestov curse_ koristeći slot za čaroliju veštice. Ne možete to ponoviti dok ne završite duži odmor.
-
+Možete jednom da bacate _podariti prokletstvo_ koristeći slot za čaroliju viještca. Ne možete to ponoviti dok ne završite duži odmor.
 
 #### **Lopov pet sudbina**
 
-Možete jednom da bacite _bane_ koristeći slot za čaroliju veštice. Ne možete to ponoviti dok ne završite duži odmor.
+Možete jednom da bacite _propast_ koristeći slot za čaroliju viještca. Ne možete to ponoviti dok ne završite duži odmor.
 
+#### **Žeđ oštrice**
 
-#### **Žeđ oštrica**
+**Preduslov:** 5. nivo, karakteristika Pakt Oštrice
 
-**Preduslov:** 5. nivo, karakteristika Pact of the Blade
-
-Možete napadati oružjem za pakt dva puta, umesto jednom, svaki put kada na svom potezu preduzmete akciju Napad.
-
+Možete napadati oružjem pakta dva puta, umesto jednom, svaki put kada na svom potezu preduzmete akciju Napad.
 
 #### **Vizije dalekih carstava**
 
 **Preduslov:** 15. nivo
 
-Možete baciti _arcane eie_ po svojoj volji, bez trošenja slova za čarolije.
+Možete baciti _arkansko oko_ po svojoj volji, bez trošenja slova za čarolije.
 
-#### **Voice of the Chain Master**
+#### **Glas gospodara lanca**
 
-**Preduslov:** Pakt lanca
+**Preduslov:** karakteristika Pakt Lanca
 
-Možete telepatski da komunicirate sa svojim poznatim i opažate preko čula svojih poznatih sve dok ste na istom nivou postojanja. Pored toga, dok opažate čulima svog poznatog, takođe možete govoriti svojim poznatim svojim glasom, čak i ako vaš poznati normalno nije u stanju da govori.
-
+Možete telepatski da komunicirate sa svojim poznatim i opažate preko čula svojih poznatih sve dok ste na istom nivou postojanja. Pored toga, dok opažate čulima svog poznatog, takođe možete govoriti korz svog poznatog svojim glasom, čak i ako vaš poznati normalno nije u stanju da govori.
 
 #### **Šapat groba**
 
 **Preduslov:** 9. nivo
 
-Možete bacati _govoriti sa dead_ po svojoj volji, bez trošenja slova za čarolije.
-
+Možete bacati _govoriti sa mrtvima_ po svojoj volji, bez trošenja slova za čarolije.
 
 #### **Pogled veštice**
 
@@ -7843,32 +7596,28 @@ Možete bacati _govoriti sa dead_ po svojoj volji, bez trošenja slova za čarol
 Možete videti pravi oblik bilo kog menjača oblika ili stvorenja skrivenog iluzijom ili magijom transmutacije dok je stvorenje unutar 30 stopa od vas i unutar vidokruga.
 
 
+
 ## Čarobnjak
 
-
-Odeven u srebrne haljine koje označavaju njenu stanicu, vilenjak zatvara oči kako bi isključio smetnje sa bojnog polja i započinje svoje tiho pojanje. Prstima tkajući se ispred nje, ona dovršava svoju čaroliju i lansira sićušnu kuglicu vatre prema neprijateljskim redovima, gde eruptira u požar koji zahvaća vojnike.
+Odeven u srebrne haljine koje označavaju njen položaj, vilenjak zatvara oči kako bi isključio smetnje sa bojnog polja i započinje svoje tiho pojanje. Prstima tkajući ispred sebe, ona dovršava svoju čaroliju i lansira sićušnu kuglicu vatre prema neprijateljskim redovima, gde eruptira u požar koji zahvaća vojnike.
 
 Proveravajući i ponovo proveravajući svoje delo, čovek ispisuje zamršeni magični krug kredom na golom kamenom podu, a zatim posipa gvožđe u prahu duž svake linije i graciozne krivine. Kada je krug završen, on droni dugačku inkantaciju. Otvara se rupa u prostoru unutar kruga, donoseći dašak sumpora sa onostranog nivoa dalje.
 
-Čučeći na podu u raskrsnici tamnice, gnome baca pregršt malih kostiju ispisanih mističnim simbolima, mrmljajući nekoliko reči moći nad njima. Zatvorivši oči da jasnije vidi vizije, polako klimne glavom, a zatim otvori oči i pokaže niz prolaz levo.
+Čučeći na podu u raskrsnici tamnice, gnom baca pregršt malih kostiju ispisanih mističnim simbolima, mrmljajući nekoliko reči moći nad njima. Zatvorivši oči da jasnije vidi vizije, polako klimne glavom, a zatim otvori oči i pokaže niz prolaz levo.
 
-Čarobnjaci su vrhunski korisnici magije, koje su čarolijama koje su bacili definisali i ujedinili kao klasu. Crtajući se na suptilnom spletu magije koji prožima kosmos, čarobnjaci bacaju čarolije eksplozivne vatre, lučne munje, suptilne obmane i brutalne kontrole uma. Njihova magija dočarava čudovišta sa drugih nivoa postojanja, nazire budućnost ili pretvara ubijene neprijatelje u zombije. Njihove najmoćnije čarolije menjaju jednu supstancu u drugu, pozivaju meteore s neba ili otvaraju portale u druge svetove.
+Čarobnjaci su vrhunski korisnici magije, koje su čarolijama koje su bacili definisali i ujedinili kao klasu. Crtajući na suptilnom spletu magije koji prožima kosmos, čarobnjaci bacaju čarolije eksplozivne vatre, lučne munje, suptilne obmane i brutalne kontrole uma. Njihova magija dočarava čudovišta sa drugih nivoa postojanja, nazire budućnost ili pretvara ubijene neprijatelje u zombije. Njihove najmoćnije čarolije menjaju jednu supstancu u drugu, pozivaju meteore s neba ili otvaraju portale u druge svetove.
 
-
-### Učeni tajni
+### Učenici Arkane
 
 Divlja i zagonetna, raznolike forme i funkcije, snaga magije privlači učenike koji žele da savladaju njene misterije. Neki teže da postanu poput bogova, oblikujući samu stvarnost. Iako izvođenje tipične čarolije zahteva samo izgovaranje nekoliko neobičnih reči, prolaznih gesta, a ponekad i prstohvata ili nakupine egzotičnih materijala, ove površinske komponente jedva nagoveštavaju stručnost postignutu tokom godina šegrtovanja i bezbrojnih sati učenja.
 
 Čarobnjaci žive i umiru od svojih čarolija. Sve ostalo je sporedno. Uče nove čarolije dok eksperimentišu i rastu u iskustvu. Takođe ih mogu naučiti od drugih čarobnjaka, od drevnih tomova ili natpisa i od drevnih stvorenja (poput feja) koja su ogrezla u magiji.
 
-
-### Mama znanja
-
+### Privlačnost znanja
 
 Životi čarobnjaka retko su svakodnevni. Najbliže što će čarobnjak verovatno prići uobičajenom životu je raditi kao mudrac ili predavač u biblioteci ili na univerzitetu, podučavajući druge tajnama multiverzuma. Ostali čarobnjaci prodaju svoje usluge kao vrači, služe u vojnim snagama ili progone živote zločina ili dominacije.
 
-Ali mamac znanja i moći čak i najneprivlačnije čarobnjake poziva iz sigurnosti svojih biblioteka i laboratorija u ruševine i izgubljene gradove. Većina čarobnjaka veruje da su njihovi kolege u drevnim civilizacijama znali tajne magije koje su izgubljene u vekove, a otkrivanje tih tajni moglo bi otvoriti put ka moći većoj od bilo koje magije dostupne u današnje doba.
-
+Ali mamac znanja i moći čak i najneprivlačnije čarobnjake poziva iz sigurnosti svojih biblioteka i laboratorija u ruševine i izgubljene gradove. Većina čarobnjaka veruje da su njihove kolege u drevnim civilizacijama znali tajne magije koje su izgubljene u vijekovima, a otkrivanje tih tajni moglo bi otvoriti put ka moći većoj od bilo koje magije dostupne u današnje doba.
 
 ### Kreiranje čarobnjaka
 
@@ -7878,614 +7627,607 @@ Stvaranje lika čarobnjaka zahteva prošlost u kojoj dominira bar jedan izvanred
 
 #### **Brza izrada**
 
-Možete brzo napraviti čarobnjaka prateći ove predloge. Prvo, inteligencija bi trebala biti vaša najveća ocijena sposobnosti, a zatim je Građe ili spretnost. Ako planirate da se pridružite Školi začaravanja, neka vam harizma bude sledeći najbolji rezultat. Drugo, odaberite pozadinu kadulje. Treće, odaberite _mage hand_, _light_ i _rai of frost_ cantrips, zajedno sa sledećim čarolijama 1. nivoa za vašu knjigu čarolija: _burning hands_, _charm person_, _feather fall_, _mage armor_, _magic missile_ i _sleep_.
-
+Možete brzo napraviti čarobnjaka prateći ove predloge. Prvo, Inteligencija bi trebala biti vaša najveća ocijena sposobnosti, a zatim je Građe ili Spretnost. Ako planirate da se pridružite Školi začaravanja, neka vam Harizma bude sledeći najbolji rezultat. Drugo, odaberite pozadinu mudraca. Treće, odaberite _čarobna ruka_, _svijetlo_ i _zrk mraza_ kantripe, zajedno sa sledećim čarolijama 1. nivoa za vašu knjigu čarolija: _goreće ruke_, _Šarmiraj osobu_, _pad pera_, _čarobni oklop_, _magični projektil_ i _spavaj_.
 
 <table>
-  <tr>
-   <td rowspan = "2"> <strong>Nivo</strong>
-   </td>
-   <td rowspan = "2"> <strong>Stručnost</strong>
-
-<strong>Bonus</strong>
-   </td>
-   <td rowspan = "2"> <strong>Karakteristike</strong>
-   </td>
-   <td rowspan = "2"> <strong>Cantrips</strong>
-
-<strong>Poznato</strong>
-   </td>
-   <td colspan = "9"> <strong>- Slotovi za pravopis po nivou pravopisa -</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> <strong>1.</strong>
-   </td>
-   <td> <strong>2.</strong>
-   </td>
-   <td> <strong>3.</strong>
-   </td>
-   <td> <strong>4.</strong>
-   </td>
-   <td> <strong>5.</strong>
-   </td>
-   <td> <strong>6.</strong>
-   </td>
-   <td> <strong>7.</strong>
-   </td>
-   <td> <strong>8.</strong>
-   </td>
-   <td> <strong>9.</strong>
-   </td>
-  </tr>
-  <tr>
-   <td> 1.
-   </td>
-   <td> +2
-   </td>
-   <td> Pravopis, Oporavak tajne
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 2.
-   </td>
-   <td> +2
-   </td>
-   <td> Tajna tradicija
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 3
-   </td>
-   <td> +2
-   </td>
-   <td> -
-   </td>
-   <td> 3
-   </td>
-   <td> 4
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 4.
-   </td>
-   <td> +2
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 5.
-   </td>
-   <td> +3
-   </td>
-   <td> -
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 6.
-   </td>
-   <td> +3
-   </td>
-   <td> Tajanstvena tradicija
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 7th
-   </td>
-   <td> +3
-   </td>
-   <td> -
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 8.
-   </td>
-   <td> +3
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 9
-   </td>
-   <td> +4
-   </td>
-   <td> -
-   </td>
-   <td> 4
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 10.
-   </td>
-   <td> +4
-   </td>
-   <td> Tajanstvena tradicija
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 11th
-   </td>
-   <td> +4
-   </td>
-   <td> -
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 12.
-   </td>
-   <td> +4
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 13
-   </td>
-   <td> +5
-   </td>
-   <td> -
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 14
-   </td>
-   <td> +5
-   </td>
-   <td> Tajanstvena tradicija
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 15.
-   </td>
-   <td> +5
-   </td>
-   <td> -
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 16
-   </td>
-   <td> +5
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> -
-   </td>
-  </tr>
-  <tr>
-   <td> 17th
-   </td>
-   <td> +6
-   </td>
-   <td> -
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 18
-   </td>
-   <td> +6
-   </td>
-   <td> Majstorstvo pravopisa
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 19
-   </td>
-   <td> +6
-   </td>
-   <td> Poboljšanje ocijena sposobnosti
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
-  <tr>
-   <td> 20.
-   </td>
-   <td> +6
-   </td>
-   <td> Čarolije potpisa
-   </td>
-   <td> 5
-   </td>
-   <td> 4
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 3
-   </td>
-   <td> 2
-   </td>
-   <td> 2
-   </td>
-   <td> 1
-   </td>
-   <td> 1
-   </td>
-  </tr>
+   <tr>
+      <td rowspan="2"> <strong>Nivo</strong>
+      </td>
+      <td rowspan="2"> <strong>Bonus</strong> <strong>Stručnosti</strong>
+      </td>
+      <td rowspan="2"> <strong>Karakteristike</strong>
+      </td>
+      <td rowspan="2"> <strong>Poznati</strong> <strong>Kantripi</strong>
+      </td>
+      <td colspan="9"> <strong>- Slotovi za čarolije po nivou čarolija -</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> <strong>1.</strong>
+      </td>
+      <td> <strong>2.</strong>
+      </td>
+      <td> <strong>3.</strong>
+      </td>
+      <td> <strong>4.</strong>
+      </td>
+      <td> <strong>5.</strong>
+      </td>
+      <td> <strong>6.</strong>
+      </td>
+      <td> <strong>7.</strong>
+      </td>
+      <td> <strong>8.</strong>
+      </td>
+      <td> <strong>9.</strong>
+      </td>
+   </tr>
+   <tr>
+      <td> 1.
+      </td>
+      <td> +2
+      </td>
+      <td> Bacanje čarolija, Arkanski oporavak
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 2.
+      </td>
+      <td> +2
+      </td>
+      <td> Arkanska tradicija
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 3
+      </td>
+      <td> +2
+      </td>
+      <td> -
+      </td>
+      <td> 3
+      </td>
+      <td> 4
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 4.
+      </td>
+      <td> +2
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 5.
+      </td>
+      <td> +3
+      </td>
+      <td> -
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 6.
+      </td>
+      <td> +3
+      </td>
+      <td> Osobina Arkanske tradicije
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 7
+      </td>
+      <td> +3
+      </td>
+      <td> -
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 8.
+      </td>
+      <td> +3
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 9
+      </td>
+      <td> +4
+      </td>
+      <td> -
+      </td>
+      <td> 4
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 10.
+      </td>
+      <td> +4
+      </td>
+      <td> Osobina arkanske trdicije
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 11
+      </td>
+      <td> +4
+      </td>
+      <td> -
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 12.
+      </td>
+      <td> +4
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 13
+      </td>
+      <td> +5
+      </td>
+      <td> -
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 14
+      </td>
+      <td> +5
+      </td>
+      <td> Osobina arkanske tradicije
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 15.
+      </td>
+      <td> +5
+      </td>
+      <td> -
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 16
+      </td>
+      <td> +5
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> -
+      </td>
+   </tr>
+   <tr>
+      <td> 17
+      </td>
+      <td> +6
+      </td>
+      <td> -
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 18
+      </td>
+      <td> +6
+      </td>
+      <td> Majstorstvo korištenja magije
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 19
+      </td>
+      <td> +6
+      </td>
+      <td> Poboljšanje ocijena sposobnosti
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
+   <tr>
+      <td> 20.
+      </td>
+      <td> +6
+      </td>
+      <td> Čarolije potpisa
+      </td>
+      <td> 5
+      </td>
+      <td> 4
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 3
+      </td>
+      <td> 2
+      </td>
+      <td> 2
+      </td>
+      <td> 1
+      </td>
+      <td> 1
+      </td>
+   </tr>
 </table>
-
 
 
 ## Karakteristike klase
 
 Kao čarobnjak dobijate sledeće karakteristike klase.
-
 
 #### **Životni bodovi**
 
@@ -8495,166 +8237,141 @@ Kao čarobnjak dobijate sledeće karakteristike klase.
 
 **Poeni na višim nivoima:** 1d6 (ili 4) + vaš modifikator Građe po nivou čarobnjaka nakon 1. nivoa
 
-
 #### **Stručnosti**
 
 **Oklop:** Nema
 
-**Oružje:** Bodeži, pikado, praćke, štapovi, laki samostreli
+**Oružje:** Bodeži, strelice, praćke, štapovi, laki samostreli
 
 **Alati:** Nijedan
 
-**Spasavanje bacanja:** Inteligencija, mudrost
+**Spasavanje bacanja:** Inteligencija, Mudrost
 
-**viještine:** Izaberite dvije od Arcana, Histori, Insight, Istraga, Medicine i Religion
-
+**viještine:** Izaberite dvije od Arcana, Istorija, Uvid, Istraga, Medicina i Religija
 
 #### **Oprema**
 
 Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
-
-
-
-* (a) četvrtina ili (b) bodež
-* (a) kesica sa komponentama ili (b) fokus arkana
+* (a) motka ili (b) bodež
+* (a) kesica sa komponentama ili (b) arkanski fokus
 * (a) naučni paket ili (b) istraživački paket
 * Knjiga čarolija
 
-
-### Pravopis
+### Korištenje magije
 
 Kao student tajne magije, imate knjigu čarolija koja sadrži čarolije koje pokazuju prva svetlucanja vaše istinske moći. Pogledajte poglavlje 10 za opšta pravila čarolije i poglavlje 11 za listu čarolija čarobnjaka.
 
+#### **Kantripi**
 
-#### **Cantrips**
+Na prvom nivou poznajete tri kantripa po vašem izboru sa liste čarolija čarobnjaka. Učite dodatne kantripe po vašem izboru na višim nivoima, kao što je prikazano u koloni Poznati kantripi tabele Čarobnjaka.
 
-Na prvom nivou poznajete tri putovanja po vašem izboru sa liste čarolija čarobnjaka. Učite dodatne čarobnjake po vašem izboru na višim nivoima, kao što je prikazano u koloni Poznati Cantrips tabele Čarobnjaka.
+#### **Knjiga čarolija**
 
+Na 1. nivou imate knjigu čarolija koja sadrži šest čarolija čarobnjaka 1. nivoa po vašem izboru. Vaša knjiga čarolija je spremište čarolija čarobnjaka koje znate, izuzev vaših kantripova, koji su fiksirani u vašem umu.
 
-#### **Knjiga pravopisa**
+#### **Priprema i bacanje čarolija**
 
-Na 1. nivou imate knjigu čarolija koja sadrži šest čarolija čarobnjaka 1. nivoa po vašem izboru. Vaša knjiga čarolija je spremište čarolija čarobnjaka koje znate, izuzev vaših putovanja, koja su u vašem umu ispravljena.
-
-
-#### **Priprema i bačanje čarolija**
-
-Tabela čarobnjaka prikazuje koliko slotova čarolija morate da napravite čarolije čarobnjaka prvog i višeg nivoa. Da biste izvršili jednu od ovih čarolija, morate potrošiti slot nivoa čarolije ili veći. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
+Tabela čarobnjaka prikazuje koliko slotova čarolija imate da napravite čarolije čarobnjaka prvog i višeg nivoa. Da biste izvršili jednu od ovih čarolija, morate potrošiti slot nivoa čarolije ili veći. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
 
 Pripremate listu čarolija čarobnjaka koje su vam dostupne za izvođenje. Da biste to uradili, odaberite broj čarolija čarobnjaka iz svoje knjige čarolija jednak vašem modifikatoru Inteligencije + nivou čarobnjaka (najmanje jedna čarolija). Čarolije moraju biti na nivou za koji imate slotove za čarolije.
 
-Na primer, ako ste čarobnjak za 3. nivo, imate četiri slota za pravopis za 1. i 2. nivo. Sa inteligencijom od 16, vaša lista pripremljenih čarolija može da sadrži šest čarolija 1. ili 2. nivoa, u bilo kojoj kombinaciji, odabranih iz vaše knjige čarolija. Ako pripremite čaroliju _magijske rakete 1. nivoa, možete je baciti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
+Na primer, ako ste čarobnjak za 3. nivo, imate četiri slota za čarolije za 1. i 2. nivo. Sa inteligencijom od 16, vaša lista pripremljenih čarolija može da sadrži šest čarolija 1. ili 2. nivoa, u bilo kojoj kombinaciji, odabranih iz vaše knjige čarolija. Ako pripremite čaroliju _magični projektil_ 1. nivoa, možete je baciti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
 
 Spisak pripremljenih čarolija možete promeniti kada završite duži odmor. Priprema nove liste čarolija čarobnjaka zahteva vreme provedeno u proučavanju vaše knjige čarolija i pamćenju čarolija i gesta koje morate napraviti da biste izvršili čaroliju: najmanje 1 minut po nivou čarolije za svaku čaroliju na vašoj listi.
 
 #### **Sposobnost korištenja magije**
 
-Inteligencija je vaša sposobnost čarolije za vaše čarobnjačke čarolije, jer svoje čarolije učite kroz posebno proučavanje i pamćenje. Koristite svoju inteligenciju kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj modifikator inteligencije koristite kada postavljate DC spasilačkog bacanja za čaroliju čarobnjaka koju ste bacili i kada pravite napadački zamah jednim.
+Inteligencija je vaša sposobnost korištenja magije za vaše čarobnjačke čarolije, jer svoje čarolije učite kroz posebno proučavanje i pamćenje. Koristite svoju Inteligenciju kad god se čarolija odnosi na vašu sposobnost pravljenja čarolije. Pored toga, svoj modifikator Inteligencije koristite kada postavljate DC spasilačkog bacanja za čaroliju čarobnjaka koju ste bacili i kada pravite napadački zamah.
 
-**DC spasa od čarolije** = 8 + vaš bonus za znanje + vaš modifikator inteligencije
+**DC spasa od čarolije** = 8 + vaš bonus stručnost + vaš modifikator Inteligencije
 
-**Modifikator napada čarolijom** = vaš bonus za stručnost + vaš modifikator inteligencije
+**Modifikator napada čarolijom** = vaš bonus za stručnost + vaš modifikator Inteligencije
 
-
-#### **Ritualno livenje**
+#### **Ritualno bacanje**
 
 Čaroliju čarobnjaka možete izvesti kao ritual ako ta čarolija ima oznaku rituala, a čaroliju imate u svojoj knjižici čarolija. Ne treba pripremiti čaroliju.
 
+#### **Fokusiranje čarolije**
 
-#### **Fokusiranje pravopisa**
+Možete koristiti arkanski fokus (pogledajte poglavlje 5, „Oprema“) kao fokus za bacanje čarolija za vaše čarobnjačke čarolije.
 
-Možete koristiti tajni fokus (pogledajte poglavlje 5, „Oprema“) kao fokus za propisivanje čarolija za vaše čarobnjačke čarolije.
+#### **Učenje čarolija prvog i višeg nivoa**
 
+Svaki put kada steknete nivo čarobnjaka, možete besplatno dodati dvije čarolije čarobnjaka po svom izboru. Svaka od ovih čarolija mora biti na nivou za koji imate slotove za čarolije, kao što je prikazano na tabeli čarobnjaka. U svojim avanturama možete pronaći druge čarolije koje možete dodati u svoju knjigu čarolija (pogledajte „Vaša knjiga čarolija“).
 
-#### **Čarolije za učenje prvog i višeg nivoa**
+>**VAŠA KNJIGA ČAROLIJA**
+>
+>Čarolije koje dodajete u knjigu čarolija dok osvajate nivo odražavaju tajna istraživanja koja sami vodite, kao i intelektualna otkrića koja ste imali u vezi sa prirodom multiverzuma. Možda ćete tokom avantura pronaći druge čarolije. Možete otkriti čaroliju zabeleženu na svitku u sanduku zlog čarobnjaka, na primer, ili u prašnjavom tomu u drevnoj biblioteci.
+>
+>**_Kopiranje čarolije u knjigu._** Kada nađete čarobnjakovu čaroliju prvog ili višeg nivoa, možete je dodati u svoju knjigu čarolija ako je na nivou čarolije koju možete pripremiti i ako možete izdvojiti vrijeme za dešifrovanje i kopirajti je.
+>
+>Kopiranje te čarolije u vašu knjigu čarolija podrazumeva reprodukciju osnovnog oblika čarolije, a zatim dešifrovanje jedinstvenog sistema notacije koji koristi čarobnjak koji ju je napisao. Morate vežbati čaroliju dok ne razumete potrebne zvukove ili pokrete, a zatim je prepisati u svoju knjigu čarolija koristeći svoj sopstveni zapis.
+>
+>Za svaki nivo čarolije postupak traje 2 sata i košta 50 gp. Trošak predstavlja materijalne komponente koje trošite dok eksperimentišete sa čarolijom da biste je savladali, kao i fino mastilo potrebno za njeno zapisivanje. Nakon što potrošite ovo vreme i novac, možete pripremiti čaroliju baš kao i druge čarolije.
+>
+>**_Zamena knjige._** Možete da kopirate čaroliju iz sopstvene čarolije u drugu knjigu - na primer, ako želite da napravite rezervnu kopiju svoje čarolije. Ovo je poput kopiranja nove čarolije u vašu knjigu čarolija, ali brže i jednostavnije, jer razumete sopstveni zapis i već znate kako se koisti. Potrebno je potrošiti samo 1 sat i 10 gp za svaki nivo kopirane čarolije.
+>
+>Ako izgubite knjigu čarolija, možete da koristite isti postupak da biste čarolije koje ste pripremili prepisali u novu knjigu čarolija. Za popunjavanje ostatka svoje knjige čarolija, potrebno je da pronađete nove čarolije kako biste to uradili, kao i obično. Iz tog razloga, mnogi čarobnjaci čuvaju rezervne kopije knjiga čarolija na sigurnom mestu.
+>
+>**_Izgled knjige._** Vaša knjiga čarolija je jedinstvena kompilacija čarolija sa svojim ukrasnim procvatima i beleškama na marginama. To bi mogao biti običan, funkcionalan kožni svezak koji ste dobili na poklon od svog gospodara, fino uvezani tom s pozlaćenim rubovima koji ste pronašli u drevnoj biblioteci ili čak labava kolekcija beležaka zgužvana nakon što ste izgubili prethodnu knjigu čarolija u nesreći.
 
-Svaki put kada steknete nivo čarobnjaka, možete bijesplatno dodati dvije čarolije čarobnjaka po svom izboru. Svaka od ovih čarolija mora biti na nivou za koji imate slotove za čarolije, kao što je prikazano na tabeli čarobnjaka. U svojim avanturama možete pronaći druge čarolije koje možete dodati u svoju knjigu čarolija (pogledajte bočnu traku „Vaša čarolija“).
+### Oporavak Arkane
 
-**TVOJA KNJIGA**
+Naučili ste da povratite deo svoje magične energije proučavanjem svoje knjige čarolija. Jednom dnevno kada završite kratak odmor, možete da odaberete utrošene slotove za čarolije za oporavak. Slotovi za čarolije mogu imati kombinovani nivo koji je jednak ili manji od polovine vašeg nivoa čarobnjaka (zaokruženo naviše), a nijedan od slotova ne može biti šesti ili veći nivo.
 
-Čarolije koje dodajete u knjigu čarolija dok osvajate nivo odražavaju tajna istraživanja koja sami vodite, kao i intelektualna otkrića koja ste imali u vezi sa prirodom multiverzuma. Možda ćete tokom avantura pronaći druge uroke. Možete otkriti čaroliju zabeleženu na svitku u sanduku zlog čarobnjaka, na primer, ili u prašnjavom tomu u drevnoj biblioteci.
+Na primer, ako ste čarobnjak 4. nivoa, možete da vratite slotove za čarolije u vrednosti do dva nivoa. Možete da vratite ili slot za čaroliju drugog nivoa ili dva slota za pravopis prvog nivoa.
 
-**_ Kopiranje čarolije u knjigu ._** Kada nađete čaroliju čarolije prvog ili višeg nivoa, možete je dodati u svoju knjigu čarolija ako je na nivou čarolije koju možete pripremiti i ako možete uštedeti vreme za dešifrovanje i kopirajte ga.
+### Arkanska tradicija
 
-Kopiranje te čarolije u vašu knjigu čarolija podrazumeva reprodukciju osnovnog oblika čarolije, a zatim dešifrovanje jedinstvenog sistema notacije koji koristi čarobnjak koji ju je napisao. Morate vežbati čaroliju dok ne razumete potrebne zvukove ili pokrete, a zatim je prepisati u svoju knjigu čarolija koristeći svoj sopstveni zapis.
-
-Za svaki nivo čarolije postupak traje 2 sata i košta 50 gp. Trošak predstavlja materijalne komponente koje trošite dok eksperimentišete sa čarolijom da biste je savladali, kao i fino mastilo potrebno za njeno snimanje. Nakon što potrošite ovo vreme i novac, možete pripremiti čaroliju baš kao i druge čarolije.
-
-**_ Zamena knjige ._** Možete da kopirate čaroliju iz sopstvene čarolije u drugu knjigu - na primer, ako želite da napravite rezervnu kopiju svoje čarolije. Ovo je poput kopiranja nove čarolije u vašu knjigu čarolija, ali brže i jednostavnije, jer razumete sopstveni zapis i već znate kako se čini. Potrebno je potrošiti samo 1 sat i 10 gp za svaki nivo kopirane čarolije.
-
-Ako izgubite knjigu čarolija, možete da koristite isti postupak da biste čarolije koje ste pripremili prepisali u novu knjigu čarolija. Ako popunite ostatak svoje čarolije, potrebno je da pronađete nove čarolije kako biste to uradili, kao i obično. Iz tog razloga, mnogi čarobnjaci čuvaju rezervne čarolije na sigurnom mestu.
-
-**_ Izgled knjige ._** Vaša čarolija je jedinstvena kompilacija čarolija sa svojim ukrasnim procvatima i beleškama na marginama. To bi mogao biti običan, funkcionalan kožni svezak koji ste dobili na poklon od svog gospodara, fino uvezani tom s pozlaćenim rubovima koji ste pronašli u drevnoj biblioteci ili čak labava kolekcija beležaka zgužvana nakon što ste izgubili prethodnu knjigu čarolija u nesreća.
-
-
-### Oporavak tajne
-
-Naučili ste da povratite deo svoje magične energije proučavanjem svoje čarolije. Jednom dnevno kada završite kratak odmor, možete da odaberete utrošene slotove za čarolije za oporavak. Slotovi za čarolije mogu imati kombinovani nivo koji je jednak ili manji od polovine vašeg nivoa čarobnjaka (zaokruženo), a nijedan od slotova ne može biti šesti ili veći nivo.
-
-Na primer, ako ste čarobnjak 4. nivoa, možete da vratite slotove za pravopis u vrednosti do dva nivoa. Možete da vratite ili slot za čaroliju drugog nivoa ili dva slota za pravopis prvog nivoa.
-
-
-### Tajna tradicija
-
-Kada dostignete 2. nivo, birate tajnu tradiciju, oblikujući svoju magijsku praksu kroz jednu od osam škola: Abjuracija, Prizivanje, Proricanje, Očaravanje, Evokacija, Iluzija, Nekromancija ili Transmutacija, sve detaljno na kraju opisa časa.
+Kada dostignete 2. nivo, birate Arkansku tradiciju, oblikujući svoju magijsku praksu kroz jednu od osam škola: Abjuracija, Prizivanje, Proricanje, Očaravanje, Evokacija, Iluzija, Nekromancija ili Transmutacija, sve detaljno na kraju opisa klase.
 
 Vaš izbor vam daje mogućnosti na 2. nivou i ponovo na 6., 10. i 14. nivou.
-
 
 ### Poboljšanje ocijena sposobnosti
 
 Kada dostignete 4. nivo, i ponovo na 8., 12., 16. i 19. nivou, možete da povećate jedan rezultat sposobnosti po vašem izboru za 2, ili možete da povećate dvije ocijene sposobnosti po svom izboru za 1. Kao i obično, ne možete povećati ocijene sposobnosti iznad 20 koristeći ovu funkciju.
 
-### Majstorstvo pravopisa
+### Majstorstvo korištenja magije
 
-Na 18. nivou ste postigli takvo vladanje određenim čarolijama da ih možete bacati po svojoj volji. Izaberite čaroliju čarobnjaka prvog nivoa i čaroliju čarobnjaka drugog nivoa koji se nalaze u vašoj knjižici čarolija. Te čarolije možete bacati na najniži nivo bez trošenja slota za čarolije kada ih pripremite. Ako želite da izvedete bilo koju čaroliju na višem nivou, morate potrošiti slot za uroke kao i obično.
+Na 18. nivou ste postigli takvo vladanje određenim čarolijama da ih možete bacati po svojoj volji. Izaberite čaroliju čarobnjaka prvog nivoa i čaroliju čarobnjaka drugog nivoa koji se nalaze u vašoj knjižici čarolija. Te čarolije možete bacati na najniži nivo bez trošenja slota za čarolije kada ih pripremite. Ako želite da izvedete bilo koju čaroliju na višem nivou, morate potrošiti slot za čarolije kao i obično.
 
-Provodeći 8 sati u učenju, možete razmeniti jednu ili obe čarolije koje ste izabrali za različite uroke istog nivoa.
-
+Provodeći 8 sati u učenju, možete razmeniti jednu ili obe čarolije koje ste izabrali za različite čarolije istog nivoa.
 
 ### Potpisivanje čarolija
 
 Kada dostignete 20. nivo, steknete majstorstvo nad dvije moćne čarolije i možete ih bacati sa malo napora. Izaberite dvije čarolije čarobnjaka trećeg nivoa u svojoj knjižici čarolija kao svoje čarolije za potpis. Uvek imate pripremljene ove čarolije, one se ne računaju u broj čarolija koje ste pripremili i možete da izvedete svaku od njih jednom na 3. nivou bez trošenja slota za čarolije. Kada to učinite, ne možete to ponoviti dok ne završite kraći ili duži odmor.
 
-Ako želite da napravite bilo koju čaroliju na višem nivou, morate potrošiti slot za uroke kao i obično.
+Ako želite da napravite bilo koju čaroliju na višem nivou, morate potrošiti slot za čarolije kao i obično.
 
 
-## Tajne tradicije
-
-
+## Arkanske tradicije
 
 Studiranje čarobnjaštva je drevno, sežući do najranijih smrtnih otkrića magije. Čvrsto je uspostavljen u svetu D&D, sa različitim tradicijama posvećenim njegovom složenom proučavanju.
 
-Najčešće tajne tradicije u multiverzumu vrte se oko škola magije. Čarobnjaci kroz vekove katalogizirali su hiljade čarolija, svrstavajući ih u osam kategorija nazvanih školama, kako je opisano u poglavlju 10. Na nekim mestima su ove tradicije doslovno škole; čarobnjak bi mogao učiti u Školi iluzija, dok drugi studira širom grada u Školi začaranja. U drugim institucijama škole su više nalik akademskim odeljenjima, a suparnički fakulteti se takmiče za studente i finansiraju ih. Čak i čarobnjaci koji obučavaju šegrte u samoći svojih kula, podjelu magije na škole koriste kao sredstvo za učenje, jer uroci svake škole zahtevaju savladavanje različitih tehnika.
-
+Najčešće tajne tradicije u multiverzumu vrte se oko škola magije. Čarobnjaci kroz vekove katalogovali su hiljade čarolija, svrstavajući ih u osam kategorija nazvanih školama, kako je opisano u poglavlju 10. Na nekim mestima su ove tradicije doslovno škole; čarobnjak bi mogao učiti u Školi iluzija, dok drugi studira širom grada u Školi začaranja. U drugim institucijama škole su više nalik akademskim odeljenjima, a suparnički fakulteti se takmiče za studente i finansiraju ih. Čak i čarobnjaci koji obučavaju šegrte u samoći svojih kula, podjelu magije na škole koriste kao sredstvo za učenje, jer čarolije svake škole zahtevaju savladavanje različitih tehnika.
 
 ### Škola evokacije
 
-
 Usredsredili ste svoje proučavanje na magiju koja stvara moćne elementarne efekte kao što su jaka hladnoća, pekući plamen, valjajuća grmljavina, pucketanje munje i sagorevanje kiseline. Neki izazivači pronalaze zaposlenje u vojnim snagama, služeći kao artiljerija za eksploziju neprijateljske vojske izdaleka. Drugi koriste svoju spektakularnu moć da zaštite slabe, dok neki traže svoju korist kao razbojnici, avanturisti ili nadobudni tirani.
 
+#### **Stručnja evokacije**
 
-#### **Evocation Savant**
+Počevši od odabira ove škole na 2. nivou, zlato i vreme koje morate utrošiti da biste kopirali čaroliju evokacije u svoju knjigu čarolija su prepolovljeni.
 
-Počevši od odabira ove škole na 2. nivou, zlato i vreme koje morate utrošiti da biste kopirali urok čarolija u svoju knjigu čarolija prepolovljeni su.
+#### **Skulptorske čarolije**
 
+Počevši od 2. nivoa, možete stvoriti džepove relativne sigurnosti u okviru efekata vaših čarolija evokacije. Kada bacate čaroliju evokacije koja utiče na druga stvorenja koja možete videti, možete da izaberete njihov broj jednak 1 + nivou čarolije. Odabrana bića automatski uspevaju u svojim spasilačkim bacanjima protiv čarolija i ne preuzimaju štetu ako bi normalno uspeli da naprave pola štete prilikom uspešnog spasa.
 
-#### **Skulpcijske čarolije**
+#### **Potentni Kantrip**
 
-Počevši od 2. nivoa, možete stvoriti džepove relativne sigurnosti u okviru efekata vaših čarolija čarolija. Kada bacate čaroliju evokacije koja utiče na druga stvorenja koja možete videti, možete da izaberete njihov broj jednak 1 + nivou čarolije. Odabrana bića automatski uspevaju u svojim spasilačkim bacanjima protiv čarolija i ne preuzimaju štetu ako bi normalno uspeli da naprave pola štete prilikom uspešnog spremanja.
+Počevši od 6. nivoa, vaši štetni kantripi utiču čak i na stvorenja koja izbegavaju glavni efekat. Kada stvorenje uspe u spasonosnom bacanju protiv vašeg kantripa, stvorenje preuzme polovinu štete kantripa (ako postoji), ali ne trpi dodatni efekat od kantripa.
 
+#### **Ojačana evokacija**
 
-#### **Potentni Cantrip**
+Počev od 10. nivoa, možete da dodate svoj modifikator Inteligencije u jedano bacanje oštećenja bilo koje čarolije čarobnjaka koju bacate.
 
-Počevši od 6. nivoa, vaši štetni izleti utiču na čak i stvorenja koja izbegavaju glavni efekat. Kada stvorenje uspe u spasonosnom bacanju protiv vašeg putovanja, stvorenje preuzme polovinu štete nadmetanja (ako postoji), ali ne trpi dodatni efekat od putovanja.
-
-
-#### **Ojačano evokacija**
-
-Počev od 10. nivoa, možete da dodate svoj modifikator inteligencije u jedan svitak oštećenja bilo koje čarolije koja izaziva čarobnjaka.
-
-#### **Overchannel**
+#### **Prekanalisanje**
 
 Počevši od 14. nivoa, možete povećati snagu svojih jednostavnijih čarolija. Kada bacate čaroliju čarobnjaka od 1. do 5. nivoa koja nanosi štetu, tom čarolijom možete naneti maksimalnu štetu.
 
-Kada prvi put to učinite, nećete imati negativan uticaj. Ako ponovo koristite ovu funkciju pre nego što završite duži odmor, nanećete 2d12 nekrotičnog oštećenja za svaki nivo čarolije, odmah nakon što je nanesete. Svaki put kada ponovo koristite ovu funkciju pre završetka dugog odmora, nekrotično oštećenje po nivou čarolije povećava se za 1d12. Ova šteta zanemaruje otpor i imunitet.
-
+Kada prvi put to učinite, nećete imati negativan uticaj. Ako ponovo koristite ovu funkciju pre nego što završite duži odmor, primićete 2d12 nekrotičnog oštećenja za svaki nivo čarolije, odmah nakon što je nanesete. Svaki put kada ponovo koristite ovu funkciju pre završetka dugog odmora, nekrotično oštećenje po nivou čarolije povećava se za 1d12. Ova šteta zanemaruje otpor i imunitet.
