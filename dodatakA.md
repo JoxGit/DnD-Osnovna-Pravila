@@ -1,3 +1,4 @@
+
 # Dodatak A: Stanja
 
 Stanja menjaju mogućnosti stvorenja na razne načine i mogu nastati kao rezultat ;arolija, karakteristike klase, napada čudovišta ili drugog efekta. Većina stanja, poput slijepila, su oštećenja, ali nekoliko, poput nevidljivosti, mogu biti korisna.
