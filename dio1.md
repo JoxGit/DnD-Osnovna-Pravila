@@ -17,14 +17,14 @@ Kroz ovo poglavlje, termin **list karaktera** označava sve ono što koristite z
 
 >**Građenje Bruenor-a**
 >
->Svaki korak stvaranja lika uključuje primer tog koraka, sa igračem po imenu Bob koji gradi svoj patuljasti lik, Bruenor.
+>Svaki korak stvaranja lika uključuje primjer tog koraka, sa igračem po imenu Bob koji gradi svoj patuljasti lik, Bruenor.
 
 
 ## 1. Izaberite rasu
 
 Svaki lik pripada rasi, jednoj od mnogih inteligentnih humanoidnih vrsta u svetu D&D. Najčešća karakterna rasa igrača su patuljci, vilenjaci, polutani i ljudi. Neke rase takođe imaju podrase, poput planinskog patuljka ili šumskog vilenjaka. Poglavlje 2 pruža više informacija o ovim rasama.
 
-Rasa koju odaberete doprinosi identitetu vašeg lika na važan način uspostavljanjem opšteg izgleda i prirodnih talenata stečenih kulturom i poreklom. Rasa vašeg lika dodeljuje određene rasne osobine, kao što su posebna čula, znanje određenog oružja ili alata, znanje jedne ili više veština ili sposobnost korišćenja manjih čarolija. Ove osobine se ponekad uklapaju u mogućnosti određenih klasa (vidi korak 2). Na primer, rasne osobine polutana lakih nogu čine ih izuzetnim lupežima, a visoki vilenjaci imaju tendenciju da budu moćni čarobnjaci. Ponekad i igra suprotnog tipa može biti zabavna. Na primer, polutan paladin i planinski patuljkak čarobnjak mogu biti neobični, ali nezaboravni likovi.
+Rasa koju odaberete doprinosi identitetu vašeg lika na važan način uspostavljanjem opšteg izgleda i prirodnih talenata stečenih kulturom i poreklom. Rasa vašeg lika dodeljuje određene rasne osobine, kao što su posebna čula, znanje određenog oružja ili alata, znanje jedne ili više veština ili sposobnost korišćenja manjih čarolija. Ove osobine se ponekad uklapaju u mogućnosti određenih klasa (vidi korak 2). Na primjer, rasne osobine polutana lakih nogu čine ih izuzetnim lupežima, a visoki vilenjaci imaju tendenciju da budu moćni čarobnjaci. Ponekad i igra suprotnog tipa može biti zabavna. Na primjer, polutan paladin i planinski patuljkak čarobnjak mogu biti neobični, ali nezaboravni likovi.
 
 Vaša rasa takođe povećava jednu ili više ocena vaših sposobnosti, koje odredite u koraku 3. Zabeležite ovo povećanje i ne zaboravite da ga primenite kasnije.
 
@@ -78,7 +78,7 @@ Tabela koja se pojavljuje u opisu vaše klase prikazuje vaš bonus za stručnost
 
 Vaša klasa određuje vašu stručnost sa oružjem, vaša bacanja spasa i neke vaše veštine i alate. (Veštine su opisane u poglavlju 7, alati u poglavlju 5.) Vaše iskustvo vam daje dodatne veštine i veštine alata, a neke rase daju vam više znanja. Obavezno zabeležite sve ove veštine, kao i bonus za stručnost, na listu karaktera.
 
-Vaš bonus za stručnost se ne može dodati jednoj kocki ili drugim brojevima više puta. Povremeno se vaš bonus za stručnost može izmeniti (na primer, udvostručiti ili prepoloviti) pre nego što ga primenite. Ako okolnost sugeriše da se vaš bonus za stručnost primenjuje više puta na istu rolu ili da ga treba umnožiti više puta, ipak ga dodate samo jednom, pomnožite samo jednom i prepolovite samo jednom.
+Vaš bonus za stručnost se ne može dodati jednoj kocki ili drugim brojevima više puta. Povremeno se vaš bonus za stručnost može izmeniti (na primjer, udvostručiti ili prepoloviti) pre nego što ga primenite. Ako okolnost sugeriše da se vaš bonus za stručnost primenjuje više puta na istu rolu ili da ga treba umnožiti više puta, ipak ga dodate samo jednom, pomnožite samo jednom i prepolovite samo jednom.
 
 
 >**Građenje Bruenora, 2. korak**
@@ -112,7 +112,7 @@ Nakon dodeljivanja ocena sposobnosti, odredite **modifikatore sposobnost** i kor
 
 Prema opciji vašeg Gospodara Tamnice (DM), ovu varijantu možete koristiti za određivanje rezultata vaših sposobnosti. Ovde opisana metoda omogućava vam da izgradite lik sa nizom ocena sposobnosti koje odaberete pojedinačno.
 
-Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake ocene prikazani su na tabeli Troškovi poena ocjena sposobnosti.  Na primer, ocjena 14 košta 7 poena.
+Imate 27 poena da potrošite na rezultate svojih sposobnosti. Troškovi svake ocene prikazani su na tabeli Troškovi poena ocjena sposobnosti.  Na primjer, ocjena 14 košta 7 poena.
 
 
 **Ocene sposobnosti i modifikatori**
@@ -421,7 +421,7 @@ Pozadina daje vašem karakteru karakteristiku pozadine (opšta korist) i znanje 
 
 Uzmite u obzir ocene sposobnosti svog lika i rasu dok utvrđujete njegov izgled i ličnost. Veoma snašan lik sa niskom inteligencijom mogao bi da misli i ponaša se potpuno drugačije od vrlo pametnog lika niske snage.
 
-Na primer, velika snaga obično odgovara krupnom ili atletskom telu, dok lik sa niskom snagom može biti mršav ili debeo.
+Na primjer, velika snaga obično odgovara krupnom ili atletskom telu, dok lik sa niskom snagom može biti mršav ili debeo.
 
 Lik visoke spretnosti verovatno je gipk i vitak, dok lik niske spretnosti može biti ili žgoljav i nespretan ili težak i debelih prstiju.
 
@@ -500,7 +500,7 @@ Kada vaš lik dostigne nivo, njegova klasa često daje dodatne funkcije, kao št
 
 Svaki put kada osvojite nivo, dobijate 1 dodatnu kocku za život. Bacite tu kocku za život, dodajte svoj modifikator Građe i dodajte ukupan broj (najmanje 1) u svoje maksimalne životne bodove. Alternativno, možete koristiti fiksnu vrednost prikazanu u opisu vaše klase, što je prosečni rezultat bacanja (zaokruženo).
 
-Kada se vaš modifikator Građe poveća za 1, maksimum Životnih bodova povećava se za 1 za svaki nivo koji ste postigli. Na primer, kada Bruenor dostigne 8. nivo kao borac, povećava svoj rezultat Građe sa 17 na 18, povećavajući tako svoj modifikator Građe sa +3 na +4. Tada se maksimum njegovih Životnih bodova povećava za 8.
+Kada se vaš modifikator Građe poveća za 1, maksimum Životnih bodova povećava se za 1 za svaki nivo koji ste postigli. Na primjer, kada Bruenor dostigne 8. nivo kao borac, povećava svoj rezultat Građe sa 17 na 18, povećavajući tako svoj modifikator Građe sa +3 na +4. Tada se maksimum njegovih Životnih bodova povećava za 8.
 
 Tabela za unapređivanje karaktera rezimira XP koji vam je potreban za napredovanje u nivoima od nivoa 1 do nivoa 20 i bonus za stručnost za lik tog nivoa. Pogledajte informacije u opisu klase vašeg lika da biste videli koja još poboljšanja dobijate na svakom nivou.
 
@@ -707,7 +707,7 @@ Ljudi su najčešći narod u svetu D&D-a, ali žive i rade zajedno sa patuljcim
 
 Nije svaka inteligentna rasa multiverzuma prikladna za avanturistu kojim upravlja igrač. Patuljci, vilenjaci, polutani i ljudi su najčešća rasa koja stvara vrstu avanturista koji čine dio tipične družine. Ostale rase i podrase su ređe kao avanturisti.
 
-Vaš izbor rase utiče na mnogo različitih aspekata vašeg lika. Utvrđuje osnovne osobine koje postoje tokom avanturističke karijere vašeg lika. Prilikom donošenja ove odluke imajte na umu kakav lik želite da igrate. Na primer, polutan bi mogao biti dobar izbor za podlog lupeža, patuljak čini žilavog ratnika, a vilenjak može biti gospodar tajne magije.
+Vaš izbor rase utiče na mnogo različitih aspekata vašeg lika. Utvrđuje osnovne osobine koje postoje tokom avanturističke karijere vašeg lika. Prilikom donošenja ove odluke imajte na umu kakav lik želite da igrate. Na primjer, polutan bi mogao biti dobar izbor za podlog lupeža, patuljak čini žilavog ratnika, a vilenjak može biti gospodar tajne magije.
 
 Vaš izbor rase ne utiče samo na ocene i osobine vaših sposobnosti, već takođe pruža znakove za izgradnju priče vašeg lika. Opis svake rase u ovom poglavlju uključuje informacije koje će vam pomoći da odigrate lik te rase, uključujući ličnost, fizički izgled, osobine društva i tendencije rasne pripadnosti. Ovi detalji su predlozi koji će vam pomoći da razmislite o svom karakteru; avanturisti mogu široko odstupiti od norme za svoju rasu. Dobro je razmotriti zašto se vaš lik razlikuje, kao koristan način razmišljanja o poreklu i ličnosti vašeg lika.
 
@@ -721,11 +721,11 @@ Svaka rasa povećava jedan ili više rezultata sposobnosti lika.
 
 #### Starost
 
-Stavka uzrasta beleži starost kada se član rase smatra punoletnim, kao i očekivani životni vek rase. Ove informacije vam mogu pomoći da odlučite koliko je star vaš lik na početku igre. Možete odabrati bilo koje doba za svoj lik, što bi moglo objasniti neke od vaših ocena sposobnosti. Na primer, ako igrate mladog ili vrlo starog lika, vaše godine bi mogle objasniti posebno nizak rezultat snage ili građe, dok bi poodmaklo doba moglo predstavljati visoku inteligenciju ili mudrost.
+Stavka uzrasta beleži starost kada se član rase smatra punoletnim, kao i očekivani životni vek rase. Ove informacije vam mogu pomoći da odlučite koliko je star vaš lik na početku igre. Možete odabrati bilo koje doba za svoj lik, što bi moglo objasniti neke od vaših ocena sposobnosti. Na primjer, ako igrate mladog ili vrlo starog lika, vaše godine bi mogle objasniti posebno nizak rezultat snage ili građe, dok bi poodmaklo doba moglo predstavljati visoku inteligenciju ili mudrost.
 
 #### Poravnanje
 
-Većina rasa ima tendenciju ka određenim poravnanjima, opisanim u ovom tekstu. Oni nisu obavezujući za likove igrača, ali s obzirom na to zašto je vaš patuljak haotičan, na primer, uprkos zakonitom patuljastom društvu, može vam pomoći da bolje definišete svoj karakter.
+Većina rasa ima tendenciju ka određenim poravnanjima, opisanim u ovom tekstu. Oni nisu obavezujući za likove igrača, ali s obzirom na to zašto je vaš patuljak haotičan, na primjer, uprkos zakonitom patuljastom društvu, može vam pomoći da bolje definišete svoj karakter.
 
 #### Veličina
 
@@ -741,7 +741,7 @@ Na osnovu vaše rase, vaš lik može da govori, čita i piše određene jezike. 
 
 #### Podrase 
 
-Neke rase imaju podrase. Članovi podrase imaju osobine roditeljske rase pored osobina određenih za njihovu podrasu. Odnosi među podrasama značajno se razlikuju od rase do rase i od sveta do sveta. Na primer, u okruženju kampanje Dragonlance, planinski patuljci i brdski patuljci žive zajedno kao različiti klanovi istog naroda, ali u Zaboravljenim carstvima žive daleko odvojeno u odvojenim kraljevstvima i nazivaju se patuljcima štitova i zlatnim patuljcima.
+Neke rase imaju podrase. Članovi podrase imaju osobine roditeljske rase pored osobina određenih za njihovu podrasu. Odnosi među podrasama značajno se razlikuju od rase do rase i od sveta do sveta. Na primjer, u okruženju kampanje Dragonlance, planinski patuljci i brdski patuljci žive zajedno kao različiti klanovi istog naroda, ali u Zaboravljenim carstvima žive daleko odvojeno u odvojenim kraljevstvima i nazivaju se patuljcima štitova i zlatnim patuljcima.
 
 
 ## Patuljak
@@ -762,7 +762,7 @@ Patuljačka koža se kreće od tamno smeđe do bleđe nijanse obojene crvenom b
 
 ### Dugo pamćenje, duge zamerke
 
-Patuljci mogu da dožive više od 400 godina, tako da se najstariji živi patuljci često sećaju sasvim drugačijeg sveta. Na primer, neki od najstarijih patuljaka koji žive u Citadeli Felbarr (u svetu Zaboravljenih carstava) mogu se setiti dana, pre više od tri veka, kada su orkovi osvojili tvrđavu i odveli ih u izgnanstvo koje je trajalo preko 250 godina. Ova dugovečnost im daje perspektivu na svet koja nedostaje kraćim živećim kao što su ljudi i poluradovi.
+Patuljci mogu da dožive više od 400 godina, tako da se najstariji živi patuljci često sećaju sasvim drugačijeg sveta. Na primjer, neki od najstarijih patuljaka koji žive u Citadeli Felbarr (u svetu Zaboravljenih carstava) mogu se setiti dana, pre više od tri veka, kada su orkovi osvojili tvrđavu i odveli ih u izgnanstvo koje je trajalo preko 250 godina. Ova dugovečnost im daje perspektivu na svet koja nedostaje kraćim živećim kao što su ljudi i poluradovi.
 
 Patuljci su čvrsti i izdržljivi poput planina koje vole, prolazeći kroz vekove sa stoičkom izdržljivošću i malo promena. Oni poštuju tradicije svojih klanova, vodeći poreklo od svojih predaka do osnivanja svojih najstarijih uporišta u mladosti sveta, i ne napuštaju te tradicije olako. Deo tih tradicija je posvećenost bogovima patuljaka, koji podržavaju patuljačke ideale marljivog rada, veštine u borbi i odanosti kovačnici.
 
@@ -1117,7 +1117,7 @@ Ljudi koji traže avanturu su najsmeliji i najambiciozniji članovi smele i ambi
 
 Imajući toliko više raznolikosti od drugih kultura, ljudi u celini nemaju tipična imena. Neki ljudski roditelji daju svojoj deci imena iz drugih jezika, poput patuljaka ili vilenjaka (izgovaraju se više ili manje pravilno), ali većina roditelja daje imena koja su povezana sa kulturom njihovog regiona ili tradicijom imenovanja njihovih predaka.
 
-Materijalna kultura i fizičke karakteristike ljudi mogu se divlje menjati od regiona do regiona. Na primer, u Zaboravljenim carstvima odeća, arhitektura, kuhinja, muzika i književnost razlikuju se u severozapadnim zemljama Srebrnih mogvara nego u dalekom Turmišu ili Impilturu na istoku - i još karakterističniji u dalekom Kara-Turu. Ljudske fizičke karakteristike se, međutim, razlikuju u skladu sa drevnim migracijama najranijih ljudi, tako da ljudi Srebrnih močvara imaju sve moguće varijacije boje i osobina.
+Materijalna kultura i fizičke karakteristike ljudi mogu se divlje menjati od regiona do regiona. Na primjer, u Zaboravljenim carstvima odeća, arhitektura, kuhinja, muzika i književnost razlikuju se u severozapadnim zemljama Srebrnih mogvara nego u dalekom Turmišu ili Impilturu na istoku - i još karakterističniji u dalekom Kara-Turu. Ljudske fizičke karakteristike se, međutim, razlikuju u skladu sa drevnim migracijama najranijih ljudi, tako da ljudi Srebrnih močvara imaju sve moguće varijacije boje i osobina.
 
 U Zaboravljenim carstvima, devet ljudskih etničkih grupa je široko prepoznato, mada je preko desetak drugih pronađeno u lokalizovanijim oblastima Faeruna. Ove grupe i tipična imena njihovih članova mogu se koristiti kao inspiracija bez obzira u kom svetu se nalazite.
 
@@ -1666,7 +1666,7 @@ Tiflinzi dijele određene rasne osobine kao rezultat njihovog paklenog porekla.
 
 Avanturisti su izvanredni ljudi, vođeni žeđu za uzbuđenjem u životu kakavom se drugi nikada ne bi usudili. Oni su heroji, primorani da istražuju mračna mesta sveta i preuzmu izazove sa kojima manje žene i muškarci ne mogu da se suprotstave.
 
-Klasa je primarna definicija onoga što vaš lik može. To je više od profesije; to je poziv vašeg lika. Klasa oblikuje način na koji razmišljate o svetu i komunicirate sa njim i vaš odnos sa drugim ljudima i moćima u multiverzumu. Na primer, borac može svet gledati u pragmatičnom smislu strategije i manevrisanja, a sebe videti kao samo pijuna u mnogo većoj igri. Nasuprot tome, sveštenik bi mogao sebe da vidi kao voljni sluga u božjem planu ili sukobu koji se nameće među raznim božanstvima. Dok borac ima kontakte u plaćeničkoj četi ili vojsci, sveštenik može poznavati brojne sveštenike, paladine i posvećenike koji dele njegovu veru.
+Klasa je primarna definicija onoga što vaš lik može. To je više od profesije; to je poziv vašeg lika. Klasa oblikuje način na koji razmišljate o svetu i komunicirate sa njim i vaš odnos sa drugim ljudima i moćima u multiverzumu. Na primjer, borac može svet gledati u pragmatičnom smislu strategije i manevrisanja, a sebe videti kao samo pijuna u mnogo većoj igri. Nasuprot tome, sveštenik bi mogao sebe da vidi kao voljni sluga u božjem planu ili sukobu koji se nameće među raznim božanstvima. Dok borac ima kontakte u plaćeničkoj četi ili vojsci, sveštenik može poznavati brojne sveštenike, paladine i posvećenike koji dele njegovu veru.
 
 Vaša klasa vam daje razne posebne karakteristike, poput majstorstva borca za oružje i oklop i čarobnjačke čarolije. Na niskim nivoima, vaša klasa vam daje samo dve ili tri karakteristike, ali kako napredujete u nivou dobijate sve više, a postojeće osobine često poboljšavaju. Svaka stavka klase u ovom poglavlju uključuje tabelu koja sumira benefite koje stičete na svakom nivou i detaljno objašnjenje svaki od njih.
 
@@ -3003,13 +3003,13 @@ Sa liste bard čarolija znate dva kantripa po vašem izboru. Učite dodatne bard
 
 Tabela Bard pokazuje koliko slotova za čarolije imate za svoje bardske čarolije prvog i višeg nivoa. Da biste izvršili jednu od ovih čarolija, morate potrošiti slot nivoa čarolije ili veći. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
 
-Na primer, ako znate čaroliju za liječenje rana prvog nivoa i ako vam je na raspolaganju slot za čarolije 1. i 2. nivoa, možete da bacite _liječenje rana_ pomoću bilo kog od njih.
+Na primjer, ako znate čaroliju za liječenje rana prvog nivoa i ako vam je na raspolaganju slot za čarolije 1. i 2. nivoa, možete da bacite _liječenje rana_ pomoću bilo kog od njih.
 
 #### **Čarolije poznate od prvog i višeg nivoa**
 
 Sa liste bardovskih čarolija znate četiri čarolije 1. nivoa po vašem izboru.
 
-Kolona „Poznate čarolije“ tabele Bard prikazuje kada da naučite više bard čarolija po vašem izboru. Svaka od ovih čarolija mora biti na nivou za koji imate slotove za čarolije, kao što je prikazano na tabeli. Na primer, kada dostignete 3. nivo u ovoj klasi, možete naučiti jednu novu čaroliju 1. ili 2. nivoa.
+Kolona „Poznate čarolije“ tabele Bard prikazuje kada da naučite više bard čarolija po vašem izboru. Svaka od ovih čarolija mora biti na nivou za koji imate slotove za čarolije, kao što je prikazano na tabeli. Na primjer, kada dostignete 3. nivo u ovoj klasi, možete naučiti jednu novu čaroliju 1. ili 2. nivoa.
 
 Pored toga, kada steknete nivo u ovoj klasi, možete da izaberete jednu od bard čarolija koje poznajete i zamenite je drugom čarolijom sa liste bard čarolija, koja takođe mora biti na nivou za koji imate slotove za čarolije.
 
@@ -3792,7 +3792,7 @@ Tabela sveštenika pokazuje koliko slotova čarolija imater da izvodite svoje sv
 
 Pripremate listu čarolija sveštenika koje su vam dostupne za biranje, birajući sa liste čarolija sveštenika. Kada to učinite, odaberite broj svešteničkih čarolija jednak vašem modifikatoru Mudrosti + vašem nivou sveštenika (najmanje jedna čarolija). Čarolije moraju biti na nivou za koji imate slotove za čarolije.
 
-Na primer, ako ste sveštenik trećeg nivoa, imate četiri slota za bacanje čarolija prvog i drugog nivoa. Sa Mudrošću od 16, vaša lista pripremljenih čarolija može sadržati šest čarolija 1. ili 2. nivoa, u bilo kojoj kombinaciji. Ako pripremite čaroliju liječenje rana 1. nivoa, možete je baciti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
+Na primjer, ako ste sveštenik trećeg nivoa, imate četiri slota za bacanje čarolija prvog i drugog nivoa. Sa Mudrošću od 16, vaša lista pripremljenih čarolija može sadržati šest čarolija 1. ili 2. nivoa, u bilo kojoj kombinaciji. Ako pripremite čaroliju liječenje rana 1. nivoa, možete je baciti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
 
 Spisak pripremljenih čarolija možete promeniti kada završite duži odmor. Priprema nove liste svešteničkih čarolija zahteva vreme provedeno u molitvi i meditaciji: najmanje 1 minut po nivou čarolije za svaku čaroliju na vašem spisku.
 
@@ -3899,9 +3899,9 @@ Na 20. nivou, vaš poziv za intervenciju automatski uspeva, nije potrebno bacanj
 
 ## Božanski domeni
 
-U panteonu, svako božanstvo ima uticaj na različite aspekte smrtnog života i civilizacije, što se naziva domenom božanstva. Svi domeni na koje božanstvo ima uticaj nazivaju se portfeljem božanstva. Na primer, portfolio grčkog boga Apolona uključuje domene Znanja, Života i Svetlosti. Kao sveštenik, odabirete jedan aspekt portfelja vašeg božanstva koji želite naglasiti i dodeljuju vam se moći povezane sa tim domenom.
+U panteonu, svako božanstvo ima uticaj na različite aspekte smrtnog života i civilizacije, što se naziva domenom božanstva. Svi domeni na koje božanstvo ima uticaj nazivaju se portfeljem božanstva. Na primjer, portfolio grčkog boga Apolona uključuje domene Znanja, Života i Svetlosti. Kao sveštenik, odabirete jedan aspekt portfelja vašeg božanstva koji želite naglasiti i dodeljuju vam se moći povezane sa tim domenom.
 
-Vaš izbor može odgovarati određenoj sekti posvećenoj vašem božanstvu. Apolona, na primer, mogli su obožavati u jednom regionu kao Feba („blistavog“) Apolona, ističući njegov uticaj na domen Svetlosti, a na drugom mestu kao Apolona Acesija („lečenje“), ističući njegovu povezanost sa domenom Života. Alternativno, vaš izbor domena mogao bi jednostavno biti stvar ličnih preferencija, aspekta božanstva koji vas najviše privlači.
+Vaš izbor može odgovarati određenoj sekti posvećenoj vašem božanstvu. Apolona, na primjer, mogli su obožavati u jednom regionu kao Feba („blistavog“) Apolona, ističući njegov uticaj na domen Svetlosti, a na drugom mestu kao Apolona Acesija („lečenje“), ističući njegovu povezanost sa domenom Života. Alternativno, vaš izbor domena mogao bi jednostavno biti stvar ličnih preferencija, aspekta božanstva koji vas najviše privlači.
 
 Opis svakog domena daje primere božanstava koja imaju uticaj na taj domen. Bogovi su uključeni iz sveta podešavanja zaboravljenih carstava, Greihavka, Dragonlancea i Eberrona, kao i iz keltskih, grčkih, nordijskih i egipatskih panteona antike.
 
@@ -3974,7 +3974,7 @@ Na 8. nivou stičete sposobnost da u svoje udace oružja unesete božansku energ
 
 #### **Vrhunsko lečenje**
 
-Počevši od 17. nivoa, kada biste obično bacali jednu ili više kockica da biste vratili ćivotne bodove čarolijom, umesto toga koristite najveći mogući broj za svaku kocku. Na primer, umesto da vratite stvorenje 2d6 životnih bodova, vraćate 12.
+Počevši od 17. nivoa, kada biste obično bacali jednu ili više kockica da biste vratili ćivotne bodove čarolijom, umesto toga koristite najveći mogući broj za svaku kocku. Na primjer, umesto da vratite stvorenje 2d6 životnih bodova, vraćate 12.
 
 
 
@@ -4657,7 +4657,7 @@ Tabela Druidi pokazuje koliko slotova za čarolije imate da bacate čarolije prv
 
 Pripremite listu čarolija druida koje su vam dostupne za biranje, birajući sa liste čarolija druida. Kada to učinite, odaberite broj čarolija druida jednak vašem modifikatoru Mudrosti + nivou vašeg druida (najmanje jedna čarolija). Čarolije moraju biti na nivou za koji imate slotove za čarolije.
 
-Na primer, ako ste druid trećeg nivoa, imate četiri slota za čarolije prvog i drugog nivoa. Sa Mudrošću od 16, vaša lista pripremljenih čarolija može sadržati šest čarolija 1. ili 2. nivoa, u bilo kojoj kombinaciji. Ako pripremite čaroliju 1. nivoa _liječenje rana_, možete je naneti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
+Na primjer, ako ste druid trećeg nivoa, imate četiri slota za čarolije prvog i drugog nivoa. Sa Mudrošću od 16, vaša lista pripremljenih čarolija može sadržati šest čarolija 1. ili 2. nivoa, u bilo kojoj kombinaciji. Ako pripremite čaroliju 1. nivoa _liječenje rana_, možete je naneti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
 
 Takođe možete da promenite listu pripremljenih čarolija kada završite duži odmor. Za pripremu nove liste druidskih čarolija potrebno je vreme provedeno u molitvi i meditaciji: najmanje 1 minut po nivou čarolije za svaku čaroliju na vašoj listi.
 
@@ -4683,13 +4683,13 @@ Druidski fokus možete koristiti (pogledajte poglavlje 5, „Oprema“) kao foku
 >
 >Slično tome, druid koristi takvu šumu za izradu drugih predmeta, poput oružja i štitova. Tisa je povezana sa smrću i ponovnim rađanjem, pa bi se od nje mogle izraditi drške za oružje za scimitare ili srpove. Jasen je povezan sa životom, a hrast snagom. Ovo drvo čini izvrsne drške ili celo oružje, poput palica ili motki, kao i štitove. Joha je povezana sa vazduhom i može se koristiti za bačeno oružje, poput strelica ili koplja.
 >
->Druidi iz regiona kojima nedostaju ovde opisane biljke odabrali su druge biljke da bi se koristili na sličan način. Na primer, druid pustinjskog regiona može ceniti drvo juke i biljke kaktusa.
+>Druidi iz regiona kojima nedostaju ovde opisane biljke odabrali su druge biljke da bi se koristili na sličan način. Na primjer, druid pustinjskog regiona može ceniti drvo juke i biljke kaktusa.
 
 ### Divlji oblik
 
 Počevši od 2. nivoa, možete da upotrebite svoju akciju da magično preuzmete oblik zvijeri koju ste ranije videli. Ovu funkciju možete koristiti dva puta. Potrošenu upotrebu vraćate kada završite kraći ili duži odmor.
 
-Vaš nivo druida određuje zvijeri u koje se možete transformisati, kao što je prikazano u tabeli Oblici zvijeri. Na primer, na 2. nivou možete da se transformišete u bilo koju zvijer koja ima ocenu izazova 1/4 ili nižu i koja nema brzinu letenja ili plivanja.
+Vaš nivo druida određuje zvijeri u koje se možete transformisati, kao što je prikazano u tabeli Oblici zvijeri. Na primjer, na 2. nivou možete da se transformišete u bilo koju zvijer koja ima ocenu izazova 1/4 ili nižu i koja nema brzinu letenja ili plivanja.
 
 **Oblici zvijeri**
 
@@ -4701,7 +4701,7 @@ Vaš nivo druida određuje zvijeri u koje se možete transformisati, kao što je
    </td>
    <td> <strong>Ograničenja</strong>
    </td>
-   <td> <strong>Primer</strong>
+   <td> <strong>Primjer</strong>
    </td>
   </tr>
   <tr>
@@ -4741,7 +4741,7 @@ Možete ostati u obliku zvijeri nekoliko sati jednakih polovini vašeg nivoa dru
 
 Dok se transformišete, važe sledeća pravila:
 * Vaša statistika lika zamenjena je statistikom zvijeri, ali vi zadržavate svoje poravnanje, ličnost i rezultate Inteligencije, Mudrosti i Harizme. Takođe zadržavate sve svoje viještine i spretnost bacanja spasa, pored sticanja znanja stvorenja. Ako stvorenje ima istu veštinu kao vi i bonus u njegovom bloku statistika je viši od vašeg, upotrebite bonus stvorenja umesto svog. Ako stvorenje ima bilo kakve legendarne akcije ili jazbine, ne možete ih koristiti.
-* Kada se transformišete, dobijate Životne bodove i Kockice života zvijeri. Kada se vratite u svoju normalnu formu, vraćate se broju životnih bodova koje ste imali pre transformacije. Međutim, ako se vratite kao rezultat pada na 0 životnih bodova, bilo koji višak štete prenosi se u vašu normalnu formu. Na primer, ako primite 10 štete u životinjskom obliku i koji imas samo 1 životni bod, vratite se i primite 9 bodova štete. Sve dok višak oštećenja ne smanji vašu normalnu formu na 0 pogodaka, nećete izgubiti svest.
+* Kada se transformišete, dobijate Životne bodove i Kockice života zvijeri. Kada se vratite u svoju normalnu formu, vraćate se broju životnih bodova koje ste imali pre transformacije. Međutim, ako se vratite kao rezultat pada na 0 životnih bodova, bilo koji višak štete prenosi se u vašu normalnu formu. Na primjer, ako primite 10 štete u životinjskom obliku i koji imas samo 1 životni bod, vratite se i primite 9 bodova štete. Sve dok višak oštećenja ne smanji vašu normalnu formu na 0 pogodaka, nećete izgubiti svest.
 * Ne možete bacati čini, a vaša sposobnost da govorite ili preduzimate bilo koju radnju koja zahteva ruke ograničena je na mogućnosti vašeg zvijerskog oblika. Međutim, transformacija vam neće srušiti koncentraciju na čaroliju koju ste već napravili ili vam sprečava da preduzmete radnje koje su deo čarolije, kao što je _pozivi munju_, koju ste već napravili.
 * Zadržavate pogodnosti bilo koje funkcije iz vaše klase, rase ili drugog izvora i možete ih koristiti ako je novi oblik fizički sposoban za to. Međutim, ne možete da koristite nijedno posebno čulu, poput noćnog vida, osim ako vaš novi oblik takođe ima tu sposobnost.
 * Vi sami birate da li će vaša oprema pasti na tlo na vašem mjestu, stopiti se u vaš novi oblik ili će je nositi. Nošena oprema funkcioniše normalno, ali DM odlučuje da li je praktično da nova forma nosi deo opreme na osnovu oblika i veličine stvorenja. Vaša oprema ne menja veličinu ili oblik kako bi odgovarala novom obliku, a bilo koja oprema koju novi obrazac ne može da nosi mora da padne na zemlju ili da se stopi sa njom. Oprema koja se stapa sa oblikom nema efekta dok ne napustite oblik.
@@ -4786,7 +4786,7 @@ Kada odaberete ovaj krug na 2. nivou, naučićete još jedan kantrip druida po 
 
 Počevši od 2. nivoa, možete vratiti deo svoje magične energije sedeći u meditaciji i komunicirajući sa prirodom. Tokom kratkog odmora birate potrošene slotove za čarolije da biste se oporavili. Slotovi za čarolije mogu imati kombinovani nivo koji je jednak ili manji od polovine vašeg nivoa druida (zaokruženo), a nijedan od slotova ne može biti šesti ili veći nivo. Ne možete ponovo da koristite ovu funkciju dok ne završite duži odmor.
 
-Na primer, kada ste druid četvrtog nivoa, možete oporaviti slotove čarolija vredne do dva nivoa. Možete oporaviti ili slot drugog nivoa ili dva slota prvog nivoa.
+Na primjer, kada ste druid četvrtog nivoa, možete oporaviti slotove čarolija vredne do dva nivoa. Možete oporaviti ili slot drugog nivoa ili dva slota prvog nivoa.
 
 #### **Kružne čarolije**
 
@@ -5095,9 +5095,9 @@ Stvorenje je svesno ovog efekta pre nego što izvrši napad na vas.
 >
 >Neki druidi i sami poštuju prirodne sile, ali većina druida je posvećena jednom od mnogih prirodnih božanstava koja se obožavaju u multiverzumu (spiskovi bogova u dodatku B uključuju mnoga takva božanstva). Obožavanje ovih božanstava često se smatra drevnijom tradicijom od vera sveštenika i urbanizovanih naroda. U stvari, u svetu Greihavka, druidska vera se naziva Stara vera i ona tvrdi da je mnogo pristalica među poljoprivrednicima, šumarima, ribarima i drugima koji blisko žive sa prirodom. Ova tradicija uključuje obožavanje Prirode kao iskonske sile koja nije personifikacija, ali takođe uključuje i obožavanje Beori, Oerth Majke, kao i poklonika Obad-Hai, Ehlonne i Ulae.
 >
->U svetovima Greihavka i zaboravljenih carstava, druidski krugovi obično nisu povezani sa verom jednog božanstva prirode. Bilo koji dati krug u Zaboravljenim carstvima, na primer, može uključivati druide koji poštuju Silvanusa, Mielikkija, Eldatha, Chaunteu ili čak oštre Bogove bijesa: Talos, Malar, Auril i Umberlee. Ove bogove prirode često nazivaju Prvim krugom, prvim među druidima, a većina druida ih sve (čak i nasilne) broji kao dostojne poštovanja.
+>U svetovima Greihavka i zaboravljenih carstava, druidski krugovi obično nisu povezani sa verom jednog božanstva prirode. Bilo koji dati krug u Zaboravljenim carstvima, na primjer, može uključivati druide koji poštuju Silvanusa, Mielikkija, Eldatha, Chaunteu ili čak oštre Bogove bijesa: Talos, Malar, Auril i Umberlee. Ove bogove prirode često nazivaju Prvim krugom, prvim među druidima, a većina druida ih sve (čak i nasilne) broji kao dostojne poštovanja.
 >
->Druidi iz Eberrona drže animistička verovanja potpuno nepovezana sa Suverenom Hostijom, Mračnom šestorkom ili bilo kojom drugom religijom sveta. Oni veruju da svako živo biće i svaki prirodni fenomen - sunce, mesec, vetar, vatra i sam svet - imaju duh. Njihove čarolije su, dakle, sredstvo za komunikaciju i upravljanje tim duhovima. Različite druidske sekte, međutim, drže različite filozofije o pravilnom odnosu ovih duhova jedni prema drugima i prema civilizacijskim silama. Na primer, Ashbound veruju da je tajna magija odvratnost protiv prirode, deca zime poštuju sile smrti, a čuvari vrata čuvaju drevne tradicije namenjene zaštiti sveta od upada aberacija.
+>Druidi iz Eberrona drže animistička verovanja potpuno nepovezana sa Suverenom Hostijom, Mračnom šestorkom ili bilo kojom drugom religijom sveta. Oni veruju da svako živo biće i svaki prirodni fenomen - sunce, mesec, vetar, vatra i sam svet - imaju duh. Njihove čarolije su, dakle, sredstvo za komunikaciju i upravljanje tim duhovima. Različite druidske sekte, međutim, drže različite filozofije o pravilnom odnosu ovih duhova jedni prema drugima i prema civilizacijskim silama. Na primjer, Ashbound veruju da je tajna magija odvratnost protiv prirode, deca zime poštuju sile smrti, a čuvari vrata čuvaju drevne tradicije namenjene zaštiti sveta od upada aberacija.
 
 
 
@@ -5120,7 +5120,7 @@ Borci uče osnove svih borbenih stilova. Svaki borac može zamahnuti sekirom, og
 
 Nije svaki pripadnik gradske straže, seoske milicije ili kraljičine vojske borac. Većina ovih trupa su relativno neobučeni vojnici sa samo najosnovnijim borbenim znanjem. Veterani vojnici, vojni oficiri, obučeni telohranitelji, posvećeni vitezovi i slične figure su borci.
 
-Neki borci se osećaju privlačno da svoj trening koriste kao avanturisti. Pretraživanje tamnica, ubijanje čudovišta i drugi opasni poslovi uobičajeni među avanturistima druga su priroda borca, ne toliko drugačija od života koji je on ili ona ostavio za sobom. Možda postoje veći rizici, ali i mnogo veće nagrade - malo boraca u gradskoj straži ima priliku da otkriju magični mač _plamenog jezika_, na primer.
+Neki borci se osećaju privlačno da svoj trening koriste kao avanturisti. Pretraživanje tamnica, ubijanje čudovišta i drugi opasni poslovi uobičajeni među avanturistima druga su priroda borca, ne toliko drugačija od života koji je on ili ona ostavio za sobom. Možda postoje veći rizici, ali i mnogo veće nagrade - malo boraca u gradskoj straži ima priliku da otkriju magični mač _plamenog jezika_, na primjer.
 
 ### Stvaranje borca
 
@@ -5801,9 +5801,9 @@ Na 1. nivou, vežbanje borilačkih viještina daje vam majstorstvo u borbenim st
 Dobijate sledeće pogodnosti dok ste nenaoružani ili nosite samo monaško oružje i ne nosite oklop ili štit:
 * Spretnost umesto Snage možete koristiti za napad i bacanja štete svojih nenaoružanih udaraca i monaškog oružja.
 * Možete da bacate d4 umesto uobičajene štete vašeg nenaoružanog udarnca ili monaškog oružja. Ova kocka se menja kako dobijate nivo monaha, kao što je prikazano u koloni borilačkih viještina tabele Monah.
-* Kada na svom potezu koristite akciju Napad sa nenaoružanim udarcem ili monaškim oružjem, možete da izvršite jedan nenaoružani udarac kao bonus akciju. Na primer, ako preduzmete akciju Napad i napadnete motkom, takođe možete da izvršite nenaoružani napad kao bonus akciju, pod pretpostavkom da još niste preduzeli bonus akciju na ovom potezu.
+* Kada na svom potezu koristite akciju Napad sa nenaoružanim udarcem ili monaškim oružjem, možete da izvršite jedan nenaoružani udarac kao bonus akciju. Na primjer, ako preduzmete akciju Napad i napadnete motkom, takođe možete da izvršite nenaoružani napad kao bonus akciju, pod pretpostavkom da još niste preduzeli bonus akciju na ovom potezu.
 
-Pojedini manastiri koriste specijalizovane oblike monaškog oružja. Na primer, možete da koristite palicu koja je dvije dužine drveta povezana kratkim lancem (koji se naziva nunčaku) ili srp sa kraćom, ravnijom oštricom (koja se naziva kama). Bilo koje ime da koristite za monaško oružje, možete koristiti statistiku igre za oružje u poglavlju 5, „Oprema“.
+Pojedini manastiri koriste specijalizovane oblike monaškog oružja. Na primjer, možete da koristite palicu koja je dvije dužine drveta povezana kratkim lancem (koji se naziva nunčaku) ili srp sa kraćom, ravnijom oštricom (koja se naziva kama). Bilo koje ime da koristite za monaško oružje, možete koristiti statistiku igre za oružje u poglavlju 5, „Oprema“.
 
 ### Ki
 
@@ -6396,7 +6396,7 @@ Počinjete sa sledećom opremom, pored opreme koju dodeljuje vaše poreklo:
 
 ### Božansko čulo
 
-Prisustvo jakog zla registruje se u vašim čulima poput štetnog mirisa, a moćno dobro zvoni poput nebijeske muzike u vašim ušima. Kao akciju možete otvoriti svoju svest da biste otkrili takve sile. Do kraja vašeg sledećeg poteza, znate lokaciju bilo kog nebeskog, vražjeg ili neumrlog stvorenja u krugu od 60 stopa od vas koji nije iza totalnog zaklona. Znate vrstu (nebeskog, vražjeg ili nemrtvog) bilo kog bića čije prisustvo osećate, ali ne i njegov identitet (na primer vampir grof Strahd fon Zarkovič). U okviru istog radijusa takođe otkrivate prisustvo bilo kog mesta ili predmeta koji su osveštani ili oskrnavljeni, kao što je to slučaj sa čarolijom _sveti_.
+Prisustvo jakog zla registruje se u vašim čulima poput štetnog mirisa, a moćno dobro zvoni poput nebijeske muzike u vašim ušima. Kao akciju možete otvoriti svoju svest da biste otkrili takve sile. Do kraja vašeg sledećeg poteza, znate lokaciju bilo kog nebeskog, vražjeg ili neumrlog stvorenja u krugu od 60 stopa od vas koji nije iza totalnog zaklona. Znate vrstu (nebeskog, vražjeg ili nemrtvog) bilo kog bića čije prisustvo osećate, ali ne i njegov identitet (na primjer vampir grof Strahd fon Zarkovič). U okviru istog radijusa takođe otkrivate prisustvo bilo kog mesta ili predmeta koji su osveštani ili oskrnavljeni, kao što je to slučaj sa čarolijom _sveti_.
 
 Ovu funkciju možete koristiti nekoliko puta jednako 1 + vašem modifikatoru Harizme. Kada završite duži odmor, povratićete sve potrošene upotrebe.
 
@@ -6440,7 +6440,7 @@ Tabela Paladin pokazuje koliko slotova za čarolije imate da bacate čarolije pa
 
 Pripremate listu čarolija koje su vam dostupne za izvođenje, birajući sa liste čarolija za paladina. Kada to radite, odaberite broj čarolija paladina jednak vašem modifikatoru Harizme + polovinu nivoa paladina, zaokruženo nadole (najmanje jedna čarolija). Čarolije moraju biti na nivou za koji imate slotove za čarolije.
 
-Na primer, ako ste paladin 5. nivoa, imate četiri slota za črolije 1. i 2. nivoa. Sa Harizmom od 14, vaša lista pripremljenih čarolija može sadržati četiri čarolije 1. ili 2. nivoa, u bilo kojoj kombinaciji. Ako pripremite čaroliju 1. nivoa _liječenje ranas_, možete je baciti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
+Na primjer, ako ste paladin 5. nivoa, imate četiri slota za črolije 1. i 2. nivoa. Sa Harizmom od 14, vaša lista pripremljenih čarolija može sadržati četiri čarolije 1. ili 2. nivoa, u bilo kojoj kombinaciji. Ako pripremite čaroliju 1. nivoa _liječenje ranas_, možete je baciti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
 
 Spisak pripremljenih čarolija možete promeniti kada završite duži odmor. Za pripremu nove liste čarolija paladina potrebno je vreme provedeno u molitvi i meditaciji: najmanje 1 minut po nivou čarolije za svaku čaroliju na vašoj listi.
 
@@ -6541,7 +6541,7 @@ Iako se tačne reči i strikture Zakletve predanosti razlikuju, paladini ove zak
 
 **Saosećanje.** Pomažite drugima, zaštitite slabe i kaznite one koji im prete. Pokažite milost svojim neprijateljima, ali ublažite je mudrošću.
 
-**Čast.** Ponašajte se prema drugima pošteno i neka vam časna dela budu primer. Učinite što je moguće više dobra uz istovremeno nanošenje najmanje štete.
+**Čast.** Ponašajte se prema drugima pošteno i neka vam časna dela budu primjer. Učinite što je moguće više dobra uz istovremeno nanošenje najmanje štete.
 
 **Dužnost.** Budite odgovorni za svoje postupke i njihove posledice, zaštitite one koji su vam povereni i pokoravajte se onima koji imaju samo vlast nad vama.
 
@@ -7174,13 +7174,13 @@ Kad dostignete 2. nivo, naučili ste da koristite magijsku suštinu prirode da b
 
 Tabela Ranger pokazuje koliko slotova za čarolije imater da izvodite svoje rendžerske čarolije 1. nivoa i više. Da biste izvršili jednu od ovih čarolija, morate potrošiti slot nivoa čarolije ili veći. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
 
-Na primer, ako poznajete čaroliju prvog nivoa _životinjsko prijateljstvo_ i imate na raspolaganju slot za čaroliju prvog i drugog nivoa, možete baciti _životinjsko prijateljstvo_ pomoću bilo kog slota.
+Na primjer, ako poznajete čaroliju prvog nivoa _životinjsko prijateljstvo_ i imate na raspolaganju slot za čaroliju prvog i drugog nivoa, možete baciti _životinjsko prijateljstvo_ pomoću bilo kog slota.
 
 #### **Čarolije poznate od prvog i višeg nivoa**
 
 Znate dvije čarolije 1. nivoa po vašem izboru sa liste čarolija rendžera.
 
-Kolona „Poznate čarolije“ tabele Rendžer prikazuje kada saznate više čarolija rendžera po vašem izboru. Svaka od ovih čarolija mora biti na nivou za koji imate slotove za čarolije. Na primer, kada dostignete 5. nivo u ovoj klasi, možete naučiti jednu novu čaroliju 1. ili 2. nivoa.
+Kolona „Poznate čarolije“ tabele Rendžer prikazuje kada saznate više čarolija rendžera po vašem izboru. Svaka od ovih čarolija mora biti na nivou za koji imate slotove za čarolije. Na primjer, kada dostignete 5. nivo u ovoj klasi, možete naučiti jednu novu čaroliju 1. ili 2. nivoa.
 
 Pored toga, kada steknete nivo u ovoj klasi, možete odabrati jednu od poznatih čarolija rendžeras i zameniti je drugom čarolijom sa liste čarolija rendžera, koja takođe mora biti nivoa za koji imate slotove za čarolije.
 
@@ -7579,7 +7579,7 @@ Iznos dodatne štete se povećava kako osvajate nivoe u ovoj klasi, kao što je
 
 Tokom svog treninga za prevarante naučili ste Lopovski govor, tajnu mešavinu dijalekta, žargona i šifri koji vam omogućava da sakrijete poruke u naizgled normalnom razgovoru. Samo drugo stvorenje koje zna da Lopovski govor može da razume takve poruke. Potrebno je četiri puta duže da se takva poruka prenese, nego da se ista ideja govori otvoreno.
 
-Pored toga, razumete skup tajnih znakova i simbola koji se koriste za prenošenje kratkih, jednostavnih poruka, na primer, da li je neko područje opasno ili je teritorija lopovske grupacije, da li je plen u blizini ili su ljudi u nekoj oblasti lake mete ili će obezbediti sigurnu kuću za lopove u begu.
+Pored toga, razumete skup tajnih znakova i simbola koji se koriste za prenošenje kratkih, jednostavnih poruka, na primjer, da li je neko područje opasno ili je teritorija lopovske grupacije, da li je plen u blizini ili su ljudi u nekoj oblasti lake mete ili će obezbediti sigurnu kuću za lopove u begu.
 
 ### Lukava akcija
 
@@ -8413,13 +8413,13 @@ Na prvom nivou znate četiri kantripa po vašem izboru sa liste čarolija vrača
 
 Tabela vrača pokazuje koliko slotova čarolija imate da izvodite čarolije vrača prvog i višeg nivoa. Da biste izvršili jednu od ovih čarolija vrača, morate potrošiti slot nivoa čarolije ili veći. Vraćate sve utrošene slotove za čarolije kada završite duži odmor.
 
-Na primer, ako znate čaroliju prvog nivoa, goreće ruke i ako vam je na raspolaganju slot za čarolije 1. i 2. nivoa, možete da bacate _goreće ruke_ pomoću bilo kog od njih.
+Na primjer, ako znate čaroliju prvog nivoa, goreće ruke i ako vam je na raspolaganju slot za čarolije 1. i 2. nivoa, možete da bacate _goreće ruke_ pomoću bilo kog od njih.
 
 #### **Čarolije poznate od prvog i višeg nivoa**
 
 Znate dvije čarolije 1. nivoa po vašem izboru sa liste čarolija vrača.
 
-Kolona „Poznate čarolije“ tabele Vrača prikazuje kada saznate više vračevih čarolija po vašem izboru. Svaka od ovih čarolija mora biti na nivou za koji imate slotove za čarolije. Na primer, kada dostignete 3. nivo u ovoj klasi, možete naučiti jednu novu čaroliju 1. ili 2. nivoa.
+Kolona „Poznate čarolije“ tabele Vrača prikazuje kada saznate više vračevih čarolija po vašem izboru. Svaka od ovih čarolija mora biti na nivou za koji imate slotove za čarolije. Na primjer, kada dostignete 3. nivo u ovoj klasi, možete naučiti jednu novu čaroliju 1. ili 2. nivoa.
 
 Pored toga, kada steknete nivo u ovoj klasi, možete da izaberete jednu od čarolija vrača koje poznajete i zamenite je drugom čarolijom sa liste vrača, koja takođe mora biti na nivou za koji imate slotove za čarolije.
 
@@ -8542,7 +8542,7 @@ Kada bacate čaroliju, možete potrošiti 1 bod vračanja da biste je bacili bez
 
 Kada bacate čaroliju koja cilja samo jedno stvorenje i nema opseg sebe, možete potrošiti nekoliko bodova vračanja jednakih nivou črolije da biste ciljali drugo biće u dometu sa istom čarolijom (1 bof vračanja ako je čarolija kantrip).
 
-Da bi ispunjavala uslove, čarolija mora biti nesposobna da cilja više stvorenja na trenutnom nivou čarolija. Na primer, _magični projektil_ i _pržeći zrak_ ne ispunjavaju uslove, ali _red mraza_ i _hromatske kugle_  isponjavaju.
+Da bi ispunjavala uslove, čarolija mora biti nesposobna da cilja više stvorenja na trenutnom nivou čarolija. Na primjer, _magični projektil_ i _pržeći zrak_ ne ispunjavaju uslove, ali _red mraza_ i _hromatske kugle_  isponjavaju.
 
 ### Poboljšanje ocijena sposobnosti
 
@@ -9129,13 +9129,13 @@ Sa spiska čarolija viještca znate dva kantripa po vašem izboru. Učite dodatn
 
 Tabela Vijetac prikazuje koliko slotova za čarolije imate da bacate čarolije od 1. do 5. nivoa. Tabela takođe pokazuje koliki je nivo tih slotova; svi vaši slotovi za čarolije su istog nivoa. Da biste izvršili jednu od svojih čarolija viještca prvog ili višeg nivoa, morate potrošiti slot za čarolije. Vraćate sve utrošene slotove za čarolije kada završite kraći ili duži odmor.
 
-Na primer, kada ste 5. nivo, imate dva slota za čaroliju 3. nivoa. Da biste bacili čaroliju 1. nivoa _viješticina sstrijela_, morate potrošiti jedan od tih slotova i bacili ste je kao čaroliju 3. nivoa.
+Na primjer, kada ste 5. nivo, imate dva slota za čaroliju 3. nivoa. Da biste bacili čaroliju 1. nivoa _viješticina sstrijela_, morate potrošiti jedan od tih slotova i bacili ste je kao čaroliju 3. nivoa.
 
 #### **Čarolije poznate od prvog i višeg nivoa**
 
 Na 1. nivou znate dvije čarolije 1. nivoa po vašem izboru sa liste čarolija.
 
-Kolona „Poznate čarolije“ u tabeli Viještac prikazuje kada saznate više čarolija za vještca po vašem izboru 1. i više nivoa. Čarolija koju odaberete mora biti na nivou koji nije viši od onoga što je prikazano u koloni nivoa slota tabele za vaš nivo. Na primer, kada dostignete 6. nivo, naučite novu čaroliju viještca, koja može biti 1., 2. ili 3. nivo.
+Kolona „Poznate čarolije“ u tabeli Viještac prikazuje kada saznate više čarolija za vještca po vašem izboru 1. i više nivoa. Čarolija koju odaberete mora biti na nivou koji nije viši od onoga što je prikazano u koloni nivoa slota tabele za vaš nivo. Na primjer, kada dostignete 6. nivo, naučite novu čaroliju viještca, koja može biti 1., 2. ili 3. nivo.
 
 Pored toga, kada steknete nivo u ovoj klasi, možete odabrati jednu od poznatih čarolija viještca i zamijeniti je drugom čarolijom sa spiska čarolija, koja takođe mora biti nivoa za koji imate slotove za čarolije.
 
@@ -10148,7 +10148,7 @@ Tabela čarobnjaka prikazuje koliko slotova čarolija imate da napravite čaroli
 
 Pripremate listu čarolija čarobnjaka koje su vam dostupne za izvođenje. Da biste to uradili, odaberite broj čarolija čarobnjaka iz svoje knjige čarolija jednak vašem modifikatoru Inteligencije + nivou čarobnjaka (najmanje jedna čarolija). Čarolije moraju biti na nivou za koji imate slotove za čarolije.
 
-Na primer, ako ste čarobnjak za 3. nivo, imate četiri slota za čarolije za 1. i 2. nivo. Sa inteligencijom od 16, vaša lista pripremljenih čarolija može da sadrži šest čarolija 1. ili 2. nivoa, u bilo kojoj kombinaciji, odabranih iz vaše knjige čarolija. Ako pripremite čaroliju _magični projektil_ 1. nivoa, možete je baciti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
+Na primjer, ako ste čarobnjak za 3. nivo, imate četiri slota za čarolije za 1. i 2. nivo. Sa inteligencijom od 16, vaša lista pripremljenih čarolija može da sadrži šest čarolija 1. ili 2. nivoa, u bilo kojoj kombinaciji, odabranih iz vaše knjige čarolija. Ako pripremite čaroliju _magični projektil_ 1. nivoa, možete je baciti pomoću slota 1. ili 2. nivoa. Bacanje čarolije ne uklanja je sa liste pripremljenih čarolija.
 
 Spisak pripremljenih čarolija možete promeniti kada završite duži odmor. Priprema nove liste čarolija čarobnjaka zahteva vreme provedeno u proučavanju vaše knjige čarolija i pamćenju čarolija i gesta koje morate napraviti da biste izvršili čaroliju: najmanje 1 minut po nivou čarolije za svaku čaroliju na vašoj listi.
 
@@ -10174,7 +10174,7 @@ Svaki put kada steknete nivo čarobnjaka, možete besplatno dodati dvije čaroli
 
 >**VAŠA KNJIGA ČAROLIJA**
 >
->Čarolije koje dodajete u knjigu čarolija dok osvajate nivo odražavaju tajna istraživanja koja sami vodite, kao i intelektualna otkrića koja ste imali u vezi sa prirodom multiverzuma. Možda ćete tokom avantura pronaći druge čarolije. Možete otkriti čaroliju zabeleženu na svitku u sanduku zlog čarobnjaka, na primer, ili u prašnjavom tomu u drevnoj biblioteci.
+>Čarolije koje dodajete u knjigu čarolija dok osvajate nivo odražavaju tajna istraživanja koja sami vodite, kao i intelektualna otkrića koja ste imali u vezi sa prirodom multiverzuma. Možda ćete tokom avantura pronaći druge čarolije. Možete otkriti čaroliju zabeleženu na svitku u sanduku zlog čarobnjaka, na primjer, ili u prašnjavom tomu u drevnoj biblioteci.
 >
 >**_Kopiranje čarolije u knjigu._** Kada nađete čarobnjakovu čaroliju prvog ili višeg nivoa, možete je dodati u svoju knjigu čarolija ako je na nivou čarolije koju možete pripremiti i ako možete izdvojiti vrijeme za dešifrovanje i kopirajti je.
 >
@@ -10182,7 +10182,7 @@ Svaki put kada steknete nivo čarobnjaka, možete besplatno dodati dvije čaroli
 >
 >Za svaki nivo čarolije postupak traje 2 sata i košta 50 gp. Trošak predstavlja materijalne komponente koje trošite dok eksperimentišete sa čarolijom da biste je savladali, kao i fino mastilo potrebno za njeno zapisivanje. Nakon što potrošite ovo vreme i novac, možete pripremiti čaroliju baš kao i druge čarolije.
 >
->**_Zamena knjige._** Možete da kopirate čaroliju iz sopstvene čarolije u drugu knjigu - na primer, ako želite da napravite rezervnu kopiju svoje čarolije. Ovo je poput kopiranja nove čarolije u vašu knjigu čarolija, ali brže i jednostavnije, jer razumete sopstveni zapis i već znate kako se koisti. Potrebno je potrošiti samo 1 sat i 10 gp za svaki nivo kopirane čarolije.
+>**_Zamena knjige._** Možete da kopirate čaroliju iz sopstvene čarolije u drugu knjigu - na primjer, ako želite da napravite rezervnu kopiju svoje čarolije. Ovo je poput kopiranja nove čarolije u vašu knjigu čarolija, ali brže i jednostavnije, jer razumete sopstveni zapis i već znate kako se koisti. Potrebno je potrošiti samo 1 sat i 10 gp za svaki nivo kopirane čarolije.
 >
 >Ako izgubite knjigu čarolija, možete da koristite isti postupak da biste čarolije koje ste pripremili prepisali u novu knjigu čarolija. Za popunjavanje ostatka svoje knjige čarolija, potrebno je da pronađete nove čarolije kako biste to uradili, kao i obično. Iz tog razloga, mnogi čarobnjaci čuvaju rezervne kopije knjiga čarolija na sigurnom mestu.
 >
@@ -10192,7 +10192,7 @@ Svaki put kada steknete nivo čarobnjaka, možete besplatno dodati dvije čaroli
 
 Naučili ste da povratite deo svoje magične energije proučavanjem svoje knjige čarolija. Jednom dnevno kada završite kratak odmor, možete da odaberete utrošene slotove za čarolije za oporavak. Slotovi za čarolije mogu imati kombinovani nivo koji je jednak ili manji od polovine vašeg nivoa čarobnjaka (zaokruženo naviše), a nijedan od slotova ne može biti šesti ili veći nivo.
 
-Na primer, ako ste čarobnjak 4. nivoa, možete da vratite slotove za čarolije u vrednosti do dva nivoa. Možete da vratite ili slot za čaroliju drugog nivoa ili dva slota za pravopis prvog nivoa.
+Na primjer, ako ste čarobnjak 4. nivoa, možete da vratite slotove za čarolije u vrednosti do dva nivoa. Možete da vratite ili slot za čaroliju drugog nivoa ili dva slota za pravopis prvog nivoa.
 
 ### Arkanska tradicija
 
@@ -10270,7 +10270,7 @@ Ime i fizički opis vašeg lika mogu biti prve stvari koje drugi igrači za stol
 >
 >Tika i Artemis su oboje ljudi i borci (s određenim iskustvom prevaranta), koji imaju slično visoke rezultate snage i spretnosti, ali tu je sličnosti kraj.
 >
->Ne treba biti ograničen na binarne pojmove pola i roda. Na primer, bog vilenjaka Corellon Larethian često se doživljava kao androgini, a neki vilenjaci u multiverzumu napravljeni su po Corellonovoj slici. Možete da igrate i ženskog lika koji se predstavlja kao muškarac, muškarca koji se oseća zarobljenim u ženskom telu ili bradatog ženskog patuljka koji mrzi da ga zamenjuju sa muškarcem. Isto tako, o vama odlučuje seksualna orijentacija vašeg lika.
+>Ne treba biti ograničen na binarne pojmove pola i roda. Na primjer, bog vilenjaka Corellon Larethian često se doživljava kao androgini, a neki vilenjaci u multiverzumu napravljeni su po Corellonovoj slici. Možete da igrate i ženskog lika koji se predstavlja kao muškarac, muškarca koji se oseća zarobljenim u ženskom telu ili bradatog ženskog patuljka koji mrzi da ga zamenjuju sa muškarcem. Isto tako, o vama odlučuje seksualna orijentacija vašeg lika.
 
 
 ### Ime
@@ -10282,7 +10282,7 @@ Opis rase vašeg lika uključuje uzorke imena članova te rase. Unesite malo mis
 
 Možete igrati muškog ili ženskog lika bez ostvarivanja bilo kakvih posebnih prednosti ili smetnji. Razmislite o tome kako se vaš lik uklapa ili ne uklapa u očekivanja šire kulture o seksu, polu i seksualnom ponašanju.
 
-Na primer, muški duhovnik prkosi tradicionalnim rodnim podelama drumskog društva, što bi moglo biti reakcija da tvoj lik napusti to društvo i izađe na površinu.
+Na primjer, muški duhovnik prkosi tradicionalnim rodnim podelama drumskog društva, što bi moglo biti reakcija da tvoj lik napusti to društvo i izađe na površinu.
 
 
 ### Visina i težina
@@ -10416,7 +10416,7 @@ Ako želite, možete nasumično odrediti visinu i težinu svog lika pomoću tab
 </table>
 
 
-Na primer, kao čovek, Tika ima visinu od 4 stope 8 inča plus 2d10 inča. Njen igrač kotrlja 2d10 i dobija ukupno 12, tako da je Tika visoka 5 stopa 8 inča. Tada igrač koristi isto to bacanje od 12 i pomnoži je sa 2d4 funte. Njeno bacanje 2d4 je 3, tako da Tika teži dodatnih 12 funti (12 × 3) na vrhu baze, što je ukupno 146 funti.
+Na primjer, kao čovek, Tika ima visinu od 4 stope 8 inča plus 2d10 inča. Njen igrač kotrlja 2d10 i dobija ukupno 12, tako da je Tika visoka 5 stopa 8 inča. Tada igrač koristi isto to bacanje od 12 i pomnoži je sa 2d4 funte. Njeno bacanje 2d4 je 3, tako da Tika teži dodatnih 12 funti (12 × 3) na vrhu baze, što je ukupno 146 funti.
 
 
 ### Ostale fizičke karakteristike
@@ -10467,7 +10467,7 @@ Većina orkova deli nasilnu, divlju prirodu boga orka, Gruumsha, i na taj nači
 
 Poravnanje je suštinski deo prirode božanstva i vragova. Đavo ne bira da bude zakonito zlo i ne teži zakonitom zlu, već je zakonito zlo u svojoj biti. Ako je nekako prestalo biti zakonito zlo, prestalo bi biti i đavo.
 
-Većina stvorenja koja nemaju sposobnost racionalne misli nemaju poravnanja - oni su **nesvrstani**. Takvo stvorenje nije sposobno da donese moralni ili etički izbor i ponaša se u skladu sa svojom bestijalnom prirodom. Ajkule su na primer divlji predatori, ali nisu zli; nemaju poravnanje.
+Većina stvorenja koja nemaju sposobnost racionalne misli nemaju poravnanja - oni su **nesvrstani**. Takvo stvorenje nije sposobno da donese moralni ili etički izbor i ponaša se u skladu sa svojom bestijalnom prirodom. Ajkule su na primjer divlji predatori, ali nisu zli; nemaju poravnanje.
 
 >**Tika i Artemida: Poravnanje**
 >
@@ -10482,7 +10482,7 @@ Vaša rasa označava jezike koje vaš lik podrazumevano može da govori, a pozad
 
 Izaberite jezike iz tabele Standardni jezici ili odaberite onaj koji je uobičajen u vašoj kampanji. Uz dozvolu vašeg DM-a, umesto toga možete da odaberete jezik iz tabele egzotičnih jezika ili tajni jezik, kao što je jezik kradljivaca ili jezik druida.
 
-Neki od ovih jezika su zapravo porodice jezika sa mnogim dijalektima. Na primer, iskonski jezik uključuje dijalekte Auran, Akuan, Ignan i Terran, po jedan za svaku od četiri elementarne ravni. Stvorenja koja govore različitim dijalektima istog jezika mogu međusobno komunicirati.
+Neki od ovih jezika su zapravo porodice jezika sa mnogim dijalektima. Na primjer, iskonski jezik uključuje dijalekte Auran, Akuan, Ignan i Terran, po jedan za svaku od četiri elementarne ravni. Stvorenja koja govore različitim dijalektima istog jezika mogu međusobno komunicirati.
 
 **Standardni jezici**
 
@@ -10689,7 +10689,7 @@ Dajte svom karakteru dve osobine ličnosti. Osobine ličnosti su mali, jednostav
 
 Osobine ličnosti mogu opisivati stvari koje vaš lik voli, njegova prošla dostignuća, stvari koje vaš lik ne voli ili se plaši, samoponašanje ili manire vašeg lika ili uticaj ocena njegovih sposobnosti.
 
-Dobro mesto da počnete da razmišljate o osobinama ličnosti je da pogledate svoje najviše i najniže ocene sposobnosti i odredite jednu osobinu povezanu sa svakom. Bilo koja od njih može biti pozitivna ili negativna: možda ćete naporno raditi na prevazilaženju niskog rezultata, na primer, ili biti drski u pogledu svog visokog rezultata.
+Dobro mesto da počnete da razmišljate o osobinama ličnosti je da pogledate svoje najviše i najniže ocene sposobnosti i odredite jednu osobinu povezanu sa svakom. Bilo koja od njih može biti pozitivna ili negativna: možda ćete naporno raditi na prevazilaženju niskog rezultata, na primjer, ili biti drski u pogledu svog visokog rezultata.
 
 
 #### Ideali
@@ -10822,7 +10822,7 @@ Sledbenici se oblikuju prema iskustvu u hramovima ili drugim verskim zajednicama
     <tr>
         <td>1
         </td>
-        <td>Obožavam određenog heroja svoje vere i neprestano se pozivam na dela i primer te osobe.
+        <td>Obožavam određenog heroja svoje vere i neprestano se pozivam na dela i primjer te osobe.
         </td>
     </tr>
     <tr>
@@ -12913,9 +12913,9 @@ Doff. Ovo je vreme potrebno za skidanje predmeta. Ako vam je potrebna pomoć u 
 
 >**Varijanta: Veličine opreme**
 >
->U većini kampanja možete koristiti ili nositi bilo koju opremu koju nađete u svojim avanturama, u granicama zdravog razuma. Na primer, krupan polu ork neće stati u kožni oklop polutana, a gnom bi bio progutan u elegantnom ogrtaču giganta oblaka.
+>U većini kampanja možete koristiti ili nositi bilo koju opremu koju nađete u svojim avanturama, u granicama zdravog razuma. Na primjer, krupan polu ork neće stati u kožni oklop polutana, a gnom bi bio progutan u elegantnom ogrtaču giganta oblaka.
 >
->DM može nametnuti više realizma. Na primer, odelo od ploča napravljeno za jednog čoveka možda ne bi pristajalo drugom bez značajnih promena i uniforma stražara može biti vidno neprikladna kada avanturista pokuša da je nosi kao masku.
+>DM može nametnuti više realizma. Na primjer, odelo od ploča napravljeno za jednog čoveka možda ne bi pristajalo drugom bez značajnih promena i uniforma stražara može biti vidno neprikladna kada avanturista pokuša da je nosi kao masku.
 >
 >Koristeći ovu varijantu, kada avanturisti pronađu oklop, odeću i slične predmete koji su namenjeni za nošenje, možda će trebati da posete oružnika, krojača, majstora kože ili sličnog stručnjaka kako bi predmet učinili nosivim. Troškovi takvog rada variraju od 10 do 40 procenata tržišne cene predmeta. DM može ili kotrljati 1d4 × 10 ili odrediti povećanje troškova na osnovu obima potrebnih promena.
 
@@ -13477,7 +13477,7 @@ Pri upotrebi na ovaj način mora se navući remen.
 
 **Special**. Oružje sa posebnim svojstvom ima neuobičajena pravila koja regulišu njegovu upotrebu, objašnjena u opisu oružja (videti „Specijalno oružje“ kasnije u ovom odeljku).
 
-**Bacanje**. Ako oružje ima svojstvo bacanja, možete ga baciti da izvršite napad iz daljine. Ako je oružje za blisku borbu, koristite isti modifikator sposobnosti za to bacanje za napad i štetu koji biste koristili za napad na blizinu sa tim oružjem. Na primer, ako bacite ručnu sjekiru, koristite svoju Snagu, ali ako bacite bodež, možete koristiti ili svoju Snagu ili svoju Spretnost, jer bodež ima svojstvo finese.
+**Bacanje**. Ako oružje ima svojstvo bacanja, možete ga baciti da izvršite napad iz daljine. Ako je oružje za blisku borbu, koristite isti modifikator sposobnosti za to bacanje za napad i štetu koji biste koristili za napad na blizinu sa tim oružjem. Na primjer, ako bacite ručnu sjekiru, koristite svoju Snagu, ali ako bacite bodež, možete koristiti ili svoju Snagu ili svoju Spretnost, jer bodež ima svojstvo finese.
 
 **Dvoruko**. Za napad na ovo oružje potrebne su vam dve ruke.
 
@@ -13488,7 +13488,7 @@ Pri upotrebi na ovaj način mora se navući remen.
 
 Ponekad likovi nemaju oružje i moraju napasti onim što im je pri ruci. Improvizirano oružje uključuje bilo koji predmet koji možete držati u jednoj ili dvije ruke, kao što su slomljeno staklo, noga stola, tiganj, točak kola ili mrtvi goblin.
 
-U mnogim slučajevima je improvizovano oružje slično stvarnom oružju i sa njim se može postupati kao takvo. Na primer, noga stola je slična palici. Prema opciji DM-a, lik koji poseduje oružje može da koristi sličan predmet kao da je to oružje i da koristi svoj bonus za stručnost.
+U mnogim slučajevima je improvizovano oružje slično stvarnom oružju i sa njim se može postupati kao takvo. Na primjer, noga stola je slična palici. Prema opciji DM-a, lik koji poseduje oružje može da koristi sličan predmet kao da je to oružje i da koristi svoj bonus za stručnost.
 
 Predmet koji nema sličnosti sa oružjem nanosi 1d4 štete (DM dodeljuje objektu odgovarajuću vrstu štete). Ako se lik služi oružjem daljinskog dometa da izvrši napad ili da baci oružje za blisku borbu koje nema bačeno svojstvo, takođe nanosi štetu od 1d4. Bačeno improvizovano oružje ima normalan domet od 20 stopa i veliki domet od 60 stopa.
 
@@ -14584,7 +14584,7 @@ Početna oprema koju dobijate iz odabrane klase uključuje kolekciju korisne opr
 
 ### Alati
 
-Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao što je izrada ili popravak predmeta, falsifikovanje dokumenta ili obijanje brave. Vaša rasa, klasa, poreklo ili podvizi daju vam znanje sa određenim alatima. Stručnost sa alatom vam omogućava da dodate bonus za stručnost bilo kojoj proveri sposobnosti koju napravite pomoću tog alata. Upotreba alata nije vezana za jednu sposobnost, jer znanje alata predstavlja šire znanje o njegovoj upotrebi. Na primer, DM može da zatraži da izvršite proveru spretnosti kako biste urezali fini detalj pomoću vašeg alata za drvorez ili proveru snage da biste napravili nešto od posebno tvrdog drveta.
+Alat vam pomaže da uradite nešto što inače ne biste mogli da uradite, kao što je izrada ili popravak predmeta, falsifikovanje dokumenta ili obijanje brave. Vaša rasa, klasa, poreklo ili podvizi daju vam znanje sa određenim alatima. Stručnost sa alatom vam omogućava da dodate bonus za stručnost bilo kojoj proveri sposobnosti koju napravite pomoću tog alata. Upotreba alata nije vezana za jednu sposobnost, jer znanje alata predstavlja šire znanje o njegovoj upotrebi. Na primjer, DM može da zatraži da izvršite proveru spretnosti kako biste urezali fini detalj pomoću vašeg alata za drvorez ili proveru snage da biste napravili nešto od posebno tvrdog drveta.
 
 **Zanatlijski alat**. Ovi posebni alati uključuju predmete potrebne za bavljenje zanatom ili trgovinom. Tabela prikazuje primere najčešćih vrsta alata, od kojih svaki pruža predmete povezane sa jednim zanatom. Veština sa setom zanatlijskih alata vam omogućava da dodate bonus za stručnost bilo kojoj proveri sposobnosti koju napravite koristeći alate u vašem zanatu. Svaka vrsta zanatskih alata zahteva posebno znanje.
 
@@ -14974,7 +14974,7 @@ Dobar nosač vam može pomoći da se brže krećete kroz divljinu, ali njegova
 
 Životinja koja vuče zapregu, kočiju, saonicu ili vagon može da pomeri težinu do pet puta veću od svoje osnovne nosivosti, uključujući težinu vozila. Ako više životinja vuče isto vozilo, mogu zajedno dodati svoj nosivi kapacitet.
 
-Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično nisu dostupni za kupovinu. Tu spadaju leteći nosači (pegazi, grifoni, hipogrifi i slične životinje), pa čak i vodeni nosači (džinovski morski konji, na primer). Sticanje takvog nosača često znači osigurati jaje i sami uzgajati stvorenje, sklopiti pogodbu sa moćnim entitetom ili pregovarati sa samim nosačem.
+Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično nisu dostupni za kupovinu. Tu spadaju leteći nosači (pegazi, grifoni, hipogrifi i slične životinje), pa čak i vodeni nosači (džinovski morski konji, na primjer). Sticanje takvog nosača često znači osigurati jaje i sami uzgajati stvorenje, sklopiti pogodbu sa moćnim entitetom ili pregovarati sa samim nosačem.
 
 **Životinjski oklop**. Životinjski oklop je oklop dizajniran da zaštiti glavu, vrat, prsa i telo životinje. Bilo koja vrsta oklopa prikazana na tablici oklopa u ovom poglavlju može se kupiti kao bard. Trošak je četiri puta veći od ekvivalentnog oklopa napravljenog za humanoide, a težak je dvostruko više.
 
@@ -15686,7 +15686,7 @@ Tabela sa hranom, pićem i prenoćištem daje cene za pojedine prehrambene pro
 
 Avanturisti mogu platiti ne-igračke likove da im pomognu ili deluju u njihovo ime u raznim okolnostima. Većina takvih najamnika ima prilično uobičajene veštine, dok su drugi majstori zanata ili umetnosti, a nekoliko je stručnjaka sa specijalizovanim avanturističkim veštinama.
 
-Neke od najosnovnijih vrsta najamnika pojavljuju se u tabeli usluga. Među ostale uobičajene najamnike spada bilo koji od široke raznolikost ljudi koji naseljavaju tipično naselje ili grad, kada im avanturisti plaćaju za izvođenje određenog zadatak. Na primer, čarobnjak može platiti stolaru da mu izradi složeni sanduk (i njegova minijaturna replika) za upotreba u tajnoj čaroliji sanduka Leomund-a. Lovac meže naručiti kovaču da iskuje poseban mač. Bard možda plati krojaču da napravi izvrsnu odeću za predstojecu  predstava pred vojvodom.
+Neke od najosnovnijih vrsta najamnika pojavljuju se u tabeli usluga. Među ostale uobičajene najamnike spada bilo koji od široke raznolikost ljudi koji naseljavaju tipično naselje ili grad, kada im avanturisti plaćaju za izvođenje određenog zadatak. Na primjer, čarobnjak može platiti stolaru da mu izradi složeni sanduk (i njegova minijaturna replika) za upotreba u tajnoj čaroliji sanduka Leomund-a. Lovac meže naručiti kovaču da iskuje poseban mač. Bard možda plati krojaču da napravi izvrsnu odeću za predstojecu  predstava pred vojvodom.
 
 Drugi najamnici pružaju više stručne ili opasne usluge. Plaćeni vojnici plaćeni da pomognu avanturistima preuzeti vojsku hobgoblina su najamnici, kao i mudrac angažovan za istraživanje drevnih ili ezoteričnih nauka. Ako na visokom nivou avanturista uspostavlja nekakvo uporište, on ili ona možda bi angažovala čitavo osoblje sluga i agenata da vode mesto, od kaštelana ili upravnika do muških radnika da staje budu čiste. Ovi najamnici često uživaju dugoročni ugovor koji uključuje mesto za život u uporište kao deo ponuđene nadoknade.
 
@@ -16417,7 +16417,7 @@ Poglavlje 6 Priručnika za igrača definiše dva opcionalni skupa pravila za pri
 
 Višeklasiranje vam omogućava da dobijete višestruke nivoe klase. To vam omogućava da pomešate njihove sposobnosti klase da bi se realizovao koncept lika koji možda i ne ogleda u jednoj od standardnih opcija klase.
 
-Ovim pravilom imate mogućnost postizanja nivoa u novoj kjlasi kad god napredujete dostizanjem nivoa u vašoj trenutnoj klasi. Svi vaši nivoi vaših klasa se sabiraju da bi se utvrdio vaš nivo karaktera. Na primer, ako imate tri nivoa čarobnjaka i dva kao borac, vi ste lik 5. nivoa.
+Ovim pravilom imate mogućnost postizanja nivoa u novoj kjlasi kad god napredujete dostizanjem nivoa u vašoj trenutnoj klasi. Svi vaši nivoi vaših klasa se sabiraju da bi se utvrdio vaš nivo karaktera. Na primjer, ako imate tri nivoa čarobnjaka i dva kao borac, vi ste lik 5. nivoa.
 
 Kako napredujete u nivoima, možda ćete prvenstveno ostati član originalne klase sa samo nekoliko nivoa u drugoj klasi, ili biste mogli potpuno promeniti kurs, ne osvrćući se na klasu koju ste ostavili za sobom. Možda čak i započnite napredovanje u trećoj ili četvrtoj klasi. U poređenju sa jednoklasnim likom istog nivoa, žrtvovaćete fokusiranje u zamenu za svestranost.
 
@@ -16620,7 +16620,7 @@ Kada steknete nivo u klasi koji nije vaša po;etna, vi steknite samo neka počet
 Kada steknete novi nivo u klasi, dobijate njene karakteristike za taj nivo. Nekoliko karakteristika, međutim, ima dodatne pravila kada koristite više klasa: Usmjeravanje božanstva, dodatni napad, nenaoružana odbrana i čarolija.
 
 #### Usmjeravanje Božanstva
-Ako već imate sposobnost Usmjeravanje Božanstva i dostignete nivo u klasi koja takođe dodeljuje istu, dobijate efekte Usmjeravanja Božanstva koje dodeljuje ta klasa, ali ponovno dobijanje sposobnosti ne znači da je možete dodatno koristiti. Dodatnu upotrebu dobijate samo kada dostignete nivo klase koji vam ih izričito dodeljuje. Na primer, ako ste sveštenik 6 / paladin 4, možete dva puta da koristite Usmjeravanje Božanstva između odmora jer ste dovoljno visok u klasi sveštenika da biste mogli više koristi više puta. Kad god koristite sposobnost, možete odabrati bilo koji od efekata Usmjeravanje Božanstva koji su vam dostupni iz vaše dve klase.
+Ako već imate sposobnost Usmjeravanje Božanstva i dostignete nivo u klasi koja takođe dodeljuje istu, dobijate efekte Usmjeravanja Božanstva koje dodeljuje ta klasa, ali ponovno dobijanje sposobnosti ne znači da je možete dodatno koristiti. Dodatnu upotrebu dobijate samo kada dostignete nivo klase koji vam ih izričito dodeljuje. Na primjer, ako ste sveštenik 6 / paladin 4, možete dva puta da koristite Usmjeravanje Božanstva između odmora jer ste dovoljno visok u klasi sveštenika da biste mogli više koristi više puta. Kad god koristite sposobnost, možete odabrati bilo koji od efekata Usmjeravanje Božanstva koji su vam dostupni iz vaše dve klase.
 
 #### Dodatni Napad
 Ako funkciju klase Dodatni mbapad dobijete iz više klasa, funkcije se neće zbrajati. Ovom funkcijom ne možete izvršiti više od dva napada, osim ako ona to kaže (kao što to čini borbena verzija Dodatni Napad). Slično tome, vještčev tajanstveni priziv Thirsting Blade ne daje vam dodatne napade ako imate i Dodatni Napad.
@@ -16631,7 +16631,7 @@ Ako već imate funkciju Odbrane Bez Oklopa, ne možete je ponovo dobiti od drug
 ### Čaranje
 Vaš kapacitet za čaranje delimično zavisi od vaših kombinovanih nivoa u svim vašim klasama čaranja, a delom od vaših individualnih nivoa u tim klasama. Jednom kada imate funkciju čaranja iz više klasa, koristite dole navedena pravila. Ako imate više klasa, ali imate funkciju Čaranja iz samo jedne klase, sledite pravila opisana u toj klasi.
 
-**Čarolije poznate i pripremljene.** Vi određujete koje čarolije znate i možete da pripremite za svaku klasu ponaosob, kao da ste član te klase sa jednim klasifikovanjem. Na primer, ako ste rendžer 4 / čarobnjak 3, znate tri čarolije rendžera 1. nivoa na osnovu vaših nivoa u klasi rendžera. Kao čarobnjak 3. nivoa znate tri čarobnjakova cantripa, a vaša knjiga čarolija sadrži deset čarobnjačkih čarolija, od kojih dve (dve koje ste stekli kada ste kao čarobnjak dostigli 3. nivo) mogu biti čarolije drugog nivoa. Ako je vaša inteligencija 16, možete pripremiti šest čarobnjačkih čarolija.
+**Čarolije poznate i pripremljene.** Vi određujete koje čarolije znate i možete da pripremite za svaku klasu ponaosob, kao da ste član te klase sa jednim klasifikovanjem. Na primjer, ako ste rendžer 4 / čarobnjak 3, znate tri čarolije rendžera 1. nivoa na osnovu vaših nivoa u klasi rendžera. Kao čarobnjak 3. nivoa znate tri čarobnjakova cantripa, a vaša knjiga čarolija sadrži deset čarobnjačkih čarolija, od kojih dve (dve koje ste stekli kada ste kao čarobnjak dostigli 3. nivo) mogu biti čarolije drugog nivoa. Ako je vaša inteligencija 16, možete pripremiti šest čarobnjačkih čarolija.
 
 Svaka čarolija koju poznajete i pripremite povezana je sa nekom od vaših klasa, a vi koristite čarobnu sposobnost te klase kada pravite čaroliju. Slično tome, fokus čarolije, kao što je sveti simbol, može se koristiti samo za čarolije iz klase povezane sa tim fokusom.
 
@@ -16639,7 +16639,7 @@ Svaka čarolija koju poznajete i pripremite povezana je sa nekom od vaših klasa
 
 Ako imate više od jedne klase čaranja, ova tabela vam može dati slotove čarolija na nivou koji je viši od čarolija koji znate ili možete pripremiti. Možete koristiti te slotove, ali samo za bacanje čarolija nižeg nivoa. Ako čarolija nižeg nivoa koju bacate, poput gorećih ruku, ima pojačani efekat kada se baci pomoću slota višeg nivoa, možete da koristite poboljšani efekat, iako nemate čarolije tog višeg nivoa.
 
-Na primer, ako ste pomenuti rendžer 4 / čarobnjak 3, računate se kao lik 5. nivoa pri određivanju slotova čarolija: imate četiri slota 1. nivoa, tri slota 2. nivoa i dva slota 3. nivoa. Međutim, ne znate nijednu čaroliju 3. nivoa, niti poznajete bilo koju čaroliju rendžera 2. nivoa. Možete koristiti slotove za čarolije tih nivoa da biste bacili čarolije koje znate - i potencijalno poboljšali njihove efekte.
+Na primjer, ako ste pomenuti rendžer 4 / čarobnjak 3, računate se kao lik 5. nivoa pri određivanju slotova čarolija: imate četiri slota 1. nivoa, tri slota 2. nivoa i dva slota 3. nivoa. Međutim, ne znate nijednu čaroliju 3. nivoa, niti poznajete bilo koju čaroliju rendžera 2. nivoa. Možete koristiti slotove za čarolije tih nivoa da biste bacili čarolije koje znate - i potencijalno poboljšali njihove efekte.
 
 **Pakt magije.** Ako imate i sposobnosti klase čaranja i sposobnosti klase Pakt Magije iz klase viještac, možete koristiti slotove za čarolije koje steknete od sa Paktom Magije da biste bacali čarolije koje znate ili ste ih pripremili iz klase sa sposobnostima Čaranja, a može da koristi i slotove za čarolije koje steknete pomoću klase sa sposobnostima Čaranja da biste bacali čarolije veštca koje znate.
 
