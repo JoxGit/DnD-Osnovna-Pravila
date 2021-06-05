@@ -23,6 +23,7 @@
     * [Poglavlje 11: Čarolije](https://joxgit.github.io/DnD-Osnovna-Pravila/dio3#poglavlje-11-%C4%8Darolije)
 * [Dodatak A - Stanja](https://joxgit.github.io/DnD-Osnovna-Pravila/dodatakA#Dodatak%20A:%20Stanja)
 * [Dodatak B - Bogovi multiverzuma](https://joxgit.github.io/DnD-Osnovna-Pravila/dodatakB#Dodatak%20B:%20Bogovi%20multiverzuma)
+* [Dodatak C - Pet frakcija](https://joxgit.github.io/DnD-Osnovna-Pravila/dodatakC#Dodatak%20C:%20Pet%20frakcija)
 * [List karaktera](https://github.com/JoxGit/DnD-Osnovna-Pravila/blob/main/List%20karaktera.docx?raw=true)
 
 

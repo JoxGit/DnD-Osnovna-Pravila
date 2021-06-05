@@ -62,7 +62,7 @@ Dokument o osnovnim pravilima D&D ima četiri glavna dela.
 
 ~~**Četvrti deo** je posebno za Majstora tamnica. Sadrži uputstva za izazivanje likova igrača sa protivnicima koji su dobar test njihovih sposobnosti, plus desetine opisa čudovišta spremnih za upotrebu. Takođe, pruža uzorak čarobnih predmeta koje likovi mogu zaraditi kao nagradu za uništavanje tih čudovišta.~~
 
-~~Na kraju dokumenta nalazi se dodatni materijal. **Dodatak A** prikuplja sve definicije uslova koji mogu uticati na likove i čudovišta. **Dodatak B** je kratka rasprava o božanstvima u igri, posebno onima u postavci Zaboravljena carstva. **Dodatak C** opisuje pet frakcija u zaboravljenim carstvima sa kojima se likovi mogu povezati. Konačno, list sa tri stranice karaktera pruža standardizovan način za igrače da beleže i prate sposobnosti i posed svojih likova.~~
+Na kraju dokumenta nalazi se dodatni materijal. **Dodatak A** prikuplja sve definicije uslova koji mogu uticati na likove i čudovišta. **Dodatak B** je kratka rasprava o božanstvima u igri, posebno onima u postavci Zaboravljena carstva. **Dodatak C** opisuje pet frakcija u zaboravljenim carstvima sa kojima se likovi mogu povezati. Konačno, list sa tri stranice karaktera pruža standardizovan način za igrače da beleže i prate sposobnosti i posed svojih likova.
 
 
 ## Kako igrati

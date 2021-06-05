@@ -686,7 +686,7 @@ Tokom putovanja, grupa avanturista može da se kreće normalnim, brzim ili spor
 
 **Prinudni marš**. Tabela Tempo putovanja pretpostavlja da likovi putuju 8 sati dnevno. Oni mogu nastaviti dalje od te granice, rizikujući iscrpljenost.
 
-Za svaki dodatni sat putovanja duže od 8 sati, likovi prelaze udaljenost prikazanu u koloni Sat za svoj tempo, a svaki lik mora da napravi spasonosno bacanje na kraju sata. DC je 10 + 1 za svaki sat u poslednjih 8 sati. Pri neuspelom spasilačkom bacanju, lik je iscrpljen za jedan nivo ~~(vidi dodatak A)~~.
+Za svaki dodatni sat putovanja duže od 8 sati, likovi prelaze udaljenost prikazanu u koloni Sat za svoj tempo, a svaki lik mora da napravi spasonosno bacanje na kraju sata. DC je 10 + 1 za svaki sat u poslednjih 8 sati. Pri neuspelom spasilačkom bacanju, lik je iscrpljen za jedan nivo (vidi dodatak A).
 
 **Nosači i vozila**. Kratko vreme (do sat vremena), mnoge životinje se kreću mnogo brže od humanoida. Lik koji jaše može da galopira oko sat vremena, prelazeći dvostruko više od uobičajene udaljenosti za brzi tempo. Ako su sveži nosači dostupni na svakih 8 do 10 milja, likovi mogu preći veće razdaljine ovim tempom, ali to je vrlo retko, osim u gusto naseljenim oblastima.
 
@@ -846,7 +846,7 @@ Najosnovniji zadaci avanture - uočavanje opasnosti, pronalaženje skrivenih pre
 
 Dato područje može biti slabo ili jako zatamljeno. U **slabo zatamljenom** području, poput prigušenog svetla, mestimične magle ili umerenog lišća, stvorenja imaju nedostatak u proverama Mudrosti (Percepcije) koje se oslanjaju na vid.
 
-**Jako zaklonjeno** područje - poput mraka, neprozirne magle ili gustog lišća - u potpunosti blokira vid. Stvorenje efektivno pati od zaslepljenog stanja ~~(vidi dodatak A)~~ kada pokušavate da vidite nešto u tom području.
+**Jako zaklonjeno** područje - poput mraka, neprozirne magle ili gustog lišća - u potpunosti blokira vid. Stvorenje efektivno pati od zaslepljenog stanja (vidi dodatak A) kada pokušavate da vidite nešto u tom području.
 
 Prisustvo ili odsustvo svetlosti u okruženju stvara tri kategorije osvetljenosti: jako svetlo, prigušeno svetlo i mrak.
 
@@ -871,7 +871,7 @@ Biće sa istinskim vidom može, u određenom opsegu, da vidi u normalnom i magi
 
 ### Hrana i voda
 
-Likovi koji ne jedu i ne piju trpe posledice iscrpljenosti ~~(vidi dodatak A)~~. Iscrpljenost uzrokovana nedostatkom hrane ili vode ne može se ukloniti dok lik ne pojede i popije punu potrebnu količinu.
+Likovi koji ne jedu i ne piju trpe posledice iscrpljenosti (vidi dodatak A). Iscrpljenost uzrokovana nedostatkom hrane ili vode ne može se ukloniti dok lik ne pojede i popije punu potrebnu količinu.
 
 #### Hrana
 
@@ -1347,7 +1347,7 @@ Ako preduzmete akciju Otkazivanje, vaš pokret neće izazvati napade za priliku
 
 ### Izbijeći
 
-Kada preduzmete akciju Izbijeći, fokusirate se u potpunosti na izbijegavanje napada. Do početka vaše sledećeg poteza, bilo koji napravljeni napad na vas ima nedostatak ako vidite napadača, a spasilačka bacanja Spretnosti napravite sa prednošću. Ovu pogodnost gubite ako ste onesposobljeni ~~(kao što je objašnjeno u dodatku A)~~ ili ako vam brzina padne na 0.
+Kada preduzmete akciju Izbijeći, fokusirate se u potpunosti na izbijegavanje napada. Do početka vaše sledećeg poteza, bilo koji napravljeni napad na vas ima nedostatak ako vidite napadača, a spasilačka bacanja Spretnosti napravite sa prednošću. Ovu pogodnost gubite ako ste onesposobljeni (kao što je objašnjeno u dodatku A) ili ako vam brzina padne na 0.
 
 ### Pomoć
 
@@ -1474,7 +1474,7 @@ Ako bilo koje oružje ima bačeno svojstvo, možete ga baciti, umesto da napadne
 
 Kada želite da zgrabite neko stvorenje ili se rvate s njim, možete da koristite akciju Napad da napravite poseban napad, hvatanje. Ako ste u mogućnosti da izvršite više napada pomoću akcije Napad, ovaj napad zamenjuje jedan od njih.
 
-Cilj vašeg hvatanja ne sme biti veći za jednu veličinu od vas i mora vam biti nadohvat ruke. Koristeći bar jednu slobodnu ruku, pokušavate da prigrabite metu tako što ćete izvršiti proveru hvatanja, proveru Snaga (Atletika) osporenu proverom Snaga (Atletika) ili Spretnost (Akrobacija) na meti (Cilj bira sposobnost da koristi). Uspećete automatski ako je meta onesposobljena. Ako uspete, metu podvrgavate stanju uhvvaćn ~~(videti dodatak A)~~. Uslov precizira stvari koje ga završavaju i možete pustiti metu kad god želite (nije potrebna radnja).
+Cilj vašeg hvatanja ne sme biti veći za jednu veličinu od vas i mora vam biti nadohvat ruke. Koristeći bar jednu slobodnu ruku, pokušavate da prigrabite metu tako što ćete izvršiti proveru hvatanja, proveru Snaga (Atletika) osporenu proverom Snaga (Atletika) ili Spretnost (Akrobacija) na meti (Cilj bira sposobnost da koristi). Uspećete automatski ako je meta onesposobljena. Ako uspete, metu podvrgavate stanju uhvvaćn (videti dodatak A). Uslov precizira stvari koje ga završavaju i možete pustiti metu kad god želite (nije potrebna radnja).
 
 **Bekstvo iz hvataljke**. Stisnuto stvorenje može da iskoristi svoju akciju da pobegne. Da bi to uradio, mora uspeti na proveri Snaga (Atletika) ili Spretnost (Akrobacija) koju osporava vaša provera Snage (Atletika).
 
@@ -1596,7 +1596,7 @@ Na primer, sveštenik sa najviše 12 životnih bodova trenutno ima 6 životnih b
 
 #### Pad u nesvest
 
-Ako vas oštećenje smanji na 0 pogodaka i ne uspe da vas ubije, padnete u nesvest ~~(pogledajte dodatak A)~~. Ova nesvest prestaje ako povratite bilo koji pogodak.
+Ako vas oštećenje smanji na 0 pogodaka i ne uspe da vas ubije, padnete u nesvest (pogledajte dodatak A). Ova nesvest prestaje ako povratite bilo koji pogodak.
 
 #### Bacanja za spas od smrti
 

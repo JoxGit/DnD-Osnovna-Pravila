@@ -2270,7 +2270,7 @@ Za neke varvare bijes je sredstvo za postizanje cilja - koji je kraj nasilje. Pu
 
 #### **Frenzi**
 
-Počevši od odabira ove staze na 3. nivou, možete se izbezumiti kada bijesnite. Ako to učinite, tokom svog bijesa možete izvršiti jedan napad ručnim oružjem kao bonus akciju na svakom vašem potezu nakon ovog. Kada se vaš bijes završi, pretrpite jedan nivo iscrpljenosti ~~(kao što je opisano u dodatku A).~~
+Počevši od odabira ove staze na 3. nivou, možete se izbezumiti kada bijesnite. Ako to učinite, tokom svog bijesa možete izvršiti jedan napad ručnim oružjem kao bonus akciju na svakom vašem potezu nakon ovog. Kada se vaš bijes završi, pretrpite jedan nivo iscrpljenosti (kao što je opisano u dodatku A).
 
 #### **Bezumni bijes**
 
@@ -3142,7 +3142,7 @@ Većina avanturističkih sveštenika održava određenu vezu sa utvrđenim hramo
 
 ### Stvaranje sveštenika
 
-Dok stvarate sveštenika, najvažnije pitanje koje treba razmotriti je kojem božanstvu služiti i koje principe želite da vaš lik utjelotvori. ~~Dodatak B~~ uključuje liste mnogih bogova multiverzuma. Provjerite sa svojim DM-om da saznate koja su božanstva u vašoj kampanji.
+Dok stvarate sveštenika, najvažnije pitanje koje treba razmotriti je kojem božanstvu služiti i koje principe želite da vaš lik utjelotvori. Dodatak B uključuje liste mnogih bogova multiverzuma. Provjerite sa svojim DM-om da saznate koja su božanstva u vašoj kampanji.
 
 Jednom kada odaberete božanstvo, razmislite o odnosu vašeg sveštenika prema tom bogu. Jeste li dobrovoljno služite? Ili vas je bog izabrao, prisiljavajući vas da služite bez obzira na vaše želje? Kako vas hramski sveštenici vaše vjere smatraju: pobjednikom ili stvarateljem problema? Koji su vaši krajnji ciljevi? Ima li vaše božanstvo na umu poseban zadatak za vas? Ili se trudite dokazati da ste dostojni velike potrage?
 
@@ -10793,7 +10793,7 @@ Možda ćete želeti da podesite neke funkcije pozadine, tako da bolje odgovara
 
 Proveli ste svoj život u službi hrama određenom bogu ili panteonu bogova. Delujete kao posrednik između carstva svetog i smrtnog sveta, vršeći svete obrede i prinoseći žrtve kako biste sproveli poklonike u prisustvo božansko. Niste nužno sveštenik - obavljanje sveštenih obreda nije isto što i kanalisanje božanske moći.
 
-Izaberite boga, panteon bogova ili neko drugo kvazi božansko biće ~~među onima navedenima u dodatku B~~ ili one koje je odredio vaš DM, i sarađujte sa svojim DM-om da biste detaljno opisali prirodu svoje verske službe. Da li ste bili manji funkcioner u hramu, odgajan od detinjstva da biste pomagali sveštenicima u svetim obredima? Ili ste bili prvosveštenik koji je iznenada doživeo poziv da služi svom bogu na drugačiji način? Možda ste bili vođa malog kulta izvan bilo koje utvrđene hramovne strukture, ili čak kultne grupe koja je služila vražjem gospodaru, a koji sada negirate.
+Izaberite boga, panteon bogova ili neko drugo kvazi božansko biće među onima navedenima u dodatku B ili one koje je odredio vaš DM, i sarađujte sa svojim DM-om da biste detaljno opisali prirodu svoje verske službe. Da li ste bili manji funkcioner u hramu, odgajan od detinjstva da biste pomagali sveštenicima u svetim obredima? Ili ste bili prvosveštenik koji je iznenada doživeo poziv da služi svom bogu na drugačiji način? Možda ste bili vođa malog kulta izvan bilo koje utvrđene hramovne strukture, ili čak kultne grupe koja je služila vražjem gospodaru, a koji sada negirate.
 
 Veštine: Uvid, Religija
 
