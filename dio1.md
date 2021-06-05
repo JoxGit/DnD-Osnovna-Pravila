@@ -12346,25 +12346,23 @@ Užasi rata u kombinaciji sa krutom disciplinom vojnog roka ostavljaju traga na 
 # Poglavlje 5: Oprema
 [D&D Beyond link](https://www.dndbeyond.com/sources/basic-rules/equipment)
 
-Tržište velikog grada vrvi od kupaca i prodavaca raznih vrsta: patuljastih kovača i drvodjelja vilenjaka, farmera polutana i draguljara gnoma, a da ne pominjemo ljude svih oblika, veličina i boja iz različitih nacija i kultura. U najvećim gradovima nudi se na prodaju gotovo sve što se može zamisliti, od egzotičnih začina i luksuzne odeće do pletenih košara i praktičnih mačeva.
+Tržište velikog grada vrvi od kupaca i prodavaca raznih vrsta: patuljastih kovača i drvodjelja vilenjaka, farmera polutana i draguljara gnoma, a da ne pominjemo ljude svih oblika, veličina i boja iz različitih nacija i kultura. U najvećim gradovima nudi se na prodaju gotovo sve što se može zamisliti, od egzotičnih začina i luksuzne odjeće do pletenih košara i praktičnih mačeva.
 
-Dostupnost oklopa, oružja, ruksaka, užeta i slične robe za avanturiste je od najveće važnosti, jer odgovarajuća oprema može značiti razliku između života i smrti u tamnici ili neukroćenim divljinama. Ovo poglavlje detaljno opisuje svakodnevnu i egzotičnu robu koju avanturisti obično smatraju korisnom suočavajući se sa pretnjama koje predstavljaju svetovi D&D.
+Dostupnost oklopa, oružja, ruksaka, užeta i slične robe za avanturiste je od najveće važnosti, jer odgovarajuća oprema može značiti razliku između života i smrti u tamnici ili neukroćenim divljinama. Ovo poglavlje detaljno opisuje svakodnevnu i egzotičnu robu koju avanturisti obično smatraju korisnom suočavajući se sa prijetnjama koje predstavljaju svijetovi D&D.
 
 
 ## Startna oprema
 
 Kada kreirate svoj lik, dobijate opremu zasnovanu na kombinaciji vaše klase i pozadine. Možete i da započnete sa više zlatnika zasnovanih na vašoj klasi i potrošite ih na predmete sa spiska u ovom poglavlju. Pogledajte tabelu Početno bogatstvo po klasama da biste utvrdili koliko zlata imate da potrošite.
 
-Vi odlučujete kako je vaš lik došao do ove startne opreme. To je moglo biti nasledstvo ili roba koju je lik kupio tokom svog odrastanja. Možda ste bili opremljeni oružjem, oklopom i ruksakom kao deo vojne službe. Možda ste čak i ukrali opremu. Oružje bi moglo biti porodično nasleđe, prenosilo se s kolena na koleno dok vaš lik konačno nije uzeo plašt i krenuo avanturističkim stopama pretka.
-
-
+Vi odlučujete kako je vaš lik došao do ove startne opreme. To je moglo biti nasledstvo ili roba koju je lik kupio tokom svog odrastanja. Možda ste bili opremljeni oružjem, oklopom i ruksakom kao deo vojne službe. Možda ste čak i ukrali opremu. Oružje bi moglo biti porodično nasleđe, prenosilo se s koljena na koljeno dok vaš lik konačno nije uzeo plašt i krenuo avanturističkim stopama pretka.
 
 
 ## Bogatstvo
 
 Bogatstvo se pojavljuje u mnogim oblicima u svetu D&D. Novčići, drago kamenje, trgovačka roba, umetnički predmeti, životinje i imovina mogu odražavati finansijsko blagostanje vašeg lika.
 
-Članovi seljaštva trguju robom, trgujući za ono što im treba i plaćajući porez na žito i sir. Pripadnici plemstva trguju zakonskim pravima, poput prava na rudnik, luku ili obradivo zemljište, ili zlatnim polugama, mereći zlato u funti, a ne u novčiću. Samo trgovci, avanturisti i oni koji nude profesionalne usluge za najam obično trguju kovanicama.
+Članovi seljaštva trguju robom, trgujući za ono što im treba i plaćajući porez na žito i sir. Pripadnici plemstva trguju zakonskim pravima, poput prava na rudnik, luku ili obradivo zemljište, ili zlatnim polugama, mjereći zlato u funti, a ne u novčiću. Samo trgovci, avanturisti i oni koji nude profesionalne usluge za najam obično trguju kovanicama.
 
 **Početno bogatstvo po klasama**
 
@@ -12517,18 +12515,18 @@ Standardni novčić težak je oko trećine unče, pa pedeset novčića teži 
 
 Brojne su mogućnosti za pronalazak blaga, opreme, oružja, oklopa i još mnogo toga u tamnicama koje istražujete. Obično možete prodati svoje blago i sitnice kada se vratite u grad ili drugo naselje, pod uslovom da možete pronaći kupce i trgovce zainteresovane za vaš plen.
 
-**Oružje, oklop i druga oprema**. Opšte je pravilo da neoštećeno oružje, oklop i druga oprema postignu polovinu cene kada se prodaju na pijaci. Oružje i oklop koji koriste čudovišta retko su u dovoljno dobrom stanju da se prodaju.
+**Oružje, oklop i druga oprema**. Opšte je pravilo da neoštećeno oružje, oklop i druga oprema postignu polovinu cijene kada se prodaju na pijaci. Oružje i oklop koji koriste čudovišta rijetko su u dovoljno dobrom stanju da se prodaju.
 
-**Magični predmeti**. Prodaja magičnih predmeta je problematična. Naći nekoga da kupi napitak ili svitak nije preteško, ali drugi predmeti nisu u domenu većine, osim najbogatijih plemića. Isto tako, osim nekoliko uobičajenih magičnih predmeta, obično nećete naići na magične predmete ili čini za kupovinu. Vrednost magije je daleko iznad jednostavnog zlata i uvek je treba tretirati kao takvu.
+**Magični predmeti**. Prodaja magičnih predmeta je problematična. Naći nekoga da kupi napitak ili svitak nije preteško, ali drugi predmeti nisu u domenu većine, osim najbogatijih plemića. Isto tako, osim nekoliko uobičajenih magičnih predmeta, obično nećete naići na magične predmete ili čini za kupovinu. Vrijednost magije je daleko iznad jednostavnog zlata i uvijek je treba tretirati kao takvu.
 
-**Dragulji, nakit i umetnički predmet**i. Ovi predmeti zadržavaju punu vrednost na tržištu i možete ih zameniti za kovanice ili ih koristiti kao valutu za druge transakcije. Za izuzetno dragocena blaga, DM može tražiti da prvo pronađete kupca u velikom gradu ili većoj zajednici.
+**Dragulji, nakit i umetnički predmet**i. Ovi predmeti zadržavaju punu vrijednost na tržištu i možete ih zamijeniti za kovanice ili ih koristiti kao valutu za druge transakcije. Za izuzetno dragocjena blaga, DM može tražiti da prvo pronađete kupca u velikom gradu ili većoj zajednici.
 
-**Trgovina robom**. Na pograničnim predelima mnogi ljudi obavljaju transakcije razmenom robe. Poput dragulja i umetničkih predmeta, trgovačke robe - poluge gvožđa, vreće soli, stoka i tako dalje - zadržavaju svoju punu vrednost na tržištu i mogu se koristiti kao valuta.
+**Trgovina robom**. Na pograničnim predjelima mnogi ljudi obavljaju transakcije razmjenom robe. Poput dragulja i umjetničkih predmeta, trgovačke robe - poluge gvožđa, vreće soli, stoka i tako dalje - zadržavaju svoju punu vrijednost na tržištu i mogu se koristiti kao valuta.
 
 
 ## Oklop i štitovi
 
-D&D ​​svetovi su ogromna tapiserija koju čine mnoge različite kulture, svaka sa svojim tehnološkim nivoom. Iz tog razloga, avanturisti imaju pristup raznim tipovima oklopa, od kožnih oklopa do lančanika do skupih pločastih oklopa, sa nekoliko drugih vrsta oklopa između njih. Tabela oklopa prikuplja najčešće dostupne vrste oklopa pronađene u igri i razdvaja ih u tri kategorije: laki oklop, srednji oklop i teški oklop. Mnogi ratnici dopunjuju svoj oklop štitom.
+D&D ​​svijetovi su ogromna tapiserija koju čine mnoge različite kulture, svaka sa svojim tehnološkim nivoom. Iz tog razloga, avanturisti imaju pristup raznim tipovima oklopa, od kožnih oklopa do lančanika do skupih pločastih oklopa, sa nekoliko drugih vrsta oklopa između njih. Tabela oklopa prikuplja najčešće dostupne vrste oklopa pronađene u igri i razdvaja ih u tri kategorije: laki oklop, srednji oklop i teški oklop. Mnogi ratnici dopunjuju svoj oklop štitom.
 
 Tabela oklopa prikazuje troškove, težinu i druga svojstva uobičajenih vrsta oklopa koji se nose u svetu D&D.
 
@@ -12709,13 +12707,13 @@ Srednji oklop nudi veću zaštitu od lakog oklopa, ali takođe otežava kretanj
 
 **Krzneni**. Ovaj sirovi oklop sastoji se od gustih krzna i kožica. Obično ga nose varvarska plemena, zli humanoidi i drugi ljudi kojima nedostaje pristup alatima i materijalima potrebnim za stvaranje boljeg oklopa.
 
-**Lančana košulja**. Izrađena od međusobno povezanih metalnih prstenova, lančana košulja nosi se između slojeva odeće ili kože. Ovaj oklop nudi umerenu zaštitu gornjeg dela tela korisnika i omogućava da spoljni slojevi priguše zvuk prstenova koji se trljaju jedan o drugi.
+**Lančana košulja**. Izrađena od međusobno povezanih metalnih prstenova, lančana košulja nosi se između slojeva odeće ili kože. Ovaj oklop nudi umerenu zaštitu gornjeg dijela tijela korisnika i omogućava da spoljni slojevi priguše zvuk prstenova koji se trljaju jedan o drugi.
 
 **Krljušt**. Ovaj oklop sastoji se od kaputa i gamaša (i možda odvojene suknje) od kože prekrivenih metalnim komadima koji se preklapaju, slično poput krljušti ribe. Odelo uključuje rukavice.
 
 **Naprsnik**. Ovaj oklop sastoji se od ugrađenog metalnog grudnog komada koji se nosi sa gipkom kožom. Iako noge i ruke ostavlja relativno nezaštićenima, ovaj oklop pruža dobru zaštitu vitalnim organima nosioca, dok ga ostavlja relativno neopterećenim.
 
-**Pola ploče**. Ovaj oklop se sastoji od oblikovanih metalnih ploča koje pokrivaju veći deo tela nosioca. Ne uključuje zaštitu nogu osim jednostavnih čvaraka koji su pričvršćeni kožnim kaiševima.
+**Pola ploče**. Ovaj oklop se sastoji od oblikovanih metalnih ploča koje pokrivaju veći dio tijela nosioca. Ne uključuje zaštitu nogu osim jednostavnih čvaraka koji su pričvršćeni kožnim kaiševima.
 
 
 ### Teški oklop
@@ -12794,17 +12792,17 @@ Srednji oklop nudi veću zaštitu od lakog oklopa, ali takođe otežava kretanj
 </table>
 
 
-Od svih kategorija oklopa, teški oklop nudi najbolju zaštitu. Ova oklopna odela pokrivaju celo telo i stvorena su da zaustave širok spektar napada. Samo iskusni ratnici se mogu nositi sa njihovim težinom i masom.
+Od svih kategorija oklopa, teški oklop nudi najbolju zaštitu. Ova oklopna odela pokrivaju cijelo tijelo i stvorena su da zaustave širok spektar napada. Samo iskusni ratnici se mogu nositi sa njihovim težinom i masom.
 
 Teški oklop vam ne dozvoljava da dodate svoj modifikator spretnosti u svoju klasu oklopa, ali takođe vas ne kažnjava ako je vaš modifikator spretnosti negativan.
 
-**Prsteni oklop**. Ovaj oklop je kožni oklop u koji su ušiveni teški prstenovi. Prstenovi pomažu u ojačavanju oklopa od udaraca mačevima i sekirama. Prstenast oklop je inferioran u odnosu na lančani oklop i obično gs nose samo oni koji ne mogu priuštiti bolji oklop.
+**Prsteni oklop**. Ovaj oklop je kožni oklop u koji su ušiveni teški prstenovi. Prstenovi pomažu u ojačavanju oklopa od udaraca mačevima i sjekirama. Prstenast oklop je inferioran u odnosu na lančani oklop i obično gs nose samo oni koji ne mogu priuštiti bolji oklop.
 
-**Lančani oklop**. Napravljen od međusobno povezanih metalnih prstenova, lančani oklop uključuje sloj prošivene tkanine koji se nosi ispod oklops kako bi se sprečilo trenje i ublažio udarac. Odelo uključuje rukavice.
+**Lančani oklop**. Napravljen od međusobno povezanih metalnih prstenova, lančani oklop uključuje sloj prošivene tkanine koji se nosi ispod oklopa kako bi se spriječilo trenje i ublažio udarac. Odijelo uključuje rukavice.
 
 **Udlaga**. Ovaj oklop je napravljen od uskih vertikalnih metalnih traka zakovanih za podlogu od kože koja se nosi preko presvlake od tkanine. Fleksibilni lančani oklop štiti zglobove.
 
-**Ploča**. Ploča se sastoji od oblikovanih, međusobno povezanih metalnih ploča koje pokrivaju celo telo. Odelo od ploča uključuje rukavice, teške kožne čizme, visoki šlem i debele naslage ispod oklopa. Kopče i kaiševi raspoređuju težinu po telu.
+**Ploča**. Ploča se sastoji od oblikovanih, međusobno povezanih metalnih ploča koje pokrivaju cijelo tijelo. Odijelo od ploča uključuje rukavice, teške kožne čizme, visoki šlem i debele naslage ispod oklopa. Kopče i kaiševi raspoređuju težinu po telu.
 
 
 ### Štit
@@ -12844,11 +12842,11 @@ Teški oklop vam ne dozvoljava da dodate svoj modifikator spretnosti u svoju kla
 
 ### Ulazak i izlazak iz oklopa
 
-Vreme potrebno za navlačenje ili uklanjanje oklopa ili štita prikazano je u tabeli Stavljanje i skidanje oklopa.
+Vrijeme potrebno za navlačenje ili uklanjanje oklopa ili štita prikazano je u tabeli Stavljanje i skidanje oklopa.
 
-Don. Ovo je vreme potrebno za stavljanje predmeta. Koristite njegov AC samo ako za to potrošite puno vremena.
+Don. Ovo je vrijeme potrebno za stavljanje predmeta. Koristite njegov AC samo ako za to potrošite puno vremena.
 
-Doff. Ovo je vreme potrebno za skidanje predmeta. Ako vam je potrebna pomoć u uklanjanju oklopa, smanjite ovo vreme za pola.
+Doff. Ovo je vrijeme potrebno za skidanje predmeta. Ako vam je potrebna pomoć u uklanjanju oklopa, smanjite ovo vrijeme za pola.
 
 **Stavljanje i skidanje oklopa**
 
@@ -12915,9 +12913,9 @@ Doff. Ovo je vreme potrebno za skidanje predmeta. Ako vam je potrebna pomoć u 
 >
 >U većini kampanja možete koristiti ili nositi bilo koju opremu koju nađete u svojim avanturama, u granicama zdravog razuma. Na primjer, krupan polu ork neće stati u kožni oklop polutana, a gnom bi bio progutan u elegantnom ogrtaču giganta oblaka.
 >
->DM može nametnuti više realizma. Na primjer, odelo od ploča napravljeno za jednog čoveka možda ne bi pristajalo drugom bez značajnih promena i uniforma stražara može biti vidno neprikladna kada avanturista pokuša da je nosi kao masku.
+>DM može nametnuti više realizma. Na primjer, odijelo od ploča napravljeno za jednog čovjeka možda ne bi pristajalo drugom bez značajnih promjena i uniforma stražara može biti vidno neprikladna kada avanturista pokuša da je nosi kao masku.
 >
->Koristeći ovu varijantu, kada avanturisti pronađu oklop, odeću i slične predmete koji su namenjeni za nošenje, možda će trebati da posete oružnika, krojača, majstora kože ili sličnog stručnjaka kako bi predmet učinili nosivim. Troškovi takvog rada variraju od 10 do 40 procenata tržišne cene predmeta. DM može ili kotrljati 1d4 × 10 ili odrediti povećanje troškova na osnovu obima potrebnih promena.
+>Koristeći ovu varijantu, kada avanturisti pronađu oklop, odjeću i slične predmete koji su namijenjeni za nošenje, možda će trebati da posjete oružnika, krojača, majstora kože ili sličnog stručnjaka kako bi predmet učinili nosivim. Troškovi takvog rada variraju od 10 do 40 procenata tržišne cijene predmeta. DM može ili kotrljati 1d4 × 10 ili odrediti povećanje troškova na osnovu obima potrebnih promena.
 
 
 
@@ -12925,7 +12923,7 @@ Doff. Ovo je vreme potrebno za skidanje predmeta. Ako vam je potrebna pomoć u 
 
 Vaša klasa daje znanje određenog oružja, što odražava i fokus klase i alate koje ćete najverovatnije koristiti. Bez obzira na to da li favorizujete dugi mač ili dugački luk, vaše oružje i sposobnost da njime efikasno upravljate mogu značiti razliku između života i smrti tokom avanture.
 
-Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a, njegovu cenu i težinu, štetu koju nanesu prilikom udara i sva posebna svojstva koja poseduju. Svako oružje je klasifikovano ili kao blisko ili kao oružije na daljinu. **Blisko oružje** koristi se za napad na metu na udaljenosti od 5 stopa od vas, dok se **oružje za napad na daljinu** koristi za ciljanje na daljinu.
+Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a, njegovu cijenu i težinu, štetu koju nanesu prilikom udara i sva posebna svojstva koja posjeduju. Svako oružje je klasifikovano ili kao blisko ili kao oružije na daljinu. **Blisko oružje** koristi se za napad na metu na udaljenosti od 5 stopa od vas, dok se **oružje za napad na daljinu** koristi za ciljanje na daljinu.
 
 
 ### Jednostavno oružije za blisku borbu
@@ -13448,7 +13446,7 @@ Tabela sa oružjem prikazuje najčešće oružje koje se koristi u svetu D&D-a,
 
 ### Poznavanje oružja
 
-Vaša rasa, klasa i podvizi mogu vam pružiti znanje sa određenim oružjem ili kategorijama oružja. Dve kategorije su **jednostavne** i **borilačke**. Većina ljudi može koristiti jednostavno oružje sa veštinom. Ovo oružje uključuje palice, buzdovane i drugo oružje koje se često nalazi u rukama običnog stanovništva. Za efikasnu upotrebu borilačkog oružja, uključujući mačeve, sekire i koplja, potrebna je specijalizovanija obuka. Većina ratnika koristi borilačko oružje jer to oružje najbolje koristi njihov stil borbe i obuku.
+Vaša rasa, klasa i podvizi mogu vam pružiti znanje sa određenim oružjem ili kategorijama oružja. Dve kategorije su **jednostavne** i **borilačke**. Većina ljudi može koristiti jednostavno oružje sa vještinom. Ovo oružje uključuje palice, buzdovane i drugo oružje koje se često nalazi u rukama običnog stanovništva. Za efikasnu upotrebu borilačkog oružja, uključujući mačeve, sjekire i koplja, potrebna je specijalizovanija obuka. Većina ratnika koristi borilačko oružje jer to oružje najbolje koristi njihov stil borbe i obuku.
 
 Stručnost sa oružjem vam omogućava da dodate svoj bonus za profesionalnost bacanju za napad za svaki napad koji izvršite tim oružjem. Ako napravite bacanje za napad oružjem sa kojim vam nedostaje znanje, ne dodajete svoj bonus za vještinu tom bacanju za napad.
 
@@ -13481,7 +13479,7 @@ Pri upotrebi na ovaj način mora se navući remen.
 
 **Dvoruko**. Za napad na ovo oružje potrebne su vam dve ruke.
 
-**Svestrano**. Ovo oružje se može koristiti jednom ili dvema rukama. Vrednost štete u zagradi pojavljuje se za ovu osobinu - šteta kada se oružje koristi sa dve ruke za bliski napad.
+**Svestrano**. Ovo oružje se može koristiti jednom ili dvijema rukama. Vrijednost štete u zagradi pojavljuje se za ovu osobinu - šteta kada se oružje koristi sa dve ruke za bliski napad.
 
 
 #### Improvizovano oružje
@@ -13495,14 +13493,14 @@ Predmet koji nema sličnosti sa oružjem nanosi 1d4 štete (DM dodeljuje objektu
 
 #### Posrebreno oružje
 
-Neka čudovišta koja imaju imunitet ili otpor prema nemagičnom oružju podložna su srebrnom oružju, pa oprezni avanturisti ulažu dodatni novac da svoje oružje oblože srebrom. Možete posrebriti jedno oružje ili deset komada municije za 100 gp. Ovaj trošak ne predstavlja samo cenu srebra, već vreme i stručnost potrebni za dodavanje srebra u oružje, a da ne bude manje efikasno.
+Neka čudovišta koja imaju imunitet ili otpor prema nemagičnom oružju podložna su srebrnom oružju, pa oprezni avanturisti ulažu dodatni novac da svoje oružje oblože srebrom. Možete posrebriti jedno oružje ili deset komada municije za 100 gp. Ovaj trošak ne predstavlja samo cijenu srebra, već vrijeme i stručnost potrebni za dodavanje srebra u oružje, a da ne bude manje efikasno.
 
 
 #### Specijalno oružje
 
-Ovde je opisano oružje sa posebnim pravilima.
+Ovdje je opisano oružje sa posebnim pravilima.
 
-**Koplje**. Imate nedostatak kada koristite koplje za napad na metu u krugu od 5 stopa od vas. Takođe, koplje zahteva dve ruke da ga koriste kad ne jašete.
+**Koplje**. Imate nedostatak kada koristite koplje za napad na metu u krugu od 5 stopa od vas. Takođe, koplje zahteva dvije ruke da ga koriste kad ne jašete.
 
 **Mreža**. Veliko ili manje stvorenje pogođeno mrežom zadržava se dok se ne oslobodi. Mreža nema efekta na bića koja su bezoblična ili na bića koja su ogromna ili veća. Stvorenje može da iskoristi svoju akciju da izvrši proveru snage 10 DC, oslobađajući sebe ili neko drugo stvorenje u dometu uspeha. Nanošenje 5 oštećenja rezanjem mreže (AC 10) takođe oslobađa stvorenje bez nanošenja štete, prekida efekat i uništava mrežu.
 
@@ -14564,7 +14562,7 @@ Sveštenik ili paladin može stvoriti svetu vodu izvođenjem posebnog rituala. I
 
 ### Paketi opreme
 
-Početna oprema koju dobijate iz odabrane klase uključuje kolekciju korisne opreme za avanture, složenu u a pakovanje. Sadržaj ovih pakovanja je ovde naveden. Ako kupujete početnu opremu, možete kupiti paket po prikazanoj ceni, što može biti jeftinije od pojedinačnog kupovine predmeta.
+Početna oprema koju dobijate iz odabrane klase uključuje kolekciju korisne opreme za avanture, složenu u pakovanje. Sadržaj ovih pakovanja je ovdje naveden. Ako kupujete početnu opremu, možete kupiti paket po prikazanoj cijeni, što može biti jeftinije od pojedinačnog kupovine predmeta.
 
 **Paket provalnika (16 gp)**. Uključuje ruksak, torbu od 1.000 kugličnih ležajeva, 10 stopa žice, zvono, 5 sveća, pajser, čekić, 10 klinova, fenjer sa poklopcem, 2 boce ulja, petodnevni obroci, sanduk za vodu i vodenu kožu . Paket takođe ima 50 stopa konopca od konoplje vezanog uz bok.
 
@@ -14974,7 +14972,7 @@ Dobar nosač vam može pomoći da se brže krećete kroz divljinu, ali njegova
 
 Životinja koja vuče zapregu, kočiju, saonicu ili vagon može da pomeri težinu do pet puta veću od svoje osnovne nosivosti, uključujući težinu vozila. Ako više životinja vuče isto vozilo, mogu zajedno dodati svoj nosivi kapacitet.
 
-Nosači koji nisu ovde navedeni dostupni su u svetu D&D, ali su retki i obično nisu dostupni za kupovinu. Tu spadaju leteći nosači (pegazi, grifoni, hipogrifi i slične životinje), pa čak i vodeni nosači (džinovski morski konji, na primjer). Sticanje takvog nosača često znači osigurati jaje i sami uzgajati stvorenje, sklopiti pogodbu sa moćnim entitetom ili pregovarati sa samim nosačem.
+Nosači koji nisu ovdje navedeni dostupni su u svetu D&D, ali su retki i obično nisu dostupni za kupovinu. Tu spadaju leteći nosači (pegazi, grifoni, hipogrifi i slične životinje), pa čak i vodeni nosači (džinovski morski konji, na primjer). Sticanje takvog nosača često znači osigurati jaje i sami uzgajati stvorenje, sklopiti pogodbu sa moćnim entitetom ili pregovarati sa samim nosačem.
 
 **Životinjski oklop**. Životinjski oklop je oklop dizajniran da zaštiti glavu, vrat, prsa i telo životinje. Bilo koja vrsta oklopa prikazana na tablici oklopa u ovom poglavlju može se kupiti kao bard. Trošak je četiri puta veći od ekvivalentnog oklopa napravljenog za humanoide, a težak je dvostruko više.
 
