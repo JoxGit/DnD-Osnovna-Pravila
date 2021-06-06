@@ -16413,11 +16413,11 @@ Poglavlje 6 Priručnika za igrača definiše dva opcionalni skupa pravila za pri
 
 ## Višeklasiranje
 
-Višeklasiranje vam omogućava da dobijete višestruke nivoe klase. To vam omogućava da pomešate njihove sposobnosti klase da bi se realizovao koncept lika koji možda i ne ogleda u jednoj od standardnih opcija klase.
+Višeklasiranje vam omogućava da dobijete višestruke nivoe klase. To vam omogućava da pomešate njihove sposobnosti klase da bi se realizovao koncept lika koji se možda i ne ogleda u jednoj od standardnih opcija klase.
 
-Ovim pravilom imate mogućnost postizanja nivoa u novoj kjlasi kad god napredujete dostizanjem nivoa u vašoj trenutnoj klasi. Svi vaši nivoi vaših klasa se sabiraju da bi se utvrdio vaš nivo karaktera. Na primjer, ako imate tri nivoa čarobnjaka i dva kao borac, vi ste lik 5. nivoa.
+Ovim pravilom imate mogućnost postizanja nivoa u novoj klasi kad god napredujete dostizanjem nivoa u vašoj trenutnoj klasi. Svi vaši nivoi vaših klasa se sabiraju da bi se utvrdio vaš nivo karaktera. Na primjer, ako imate tri nivoa čarobnjaka i dva kao borac, vi ste lik 5. nivoa.
 
-Kako napredujete u nivoima, možda ćete prvenstveno ostati član originalne klase sa samo nekoliko nivoa u drugoj klasi, ili biste mogli potpuno promeniti kurs, ne osvrćući se na klasu koju ste ostavili za sobom. Možda čak i započnite napredovanje u trećoj ili četvrtoj klasi. U poređenju sa jednoklasnim likom istog nivoa, žrtvovaćete fokusiranje u zamenu za svestranost.
+Kako napredujete u nivoima, možda ćete prvenstveno ostati član originalne klase sa samo nekoliko nivoa u drugoj klasi, ili biste mogli potpuno promijeniti kurs, ne osvrćući se na klasu koju ste ostavili za sobom. Možda čak i započnete napredovanje u trećoj ili četvrtoj klasi. U poređenju sa jednoklasnim likom istog nivoa, žrtvovaćete fokusiranje u zamenu za svestranost.
 
 
 ### Preduslovi
@@ -16515,7 +16515,7 @@ Trošak iskustvenog poena za sticanje nivoa uvek se zasniva na vašem ukupnom ni
 
 Dobijate životne bodove iz nove klase kako je opisano za nivoe posle 1.. Osvajate životne bodove prvog nivoa za a klasu samo ako ste lik prvog nivoa.
 
-Vi sabirate kocke života svih klasa koje ste odobrili biste formirali svoj skup kocki života. Ako su kocke života istog vrsta, možete ih jednostavno objediniti.
+Vi sabirate kocke života svih klasa koje ste odabrali da biste formirali svoj skup kocki života. Ako su kocke života iste vrste, možete ih jednostavno objediniti.
 
 Ako vam klase daju kockice života različitih vrsta, pratiti ih odvojeno.
 
@@ -16527,7 +16527,7 @@ Vaš bonus za stručnost se uvek zasniva na vašem ukupnom nivou karaktera, kao 
 
 ### Stručnost
 
-Kada steknete nivo u klasi koji nije vaša po;etna, vi steknite samo neka početna znanja te klase. Vidite poglavlje 6 Priručnika za igrača za više informacija.
+Kada steknete nivo u klasi koji nije vaša početna, vi steknite samo neka početna znanja te klase. Vidite poglavlje 6 Priručnika za igrača za više informacija.
 
 **Stručnosti višeklasiranja**
 
