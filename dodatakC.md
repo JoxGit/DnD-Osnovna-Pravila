@@ -1,97 +1,90 @@
 
 # Dodatak C: Pet frakcija
-
-Many characters created in the Forgotten Realms setting, especially those for organized D&D play, belong to one of five factions that have risen to prominence in the Realms. Each faction has its own motivations, goals, and philosophy. Some are more heroic than others, but all band together in times of trouble to thwart major threats.
-
+Mnogi likovi stvoreni u postavci Zaboravljenih carstava, posebno oni za organizovanu D&D igru, pripadaju jednoj od pet frakcija koje su porasle na istaknuto mesto u Carstvima. Svaka frakcija ima svoje motivacije, ciljeve i filozofiju. Neki su herojskiji od drugih, ali svi se udružuju u vremenima nevolje da osujete glavne pretnje.
 
 ## Harpers
 
-This clandestine network of spellcasters and spies seeks to tip the scales in favor of the innocent, the weak, and the poor within the Realms. Harper agents pride themselves on being incorruptible defenders of good, and they never hesitate to aid the oppressed. Because they prefer to work behind the scenes, they are rarely noticed as they thwart tyrants, depose rulers, and head off any growing force that is rumored to have evil intent. The Harpers has its finger on the pulse of power in the Realms and works tirelessly to even the odds for the downtrodden.
+Ova tajna mreža korisnika magije i špijuna pokušava da prevrne vagu u korist nevinih, slabih i siromašnih unutar Carstava. **Harperovi** agenti se ponose time što su nepotkupljivi branitelji dobra i nikada ne oklevaju da pomognu potlačenima. Budući da više vole da rade iza kulisa, retko su primećeni dok osujećuju tirane, svrgavaju vladare i odbijaju sve veće sile za koje se priča da imaju zlu nameru. **Harpers** ima prst na pulsu moći u Carstvima i neumorno radi na izjednačavanju šansi za potlačene.
 
-Individual Harper agents operate alone, relying on their wits and extensive information networks to gain an advantage over their enemies. They know that knowledge is power, so gathering intelligence beforehand is paramount to their success. They are well-informed and always have access to aid, magical and otherwise. Veteran members have access to secret caches of knowledge stashed all over Faerûn, along with trusted sources stationed in every major town and city.
+Pojedinačni **Harperovi** agenti rade sami, oslanjajući se na svoju pamet i opsežne informativne mreže kako bi stekli prednost nad svojim neprijateljima. Znaju da je znanje moć, pa im je prethodno prikupljanje informacija najvažnije za uspeh. Oni su dobro informisani i uvek imaju pristup pomoći, magičnoj i nekoj drugoj. Članovi veterani imaju pristup tajnim kešima znanja skrivenim po celom Faerunu, zajedno sa pouzdanim izvorima smeštenim u svakom većem gradu.
 
-The organization is always on the lookout for powerful items, expressly to keep them out of the hands of evildoers. To this end its agents use various guises and identities to gain access to carefully guarded secrets such as ancestral maps, buried cities, and mages’ keeps.
+Organizacija je uvek u potrazi za moćnim predmetima, izričito kako bi ih sprečila zlikovcima. U tu svrhu njeni agenti koriste razne maske i identitete kako bi dobili pristup pažljivo čuvanim tajnama kao što su mape predaka, zatrpani gradovi i zamci magova.
 
-The bond between Harpers is strong, and their friendships are nigh unbreakable. Rarely do they operate in the open, but on rare occasions they must, because there is no other choice. When that happens, you can be sure that a fellow Harper is watching closely, ready to emerge from the shadows and help a comrade at a moment’s notice.
+Veza između **Harpersa** je jaka i njihova prijateljstva su gotovo neraskidiva. Retko rade na otvorenom, ali u retkim prilikama moraju, jer drugog izbora nema. Kada se to dogodi, možete biti sigurni da kolega **Harper** pomno posmatra, spreman da izađe iz senke i u trenutku pomogne drugaru.
 
-“A Harper is first and foremost self-reliant, for once you are autonomous then no one can tempt you into using power as a crutch. You are sovereign unto yourself.
+„**Harper** je pre svega samostalan, jer kad ste jednom autonomni, niko vas više ne može iskušati u korišćenju moći kao štake. Vi ste suvereni prema sebi.
 
-“Therefore, a Harper’s soul must be incorruptible. Many believe themselves to be so, but power comes in many guises, and it will surely find your weakness. Of this you may be certain. Only a true Harper can pass this test and transform weakness into strength. That is why we are the hand that stops the tyrant, feeds the oppressed, and asks for nothing in return.
+„Prema tome, duša **Harpera** mora biti neiskvarena. Mnogi veruju da su takvi, ali moć se pojavljuje u mnogim oblicima i sigurno će pronaći vašu slabost. U ovo ste možda sigurni. Samo pravi **Harper** može proći ovaj test i transformisati slabost u snagu. Zato smo ruka koja zaustavlja tiranina, hrani potlačene i ne traži ništa zauzvrat.
 
-“We are the song for those who have no voice.”
+„Mi smo pesma za one koji nemaju glas.“
 
-<p style="text-align: right">
-<em>Remallia “Remi” Haventree</em></p>
+<p stile = "tekt-align: right">
+<em> Remallia “Remi” Haventree </em> </p>
 
+## Red Gauntleta
 
+Red **Gauntleta** je relativno nova organizacija posvećena ubijanju zla gde god se vreba i bez oklevanja. Red shvata da zlo nosi mnoštvo likova, igrajući se i varajući druge da bi se širilo. Zbog toga njeni članovi deluju po svom ovlašćenju, prepoznajući pretnje i razbijajući ih pre nego što mogu da porastu.
 
-## Order of the Gauntlet
+Budući da se seme zla hrani u senci, **Red Gauntleta** vozi do najopasnijih tamnica, najmračnijih pećina i najgadnijih jama kako bi iskorenio nepravde. Ali Red je itekako svestan da senka zla leži u svima, čekajući trenutak kada može da stekne uporište u njihovim dušama. Tako njeni paladini, monasi i sveštenici provode duge sate duboko u molitvi kako bi održali svoje unutrašnje oko budnim i usredsređenim na sopstvene misli i osećanja. Na taj način se prečišćavaju iznutra pre nego što uzmu mačeve da očiste svet.
 
-The Order of the Gauntlet is a relatively new organization dedicated to smiting evil wherever it lurks and without hesitation. The Order understands that evil wears many guises, playing games and tricking others in order to spread. That is why its members act on their own authority, identifying threats and smashing them before they can grow.
+**Red Gauntleta** veruje da sva živa bića moraju izaći na videlo razuma i dobrote po svojoj volji. Zbog toga je ne zanima upravljanje umovima: fokusira se samo na dela, dajući primer svetu nadajući se da će nadahnuti i prosvetliti druge. Red drži da su vera u svog boga, svoje prijatelje i sebe najveće oružje u ugušivanju hordi zlobe.
 
-Because the seeds of evil are nourished in the shadows, the Order of the Gauntlet rides out to the most dangerous dungeons, the darkest caverns, and the foulest pits to weed out wrongdoers. But the Order is keenly aware that the shadow of evil lies within everyone, waiting for a moment when it can gain a foothold on their souls. Thus its paladins, monks, and clerics spend long hours deep in prayer to keep their inner eye vigilant and focused on their own thoughts and emotions. In this way they purify themselves from within before taking up their swords to cleanse the world.
+Sa takvim pobožnim ubeđenjem, na članove Reda može se verovati kao na izvor snage za sebe i druge, na jarko svetlo protiv tame. Oni ipak nisu preventivni nasilnici. Strogi kodeks časti omogućava im da napadnu samo kada se vrše zla dela. Dakle, **Red Gauntleta** je hipervigilan, koristeći sve resurse kojima raspolaže - i božanske i ovozemaljske - da bi znao gde će se i kada dogoditi mračna dela.
 
-The Order of the Gauntlet believes that all sentient beings must come to the light of reason and goodness of their own volition. That is why it is not interested in controlling minds: it focuses only on deeds, setting an example to the world in hopes of inspiring and enlightening others. The Order holds that faith in one’s god, one’s friends, and one’s self are the greatest weapons in quelling the hordes of malice.
+„To je stvar zla: to je tama, to je senka, krije se u vašoj slepoj tački. Onda, kada vam je smetnja prikrade se. Zlo je gospodar prerušavanja - a šta je najveće prerušavanje, pitate se? Sebe. Zlo će se zaogrnuti mislima i osećanjima pretvarajući se da si svoj, govoreći ti da se naljutiš, budeš pohlepan i zavidan, da se držiš iznad drugih.
 
-With such devout conviction, the Order’s members can be depended on as a source of strength to themselves and others, a bright light against the darkness. They are not preemptive bullies, though. A strict code of honor allows them to strike only when evil deeds are being committed. Thus, the Order of the Gauntlet is hypervigilant, using every resource at their disposal—both divine and mundane—to know where and when dark deeds will occur.
+„Ljudi se ne rađaju zli - potrebno je vreme da vas zlo zavede da mislite da je njegov glas vaš. Zbog toga Red zna od svake nade koja želi da se pridruži našim redovima. Hrabrost se ne bori protiv zmaja tamo - ona ​​se bori protiv zmaja iznutra. To je ono što činimo u svojim molitvama. Jednom kad ubijete tog zmaja, pobedili ste tamu koja se skriva u vama. Tek tada imate sposobnost da spoznate istinsku dobrotu. Tek tada ste spremni da uzmete mač u ruke i nosite značku našeg Reda.“
 
-“That’s the thing about evil: it is darkness, it is shadow, it hides in your blind spot. Then, when you are distracted, it sneaks in. Evil is a master of disguise—and what is the greatest disguise, you ask? Yourself. Evil will cloak itself in thoughts and emotions pretending to be your own, telling you to get angry, to be greedy and envious, to hold yourself above others.
-
-“People aren’t born evil—it takes time for evil to fool you into thinking that its voice is yours. That is why to know who you truly are is what the Order requires from each hopeful who wishes to join our ranks. Bravery isn’t fighting the dragon out there—it is fighting the dragon within. That is what we do in our prayers. Once you have slain that dragon, you have overcome the darkness lurking within yourself. Only then do you have the capacity to know true goodness. Only then are you ready to take up the sword and wear the badge of our Order.”
-
-<p style="text-align: right">
-<em>Kajiso Steelhand</em></p>
+<p stile = "tekt-align: right">
+<em> Kajiso Steelhand </em> </p>
 
 
 
-## Emerald Enclave
+## Smaragdna enklava
 
-The Emerald Enclave is a far-ranging group that opposes threats to the natural world and helps others survive in the wilderness. Branches of the organization are scattered throughout Faerûn and often operate in isolation from the others. This existence teaches the Enclave’s members a fierce self-reliance and mastery of certain fighting and survival skills.
+**Smaragdna enklava** je dalekosežna grupa koja se suprotstavlja pretnjama prirodnom svetu i pomaže drugima da prežive u divljini. Ogranci organizacije raštrkani su širom Faeruna i često deluju izolovano od ostalih. Ovo postojanje uči članove **Enklave** žestokom samopouzdanju i savladavanju određenih veština borbe i preživljavanja.
 
-A ranger of the Enclave might be hired to lead a caravan through a treacherous mountain pass or the frozen tundra of Icewind Dale. A druid might volunteer to help a village prepare for a long, brutal winter. Barbarians and druids who live as hermits might appear from nowhere to help defend a town against marauding orcs.
+Može biti unajmljen čuvar **Enklave** da vodi karavan kroz izdajnički planinski prevoj ili zaleđenu tundru Icevind Dale-a. Druid bi mogao dobrovoljno da pomogne selu da se pripremi za dugu, brutalnu zimu. Varvari i druidi koji žive pustinjaci mogu se pojaviti niotkuda da pomognu u odbrani grada od pljačkaških orka.
 
-Members of the Emerald Enclave know how to survive and, more importantly, to help others do the same. They are not opposed to civilization or progress, but they strive to keep it in balance with the wild. They restore and preserve the natural order, even as they root out and destroy all that is unnatural. They keep the elemental forces of the world in check and keep civilization and the wilderness from destroying one another.
+Članovi **Smaragdne enklave** znaju kako da prežive i, što je još važnije, da pomognu drugima da učine isto. Oni se ne protive civilizaciji ili napretku, ali nastoje da je održe u ravnoteži sa divljinom. Oni obnavljaju i čuvaju prirodni poredak, čak i dok iskorenjuju i uništavaju sve što je neprirodno. Oni kontrolišu elementarne sile sveta i sprečavaju civilizaciju i divljinu da se međusobno uništavaju.
 
-“The Emerald Enclave exists as gatekeepers to that vast space beyond the city walls. We are the defenders of the wilderness and of the society that does not understand it. Most have forgotten that there is an ancient, natural order that existed long before our intellectual concepts of it. To come into contact with that primal order is to touch the power that guides all of life.
+„**Smaragdna enklava** postoji kao vratari tog ogromnog prostora izvan gradskih zidina. Mi smo branitelji divljine i društva koje to ne razume. Većina je zaboravila da postoji drevni, prirodni poredak koji je postojao mnogo pre naših intelektualnih koncepata o njemu. Doći u kontakt s tim iskonskim poretkom znači dodirnuti snagu koja vodi ceo život.
 
-“Those who walk the way of the Emerald Enclave are infused with this power; we embody it, and it moves us to do our work. That is why we are never alone. Even in the midst of a noisy, crowded city we can feel the presence of the natural world inside us, fresh, strong, and alive. The Enclave seeks to make awareness of this power available to all.
+„Oni koji hodaju putem **Smaragdne enklave** ulivaju se u ovu moć; mi je otelotvorujemo i to nas pokreće da radimo svoj posao. Zbog toga nikada nismo sami. Čak i usred bučnog, prepunog grada možemo osetiti prisustvo prirodnog sveta u nama, svežeg, snažnog i živog. **Enklava** nastoji da svest o ovoj moći bude dostupna svima.
 
-“Freedom. Is not this the highest of callings?”
+„Sloboda. Nije li ovo najviši poziv? “
 
-<p style="text-align: right">
-<em>Delaan Winterhound</em></p>
+<p stile = "tekt-align: right">
+<em> Delaan Vinterhound </em> </p>
 
+## Lords 'Alliance
 
+**Gospodarski savez** je udruženje vladara iz gradova i mesta širom Faeruna (pre svega na severu), koji veruju da je potrebna solidarnost da bi se zlo sprečilo. Vladari Vaterdeep-a, Silverimoon-a, Nevervinter-a i drugih slobodnih gradova dominiraju koalicijom, a svi gospodari u Savezu prvenstveno rade na sudbini i bogatstvu svojih pojedinačnih naselja.
 
-## Lords' Alliance
+Agenti saveza uključuju sofisticirane bardove, revnosne paladine, talentovane magove i zajapurene ratnike. Oni su izabrani prvenstveno zbog svoje lojalnosti i stručnjaci su za posmatranje, skrivanje, nagoveštavanje i borbu. Podržani od bogatih i privilegovanih, nose finu opremu (često prerušenu da bi izgledala uobičajeno), uključujući veliki broj svitaka ispisanih čarolijama komunikacije.
 
-The Lords’ Alliance is an association of rulers from cities and towns across Faerûn (primarily in the North), who believe that solidarity is needed to keep evil at bay. The rulers of Waterdeep, Silverymoon, Neverwinter, and other free cities dominate the coalition, and all lords in the Alliance work primarily for the fate and fortune of their individual settlements.
+Agenti **Lords 'Alliance** osiguravaju sigurnost i prosperitet civilizovanog Faerun-a tako što stoje ujedinjeni protiv sila koje ugrožavaju civilizaciju. Oni proaktivno uklanjaju takve pretnje na bilo koji način, boreći se s ponosom za slavu i sigurnost svog naroda i za gospodare koji njima vladaju. Međutim, operativci Saveza često su lovački psi, koji žele da se domognu svojih kolega iz drugih gradova Saveza. Čelnici Saveza znaju da će poredak opstati samo ako se njegove članice međusobno podržavaju, zahtevajući ravnotežu između ponosa i diplomatije. Agenti-prevaranti u **Lords 'Alijansi** su retki, ali je poznato da se javljaju prebegovi.
 
-Alliance agents include sophisticated bards, zealous paladins, talented mages, and grizzled warriors. They are chosen primarily for their loyalty and are experts in observation, stealth, innuendo, and combat. Backed by the wealthy and the privileged, they carry fine equipment (often disguised to appear common), including large numbers of scrolls scribed with spells of communication.
+„Svi žele da spavaju noću i osećaju se sigurno u svojim domovima, ali koliko njih želi da učini ono što je potrebno da bi plima zla ostala na oku? Da stojite na hladnoći i kiši, čekajući bitku dok im glad izgriza stomake? Mnogi žele da uberu plodove dobre žetve, ali malo ko brine da ukloni kamenje i obradi polja za sadnju.
 
-Agents of the Lords’ Alliance ensure the safety and prosperity of civilized Faerûn by standing united against the forces that threaten civilization. They proactively eliminate such threats by any means, fighting with pride for the glory and security of their people, and for the lords who rule over them. However, Alliance operatives are often glory hounds, looking to gain a leg up on their counterparts from other Alliance cities. The leaders of the Alliance know that the order will survive only if its members support each other, requiring a balance between pride and diplomacy. Rogue agents within the Lords’ Alliance are rare, but defections have been known to occur.
+„**Gospodarski savez** bori se protiv stvari za koje prodavac u svom krevetu nikada nije ni čuo. Uklanjamo pretnje pre nego što gradonačelnik uopšte sazna za to. Činimo da loše stvari nestanu. U tome smo dobri. “
 
-“Everyone wants to sleep at night and feel safe in their homes, but how many want to do what it takes to keep the tide of evil at bay? To stand in the cold and rain, waiting for battle while hunger gnaws at their bellies? Many wish to reap the rewards of a good harvest, but few care to remove the stones and till the fields for planting.
-
-“The Lords’ Alliance fights the things that the shopkeeper in his bed has never even heard of. We remove threats before the town mayor even knows about it. We make bad things go away. That’s what we’re good at.”
-
-<p style="text-align: right">
-<em>Rameel Jos</em></p>
+<p stile = "tekt-align: right">
+<em> Rameel Jos </em> </p>
 
 
 
 ## Zhentarim
 
-The Zhentarim, or Black Network, is an organization of well-trained mercenaries, savvy rogues, and crafty warlocks who seek to expand their influence and power throughout Faerûn. Agents of the Zhentarim feel that if they play by the rules, nothing gets done. Ultimately, they want to make the rules—and, in some cases, they already do. They walk a fine line when it comes to the letter of the law and don’t shy away from the occasional shady deal or illicit activity to get what they want.
+**Zhentarim**, ili Crna mreža, je organizacija dobro obučenih plaćenika, p1ametnih lupeža i lukavih čarobnica koje žele da prošire svoj uticaj i moć širom Faeruna. Agenti **Zhentarima** smatraju da ako se igra po pravilima, ništa se neće uraditi. Na kraju, oni žele da donesu pravila - a u nekim slučajevima to već čine. Oni hodaju tankom linijom kada je reč o slovu zakona i ne zaziru od povremenih sumnjivih dogovora ili nezakonitih aktivnosti da bi dobili ono što žele.
 
-To the Zhentarim, wealth is power. Its agents know that nothing else inspires such confidence and dispels doubt so well. In an instant, wealth speaks louder than a thousand bards. Zhentarim agents routinely carry the finest weapons and armor, with no expense spared. When a merchant needs an escort for a caravan, when a noble family requires bodyguards to protect its holdings, or when a city is desperate for trained soldiers to defend its walls, the Zhentarim provides the best warriors money can buy.
+Za **Žentarime** je bogatstvo moć. Njeni agenti znaju da ništa drugo ne uliva takvo samopouzdanje i tako dobro odagnava sumnju. U trenutku bogatstvo govori više od hiljadu bardova. Agenti **Zhentarima** rutinski nose najfinije oružje i oklop, bez štedećih troškova. Kada je trgovcu potrebna pratnja za karavan, kada plemenita porodica zahteva telohranitelje da zaštite svoje posede ili kada grad očajnički traži obučene vojnike da brane njegove zidine, **Zhentarim** pruža najbolje ratnike koje novac može kupiti.
 
-The organization encourages individual ambition and rewards innovators who take matters into their own hands. Results are all that matter. Those who come into the Black Network with nothing can become major players within the organization through their own moxie and hard work.
+Organizacija podstiče individualne ambicije i nagrađuje inovatore koji preuzmu stvari u svoje ruke. Rezultati su najvažniji. Oni koji u Crnu mrežu dođu bez ičega mogu svojim glavnim igračima i napornim radom postati glavni igrači u organizaciji.
 
-“Membership in the Zhentarim is like a key to a thousand doors, each one a gateway to fulfilling a personal desire. Most people shy away from this kind of freedom. They like their restraints, laws, and swaddling—it gives them the illusion of security.
+„Članstvo u **Zhentarimu** je poput ključa hiljadu vrata, od kojih je svako vrata ka ispunjavanju lične želje. Većina ljudi zazire od ove vrste slobode. Oni vole svoja ograničenja, zakone i povijanje - to im daje iluziju sigurnosti.
 
-“The Black Network provides what I need to explore realms and dimensions that would tear apart minds accustomed to limits. Only in such places can I find magic powerful enough to defeat beings that know no such thing as time, fear, or mercy. You might not like the Zhentarim’s methods, but when a demon crawls out of the Abyss and comes for your family, you’ll be glad that I have gone to the darkest of realms to find the answer to your problem.”
+„Crna mreža pruža ono što mi treba da istražim carstva i dimenzije koje bi razdvojile umove navikle na ograničenja. Samo na takvim mestima mogu pronaći magiju koja je dovoljno moćna da pobedi bića koja ne znaju za vreme, strah ili milost. Možda vam se neće svideti **Zhentarimove** metode, ali kada demon puzi iz Bezdana i dođe po vašu porodicu, biće vam drago što sam otišao u najmračnija carstva da pronađem odgovor na vaš problem. “
 
-<p style="text-align: right">
-<em>Ianna Asterion</em></p>
-
+<p stile = "tekt-align: right">
+<em> Ianna Asterion </em> </p>
