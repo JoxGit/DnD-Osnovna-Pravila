@@ -10,155 +10,238 @@
 
 @page {
     size: A4 portrait;
-    margin: 5mm;
+    margin: 0;
 }
 
 :root {
-    --border-color: red;
-}
-
-
-/*GENERAL*/
-
-.allign-center{
-    text-align: center;
-}
-
-.allign-left{
-    text-align: left;
-}
-
-.allign-right{
-    text-align: right;
+    --border-color-front: red;
+    --border-color-back: blue;
+    --fill-color: white;
+    --text-color: black;
+    --text-color-alt: white;
+    --inner-margin: 2mm;
+    --font-family-general: 'Times New Roman', Times, serif;
+    --font-size-general: 10pt;
+    --font-size-large: 12pt;
+    --font-size-x-large: 16pt;
+    --font-size-xx-large: 20pt;
+    --font-size-small: 8pt;
+    --font-family-special: 'Leviathan';
+    --font-size-special: 25pt;
 }
 
 body {
     margin: 0%;
     padding: 0%;
     -webkit-print-color-adjust: exact !important;
+    background-color: gray;
 }
 
-#container {
+.hide {
+    display: none;
+}
+
+/*PAGE*/
+
+.page{
     width: 210mm;
+    height: 297mm;
+    position: relative;
+    color: var(--text-color);
+    font-family: var(--font-family-general);
+    font-size: var(--font-size-general);
+    page-break-after: always;
+    line-height: 1;
 }
 
-.card {
-    margin: 2mm;
-    height: 140mm;
+.page p {
+    margin: 0;
+}
+
+.page-front{
+    background-color: var(--border-color-front);;
+}
+
+.page-back{
+    background-color: var(--border-color-back);;
+}
+
+/*CARD*/
+
+.card.small {
     width: 95mm;
-    display: inline-block;
+    height: 138mm;
+    position: absolute;
+    
 }
 
-.card.big{
-    width: 190mm !important;
+.card.big {
+    width: 200mm;
+    height: 138mm;
+    position: absolute;
 }
 
-/*CARD FRONT*/
+.page-front .card.big .card-outer{
+    column-count: 2;
+    column-fill: auto;
+    column-gap: 3mm;
+    column-rule: 3mm solid var(--border-color-front);
+}
 
-.card-front {
-    background-color: var(--border-color);
-    border-radius: 20px;
+.page-front .card-outer {
+    height: 128mm;
+    border-radius: 5mm;
+    background-color: var(--fill-color);
+}
+
+.page-back .card-outer {
+    height: 138mm;
+    border-radius: 5mm;
+    background-color: var(--fill-color);
+}
+
+.card-inner {
+    margin: 0 var(--inner-margin);
+}
+
+.card-top-left {
+    top: 5mm;
+    left: 5mm;
+}
+
+.card-top-right {
+    top: 5mm;
+    right: 5mm;
+}
+
+.card-bottom-left {
+    bottom: 5mm;
+    left: 5mm;
+}
+
+.card-bottom-right {
+    bottom: 5mm;
+    right: 5mm;
+}
+
+.card .footer{
+    height: 10mm;
+    margin: 0 var(--inner-margin);
+    /*background-color: blue;*/
+    color: var(--text-color-alt);
+}
+
+.card .footer p.challange {
+    font-family: var(--font-family-special);
+    font-size: var(--font-size-special);
+    font-variant: small-caps;
+    letter-spacing: 0.5mm;
+    line-height: 0.7;
+}
+
+.card .footer p.source {
+    font-family: var(--font-family-general);
+    font-size: var(--font-size-small);
+    margin-top: 2px;
+}
+
+.card.big .footer {
+    column-count: 2;
+    column-fill: balance;
+}
+
+/*PICTURE*/
+
+.picture-container {
     width: 100%;
     height: 100%;
-    transform: rotateZ(180deg);
-}
-
-.card-front .logo {
-    display: block;
-    margin: auto;
-    height: 30px;
-}
-
-.card-front .inner-container {
-    background-color: white;
-    border-radius: 10px;
-    margin: 5px 20px 20px 20px;
-    height: calc(100% - 30px - 5px - 20px);
-    padding: 1px;
-}
-
-.card-front .inner-container .picture-container {
-    height: calc(100% - 30px);
     display: flex;
     justify-content: center;
+    overflow: hidden;
 }
 
-.card-front .inner-container .picture-container .picture {
-    object-fit: scale-down;
-    max-width: 100%;
-    max-height: 100%;
-}
-
-.card-front .inner-container .footer {
+.picture {
+    object-fit: contain;
     width: 100%;
-    height: 30px;
-    text-align: center;
+    height: calc(100% - var(--font-size-special));
 }
 
-.card-front .inner-container .footer .name {
-    font-family: 'Leviathan';
-    font-size: 20Pt;
-    width: 100%;
-}
-
-
-/*CARD BACK*/
-
-.card-back {
-    background-color: var(--border-color);
-    border-radius: 20px;
-    width: calc(100% - 40px);
-    height: 100%;
-    padding: 20px;
-}
-
-.card-back .inner-container {
-    background-color: white;
-    border-radius: 10px;
-    height: calc(100% - 30px);
-}
-
-.card-back .inner-container .name {
-    font-family: 'Leviathan';
-    font-size: 20Pt;
+/*NAME*/
+.card .name {
+    font-family: var(--font-family-special);
+    font-size: var(--font-size-special);
     width: 100%;
     text-align: center;
+    text-shadow: 0 0 5px var(--fill-color);
 }
 
-.card-back .inner-container .subtitle{
-    background-color: var(--border-color);
-    font-size: 10Pt;
-    width: 100%;
+.card .name-bottom {
+    position: absolute;
+    bottom: 0;
+}
+
+/*STATS*/
+
+.card .info{
+    margin-left: calc(var(--inner-margin) * -1);
+    width: calc(100% + var(--inner-margin) * 2);
+    background-color: var(--border-color-front);
     text-align: center;
-    color: white;
+    color: var(--text-color-alt);
+    padding: 2px;
 }
 
-.card-back .inner-container table{
+.card table {
     width: 100%;
+    border-spacing: 0;
+}
+
+.card table.attributes {
+    font-size: var(--font-size-large);
+}
+
+.card table.abilities {
     text-align: center;
+    font-size: var(--font-size-large);
 }
 
-.card-back .inner-container .separator{
-    width: 100%;
-    min-height: 2px;
-    background-color: var(--border-color);
+.card table.abilities th {
+    font-family: var(--font-family-special);
+    font-size: var(--font-size-x-large);
+    font-weight: normal;
 }
 
-.card-back .inner-container table strong{
-    width: 100%;
-    text-align: center;
+/*SEPARATOR*/
+.card .separator{
+    margin-left: calc(var(--inner-margin) * -1);
+    margin-top: 1mm;
+    width: calc(100% + var(--inner-margin) * 2);
+    background-color: var(--border-color-front);
+    height: 0.5mm;
 }
 
-.card-back .footer {
-    font-family: 'Leviathan';
-    color: white;
+/*PROPERTIES & DESCRIPTIONS*/
+.card .properties{
+    margin-top: 1mm;
 }
 
-.card-back .footer .challange{
-    font-family: 'Leviathan';
-    font-size: 20pt;
+.card .traits p{
+    margin-top: 1mm;
+    font-size: var(--font-size-small);
 }
 
-.card-back .footer .source{
-    font-size: 8pt;
+.card .traits p strong{
+    font-size: var(--font-size-general);
 }
+
+.card .traits p.trait-title {
+    font-family: var(--font-family-special);
+    font-size: var(--font-size-x-large);
+}
+
+.card .traits .trait:last-child .separator {
+    display: none;
+}
+
+
+
