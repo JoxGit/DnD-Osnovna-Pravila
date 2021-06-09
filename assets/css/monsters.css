@@ -92,6 +92,7 @@ body {
     height: 128mm;
     border-radius: 5mm;
     background-color: var(--fill-color);
+    overflow: hidden;
 }
 
 .page-back .card-outer {

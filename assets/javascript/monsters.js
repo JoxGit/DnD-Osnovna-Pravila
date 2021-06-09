@@ -7,8 +7,9 @@
             let div = document.getElementById('container');
             let obj = JSON.parse(response.responseText);
             let i = 0;
-            let template = document.getElementById('template-small').content;
-            let cardsOnTemplate = 4;
+            let template = document.getElementById('template-big').content;
+            let templateTrait = document.getElementById('template-trait').content;
+            let cardsOnTemplate = 2;
             let cardsOnTemplateRemaining = 0;
             let templateInstance;
 
@@ -23,7 +24,6 @@
 
                 //spending one of cards on template
                 cardsOnTemplateRemaining--;
-
                 let currentCardOnTemplate = cardsOnTemplate - cardsOnTemplateRemaining
 
                 //populating back of page
@@ -90,13 +90,25 @@
                 //source
                 templateInstance.querySelector(`.page-front .card-${currentCardOnTemplate} .source`).innerHTML = monster.source.join(' ');
 
+                //traits
+                if (monster.descriptions) {
+                    monster.descriptions.forEach(element => {
+                        let trait = document.importNode(templateTrait, true);
+                        trait.querySelector(`.trait-title`).innerHTML = element.label ? element.label : "";
+                        trait.querySelector(`.trait-content`).innerHTML = element.value;
+
+                        templateInstance.querySelector(`.page-front .card-${currentCardOnTemplate} .traits`).appendChild(trait);
+                    });
+                }
+                
+
                 if(cardsOnTemplateRemaining == 0){
                     //add page to document
                     div.appendChild(templateInstance);
                 }
 
                 i++;
-                if (i > 25) {
+                if (i > 6) {
                     break;
                 }
             };
