@@ -16,7 +16,7 @@
 
     function load(){
         document.getElementById('fieldMessage').innerHTML = ''
-        ajax('GET', 'https://raw.githubusercontent.com/JoxGit/DnD-Osnovna-Pravila/main/monsters.json', [], '', parseMonstersJson);
+        ajax('GET', 'https://joxgit.github.io/DnD-Osnovna-Pravila/monsters.json', [], '', parseMonstersJson);
     }
 
     function generate(){
