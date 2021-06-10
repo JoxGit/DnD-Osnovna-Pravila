@@ -37,13 +37,34 @@ body {
     background-color: gray;
 }
 
+@media only screen {
+    #container {
+        width: 210mm;
+        margin: 0 auto;
+    }
+
+    .page{
+        margin-top: 5mm;
+    }
+
+    #controls{
+        display: block;
+    }
+}
+
+@media only print {
+    #controls{
+        display: none;
+    }
+}
+
 .hide {
     display: none;
 }
 
 /*PAGE*/
 
-.page{
+.page {
     width: 210mm;
     height: 297mm;
     position: relative;
@@ -51,7 +72,8 @@ body {
     font-family: var(--font-family-general);
     font-size: var(--font-size-general);
     page-break-after: always;
-    line-height: 1;
+    line-height: 1;    
+    text-align: justify;
 }
 
 .page p {
@@ -99,6 +121,7 @@ body {
     height: 138mm;
     border-radius: 5mm;
     background-color: var(--fill-color);
+    overflow: hidden;
 }
 
 .card-inner {
@@ -183,7 +206,7 @@ body {
 
 /*STATS*/
 
-.card .info{
+.card .info {
     margin-left: calc(var(--inner-margin) * -1);
     width: calc(100% + var(--inner-margin) * 2);
     background-color: var(--border-color-front);
@@ -213,7 +236,7 @@ body {
 }
 
 /*SEPARATOR*/
-.card .separator{
+.card .separator {
     margin-left: calc(var(--inner-margin) * -1);
     margin-top: 1mm;
     width: calc(100% + var(--inner-margin) * 2);
@@ -222,22 +245,31 @@ body {
 }
 
 /*PROPERTIES & DESCRIPTIONS*/
-.card .properties{
+.card .properties {
     margin-top: 1mm;
 }
 
-.card .traits p{
+.card .traits p {
     margin-top: 1mm;
     font-size: var(--font-size-small);
+    break-inside: avoid;
 }
 
-.card .traits p strong{
+.card.big .traits p {
+    padding-top: 0.5mm;
+}
+
+.card .traits p strong {
     font-size: var(--font-size-general);
 }
 
 .card .traits p.trait-title {
     font-family: var(--font-family-special);
     font-size: var(--font-size-x-large);
+}
+
+.card.big .trait {
+    margin-top: 1mm;
 }
 
 .card .traits .trait:last-child .separator {
