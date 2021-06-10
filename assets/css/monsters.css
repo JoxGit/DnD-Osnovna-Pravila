@@ -14,8 +14,8 @@
 }
 
 :root {
-    --border-color-front: red;
-    --border-color-back: blue;
+    --border-color-front: #e22f28;
+    --border-color-back: #e22f28;
     --fill-color: white;
     --text-color: black;
     --text-color-alt: white;

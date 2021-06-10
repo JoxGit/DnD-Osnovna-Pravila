@@ -94,11 +94,11 @@
                 //populating front of page
                 templateInstance.querySelector(`.page-front .card-${currentCardOnTemplate} .name`).innerHTML = monster.name;
                 //info
-                templateInstance.querySelector(`.page-front .card-${currentCardOnTemplate} .info`).innerHTML = `${monster.size} ${monster.type}, ${monster.alignament}`;
+                templateInstance.querySelector(`.page-front .card-${currentCardOnTemplate} .info`).innerHTML = `${monster.size} ${monster.type}${monster.tags.length > 0 ? ` (${monster.tags.join(' ')})` : '' }, ${monster.alignament}`;
                 //attributes
-                templateInstance.querySelector(`.page-front .card-${currentCardOnTemplate} .ac`).innerHTML = `${monster.attributes.ac[0]} (${monster.attributes.ac[1]})`;
+                templateInstance.querySelector(`.page-front .card-${currentCardOnTemplate} .ac`).innerHTML = `${monster.attributes.ac[0]} ${monster.attributes.ac[1] ? `(${monster.attributes.ac[1]})` : ''}`;
                 templateInstance.querySelector(`.page-front .card-${currentCardOnTemplate} .hp`).innerHTML = `${monster.attributes.hp[0]} (${monster.attributes.hp[1]})`;
-                templateInstance.querySelector(`.page-front .card-${currentCardOnTemplate} .speed`).innerHTML = `${monster.attributes.speed.value}, ${monster.attributes.speed.extra.map(el => el.join(' ')).join(', ')}`;
+                templateInstance.querySelector(`.page-front .card-${currentCardOnTemplate} .speed`).innerHTML = `${monster.attributes.speed.value}${monster.attributes.speed.extra.length > 0 ? `, ${monster.attributes.speed.extra.map(el => el.join(' ')).join(', ')}` : ''}`;
                 //abbilities
                 templateInstance.querySelector(`.page-front .card-${currentCardOnTemplate} .str`).innerHTML = `${monster.abilities.str[1] >= 0 ? '+' : ''}${monster.abilities.str[1]}`;
                 templateInstance.querySelector(`.page-front .card-${currentCardOnTemplate} .dex`).innerHTML = `${monster.abilities.dex[1] >= 0 ? '+' : ''}${monster.abilities.dex[1]}`;
