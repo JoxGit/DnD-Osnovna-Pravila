@@ -9,6 +9,7 @@
     --fill-color: white;
     --text-color: black;
     --text-color-alt: white;
+    --cut-color: #ff5f5f;
     --inner-margin: 2mm;
     --font-family-general: 'Times New Roman', Times, serif;
     --font-size-general: 10pt;
@@ -101,7 +102,7 @@ body {
 }
 
 .page-front .card-outer {
-    height: 128mm;
+    height: 133mm;
     border-radius: 5mm;
     background-color: var(--fill-color);
     overflow: hidden;
@@ -141,7 +142,6 @@ body {
 .card .footer{
     height: 10mm;
     margin: 0 var(--inner-margin);
-    /*background-color: blue;*/
     color: var(--text-color-alt);
 }
 
@@ -163,6 +163,48 @@ body {
     column-count: 2;
     column-fill: balance;
 }
+
+.card.big .footer p.source { 
+    padding-top: 1.5mm;
+}
+
+/*CUT HERE*/
+ .cut-here-left {
+    width: 5px;
+    height: 1px;
+    background-color: var(--cut-color);
+    position: absolute;
+    top: 148.5mm;
+    left: 0mm;
+}
+
+.cut-here-right {
+    width: 5px;
+    height: 1px;
+    background-color: var(--cut-color);
+    position: absolute;
+    top: 148.5mm;
+    right: 0mm
+}
+
+.cut-here-top {
+    width: 1px;
+    height: 5px;
+    background-color: var(--cut-color);
+    position: absolute;
+    left: 105mm;
+    top: 0mm;
+}
+
+.cut-here-bottom {
+    width: 1px;
+    height: 5px;
+    background-color: var(--cut-color);
+    position: absolute;
+    left: 105mm;
+    bottom:0mm;
+}
+
 
 /*PICTURE*/
 
