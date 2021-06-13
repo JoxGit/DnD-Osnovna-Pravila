@@ -1,12 +1,4 @@
-@font-face {
-    font-family: 'Leviathan';
-    src: url('/assets/fonts/Leviathan.ttf.woff') format('woff'),
-        url('/assets/fonts/Leviathan.ttf.svg#Leviathan') format('svg'),
-        url('/assets/fonts/Leviathan.ttf.eot'),
-        url('/assets/fonts/Leviathan.ttf.eot?#iefix') format('embedded-opentype');
-    font-weight: normal;
-    font-style: normal;
-}
+
 
 @page {
     size: A4 portrait;
